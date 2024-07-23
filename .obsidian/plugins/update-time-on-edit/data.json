@@ -1,0 +1,28 @@
+{
+  "dateFormat": "yyyy-MM-dd'T'HH:mm",
+  "enableCreateTime": true,
+  "headerUpdated": "updated",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 1,
+  "ignoreGlobalFolder": [],
+  "ignoreCreatedFolder": [],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "1_Projects/Burgerput/개발문서/개발문서.md": "4618656501391364278b86363eaab469cfa54a44ab0566bc4e16dc716594050b",
+    "1_Projects/Burgerput/Burgerput.md": "842070b2a6d5ea69dd6d51fc79974026d38b8a70749612996891d0f5b080e9d4",
+    "Templates/Memo.md": "32cf5d9e063239acbe37f7bcef7abd229c6c75e1fadff476a4262c6f231d0fc1",
+    "Templates/TIL.md": "a2b6183c4245e374f6c5bc52351cca4e2a1568092ef507660a7dd81cd0aa7a4a",
+    "Templates/devlop.md": "1543911ee2b34b098af84555688ce4f6057ab95cf5df65e8501ad2aa5998ab42",
+    "Templates/Todo.md": "7656d980f89e258a2d523c21dc48781451c9f35d8e2a1dc7f360208a29b0a9bb",
+    "HOW TO.md": "55e6034daf0bbc841cddc4da5d40f70a5f568f0a763d948c431c8bb2c617c902",
+    "6_Todo/TODO 20240722.md": "2a422d6e0596a04e20cf0a6497458d04f01e51b3d5871ce2f136d06f7e3650cf",
+    "2_Areas/취업준비/제로베이스 이력서 내용.md": "0b33bfa0041389074e6abdd2bd9c4c1095cfc3f526404e3ee3790573ccc4532a",
+    "2_Areas/취업준비/2025년 취업 다 개패버리기/2025년 취업 다 개패버리기.md": "5762c45a83d7b8c5562993c8ebd41510bc0fea370e6206052be28502b71d4d1a",
+    "5_Memo/10분의 중요성.md": "38342acdd66bcb3877532ff224786203436fa5718dfc9b0dea0cf0a92956c9d2",
+    "5_Memo/얼굴소멸 화장방법.md": "370817bd1f78de219521ad524584e642f8ca679e70faf315d16d44bb3fea3051",
+    "5_Memo/이력서 작성하는법.md": "40d25271fe640bab1d344dec3b3928c5138947862b5aeaaea1e02bbd1566fa77",
+    "7_TIL/99클럽 코테 스터디 1일차 TIL.md": "eb17ef1c2db91ec000648f86229d0523a293ee709e1dcd5c8ed4800dd00303e3",
+    "5_Memo/C++과 이진검색 트리.md": "8be8f4c74d8ec922902e542ee1b7b06d62c5aee4d9b6e11064fd590408ab4051",
+    "5_Memo/Spring Bean과 전역변수 사용 이슈.md": "d20c776c03ef7f0ebb6d1ac692acd6a06d820eda34248f1663e2ed3d030cca6d"
+  }
+}

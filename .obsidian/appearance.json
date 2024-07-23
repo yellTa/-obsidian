@@ -1,0 +1,14 @@
+{
+  "accentColor": "",
+  "cssTheme": "AnuPpuccin",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "color-extend",
+    "table",
+    "custom-table",
+    "default."
+  ],
+  "baseFontSizeAction": true,
+  "nativeMenus": false,
+  "theme": "obsidian"
+}

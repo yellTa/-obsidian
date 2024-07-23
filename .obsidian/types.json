@@ -1,0 +1,15 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "what?": "text",
+    "date": "text",
+    "CreateTime": "datetime",
+    "Last Edited Time": "datetime",
+    "progresses": "multitext",
+    "created": "text",
+    "post할까?": "checkbox",
+    "post됨": "checkbox"
+  }
+}

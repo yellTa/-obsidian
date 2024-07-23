@@ -1,0 +1,32 @@
+/* Dataview 테이블 스타일 조정 */
+.dataview .table-view-table {
+    width: 100% !important; 
+}
+table .dataview .table-view-tbody {
+    margin: 10px;
+    table-layout: fixed !important;
+    
+}
+.dataview .table-view-tbody tr{
+    background-color:#262626; 
+}
+
+.dataview .table-view-tbody tr td{
+    padding: 10px;
+/*    font-size: 12px;*/
+}
+/* 각 열의 너비 조정 */
+.dataview .table-view-tbody tr td:nth-child(1){
+    width: 60% !important;
+    
+}
+
+.dataview .table-view-tbody tr td:nth-child(2){
+    width: 20% !important;
+    
+}
+
+.dataview .table-view-tbody tr td:nth-child(3){
+    width: 20% !important;
+}
+
