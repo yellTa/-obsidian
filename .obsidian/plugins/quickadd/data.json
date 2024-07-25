@@ -1,11 +1,100 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "503c6260-5878-44c8-b659-0be1008ea9a6",
+      "name": "Memo",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Templates/Memo.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "5_Memo"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "548665a5-5f16-4fe6-bb66-61b1c4094ae0",
+      "name": "Develop",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Templates/devlop.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": true,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "77c18527-7306-47f3-b334-b86d3f88ced4",
+      "name": "TIL",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Templates/99클럽 코테 스터디 n일차 TIL +.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "99클럽 코테 스터디 n일차 TIL +"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "7_TIL"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    }
+  ],
   "macros": [],
   "inputPrompt": "single-line",
   "devMode": false,
   "templateFolderPath": "",
   "announceUpdates": true,
-  "version": "0.14.0",
+  "version": "1.11.0",
   "disableOnlineFeatures": true,
   "enableRibbonIcon": false,
   "ai": {
@@ -69,6 +158,6 @@
     "incrementFileNameSettingMoveToDefaultBehavior": true,
     "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
     "setVersionAfterUpdateModalRelease": true,
-    "addDefaultAIProviders": false
+    "addDefaultAIProviders": true
   }
 }

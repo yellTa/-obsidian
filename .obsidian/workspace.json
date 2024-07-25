@@ -4,39 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "861d92b35356dc37",
+        "id": "705dd254e6766d6a",
         "type": "tabs",
+        "dimension": 71.40600315955766,
         "children": [
           {
-            "id": "a43cf4a75b9f701e",
+            "id": "f05b7b991b6d7e0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Areas/취업준비/제로베이스 이력서 내용.md",
+                "file": "5_Memo/해쉬Table.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8ebe3ba2eba34692",
+            "id": "04aaf18d67eb3038",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "fd592b0baa02f05e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "7_TIL/99클럽 코테 스터디 4일차 TIL +2024-07-25 TIL.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "f14be39471e43ef7",
+        "type": "tabs",
+        "dimension": 28.593996840442337,
+        "children": [
+          {
+            "id": "e5e6b232ab99c26c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Areas/취업준비/제로베이스 이력서 내용.md",
+                "file": "7_TIL/99클럽 코테 스터디 4일차 TIL +2024-07-25 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Areas/취업준비/제로베이스 이력서 내용.md",
+                "file": "7_TIL/99클럽 코테 스터디 4일차 TIL +2024-07-25 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Areas/취업준비/제로베이스 이력서 내용.md"
+                "file": "7_TIL/99클럽 코테 스터디 4일차 TIL +2024-07-25 TIL.md"
               }
             }
           }
@@ -160,16 +174,50 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-projects:Open projects": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "15f39cac7766290c",
+  "active": "04aaf18d67eb3038",
   "lastOpenFiles": [
-    "Untitled.md",
-    "2_Areas/취업준비/제로베이스 이력서 내용.md",
-    "6_Todo/TODO 20240722.md",
-    "Templates/Todo.md",
-    "HOW TO.md",
-    "Templates/devlop.md"
+    "5_Memo/java  Map.md",
+    "5_Memo/해쉬Table.md",
+    "7_TIL/99클럽 코테 스터디 4일차 TIL +2024-07-25 TIL.md",
+    "5_Memo/10분의 중요성.md",
+    "5_Memo/Spring @Configuration.md",
+    "5_Memo/유클리드호제법.md",
+    "5_Memo/얼굴소멸 화장방법.md",
+    "2024-07-26.md",
+    "5_Memo/세그먼트.md",
+    "5_Memo/자바 한 줄로값 가져오기.md",
+    "5_Memo/상향식 사고와 하향식 사고.md",
+    "5_Memo/What is DOM.md",
+    "5_Memo/Selenium이 자원을 많이 사용하는 이유.md",
+    "5_Memo/임계영역.md",
+    "5_Memo/자바 소수점 자리 표시하는법.md",
+    "5_Memo/프로세스동기화.md",
+    "5_Memo/c++ Map의 사용법.md",
+    "5_Memo/lock.md",
+    "Templates/devlop.md",
+    "7_TIL/99클럽 코테 스터디 3일차 TIL +2024-07-24 TIL.md",
+    "5_Memo/@TestConfiguration.md",
+    "5_Memo/경쟁상태.md",
+    "Templates/Memo.md",
+    "Templates/99클럽 코테 스터디 n일차 TIL +.md",
+    "2_Areas/취업준비/20240724-제로베이스 이력서 내용.md",
+    "Untitled.canvas",
+    "7_TIL/99클럽 코테 스터디 2일차 TIL + 2024-07-24.md",
+    "images/Pasted image 20240725011220.png",
+    "images/Pasted image 20240725011111.png",
+    "images/Pasted image 20240725010854.png",
+    "images/Pasted image 20240723144809.png",
+    "2_Areas/취업준비/항해99 ㅗ",
+    "4_Archives/2_Areas/경험정리.pdf",
+    "4_Archives/2_Areas/항해 99클럽 2기 5ffe0954a2a843f2bb51f441d54c0997 3.html",
+    "4_Archives/2_Areas/항해 99클럽 2기 5ffe0954a2a843f2bb51f441d54c0997 2.html",
+    "4_Archives/2_Areas/항해 99클럽 2기 5ffe0954a2a843f2bb51f441d54c0997 1.html",
+    "4_Archives/2_Areas/항해 99클럽 2기 5ffe0954a2a843f2bb51f441d54c0997.html",
+    "4_Archives/2_Areas/항해_99클럽_2기.pdf"
   ]
 }

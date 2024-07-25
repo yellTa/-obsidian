@@ -8,7 +8,7 @@
     "CreateTime": "datetime",
     "Last Edited Time": "datetime",
     "progresses": "multitext",
-    "created": "text",
+    "created": "datetime",
     "post할까?": "checkbox",
     "post됨": "checkbox"
   }

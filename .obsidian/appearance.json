@@ -6,7 +6,8 @@
     "color-extend",
     "table",
     "custom-table",
-    "default."
+    "default.",
+    "custom-data-table"
   ],
   "baseFontSizeAction": true,
   "nativeMenus": false,

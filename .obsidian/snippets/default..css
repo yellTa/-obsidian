@@ -1,9 +1,13 @@
 
-.table-wrapper{
-    width: 100% !importnat;
-    
+/* 마크다운 편집기에서 표 셀에 자동 줄바꿈 적용 */
+.markdown-source-view.mod-cm6 .cm-table-widget .table-cell-wrapper {
+    white-space: pre-wrap !important;
+    overflow-wrap: break-word !important;
+    word-break: break-word !important;
 }
 
-.table-editor thead{
-    width: 100px !important;
+/* 마크다운 미리보기에서 표 셀에 자동 줄바꿈 적용 */
+.markdown-preview-view table {
+    table-layout: fixed;
+    width: 100%;
 }

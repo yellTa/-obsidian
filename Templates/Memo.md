@@ -1,14 +1,14 @@
 ---
 created: "{{date}} {{time}}"
-updated: 2024-07-21T23:18
+updated: 2024-07-24T01:37
 tags: 
 출처: 
 ---
 # Subject/Object 
 
-# 나의 생각
+# 설명
 
-# 참고 문헌
+# 참고
 
 # 연결 문서
 
