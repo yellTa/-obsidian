@@ -11,10 +11,24 @@
           {
             "id": "f05b7b991b6d7e0a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5_Memo/해쉬Table.md",
+                "file": "7_TIL/99클럽 코테 스터디 4일차 TIL +2024-07-25 TIL.md",
+                "mode": "source",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "a1bfcdff1ee56688",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5_Memo/알고리즘을 풀때 이렇게 풀자.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,14 +40,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 4일차 TIL +2024-07-25 TIL.md",
+                "file": "5_Memo/해쉬Table.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f14be39471e43ef7",
@@ -179,17 +192,19 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "04aaf18d67eb3038",
+  "active": "f05b7b991b6d7e0a",
   "lastOpenFiles": [
-    "5_Memo/java  Map.md",
     "5_Memo/해쉬Table.md",
     "7_TIL/99클럽 코테 스터디 4일차 TIL +2024-07-25 TIL.md",
+    "5_Memo/알고리즘을 풀때 이렇게 풀자.md",
+    "5_Memo/lock.md",
+    "5_Memo/java  Map.md",
+    "5_Memo/세그먼트.md",
     "5_Memo/10분의 중요성.md",
     "5_Memo/Spring @Configuration.md",
     "5_Memo/유클리드호제법.md",
     "5_Memo/얼굴소멸 화장방법.md",
     "2024-07-26.md",
-    "5_Memo/세그먼트.md",
     "5_Memo/자바 한 줄로값 가져오기.md",
     "5_Memo/상향식 사고와 하향식 사고.md",
     "5_Memo/What is DOM.md",
@@ -198,7 +213,6 @@
     "5_Memo/자바 소수점 자리 표시하는법.md",
     "5_Memo/프로세스동기화.md",
     "5_Memo/c++ Map의 사용법.md",
-    "5_Memo/lock.md",
     "Templates/devlop.md",
     "7_TIL/99클럽 코테 스터디 3일차 TIL +2024-07-24 TIL.md",
     "5_Memo/@TestConfiguration.md",
@@ -207,7 +221,6 @@
     "Templates/99클럽 코테 스터디 n일차 TIL +.md",
     "2_Areas/취업준비/20240724-제로베이스 이력서 내용.md",
     "Untitled.canvas",
-    "7_TIL/99클럽 코테 스터디 2일차 TIL + 2024-07-24.md",
     "images/Pasted image 20240725011220.png",
     "images/Pasted image 20240725011111.png",
     "images/Pasted image 20240725010854.png",
