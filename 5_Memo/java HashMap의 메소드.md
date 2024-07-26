@@ -1,6 +1,6 @@
 ---
 created: 2024-07-27 01:15
-updated: 2024-07-27T01:20
+updated: 2024-07-27T01:35
 tags: 
 ---
 # Java HashMap의 메소드들
@@ -30,7 +30,6 @@ key에 해당하는 값 삭제
 Set<String> set = Map.values();
 ```
 
-
 ## values()
 모든 값 또는 Collection 반환
 
@@ -52,4 +51,4 @@ for(Map.Entry<K,V> ent : map.entrySet()){
 # 출처/참고
 
 # 연결 문서
-
+[[java  Map]]
