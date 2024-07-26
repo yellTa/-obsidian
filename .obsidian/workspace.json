@@ -33,21 +33,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "04aaf18d67eb3038",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3_Resources/dddd.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "f14be39471e43ef7",
@@ -130,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_Resources/dddd.md",
+                "file": "5_Memo/알고리즘을 풀때 이렇게 풀자.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_Resources/dddd.md",
+                "file": "5_Memo/알고리즘을 풀때 이렇게 풀자.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_Resources/dddd.md"
+                "file": "5_Memo/알고리즘을 풀때 이렇게 풀자.md"
               }
             }
           }
@@ -193,10 +181,10 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "04aaf18d67eb3038",
+  "active": "a1bfcdff1ee56688",
   "lastOpenFiles": [
-    "6_Todo/haapy happy.md",
     "3_Resources/dddd.md",
+    "6_Todo/haapy happy.md",
     "6_Todo/여기에 만들면 어째되나 함 보자.md",
     "이 파일이 달라졌다고 바보야 제발.md",
     "2dfdfslksdfsdf아니 이거 다르다고.md",
