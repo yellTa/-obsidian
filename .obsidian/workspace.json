@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6_Todo/여기에 만들면 어째되나 함 보자.md",
+                "file": "3_Resources/dddd.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6_Todo/여기에 만들면 어째되나 함 보자.md",
+                "file": "3_Resources/dddd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6_Todo/여기에 만들면 어째되나 함 보자.md",
+                "file": "3_Resources/dddd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6_Todo/여기에 만들면 어째되나 함 보자.md"
+                "file": "3_Resources/dddd.md"
               }
             }
           }
@@ -195,8 +195,10 @@
   },
   "active": "04aaf18d67eb3038",
   "lastOpenFiles": [
-    "이 파일이 달라졌다고 바보야 제발.md",
+    "6_Todo/haapy happy.md",
+    "3_Resources/dddd.md",
     "6_Todo/여기에 만들면 어째되나 함 보자.md",
+    "이 파일이 달라졌다고 바보야 제발.md",
     "2dfdfslksdfsdf아니 이거 다르다고.md",
     "7_TIL/99클럽 코테 스터디 4일차 TIL +2024-07-25 TIL.md",
     "5_Memo/해쉬Table.md",
@@ -219,8 +221,6 @@
     "Templates/devlop.md",
     "7_TIL/99클럽 코테 스터디 3일차 TIL +2024-07-24 TIL.md",
     "5_Memo/@TestConfiguration.md",
-    "5_Memo/경쟁상태.md",
-    "Templates/Memo.md",
     "Untitled.canvas",
     "images/Pasted image 20240725011220.png",
     "images/Pasted image 20240725011111.png",
