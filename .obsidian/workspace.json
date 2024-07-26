@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5_Memo/알고리즘을 풀때 이렇게 풀자.md",
+                "file": "6_Todo/help.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5_Memo/알고리즘을 풀때 이렇게 풀자.md",
+                "file": "6_Todo/help.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5_Memo/알고리즘을 풀때 이렇게 풀자.md",
+                "file": "6_Todo/help.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5_Memo/알고리즘을 풀때 이렇게 풀자.md"
+                "file": "6_Todo/help.md"
               }
             }
           }
@@ -183,6 +183,8 @@
   },
   "active": "a1bfcdff1ee56688",
   "lastOpenFiles": [
+    "5_Memo/알고리즘을 풀때 이렇게 풀자.md",
+    "6_Todo/help.md",
     "3_Resources/dddd.md",
     "6_Todo/haapy happy.md",
     "6_Todo/여기에 만들면 어째되나 함 보자.md",
@@ -190,7 +192,6 @@
     "2dfdfslksdfsdf아니 이거 다르다고.md",
     "7_TIL/99클럽 코테 스터디 4일차 TIL +2024-07-25 TIL.md",
     "5_Memo/해쉬Table.md",
-    "5_Memo/알고리즘을 풀때 이렇게 풀자.md",
     "5_Memo/lock.md",
     "5_Memo/java  Map.md",
     "5_Memo/세그먼트.md",
@@ -208,7 +209,6 @@
     "5_Memo/c++ Map의 사용법.md",
     "Templates/devlop.md",
     "7_TIL/99클럽 코테 스터디 3일차 TIL +2024-07-24 TIL.md",
-    "5_Memo/@TestConfiguration.md",
     "Untitled.canvas",
     "images/Pasted image 20240725011220.png",
     "images/Pasted image 20240725011111.png",
