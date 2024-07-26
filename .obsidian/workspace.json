@@ -40,13 +40,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5_Memo/해쉬Table.md",
+                "file": "6_Todo/여기에 만들면 어째되나 함 보자.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "f14be39471e43ef7",
@@ -129,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 4일차 TIL +2024-07-25 TIL.md",
+                "file": "6_Todo/여기에 만들면 어째되나 함 보자.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 4일차 TIL +2024-07-25 TIL.md",
+                "file": "6_Todo/여기에 만들면 어째되나 함 보자.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 4일차 TIL +2024-07-25 TIL.md"
+                "file": "6_Todo/여기에 만들면 어째되나 함 보자.md"
               }
             }
           }
@@ -192,10 +193,13 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "f05b7b991b6d7e0a",
+  "active": "04aaf18d67eb3038",
   "lastOpenFiles": [
-    "5_Memo/해쉬Table.md",
+    "이 파일이 달라졌다고 바보야 제발.md",
+    "6_Todo/여기에 만들면 어째되나 함 보자.md",
+    "2dfdfslksdfsdf아니 이거 다르다고.md",
     "7_TIL/99클럽 코테 스터디 4일차 TIL +2024-07-25 TIL.md",
+    "5_Memo/해쉬Table.md",
     "5_Memo/알고리즘을 풀때 이렇게 풀자.md",
     "5_Memo/lock.md",
     "5_Memo/java  Map.md",
@@ -204,7 +208,6 @@
     "5_Memo/Spring @Configuration.md",
     "5_Memo/유클리드호제법.md",
     "5_Memo/얼굴소멸 화장방법.md",
-    "2024-07-26.md",
     "5_Memo/자바 한 줄로값 가져오기.md",
     "5_Memo/상향식 사고와 하향식 사고.md",
     "5_Memo/What is DOM.md",
@@ -218,8 +221,6 @@
     "5_Memo/@TestConfiguration.md",
     "5_Memo/경쟁상태.md",
     "Templates/Memo.md",
-    "Templates/99클럽 코테 스터디 n일차 TIL +.md",
-    "2_Areas/취업준비/20240724-제로베이스 이력서 내용.md",
     "Untitled.canvas",
     "images/Pasted image 20240725011220.png",
     "images/Pasted image 20240725011111.png",
