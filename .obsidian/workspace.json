@@ -6,7 +6,7 @@
       {
         "id": "705dd254e6766d6a",
         "type": "tabs",
-        "dimension": 71.40600315955766,
+        "dimension": 67.21491228070175,
         "children": [
           {
             "id": "f05b7b991b6d7e0a",
@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6_Todo/help.md",
+                "file": "5_Memo/알고리즘을 풀때 이렇게 풀자.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,7 +40,7 @@
       {
         "id": "f14be39471e43ef7",
         "type": "tabs",
-        "dimension": 28.593996840442337,
+        "dimension": 32.78508771929825,
         "children": [
           {
             "id": "e5e6b232ab99c26c",
@@ -118,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6_Todo/help.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6_Todo/help.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "6_Todo/help.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -181,7 +177,7 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "a1bfcdff1ee56688",
+  "active": "e5e6b232ab99c26c",
   "lastOpenFiles": [
     "5_Memo/알고리즘을 풀때 이렇게 풀자.md",
     "6_Todo/help.md",
