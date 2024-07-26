@@ -1,14 +1,13 @@
 ---
 created: "{{date}} {{time}}"
-updated: 2024-07-24T01:37
+updated: 2024-07-27T01:09
 tags: 
-출처: 
 ---
 # Subject/Object 
 
 # 설명
 
-# 참고
+# 출처/참고
 
 # 연결 문서
 
