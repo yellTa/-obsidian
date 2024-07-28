@@ -6,64 +6,51 @@
       {
         "id": "705dd254e6766d6a",
         "type": "tabs",
-        "dimension": 80.54474708171206,
+        "dimension": 59.04669260700389,
         "children": [
           {
-            "id": "2d68d4f557e2d24e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_TIL/99클럽 코테 스터디 6일차 TIL + 20240727.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "a77ced9daa049d53",
+            "id": "3225d66b8ee38aec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5_Memo/Java HashMap을 정렬하는 법.md",
+                "file": "5_Memo/원치않는 GET요청의 원인.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a735305636428936",
+            "id": "3120bfdfd9077ccd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5_Memo/Java Map.EntrySet이란.md",
+                "file": "5_Memo/웹 페이지 인덱싱.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "09693387589b2004",
+            "id": "1159ff9d0f555d93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5_Memo/Java CompareTo와 Compare함수의 차이.md",
+                "file": "5_Memo/트랜잭션.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "f14be39471e43ef7",
         "type": "tabs",
-        "dimension": 19.45525291828794,
+        "dimension": 40.95330739299611,
         "children": [
           {
             "id": "e5e6b232ab99c26c",
@@ -74,8 +61,17 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "2caed6827f1efab6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 6일차 TIL + 20240727.md",
+                "file": "5_Memo/트랜잭션.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 6일차 TIL + 20240727.md",
+                "file": "5_Memo/트랜잭션.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 6일차 TIL + 20240727.md"
+                "file": "5_Memo/트랜잭션.md"
               }
             }
           }
@@ -205,13 +201,18 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "e5e6b232ab99c26c",
+  "active": "1159ff9d0f555d93",
   "lastOpenFiles": [
+    "5_Memo/웹 페이지 인덱싱.md",
+    "5_Memo/트랜잭션.md",
+    "5_Memo/Java HashMap을 정렬하는 법.md",
+    "5_Memo/원치않는 GET요청의 원인.md",
+    "5_Memo/웹 크롤러.md",
+    "Templates/Memo.md",
     "7_TIL/99클럽 코테 스터디 6일차 TIL + 20240727.md",
     "images/58BCF502-5B22-4DF5-B22C-F929F619A1C3.jpeg",
     "5_Memo/Java Map.EntrySet이란.md",
     "5_Memo/Java CompareTo와 Compare함수의 차이.md",
-    "5_Memo/Java HashMap을 정렬하는 법.md",
     "5_Memo/비트연산자.md",
     "5_Memo/java HashMap의 메소드.md",
     "5_Memo/웹 브라우저의 요청과 응답.md",
@@ -222,7 +223,6 @@
     "Templates/99클럽 코테 스터디 n일차 TIL +.md",
     "5_Memo/java  Map.md",
     "5_Memo/java 내림차순 정렬.md",
-    "Templates/Memo.md",
     "5_Memo/java Arrays.sort와 Collections.sort의 차이.md",
     "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
     "Templates/Todo.md",
@@ -232,9 +232,6 @@
     "images/Pasted image 20240726233359.png",
     "images/Pasted image 20240726232926.png",
     "6_Todo/help.md",
-    "3_Resources/dddd.md",
-    "6_Todo/haapy happy.md",
-    "6_Todo/여기에 만들면 어째되나 함 보자.md",
     "Untitled.canvas",
     "images/Pasted image 20240725011220.png",
     "images/Pasted image 20240725011111.png",

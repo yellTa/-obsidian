@@ -1,9 +1,9 @@
 {
   "collapse-filter": false,
-  "search": "07-26",
+  "search": "",
   "showTags": true,
-  "showAttachments": true,
-  "hideUnresolved": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [],
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.131687242798356,
+  "scale": 0.18462326225858477,
   "close": true
 }
