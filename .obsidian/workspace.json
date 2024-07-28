@@ -141,6 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "7_TIL/99클럽 코테 스터디 6일차 TIL + 20240727.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "7_TIL/99클럽 코테 스터디 6일차 TIL + 20240727.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +180,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "7_TIL/99클럽 코테 스터디 6일차 TIL + 20240727.md"
+              }
             }
           }
         ]
