@@ -6,54 +6,31 @@
       {
         "id": "705dd254e6766d6a",
         "type": "tabs",
-        "dimension": 59.04669260700389,
+        "dimension": 50.87548638132296,
         "children": [
           {
-            "id": "3225d66b8ee38aec",
+            "id": "44e99d868a6e7e8f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5_Memo/원치않는 GET요청의 원인.md",
+                "file": "7_TIL/99클럽 코테 스터디 7일차 TIL +20240728.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "3120bfdfd9077ccd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5_Memo/웹 페이지 인덱싱.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1159ff9d0f555d93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5_Memo/트랜잭션.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "pinned": true
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "f14be39471e43ef7",
         "type": "tabs",
-        "dimension": 40.95330739299611,
+        "dimension": 49.12451361867704,
         "children": [
           {
-            "id": "e5e6b232ab99c26c",
+            "id": "2caed6827f1efab6",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -61,17 +38,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "2caed6827f1efab6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5_Memo/트랜잭션.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5_Memo/트랜잭션.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "5_Memo/트랜잭션.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -201,12 +165,21 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "1159ff9d0f555d93",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
-    "5_Memo/웹 페이지 인덱싱.md",
     "5_Memo/트랜잭션.md",
-    "5_Memo/Java HashMap을 정렬하는 법.md",
+    "5_Memo/웹 브라우저의 요청과 응답.md",
+    "5_Memo/java ArrayList정렬.md",
+    "7_TIL/99클럽 코테 스터디 7일차 TIL +20240728.md",
+    "Pasted image 20240729011853.png",
+    "Pasted image 20240729011846.png",
+    "Pasted image 20240729011824.png",
     "5_Memo/원치않는 GET요청의 원인.md",
+    "5_Memo/JPQL과 네이티브쿼리.md",
+    "5_Memo/@Modifying과 @Transactional.md",
+    "5_Memo/Spring @Transactional.md",
+    "5_Memo/Java HashMap을 정렬하는 법.md",
+    "5_Memo/웹 페이지 인덱싱.md",
     "5_Memo/웹 크롤러.md",
     "Templates/Memo.md",
     "7_TIL/99클럽 코테 스터디 6일차 TIL + 20240727.md",
@@ -215,7 +188,6 @@
     "5_Memo/Java CompareTo와 Compare함수의 차이.md",
     "5_Memo/비트연산자.md",
     "5_Memo/java HashMap의 메소드.md",
-    "5_Memo/웹 브라우저의 요청과 응답.md",
     "5_Memo/알고리즘을 풀때 이렇게 풀자.md",
     "7_TIL/j.md",
     "7_TIL/99클럽 코테 스터디 5일차 TIL + 20240727.md",
@@ -224,14 +196,8 @@
     "5_Memo/java  Map.md",
     "5_Memo/java 내림차순 정렬.md",
     "5_Memo/java Arrays.sort와 Collections.sort의 차이.md",
-    "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
-    "Templates/Todo.md",
-    "Templates/devlop.md",
-    "Untitled.md",
-    "2_Areas/취업준비/2025년 취업 다 개패버리기/2025년 취업 다 개패버리기.md",
     "images/Pasted image 20240726233359.png",
     "images/Pasted image 20240726232926.png",
-    "6_Todo/help.md",
     "Untitled.canvas",
     "images/Pasted image 20240725011220.png",
     "images/Pasted image 20240725011111.png",
