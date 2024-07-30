@@ -6,7 +6,7 @@
       {
         "id": "705dd254e6766d6a",
         "type": "tabs",
-        "dimension": 50.87548638132295,
+        "dimension": 17.004680187207487,
         "children": [
           {
             "id": "44e99d868a6e7e8f",
@@ -27,7 +27,7 @@
       {
         "id": "f14be39471e43ef7",
         "type": "tabs",
-        "dimension": 49.12451361867705,
+        "dimension": 82.99531981279252,
         "children": [
           {
             "id": "2caed6827f1efab6",
@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 8일차 TIL + 20240729.md",
+                "file": "2024-07-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 8일차 TIL + 20240729.md",
+                "file": "2024-07-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 8일차 TIL + 20240729.md",
+                "file": "2024-07-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 8일차 TIL + 20240729.md"
+                "file": "2024-07-30.md"
               }
             }
           }
@@ -194,13 +195,14 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "1533c71b102211df",
+  "active": "15f39cac7766290c",
   "lastOpenFiles": [
-    "HOW TO.md",
     "7_TIL/99클럽 코테 스터디 8일차 TIL + 20240729.md",
+    "2024-07-30.md",
+    "7_TIL/99클럽 코테 스터디 7일차 TIL +20240728.md",
+    "HOW TO.md",
     "9E57302B-F4FF-4EC9-B3F9-CCC526A0D940.jpeg",
     "5_Memo/java while문 사용시 주의사항.md",
-    "7_TIL/99클럽 코테 스터디 7일차 TIL +20240728.md",
     "5_Memo/java ArrayList정렬.md",
     "5_Memo/트랜잭션.md",
     "5_Memo/웹 브라우저의 요청과 응답.md",
@@ -226,7 +228,6 @@
     "7_TIL/99클럽 코테 스터디 5일차 TIL + 20240727.md",
     "7_TIL/99클럽 코테 스터디 4일차 TIL +2024-07-25 TIL.md",
     "Templates/99클럽 코테 스터디 n일차 TIL +.md",
-    "5_Memo/java  Map.md",
     "images/Pasted image 20240726233359.png",
     "images/Pasted image 20240726232926.png",
     "Untitled.canvas",
