@@ -6,7 +6,7 @@
       {
         "id": "705dd254e6766d6a",
         "type": "tabs",
-        "dimension": 66.30265210608425,
+        "dimension": 51.014040561622465,
         "children": [
           {
             "id": "44e99d868a6e7e8f",
@@ -27,7 +27,7 @@
       {
         "id": "f14be39471e43ef7",
         "type": "tabs",
-        "dimension": 33.697347893915754,
+        "dimension": 48.985959438377535,
         "children": [
           {
             "id": "2caed6827f1efab6",
@@ -40,24 +40,24 @@
             }
           },
           {
-            "id": "1e58257f2b13fa07",
+            "id": "537c9964213ab941",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5_Memo/java while문 사용시 주의사항.md",
+                "file": "5_Memo/웹 스크레이퍼.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1533c71b102211df",
+            "id": "f45a785975c8be84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 1일차 TIL + 2024-07-23.md",
+                "file": "5_Memo/웹 스크레이퍼.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 1일차 TIL + 2024-07-23.md",
+                "file": "5_Memo/웹 스크레이퍼.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 1일차 TIL + 2024-07-23.md",
+                "file": "5_Memo/웹 스크레이퍼.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 1일차 TIL + 2024-07-23.md"
+                "file": "5_Memo/웹 스크레이퍼.md"
               }
             }
           }
@@ -195,14 +194,20 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "1533c71b102211df",
+  "active": "f45a785975c8be84",
   "lastOpenFiles": [
+    "5_Memo/웹 크롤러.md",
+    "5_Memo/java while문 사용시 주의사항.md",
+    "5_Memo/웹 스크레이퍼.md",
+    "스크레이퍼.md",
+    "웹 스크레이퍼.md",
+    "5_Memo/웹 페이지 인덱싱.md",
+    "7_TIL/99클럽 코테 스터디 1일차 TIL + 2024-07-23.md",
     "2024-07-30.md",
     "7_TIL/99클럽 코테 스터디 7일차 TIL +20240728.md",
     "7_TIL/99클럽 코테 스터디 8일차 TIL + 20240729.md",
     "HOW TO.md",
-    "9E57302B-F4FF-4EC9-B3F9-CCC526A0D940.jpeg",
-    "5_Memo/java while문 사용시 주의사항.md",
+    "images/9E57302B-F4FF-4EC9-B3F9-CCC526A0D940.jpeg",
     "5_Memo/java ArrayList정렬.md",
     "5_Memo/트랜잭션.md",
     "5_Memo/웹 브라우저의 요청과 응답.md",
@@ -214,8 +219,6 @@
     "5_Memo/@Modifying과 @Transactional.md",
     "5_Memo/Spring @Transactional.md",
     "5_Memo/Java HashMap을 정렬하는 법.md",
-    "5_Memo/웹 페이지 인덱싱.md",
-    "5_Memo/웹 크롤러.md",
     "Templates/Memo.md",
     "7_TIL/99클럽 코테 스터디 6일차 TIL + 20240727.md",
     "images/58BCF502-5B22-4DF5-B22C-F929F619A1C3.jpeg",
@@ -224,10 +227,6 @@
     "5_Memo/비트연산자.md",
     "5_Memo/java HashMap의 메소드.md",
     "5_Memo/알고리즘을 풀때 이렇게 풀자.md",
-    "7_TIL/j.md",
-    "7_TIL/99클럽 코테 스터디 5일차 TIL + 20240727.md",
-    "7_TIL/99클럽 코테 스터디 4일차 TIL +2024-07-25 TIL.md",
-    "Templates/99클럽 코테 스터디 n일차 TIL +.md",
     "images/Pasted image 20240726233359.png",
     "images/Pasted image 20240726232926.png",
     "Untitled.canvas",
