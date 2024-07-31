@@ -1,6 +1,7 @@
 /* Dataview 테이블 스타일 조정 */
 .dataview .table-view-table {
     width: 100% !important; 
+    
 }
 table .dataview .table-view-tbody {
     margin: 10px;

@@ -4,30 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "705dd254e6766d6a",
-        "type": "tabs",
-        "dimension": 51.014040561622465,
-        "children": [
-          {
-            "id": "44e99d868a6e7e8f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_TIL/99클럽 코테 스터디 7일차 TIL +20240728.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          }
-        ]
-      },
-      {
         "id": "f14be39471e43ef7",
         "type": "tabs",
-        "dimension": 48.985959438377535,
         "children": [
           {
             "id": "2caed6827f1efab6",
@@ -40,31 +18,19 @@
             }
           },
           {
-            "id": "537c9964213ab941",
+            "id": "22b5d6112b181355",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5_Memo/웹 스크레이퍼.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f45a785975c8be84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5_Memo/웹 스크레이퍼.md",
+                "file": "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5_Memo/웹 스크레이퍼.md",
+                "file": "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5_Memo/웹 스크레이퍼.md",
+                "file": "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5_Memo/웹 스크레이퍼.md"
+                "file": "1_Projects/99클럽코테 3기/99클럽코테 3기.md"
               }
             }
           }
@@ -194,11 +160,11 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "f45a785975c8be84",
+  "active": "22b5d6112b181355",
   "lastOpenFiles": [
+    "5_Memo/웹 스크레이퍼.md",
     "5_Memo/웹 크롤러.md",
     "5_Memo/java while문 사용시 주의사항.md",
-    "5_Memo/웹 스크레이퍼.md",
     "스크레이퍼.md",
     "웹 스크레이퍼.md",
     "5_Memo/웹 페이지 인덱싱.md",

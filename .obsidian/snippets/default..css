@@ -11,3 +11,6 @@
     table-layout: fixed;
     width: 100%;
 }
+.table-wrapper a{
+    color: aliceblue;
+}
