@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "07-29",
+  "search": "07-31",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -18,5 +18,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.3628873693012188,
-  "close": true
+  "close": false
 }

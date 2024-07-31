@@ -8,6 +8,50 @@
         "type": "tabs",
         "children": [
           {
+            "id": "884af2543c4d2995",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7_TIL/99클럽 코테 스터디 9일차 TIL + 20240731.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "5994c0aa7039b225",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5_Memo/java PriorityQueue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9bd1ab0efba6005c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5_Memo/스프링 빈.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f2c09484126a8fb8",
+        "type": "tabs",
+        "children": [
+          {
             "id": "2caed6827f1efab6",
             "type": "leaf",
             "pinned": true,
@@ -16,21 +60,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "22b5d6112b181355",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +127,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +143,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +164,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1_Projects/99클럽코테 3기/99클럽코테 3기.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,8 +187,14 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "22b5d6112b181355",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
+    "7_TIL/99클럽 코테 스터디 9일차 TIL + 20240731.md",
+    "5_Memo/java PriorityQueue.md",
+    "5_Memo/스프링 빈.md",
+    "5_Memo/자바와 JUnit Test.md",
+    "5_Memo/MVC모델.md",
+    "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
     "5_Memo/웹 스크레이퍼.md",
     "5_Memo/웹 크롤러.md",
     "5_Memo/java while문 사용시 주의사항.md",
@@ -186,13 +219,7 @@
     "5_Memo/Spring @Transactional.md",
     "5_Memo/Java HashMap을 정렬하는 법.md",
     "Templates/Memo.md",
-    "7_TIL/99클럽 코테 스터디 6일차 TIL + 20240727.md",
     "images/58BCF502-5B22-4DF5-B22C-F929F619A1C3.jpeg",
-    "5_Memo/Java Map.EntrySet이란.md",
-    "5_Memo/Java CompareTo와 Compare함수의 차이.md",
-    "5_Memo/비트연산자.md",
-    "5_Memo/java HashMap의 메소드.md",
-    "5_Memo/알고리즘을 풀때 이렇게 풀자.md",
     "images/Pasted image 20240726233359.png",
     "images/Pasted image 20240726232926.png",
     "Untitled.canvas",
