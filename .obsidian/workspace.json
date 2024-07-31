@@ -6,7 +6,7 @@
       {
         "id": "705dd254e6766d6a",
         "type": "tabs",
-        "dimension": 17.004680187207487,
+        "dimension": 66.30265210608425,
         "children": [
           {
             "id": "44e99d868a6e7e8f",
@@ -27,7 +27,7 @@
       {
         "id": "f14be39471e43ef7",
         "type": "tabs",
-        "dimension": 82.99531981279252,
+        "dimension": 33.697347893915754,
         "children": [
           {
             "id": "2caed6827f1efab6",
@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-30.md",
+                "file": "7_TIL/99클럽 코테 스터디 1일차 TIL + 2024-07-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 7일차 TIL +20240728.md",
+                "file": "7_TIL/99클럽 코테 스터디 1일차 TIL + 2024-07-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 7일차 TIL +20240728.md",
+                "file": "7_TIL/99클럽 코테 스터디 1일차 TIL + 2024-07-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 7일차 TIL +20240728.md"
+                "file": "7_TIL/99클럽 코테 스터디 1일차 TIL + 2024-07-23.md"
               }
             }
           }
@@ -195,11 +195,11 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "15f39cac7766290c",
+  "active": "1533c71b102211df",
   "lastOpenFiles": [
-    "7_TIL/99클럽 코테 스터디 8일차 TIL + 20240729.md",
     "2024-07-30.md",
     "7_TIL/99클럽 코테 스터디 7일차 TIL +20240728.md",
+    "7_TIL/99클럽 코테 스터디 8일차 TIL + 20240729.md",
     "HOW TO.md",
     "9E57302B-F4FF-4EC9-B3F9-CCC526A0D940.jpeg",
     "5_Memo/java while문 사용시 주의사항.md",
