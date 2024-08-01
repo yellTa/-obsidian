@@ -1,6 +1,6 @@
 ---
 created: 2024-07-29 01:01
-updated: 2024-07-29T01:02
+updated: 2024-08-01T12:52
 tags:
   - java
   - algorithm
@@ -11,7 +11,7 @@ tags:
 코테 문제 풀다가 나온 정렬부분 
 [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)
 
-```
+```java
 
         // 시간 순으로 정렬하기
         Arrays.sort(plans, (a, b) -> {
