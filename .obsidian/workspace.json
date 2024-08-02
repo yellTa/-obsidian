@@ -6,7 +6,7 @@
       {
         "id": "f14be39471e43ef7",
         "type": "tabs",
-        "dimension": 65.85623678646935,
+        "dimension": 76.74418604651163,
         "children": [
           {
             "id": "884af2543c4d2995",
@@ -28,19 +28,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Areas/취업준비/2025년 취업 다 개패버리기/2025년 취업 다 개패버리기.md",
+                "file": "1_Projects/Burgerput/회의록/회의록.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a14760c41cd94a50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Projects/Burgerput/개발문서/개발문서.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "828964158082d3b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "f2c09484126a8fb8",
         "type": "tabs",
-        "dimension": 34.143763213530654,
+        "dimension": 23.25581395348837,
         "children": [
           {
             "id": "2caed6827f1efab6",
@@ -81,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "취업난",
+                "query": "youtube",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,8 +122,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Areas/취업준비/2025년 취업 다 개패버리기/2025년 취업 다 개패버리기.md",
+                "file": "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Areas/취업준비/2025년 취업 다 개패버리기/2025년 취업 다 개패버리기.md",
+                "file": "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Areas/취업준비/2025년 취업 다 개패버리기/2025년 취업 다 개패버리기.md"
+                "file": "1_Projects/99클럽코테 3기/99클럽코테 3기.md"
               }
             }
           }
@@ -181,57 +204,58 @@
       "obsidian-projects:Open projects": false,
       "quickadd:QuickAdd": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
-      "obsidian-read-it-later:ReadItLater: Save clipboard": false
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "e89c0f863fe16d04",
+  "active": "828964158082d3b1",
   "lastOpenFiles": [
-    "ReadItLater Inbox/Youtube - 개발자 면접 시크릿 노하우  이수진  개발자  면접  기술면접  취업준비  네카라쿠배  IT대기업  정통 대기업  자소서  꿀팁  이벤트  취준생  대학생.md",
-    "2_Areas/취업준비/2025년 취업 다 개패버리기/2025년 취업 다 개패버리기.md",
-    "ReadItLater Inbox/Youtube - N사 면접관이 생각하는 이런 개발자는 안 뽑아요.md",
-    "ReadItLater Inbox/Article 2024-08-02 23-09-55.md",
+    "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
+    "1_Projects/Burgerput/개발문서/개발문서.md",
+    "1_Projects/Burgerput/개발문서/AWS Files/AWS Files.md",
+    "1_Projects/Burgerput/개발문서/📗Ubuntu(Linux)에서 mysql 설정 및 구동.md",
+    "1_Projects/Burgerput/개발문서/📗AWS - jar 파일 배포.md",
+    "1_Projects/Burgerput/개발문서/📙Add min max column for custom_ table.md",
+    "images/Pasted image 20240803000325.png",
+    "images/Pasted image 20240803000314.png",
+    "1_Projects/Burgerput/Burgerput.md",
+    "1_Projects/Burgerput/개발문서/📗MySQL 대소문자 구문.md",
+    "1_Projects/Burgerput/개발문서/AWS Files/aws Putty로 연결하기.md",
+    "1_Projects/Burgerput/개발문서/AWS Files/WinSCP를 이용해서 AWS FTP접속하기.md",
+    "images/Pasted image 20240802235411.png",
+    "images/Pasted image 20240802235403.png",
+    "images/Pasted image 20240802235348.png",
+    "images/Pasted image 20240802235339.png",
+    "images/Pasted image 20240802235302.png",
+    "images/Pasted image 20240802235245.png",
+    "images/Pasted image 20240802235239.png",
+    "images/Pasted image 20240802235231.png",
+    "1_Projects/Burgerput/개발문서/AWS Files/aws 탄력적 IP and ssh.md",
+    "1_Projects/Burgerput/개발문서/AWS Files/aws생성하기.md",
+    "images/ytelltaAws.pem",
+    "1_Projects/Burgerput/개발문서/AWS Files",
+    "1_Projects/Burgerput/트러블슈팅/트러블슈팅.md",
+    "1_Projects/Burgerput/회의록/회의록.md",
+    "1_Projects/Burgerput/회의록/sortspec.md.md",
+    "1_Projects/Burgerput/회의록/5월 테스트 회의록.md",
+    "1_Projects/Burgerput/회의록/7월 16일.md",
+    "1_Projects/Burgerput/회의록/7월 30일 회의록.md",
+    "1_Projects/Burgerput/회의록/7월26일 회의록.md",
+    "1_Projects/Burgerput/회의록/7월9일 회의록.md",
+    "1_Projects/Burgerput/회의록/7월2일 회의록.md",
+    "1_Projects/Burgerput/회의록/6월 20일 회의록.md",
+    "1_Projects/Burgerput/회의록/6월 14일 회의록.md",
+    "1_Projects/Burgerput/회의록/6월7일 회의록.md",
+    "1_Projects/Burgerput/회의록/5월 30일 회의록.md",
+    "1_Projects/Burgerput/회의록/5월 22일 회의록.md",
+    "2_Areas/제로베이스 대기업 취업 특별반",
     "ReadItLater Inbox",
-    "images/Pasted image 20240802230438.png",
-    "2_Areas/취업준비/2025년 취업 다 개패버리기/상담받은내용!.md",
-    "2_Areas/취업준비/2025년 취업 다 개패버리기/떨어진사유/Burgerput - 진짜 경쟁력있다 생각해❔.md",
-    "2_Areas/취업준비/2025년 취업 다 개패버리기/떨어진사유/내가 2024년 공채 네이버에 보여준 나의 모습.md",
     "preview 1.mhtml",
     "preview.mhtml",
-    "2_Areas/취업준비/2025년 취업 다 개패버리기/떨어진사유/떨어진사유.md",
-    "1_Projects/Burgerput/개발문서/개발문서.md",
-    "2_Areas/취업준비/2025년 취업 다 개패버리기/나 자신에 관한 고찰.md",
     "2_Areas/취업준비/2025년 취업 다 개패버리기/떨어진사유",
-    "1_Projects/Burgerput/Burgerput.md",
-    "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
-    "images/Pasted image 20240802225702.png",
-    "images/Pasted image 20240802225650.png",
-    "images/Pasted image 20240802225415.png",
-    "2_Areas/취업준비/20240724-제로베이스 이력서 내용.md",
-    "7_TIL/99클럽 코테 스터디 10일차 TIL + 20240801.md",
-    "5_Memo/우선순위 큐.md",
-    "5_Memo/ArrayList와 LinkedList의차이.md",
-    "5_Memo/Stream과 for문 사용속도 차이.md",
-    "5_Memo/c++ priority_queue사용법.md",
-    "5_Memo/java ArrayList정렬.md",
-    "7_TIL/99클럽 코테 스터디 9일차 TIL + 20240731.md",
-    "5_Memo/java PriorityQueue.md",
-    "5_Memo/스프링 빈.md",
-    "5_Memo/자바와 JUnit Test.md",
-    "5_Memo/MVC모델.md",
-    "5_Memo/웹 스크레이퍼.md",
-    "5_Memo/웹 크롤러.md",
-    "images/9E57302B-F4FF-4EC9-B3F9-CCC526A0D940.jpeg",
-    "images/Pasted image 20240729011853.png",
-    "images/Pasted image 20240729011846.png",
-    "images/Pasted image 20240729011824.png",
-    "images/58BCF502-5B22-4DF5-B22C-F929F619A1C3.jpeg",
-    "images/Pasted image 20240726233359.png",
     "Untitled.canvas",
     "2_Areas/취업준비/항해99 ㅗ",
     "4_Archives/2_Areas/경험정리.pdf",
-    "4_Archives/2_Areas/항해 99클럽 2기 5ffe0954a2a843f2bb51f441d54c0997 3.html",
-    "4_Archives/2_Areas/항해 99클럽 2기 5ffe0954a2a843f2bb51f441d54c0997 2.html",
-    "4_Archives/2_Areas/항해 99클럽 2기 5ffe0954a2a843f2bb51f441d54c0997 1.html",
-    "4_Archives/2_Areas/항해 99클럽 2기 5ffe0954a2a843f2bb51f441d54c0997.html"
+    "4_Archives/2_Areas/항해 99클럽 2기 5ffe0954a2a843f2bb51f441d54c0997 3.html"
   ]
 }

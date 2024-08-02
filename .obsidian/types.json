@@ -10,6 +10,7 @@
     "progresses": "multitext",
     "created": "datetime",
     "post할까?": "checkbox",
-    "post됨": "checkbox"
+    "post됨": "checkbox",
+    "progress": "multitext"
   }
 }

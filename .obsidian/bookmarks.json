@@ -1,0 +1,55 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1722609664046,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1722609681791,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1722609681791,
+              "items": [
+                {
+                  "type": "group",
+                  "ctime": 1722609681791,
+                  "items": [],
+                  "title": "개발문서"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1722609681791,
+                  "items": [],
+                  "title": "유지보수"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1722609681791,
+                  "items": [],
+                  "title": "트러블슈팅"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1722609681791,
+                  "items": [],
+                  "title": "회의록"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1722609681791,
+                  "path": "1_Projects/Burgerput/Burgerput.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "\\\\Burgerput"
+            }
+          ],
+          "title": "1_Projects"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}

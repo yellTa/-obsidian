@@ -1,6 +1,52 @@
 {
   "version": 2,
-  "projects": [],
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "1_Projects/Burgerput/개발문서",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "created",
+              "progress",
+              "tags",
+              "path",
+              "updated",
+              "출처"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "fc57d730-d951-4f04-abb7-8dad8fbfa1a1",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "e48bdb8c-17d2-4e6f-94a1-1b2709d169b2",
+      "name": "Burgerput개발문서"
+    }
+  ],
   "archives": [],
   "preferences": {
     "projectSizeLimit": 1000,

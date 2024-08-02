@@ -4,5 +4,6 @@
   "showLineNumber": false,
   "livePreview": true,
   "strictLineBreaks": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "images"
 }
