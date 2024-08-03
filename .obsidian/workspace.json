@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5_Memo/기업분석.md",
+                "file": "4_Archives/1_Projects/99클럽코테 2기/99클럽코테 2기.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5_Memo/기업분석.md",
+                "file": "4_Archives/1_Projects/99클럽코테 2기/99클럽코테 2기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5_Memo/기업분석.md",
+                "file": "4_Archives/1_Projects/99클럽코테 2기/99클럽코테 2기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5_Memo/기업분석.md"
+                "file": "4_Archives/1_Projects/99클럽코테 2기/99클럽코테 2기.md"
               }
             }
           }
@@ -170,9 +170,11 @@
   },
   "active": "4105980464ffe352",
   "lastOpenFiles": [
+    "5_Memo/기업분석.md",
+    "4_Archives/1_Projects/99클럽코테 2기/99클럽코테 2기.md",
+    "4_Archives/1_Projects/99클럽코테 2기",
     "Templates/Memo.md",
     "5_Memo/디도스.md",
-    "5_Memo/기업분석.md",
     "7_TIL/99클럽 코테 스터디 11일차 TIL + 20240802.md",
     "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
     "1_Projects/Burgerput/회의록/회의록.md",
@@ -207,7 +209,6 @@
     "1_Projects/Burgerput/회의록/7월 16일.md",
     "1_Projects/Burgerput/회의록/7월 30일 회의록.md",
     "1_Projects/Burgerput/회의록/7월26일 회의록.md",
-    "1_Projects/Burgerput/회의록/7월9일 회의록.md",
     "2_Areas/제로베이스 대기업 취업 특별반",
     "ReadItLater Inbox",
     "preview 1.mhtml",
@@ -215,7 +216,6 @@
     "2_Areas/취업준비/2025년 취업 다 개패버리기/떨어진사유",
     "Untitled.canvas",
     "2_Areas/취업준비/항해99 ㅗ",
-    "4_Archives/2_Areas/경험정리.pdf",
-    "4_Archives/2_Areas/항해 99클럽 2기 5ffe0954a2a843f2bb51f441d54c0997 3.html"
+    "4_Archives/2_Areas/경험정리.pdf"
   ]
 }
