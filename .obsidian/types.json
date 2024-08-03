@@ -12,6 +12,7 @@
     "post할까?": "checkbox",
     "post됨": "checkbox",
     "progress": "multitext",
-    "기한": "text"
+    "기한": "text",
+    "공고 사이트": "text"
   }
 }
