@@ -1,6 +1,6 @@
 ---
 created: 2024-07-26 01:31
-updated: 2024-07-26T01:43
+updated: 2024-08-04T01:11
 tags:
   - study
   - develop
@@ -13,7 +13,7 @@ tags:
 
 # 설명
 ## HashMap
- - [[해시Table]]로 구성되어 있다.
+ - [[HashTable]]로 구성되어 있다.
  - 키-쌍 구조로 되었있다.
  - 정렬되지 않는다.
 ## Tree Map
