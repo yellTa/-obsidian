@@ -1,0 +1,411 @@
+---
+Created time: Invalid date
+Last edited time: Invalid date
+Posted to Naver: false
+Progress: end
+업로드할까?: true
+---
+# 현재문제점
+
+## DTO의 @Id 이슈
+
+현재 DTO의 JPA @Id
+
+- Accoutns
+- Machine
+- Food
+- CustomFood
+- CustomMachine
+- MgrList
+
+  
+
+총 6개의 DTO가 존재하고 이중 MgrList와 Accounts는 해당 이슈와는 관련이 없다.
+
+## Custom Machine, Machine, CustomFood, Food의 문제점
+
+  
+
+1. 현재 @Id는 zenput에서 사용하는 id가 아닌 num으로 되어있다.
+    
+    num - 인덱싱을 처리하기위한 열(자동증가)
+    
+    즉 데이터를 가져오는데 직접적인 의미가 없는 곳에 적용이 되어 있어 변경이 필요하다.
+    
+      
+    
+2. Spring JPA를 사용하고 있지만 실제로 활용하는 것은 JPQL기술만 활용하고 있다. (@id를 객체를 구별할 수 있는 identifier가 아닌 num에 적용했기 때문)
+
+  
+
+  
+
+# 목표
+
+## 1. JPQL이 아닌 JPA의 메소드 쿼리를 이용해서 객체를 가져온다.
+
+JPA의 메소드 쿼리를 이용해 객체를 가져와서 가공할 수 있도록 DTO의 @Id을 유효한 identifier값을 갖는 데이터 열에 지정한다.
+
+  
+
+# 상관관계 분석
+
+## 1. Print Data Interface
+
+### printData의 메소드 분석
+
+  
+
+```Java
+public interface PrintData {
+
+    //모든 Machine의 데이터 출력 + ischecked
+    //ischecked 판별을 위해서 customMachineRepository 함께 사용
+    public ArrayList<Map> zenputMachine();
+
+    //모든 Food의 데이터 출력 + ischecked
+    // ischecked판별을 위해 CustomFoodRepository함께 사용
+    public ArrayList<Map> zenputFood();
+
+
+    //선택된 machine객체 출력
+    // CustomMachineRepository사용
+    //MachineRepository에서 id를 통해 이름 가져오기
+    public ArrayList<Map> customMachine();
+
+    //선택된 food객체 출력
+    //CustomFoodRepository 사용
+    //FoodRepository에서 id를 통해 이름 가져오기
+    public ArrayList<Map> customFood();
+
+    public ArrayList<Map> mgrList();
+
+    //CustomMachineRepository에서 사용자가 지정한 온도값 가져오기
+    //MachineRepository에서 init min,max값 이름 값 가져오기
+    public ArrayList<Map> customCheatMachine();
+
+    //customFoodRepository에서 사용자가 지정한 온도값 가져오기
+    //FoodRepository 에서 init min,max값 가져오기
+    public ArrayList<Map> customCheatFood();
+}
+```
+
+PrintData의 메소드가 가지는 의미 그리고 사용하는 Repository를 정리했다.
+
+PrintData의 구현체는 모두 PrintData의 인터페이스를 갖는다.
+
+  
+
+## printData의 메소드가 반환하는 API값
+
+SpringBootTest를 이용하여 테스트한 후 printData가 어떤 값을 return하는지 확인했다.
+
+  
+
+```Java
+@SpringBootTest
+@Slf4j
+class SelectMachineControllerTest {
+
+    @Autowired
+    PrintData printData;
+    @Test
+    @DisplayName("MachineList")
+    void showMachineList() {
+        //모든 데이터 출력
+        ArrayList<Map> machineList = printData.zenputMachine();
+        log.info(machineList.toString());
+    }
+    
+    ...
+```
+
+### zenputMachine()
+
+```Java
+[{
+    id = 2,
+    name = 온도계(탐침1), 
+    min = 31,
+    max = 33,
+    isChecked = true //Machine 테이블과 CustomMachine테이블 비교후 true false
+}, {
+    id = 54,
+    name = 온도계(탐침2),
+    min = 31,
+    max = 33,
+    isChecked = false
+}, {
+    id = 56,
+    name = 온도계(표면1),
+    min = 31,
+    max = 33,
+    isChecked = true
+}, {
+    id = 4,
+    name = 워크인쿨러,
+    min = 34,
+    max = 40,
+    isChecked = true
+    }...계속
+```
+
+  
+
+### zenputFood()
+
+```Java
+{
+    id = 1224,
+    name = 어니언링(Onion Ring), 
+    min = 140,
+    max = 190,
+    isChecked = true //Food테이블과 CustomFood테이블의 값을 비교해서 true false
+    //customTable에 있으면 true로 표기한다.
+}, {
+    id = 1231,
+    name = 해쉬 브라운(Hash Brown),
+    min = 140,
+    max = 190,
+    isChecked = false
+}, {
+    id = 1196,
+    name = 플레인 오믈렛(Plain Omelette),
+    min = 140,
+    max = 190,
+    isChecked = false
+}, {
+    id = 1119,
+    name = 양파(ONIONS),
+    min = 64,
+    max = 85,
+    isChecked = true
+}, {
+    id = 1126,
+    name = 토마토(TOMATOES),
+    min = 64,
+    max = 85,
+    isChecked = true
+}, ...계속
+```
+
+  
+
+### customMachine()
+
+```Java
+[{
+    id = 2,
+    name = 온도계(탐침1),//Machine테이블에서 가져오는 값 (id를 기준으로)
+    min = 31,
+    max = 33
+}, {
+    id = 56,
+    name = 온도계(표면1),
+    min = 31,
+    max = 33
+}, {
+    id = 4,
+    name = 워크인쿨러,
+    min = 34,
+    max = 40
+}, {
+    id = 117,
+    name = 워크인프리저,
+    min = -10,
+    max = 0
+}, {
+    id = 18,
+    name = 미트프리저,
+    min = -10,
+    max = 0
+} ...계속
+```
+
+  
+
+### customFood()
+
+```Java
+[{
+    id = 34,
+    name = 롱치킨 패티(Long Chicken patty FULLY),// Food테이블에서 가져오는 값(id를 기준으로)
+    min = 140,
+    max = 190
+}, {
+    id = 351,
+    name = 너겟킹(Nugget King FULLY),
+    min = 140,
+    max = 190
+}, {
+    id = 1259,
+    name = 오버이지 에그패티(Over Easy Egg Patty),
+    min = 140,
+    max = 190
+} ...계속
+```
+
+### customCheatMachine()
+
+```Java
+[{
+    id = 2,
+    name = 온도계(탐침1),//Machine테이블에서 가져오는 값(id를 기준으로)
+    min = 31,//Machine테이블에 저장된 온도
+    max = 33,
+    initMin = 31, //customMachine테이블에 저장된 init온도들
+    initMax = 33
+}, {
+    id = 56,
+    name = 온도계(표면1),
+    min = 31,
+    max = 33,
+    initMin = 31,
+    initMax = 33
+} ...계속
+```
+
+### customCheatFood()
+
+```Java
+{
+     id = 34,
+     name = 롱치킨 패티(Long Chicken patty FULLY), //Food에서 가져오는 값(id를 기준으로)
+     min = 140,//Food 테이블에서 가져오는 원래 온도
+     max = 190,
+     initMin = 140, //CustomFood에 저장된 사용자지정 온도
+     initMax = 190
+ }, {
+     id = 351,
+     name = 너겟킹(Nugget King FULLY),
+     min = 140,
+     max = 190,
+     initMin = 140,
+     initMax = 190
+ }, {
+     id = 1259,
+     name = 오버이지 에그패티(Over Easy Egg Patty),
+     min = 140,
+     max = 190,
+     initMin = 140,
+     initMax = 190
+ } ...계속
+```
+
+  
+
+## 2. DB 연관 관계
+
+![[images/Untitled 30.png|Untitled 30.png]]
+
+table join은 따로 설정해 두지 않았다. 현재 JPQL을 이용해서 id값을 기준으로 값을 비지니스로직에서 값을 가져오고 있다.
+
+  
+
+# 방법
+
+목표 위해서 각 메소드가 리턴해야 하는 값 그리고 관계를 확인했다. 위의 분석을 통해서 목표(JPQL이 아닌 Db table의 id로 값 가져오기)를 수행하기 위한 방법을 도출해 냈다.
+
+## 1. DTO의 @Id 애노테이션 재지정
+
+유효한 Identifier값을 갖는 열로 데이터를 재지정한다.
+
+## 2. printData 의 메소드 재정의
+
+변경된 DTO의 @Id 값을 이용해 객체를 불러와서 가공하도록 재정의한다.
+
+이떄 반환하는 MAP의 값은 달라져서는 안된다.(중요!!!!)
+
+  
+
+  
+
+# 수행 과정
+
+## 1. DTO의 @Id 애노테이션 재지정
+
+```Kotlin
+@Data
+@Entity
+//@Table(name="Machine")
+public class Machine {
+    //pk
+    @JsonIgnore
+    @GeneratedValue(strategy = GenerationType.IDENTITY)//생성을 Db에 위임
+    private Long num;
+
+    @Id
+    private int id;
+    private String name;
+    private int max;
+    private int min;
+
+}
+```
+
+마찬가지로
+
+### food, custom_food, custom_machine
+
+에도 지정해줬다.
+
+  
+
+## 2. printData 의 메소드 재정의
+
+  
+
+![[images/Untitled 1 9.png|Untitled 1 9.png]]
+
+PrintData를 상속받는 PrintDataV2 새로 생성한다.
+
+  
+
+V2에서는 JPA를 이용해 Machine, Custom_machine, Food, custom_food 객체 데이터를 가져올 것이다.
+
+## PrintDataV1(customMachine) → V2
+
+### 바뀐 로직
+
+### V1
+
+```Java
+   Machine foundMachine = machineRepository.findMachineById(Integer.toString(customMachine.getId()));
+```
+
+machineRepository의 JPQL을 이용하여 객체를 반환했다.
+
+  
+
+### machineRepository
+
+```Java
+    @Query(value = "select * from Machine where id = :id ", nativeQuery = true)
+    public Machine findMachineById(@Param("id") String id);
+```
+
+id를 parameter로 받아서 JPQL을 이용해 쿼리를 직접 실행한다.
+
+### V2
+
+```Java
+Machine foundMachine = machineRepository.findById(customMachine.getId()).get();
+```
+
+JPQL이 아닌 메소드쿼리를 이용하여 수행하고 있다.
+
+  
+
+## 변경된 메소드 목록
+
+변경된 메소드는 JPQL로 객체를 가져오는 부분을 JPA로 사용하여 가져오도록 설정했다.
+
+로직의 차이는 크게 없고 반환하는 방법만을 변경했기 때문에 변경된 메소드 목록만 작성하도록 하겠다.
+
+|   |
+|---|
+|**변경된 메소드 목록**|
+|PrintDataV1.customMachine|
+|PrintDataV1.customFood|
+|PrintDataV1.customCheatMachine|
+|PrintdataV1.customCheatFood|
