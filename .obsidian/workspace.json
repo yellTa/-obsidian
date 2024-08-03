@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/넥슨.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/NHN.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/NHN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/NHN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/NHN.md"
+              }
             }
           }
         ]
@@ -178,11 +182,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2caed6827f1efab6",
+  "active": "a938a9fb8ebdd381",
   "lastOpenFiles": [
+    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
+    "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
+    "1_Projects/Burgerput/Burgerput.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/토스.md",
     "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/넥슨.md",
     "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/NHN.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/토스.md",
     "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/그릿스탠다드.md",
     "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/휴먼 컨설팅 그룹.md",
     "2_Areas/취업준비/이력서 사이트 보기 리스트.md",
@@ -191,12 +198,9 @@
     "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션",
     "5_Memo/웹페이지 인덱싱.md",
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
-    "1_Projects/Burgerput/Burgerput.md",
     "Notion/Burgerput/Burgerput.md",
     "1_Projects/Burgerput/3_TroubleDocs/🟣Loading이 3번씩 도는 이유…/🟣Loading이 3번씩 도는 이유….md",
-    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/2_유지보수/3rd 테스트서버 셋업 1/3rd 테스트서버 셋업 1.md",
-    "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
     "1_Projects/Burgerput/0_회의록/0_회의록.md",
     "1_Projects/Burgerput/1_개발문서/AWS - jar 파일 배포/AWS - jar 파일 배포.md",
     "1_Projects/Burgerput/0_회의록/5월 7일 회의록.md",
