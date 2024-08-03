@@ -1,6 +1,6 @@
 ---
 created: 2024-08-03T19:39
-updated: 2024-08-03T21:46
+updated: 2024-08-03T21:59
 공고 사이트: https://careers.nhn.com/recruits/3853922257763832019?type=list
 공식 사이트: https://www.nhn.com/company?tab=about
 기한: 2024-08-11
