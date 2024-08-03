@@ -6,7 +6,7 @@
       {
         "id": "f14be39471e43ef7",
         "type": "tabs",
-        "dimension": 72.36842105263158,
+        "dimension": 70.51282051282051,
         "children": [
           {
             "id": "4105980464ffe352",
@@ -19,13 +19,26 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a938a9fb8ebdd381",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/빗썸.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f2c09484126a8fb8",
         "type": "tabs",
-        "dimension": 27.631578947368425,
+        "dimension": 29.48717948717949,
         "children": [
           {
             "id": "2caed6827f1efab6",
@@ -167,6 +180,11 @@
   },
   "active": "2caed6827f1efab6",
   "lastOpenFiles": [
+    "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/빗썸.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/첫 번째 과제 - 기업조사 미션.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션",
+    "5_Memo/웹페이지 인덱싱.md",
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
     "1_Projects/Burgerput/Burgerput.md",
     "Notion/Burgerput/Burgerput.md",
@@ -204,15 +222,10 @@
     "1_Projects/Burgerput/1_개발문서/linux mysql setup/Ubuntu(Linux)에서 mysql 설정 및 구동.md",
     "1_Projects/Burgerput/1_개발문서/linux mysql setup/MySQL 8 대소문자 구분/MySQL 8 대소문자 구분.md",
     "1_Projects/Burgerput/1_개발문서/Aws Files/WinSCP를 이용해서 AWS FTP접속하기/WinSCP를 이용해서 AWS FTP접속하기.md",
-    "1_Projects/Burgerput/1_개발문서/Aws Files/aws Putty로 연결하기/aws Putty로 연결하기.md",
-    "1_Projects/Burgerput/1_개발문서/Aws Files/aws 탄력적 IP and ssh/aws 탄력적 IP and ssh.md",
-    "1_Projects/Burgerput/1_개발문서/Aws Files/aws생성하기/aws생성하기.md",
-    "1_Projects/Burgerput/1_개발문서/AWS selenium Issue - 여기부터 복사하기/Prepare Tiny selenium project/Prepare Tiny selenium project.md",
     "1_Projects/Burgerput/2_유지보수/3rd 테스트서버 셋업 1/swap 메모리 설정",
     "1_Projects/Burgerput/1_개발문서/linux mysql setup/Add min max column for custom_ tables",
     "1_Projects/Burgerput/1_개발문서/linux mysql setup/MySQL 8 대소문자 구분",
     "1_Projects/Burgerput/1_개발문서/Aws Files/WinSCP를 이용해서 AWS FTP접속하기",
-    "1_Projects/Burgerput/1_개발문서/Aws Files/aws Putty로 연결하기",
     "Untitled.canvas"
   ]
 }

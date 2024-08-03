@@ -11,6 +11,7 @@
     "created": "datetime",
     "post할까?": "checkbox",
     "post됨": "checkbox",
-    "progress": "multitext"
+    "progress": "multitext",
+    "기한": "text"
   }
 }
