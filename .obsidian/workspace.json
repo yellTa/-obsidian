@@ -14,31 +14,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a938a9fb8ebdd381",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
+                "file": "7_TIL/99클럽 코테 스터디 12일차 TIL +240803.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f2c09484126a8fb8",
         "type": "tabs",
-        "dimension": 52.76967930029155,
+        "dimension": 52.76967930029154,
         "children": [
           {
             "id": "2caed6827f1efab6",
@@ -56,14 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5_Memo/c++ Map의 사용법.md",
+                "file": "5_Memo/java HashMap의 메소드.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5_Memo/c++ Map의 사용법.md",
+                "file": "7_TIL/99클럽 코테 스터디 12일차 TIL +240803.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5_Memo/c++ Map의 사용법.md",
+                "file": "7_TIL/99클럽 코테 스터디 12일차 TIL +240803.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5_Memo/c++ Map의 사용법.md"
+                "file": "7_TIL/99클럽 코테 스터디 12일차 TIL +240803.md"
               }
             }
           }
@@ -195,16 +181,22 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "7a78d9835dba43c0",
+  "active": "4105980464ffe352",
   "lastOpenFiles": [
+    "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
+    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
+    "2_Areas/취업준비/이력서 사이트 보기 리스트.md",
+    "7_TIL/99클럽 코테 스터디 12일차 TIL +240803.md",
+    "5_Memo/java HashMap의 메소드.md",
+    "5_Memo/웹 방화벽이란(WAF, Web Application Firewall).md",
+    "5_Memo/웹 페이지 인덱싱.md",
+    "5_Memo/웹페이지 인덱싱.md",
     "5_Memo/java  Map.md",
     "5_Memo/c++ Map의 사용법.md",
     "5_Memo/HashTable.md",
     "5_Memo/Java HashMap을 정렬하는 법.md",
     "hashMap의 종류.md",
-    "5_Memo/java HashMap의 메소드.md",
     "5_Memo/내가 하고싶은 직무(신입).md",
-    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/2_유지보수/수상한 GET 요청.md",
     "1_Projects/Burgerput/2_유지보수/Cookie를 주고받기 위한 Same-site설정.md",
     "1_Projects/Burgerput/2_유지보수/CORS설정.md",
@@ -217,13 +209,7 @@
     "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/그릿스탠다드.md",
     "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/NHN.md",
     "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/토스.md",
-    "2_Areas/취업준비/이력서 사이트 보기 리스트.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제.md",
     "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션",
-    "5_Memo/웹페이지 인덱싱.md",
-    "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
-    "Notion/Burgerput/Burgerput.md",
-    "1_Projects/Burgerput/3_TroubleDocs/🟣Loading이 3번씩 도는 이유…/🟣Loading이 3번씩 도는 이유….md",
     "images/Untitled 59.png",
     "images/Untitled 1 26.png",
     "images/Untitled 58.png",
