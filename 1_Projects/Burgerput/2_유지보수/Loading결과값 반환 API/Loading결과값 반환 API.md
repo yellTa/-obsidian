@@ -4,6 +4,8 @@ Last edited time: Invalid date
 Posted to Naver: false
 Progress: end
 업로드할까?: false
+created: 2024-08-03T14:37
+updated: 2024-08-04T22:42
 ---
 # 반환해야하는 API형태
 
@@ -131,13 +133,13 @@ DB데이터가 없는 경우에는 모든 데이터가 추가된 경우로 간�
 
 ## 반환 받은 값의 가공
 
-![[images/Untitled 35.png|Untitled 35.png]]
+![[Untitled 35.png|Untitled 35.png]]
 
 현재 값은 LoadingController에서 가공이 이루어지고 있다.
 
   
 
-![[images/Untitled 1 11.png|Untitled 1 11.png]]
+![[Untitled 1 11.png|Untitled 1 11.png]]
 
 반환 받은 값을 가공하는 로직, DB에 업로드하는 로직이 모두 LoadingController에서 이루어지고있다. 분리가 필요하다.
 
@@ -147,7 +149,7 @@ DB데이터가 없는 경우에는 모든 데이터가 추가된 경우로 간�
 
 1. AlertLoading에서 사용하는 DB에 관련한 값을 가져올 떄 JPQL이 아닌 JPA기술로 변경하도록 한다.
 
-![[images/Untitled 2 8.png|Untitled 2 8.png]]
+![[Untitled 2 8.png|Untitled 2 8.png]]
 
 1. 반환 받은 값을 가공하는 로직을 Service로직으로 따로 분리하여 구성하고 Spring Bean으로 LoadingController에 주입시킨다.
 2. DB에 업데이트하는 부분을 Service Logic으로 옮겨서 수행하도록 한다. (2번의 서비스 로직)
@@ -160,13 +162,13 @@ DB데이터가 없는 경우에는 모든 데이터가 추가된 경우로 간�
 
 ### edit(Machine/Food)
 
-![[images/Untitled 3 7.png|Untitled 3 7.png]]
+![[Untitled 3 7.png|Untitled 3 7.png]]
 
   
 
 ### del (Machine/Food)
 
-![[images/Untitled 4 6.png|Untitled 4 6.png]]
+![[Untitled 4 6.png|Untitled 4 6.png]]
 
   
 

@@ -1,18 +1,22 @@
+---
+created: 2024-08-03T14:37
+updated: 2024-08-04T22:42
+---
 ## 설치
 
 ### vmware
 
-![[images/Untitled 51.png|Untitled 51.png]]
+![[Untitled 51.png|Untitled 51.png]]
 
-![[images/Untitled 1 19.png|Untitled 1 19.png]]
+![[Untitled 1 19.png|Untitled 1 19.png]]
 
-![[images/Untitled 2 11.png|Untitled 2 11.png]]
+![[Untitled 2 11.png|Untitled 2 11.png]]
 
 별도 설정 없이 그대로 진행
 
   
 
-![[images/Untitled 3 9.png|Untitled 3 9.png]]
+![[Untitled 3 9.png|Untitled 3 9.png]]
 
 이용자이름 : user
 
@@ -24,7 +28,7 @@
 
 ## 고정 아이피 설정하기
 
-![[images/Untitled 4 8.png|Untitled 4 8.png]]
+![[Untitled 4 8.png|Untitled 4 8.png]]
 
 현 사용중인 ip를 확인한다.
 
@@ -33,11 +37,11 @@
 |이더넷 명|ens33|
 |변경전 IP|192.168.106.130|
 
-![[images/Untitled 5 7.png|Untitled 5 7.png]]
+![[Untitled 5 7.png|Untitled 5 7.png]]
 
 /etc/netplan 경로에서 yaml 파일 수정
 
-![[images/Untitled 6 4.png|Untitled 6 4.png]]
+![[Untitled 6 4.png|Untitled 6 4.png]]
 
 수정하기 전 root 권한 으로 해당 파일 백업진행
 
@@ -50,7 +54,7 @@ cp ~~ ~~.back
 
   
 
-![[images/Untitled 7 3.png|Untitled 7 3.png]]
+![[Untitled 7 3.png|Untitled 7 3.png]]
 
 수정 전
 
@@ -58,7 +62,7 @@ cp ~~ ~~.back
 
   
 
-![[images/Untitled 8 3.png|Untitled 8 3.png]]
+![[Untitled 8 3.png|Untitled 8 3.png]]
 
 수정 후
 
@@ -70,7 +74,7 @@ gateway 정보는 vmware에서 확인할 수 있다.
 sudo netplan apply 
 ```
 
-![[images/Untitled 9 3.png|Untitled 9 3.png]]
+![[Untitled 9 3.png|Untitled 9 3.png]]
 
 ping [www.naver.com](http://www.naver.com) 를통해 핑을 날린 모습 정상적으로 실행되는 것을 알 수 있다.
 
@@ -97,7 +101,7 @@ $ java --version
 
 Upload tinySelenium through WinSCP
 
-![[images/Untitled 10 2.png|Untitled 10 2.png]]
+![[Untitled 10 2.png|Untitled 10 2.png]]
 
 [https://www.lesstif.com/lpt/linux-chown-93127453.html](https://www.lesstif.com/lpt/linux-chown-93127453.html)
 

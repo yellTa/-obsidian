@@ -4,6 +4,8 @@ Last edited time: Invalid date
 Progress: end
 on Naver: true
 업로드할까?: true
+created: 2024-08-03T14:37
+updated: 2024-08-04T22:42
 ---
 # Selenium alert accept logic
 
@@ -15,7 +17,7 @@ alert accept using selenium
 
 ### build.gradle
 
-![[images/Untitled 27.png|Untitled 27.png]]
+![[Untitled 27.png|Untitled 27.png]]
 
 Dependencies
 
@@ -206,7 +208,7 @@ add headless option
 
   
 
-![[images/Untitled 1 7.png|Untitled 1 7.png]]
+![[Untitled 1 7.png|Untitled 1 7.png]]
 
 worked properly without web-broswer!!!
 

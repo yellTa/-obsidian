@@ -4,6 +4,8 @@ Last edited time: Invalid date
 Posted to Naver: false
 Progress: end
 업로드할까?: true
+created: 2024-08-03T14:37
+updated: 2024-08-04T22:42
 ---
 # 현재문제점
 
@@ -296,7 +298,7 @@ class SelectMachineControllerTest {
 
 ## 2. DB 연관 관계
 
-![[images/Untitled 30.png|Untitled 30.png]]
+![[Untitled 30.png|Untitled 30.png]]
 
 table join은 따로 설정해 두지 않았다. 현재 JPQL을 이용해서 id값을 기준으로 값을 비지니스로직에서 값을 가져오고 있다.
 
@@ -355,7 +357,7 @@ public class Machine {
 
   
 
-![[images/Untitled 1 9.png|Untitled 1 9.png]]
+![[Untitled 1 9.png|Untitled 1 9.png]]
 
 PrintData를 상속받는 PrintDataV2 새로 생성한다.
 

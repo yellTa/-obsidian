@@ -4,6 +4,8 @@ Last edited time: Invalid date
 Posted to Naver: false
 Progress: end
 업로드할까?: false
+created: 2024-08-03T14:37
+updated: 2024-08-04T22:42
 ---
 # OBJECT:
 
@@ -95,7 +97,7 @@ MOCK MVC를 사용해서 서버를 위한 셋팅은 건드리지 않으면서 GE
 
   
 
-![[images/Untitled 38.png|Untitled 38.png]]
+![[Untitled 38.png|Untitled 38.png]]
 
 로그에서 결과를 확인할 수 있다.
 

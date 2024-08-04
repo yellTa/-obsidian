@@ -4,6 +4,8 @@ Last edited time: Invalid date
 Posted to Naver: false
 Progress: end
 업로드할까?: true
+created: 2024-08-03T14:37
+updated: 2024-08-04T22:42
 ---
 # OBJECT
 
@@ -187,7 +189,7 @@ Machine과 Food가 통합된 결과를 얻을 수 있었다.
 
 이런식으로 계층을 나눠 각 컴포넌트의 역할을 명확하게 하고, 시스템의 유연성과 확장성을 향상시킨다.
 
-![[images/Untitled 31.png|Untitled 31.png]]
+![[Untitled 31.png|Untitled 31.png]]
 
   
 

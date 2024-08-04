@@ -6,6 +6,8 @@ Last edited time: Invalid date
 Review여부: false
 post됨: false
 post할까?: false
+created: 2024-08-03T14:37
+updated: 2024-08-04T22:42
 ---
 # PROBLEM:
 
@@ -32,13 +34,13 @@ env:
 
   
 
-![[images/Untitled 45.png|Untitled 45.png]]
+![[Untitled 45.png|Untitled 45.png]]
 
 front-end단의 ci/cd 지민이가 준 자료이다.
 
 여기서 보면 나랑 조금 다른부분이 있다.
 
-![[images/Untitled 1 17.png|Untitled 1 17.png]]
+![[Untitled 1 17.png|Untitled 1 17.png]]
 
 공식문서에도 보면 이런식으로 작성하라고 적혀있다.
 

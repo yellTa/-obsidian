@@ -1,10 +1,14 @@
+---
+created: 2024-08-03T14:37
+updated: 2024-08-04T22:42
+---
 ### 컬럼 추가
 
 사용자를 위해 랜덤으로 zenput에 값을 넣는 로직을 구현하기 위해서는 custom_food, custom_machine테이블에 min max값이 추가로 설정되어야 한다.
 
   
 
-![[images/Untitled 58.png|Untitled 58.png]]
+![[Untitled 58.png|Untitled 58.png]]
 
 ```Java
 mysql> Alter table custom_food add column min int;
@@ -17,7 +21,7 @@ mysql> Alter table custom_machine add column max int;
 
 테스트를 위해 데이터를 추가해준다.
 
-![[images/Untitled 1 26.png|Untitled 1 26.png]]
+![[Untitled 1 26.png|Untitled 1 26.png]]
 
 ```Java
 mysql>Update custom_food set min=165, max = 182 where id =60;

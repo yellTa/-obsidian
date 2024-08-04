@@ -1,3 +1,7 @@
+---
+created: 2024-08-03T14:37
+updated: 2024-08-04T22:42
+---
 MySQL Database는 기본적으로는 대소문자를 구분하도록 되어있다.(Linux / Unix)
 
   
@@ -59,7 +63,7 @@ sudo apt-get remove --purge mysql*
 >root
 ```
 
-![[images/Untitled 57.png|Untitled 57.png]]
+![[Untitled 57.png|Untitled 57.png]]
 
 mysql version check
 
@@ -71,7 +75,7 @@ mysql> show variables like 'lower%';
 
 ### 대소문자 옵션 확인
 
-![[images/Untitled 1 25.png|Untitled 1 25.png]]
+![[Untitled 1 25.png|Untitled 1 25.png]]
 
 Check mysql lower_case option
 
@@ -96,7 +100,7 @@ sudo chmod 700 /var/lib/mysql
 # /etc/mysql/mysql.conf.d/mysqld.cnf
 ```
 
-![[images/Untitled 2 16.png|Untitled 2 16.png]]
+![[Untitled 2 16.png|Untitled 2 16.png]]
 
 /etc/mysql/mysql.conf.d/mysqld.cnf
 
@@ -144,7 +148,7 @@ mysql> show variables like 'lower%';
 
 ### chmod - 파일 권한
 
-![[images/Untitled 3 14.png|Untitled 3 14.png]]
+![[Untitled 3 14.png|Untitled 3 14.png]]
 
   
 

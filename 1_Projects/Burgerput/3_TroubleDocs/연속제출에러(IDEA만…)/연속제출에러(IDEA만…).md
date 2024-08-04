@@ -6,10 +6,12 @@ Last edited time: Invalid date
 Review여부: false
 post됨: false
 post할까?: false
+created: 2024-08-03T14:37
+updated: 2024-08-04T22:42
 ---
 # OBJECT:
 
-![[images/Untitled 48.png|Untitled 48.png]]
+![[Untitled 48.png|Untitled 48.png]]
 
 Machine의 데이터가 두 번 연속 전송되는 현상발생
 

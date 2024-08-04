@@ -1,3 +1,7 @@
+---
+created: 2024-08-03T14:37
+updated: 2024-08-04T22:42
+---
 # ubuntu swap메모리 지정
 
 swap메모리는 RAM의 용량이 부족할 떄 하드디스크의 일부를 RAM처럼 사용하는 것
@@ -37,7 +41,7 @@ cd /
 ll
 ```
 
-![[images/Untitled 59.png|Untitled 59.png]]
+![[Untitled 59.png|Untitled 59.png]]
 
 2G의 파일이 생성된 것 확인
 

@@ -1,6 +1,10 @@
+---
+created: 2024-08-03T14:37
+updated: 2024-08-04T22:42
+---
 ## 프로젝트 생성
 
-![[images/Untitled 52.png|Untitled 52.png]]
+![[Untitled 52.png|Untitled 52.png]]
 
   
 
@@ -132,7 +136,7 @@ Build.gradle 에서 webdriverManager 의존성 추가
 
 # ==Error - selenium not support cdp 119version==
 
-![[images/Untitled 1 20.png|Untitled 1 20.png]]
+![[Untitled 1 20.png|Untitled 1 20.png]]
 
 selenium 이 해당 119 cdp를 지원하지 않음
 

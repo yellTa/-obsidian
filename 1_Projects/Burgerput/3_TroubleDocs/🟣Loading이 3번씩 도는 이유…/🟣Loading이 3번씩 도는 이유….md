@@ -6,6 +6,8 @@ Last edited time: Invalid date
 Review여부: false
 post됨: false
 post할까?: true
+created: 2024-08-03T14:37
+updated: 2024-08-04T22:42
 ---
 현재 내가 진행하는 프로젝트는 매일 아침 홈페이지를 자동으로 검사하는 웹 크롤링 로직이 있다. cron을 이용해서 어떤 도메인으로 진입하면 크롤링이 수행되도록 설정했고 수행의 결과를 Body에 뿌려서 성공 → 로딩 완료 메일 보내기
 
@@ -82,7 +84,7 @@ cron에 8시 34분에 돌도록 설정해놓은 코드이다. 이제 한 줄 한
 > [!important]  
 > /root/run.log  
 
-![[images/Untitled 46.png|Untitled 46.png]]
+![[Untitled 46.png|Untitled 46.png]]
 
 처참한 결과
 

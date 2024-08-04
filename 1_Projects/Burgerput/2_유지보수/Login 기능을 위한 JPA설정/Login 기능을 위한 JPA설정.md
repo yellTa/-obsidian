@@ -4,10 +4,12 @@ Last edited time: Invalid date
 Posted to Naver: false
 Progress: end
 업로드할까?: false
+created: 2024-08-03T14:37
+updated: 2024-08-04T22:42
 ---
 # Domain 추가
 
-![[images/Untitled 37.png|Untitled 37.png]]
+![[Untitled 37.png|Untitled 37.png]]
 
 MasterAccount추가
 
@@ -39,7 +41,7 @@ ID와 PW만 필요하기 때문에 두 가지만 사용했고 로그인 용도�
 
 ## 프로그램 수행 결과
 
-![[images/Untitled 1 13.png|Untitled 1 13.png]]
+![[Untitled 1 13.png|Untitled 1 13.png]]
 
 TEST DB에 정상적으로 Table이 생성된 것을 확인할 수 있다.
 

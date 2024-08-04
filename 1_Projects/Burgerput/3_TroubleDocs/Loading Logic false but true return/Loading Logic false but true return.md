@@ -6,10 +6,12 @@ Last edited time: Invalid date
 Review여부: false
 post됨: false
 post할까?: false
+created: 2024-08-03T14:37
+updated: 2024-08-04T22:42
 ---
 # Issue
 
-![[images/Untitled 47.png|Untitled 47.png]]
+![[Untitled 47.png|Untitled 47.png]]
 
 - Food Loaded only 2… (not perfectly loaded even Error occurred!)
 - the Result return true… so Db updated with wrong value

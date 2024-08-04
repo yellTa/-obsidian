@@ -4,12 +4,14 @@ Last edited time: Invalid date
 Progress: end
 on Naver: false
 업로드할까?: true
+created: 2024-08-03T14:37
+updated: 2024-08-04T22:42
 ---
 # AWS : Application Load Balancer
 
 ## Application Load Balancer
 
-![[images/Untitled 25.png|Untitled 25.png]]
+![[Untitled 25.png|Untitled 25.png]]
 
   
 
@@ -37,7 +39,7 @@ Listener에 등록된 규칙에 따라서 로드 밸런서가 등록된 대상�
 
   
 
-![[images/Untitled 1 5.png|Untitled 1 5.png]]
+![[Untitled 1 5.png|Untitled 1 5.png]]
 
   
 
@@ -75,7 +77,7 @@ AWS는 ==AWS Certificate Manager== 를 사용해 로드 밸런서를 위한 인�
 
 ### ==Listener의 규칙==
 
-![[images/Untitled 2 4.png|Untitled 2 4.png]]
+![[Untitled 2 4.png|Untitled 2 4.png]]
 
 URL로 리디렉션 - 클라이언트 요청이 리디렉션 될 URL을 지정한다. FULL URL을 지정하면 https://#{host}:443/#{path}?#{query} 와 같은 형식으로 쿼리를 날릴 수도 있다.
 
@@ -142,7 +144,7 @@ Listener규칙을 생성하고 해당 조건이 충족되면 해당하는 대상
 
 Amazon Virtual Private Cloud(Amazon VPC)를 사용하면 정의한 논리적으로 격리된 가상의네트워크에서 AWS 리소스를 시작할 수 있다.
 
-![[images/Untitled 3 4.png|Untitled 3 4.png]]
+![[Untitled 3 4.png|Untitled 3 4.png]]
 
   
 

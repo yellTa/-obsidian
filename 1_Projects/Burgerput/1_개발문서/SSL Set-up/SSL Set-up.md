@@ -4,6 +4,8 @@ Last edited time: Invalid date
 Progress: end
 on Naver: false
 업로드할까?: false
+created: 2024-08-03T14:37
+updated: 2024-08-04T22:42
 ---
 # Set-up free SSL for my Project
 
@@ -66,7 +68,7 @@ $ sudo certbot certonly --standalone
 
   
 
-![[images/Untitled 2.png|Untitled 2.png]]
+![[Untitled 2.png|Untitled 2.png]]
 
 Follow the process and the SSL created!
 

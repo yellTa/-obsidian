@@ -1,6 +1,10 @@
+---
+created: 2024-08-03T14:37
+updated: 2024-08-04T22:42
+---
   
 
-![[images/Untitled 56.png|Untitled 56.png]]
+![[Untitled 56.png|Untitled 56.png]]
 
 ftp의 사용 포트 번호는 20, 21이다. 해당 tcp 포트로 지정하고 저장해준다.
 
@@ -14,7 +18,7 @@ ftp의 사용 포트 번호는 20, 21이다. 해당 tcp 포트로 지정하고 �
 
   
 
-![[images/Untitled 1 24.png|Untitled 1 24.png]]
+![[Untitled 1 24.png|Untitled 1 24.png]]
 
 WInSCP의 로그인 화면이다.
 
@@ -37,7 +41,7 @@ userName :
 > EC2 서버 구동시키기 https://aws.  
 > [https://alkhwa-113.tistory.com/entry/AWS-EC2-서버-구동-WINSCP로-로컬에서-연결하기](https://alkhwa-113.tistory.com/entry/AWS-EC2-서버-구동-WINSCP로-로컬에서-연결하기)  
 
-![[images/Untitled 2 15.png|Untitled 2 15.png]]
+![[Untitled 2 15.png|Untitled 2 15.png]]
 
 비밀번호를 사용하지 않고 키 파일을 이용하기 때문에 pem을 puttygen으로 변경한 ppk파일을 선택해준다.
 
@@ -45,6 +49,6 @@ userName :
 
   
 
-![[images/Untitled 3 13.png|Untitled 3 13.png]]
+![[Untitled 3 13.png|Untitled 3 13.png]]
 
 로그인에 성공한 모습

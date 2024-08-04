@@ -6,6 +6,8 @@ Last edited time: Invalid date
 Review여부: false
 post됨: false
 post할까?: false
+created: 2024-08-03T14:37
+updated: 2024-08-04T22:42
 ---
 # OBJECT:
 
@@ -17,7 +19,7 @@ Loading을 수행하면서 Null pointException이 일어나 DB에 값을 세팅�
 
 ## Machine의 JsonMakerandDBSet 결과
 
-![[images/Untitled 41.png|Untitled 41.png]]
+![[Untitled 41.png|Untitled 41.png]]
 
 결과가 add일때 code =all이라는 결과를 담고 있다.
 

@@ -6,6 +6,8 @@ Last edited time: Invalid date
 Review여부: false
 post됨: false
 post할까?: false
+created: 2024-08-03T14:37
+updated: 2024-08-04T22:42
 ---
 # Error Message
 
@@ -23,7 +25,7 @@ post할까?: false
 
 My program using chromDriver and it needed Memory quite a lot. so I checked the using ChromeDriver in my Server
 
-![[images/Untitled 39.png|Untitled 39.png]]
+![[Untitled 39.png|Untitled 39.png]]
 
   
 
@@ -53,7 +55,7 @@ The initial size is half of physical Memory. If other programs using RAM and exc
 
 ## 1. Kill the process
 
-![[images/Untitled 1 14.png|Untitled 1 14.png]]
+![[Untitled 1 14.png|Untitled 1 14.png]]
 
 I kill the All Chrome process
 
@@ -78,7 +80,7 @@ So I need to set-up quit the driver when error occurred.
 
 ## 2-1. Machine Loading Zenput(getInfo logic) and FoodLoadingZenput
 
-![[images/Untitled 2 9.png|Untitled 2 9.png]]
+![[Untitled 2 9.png|Untitled 2 9.png]]
 
 When Error occurred after execute MachinegetInfo logic.
 

@@ -4,6 +4,8 @@ Last edited time: Invalid date
 Progress: end
 on Naver: false
 업로드할까?: false
+created: 2024-08-03T14:37
+updated: 2024-08-04T22:42
 ---
 # 준비
 
@@ -46,7 +48,7 @@ mysql> flush privilges;
 mysql> show grants for burgurput;
 ```
 
-![[images/Untitled 4.png|Untitled 4.png]]
+![[Untitled 4.png|Untitled 4.png]]
 
 ```Shell
 # dump import 

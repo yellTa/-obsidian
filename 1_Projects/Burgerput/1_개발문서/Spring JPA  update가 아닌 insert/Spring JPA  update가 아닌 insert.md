@@ -4,6 +4,8 @@ Last edited time: Invalid date
 Progress: end
 on Naver: true
 업로드할까?: true
+created: 2024-08-03T14:37
+updated: 2024-08-04T22:42
 ---
 # Given
 
@@ -53,7 +55,7 @@ customCheatMachineMap.put("initMin", Integer.toString(foundCheatMachine.getMin()
 customCheatMachineMap.put("initMax", Integer.toString(foundCheatMachine.getMax()));
 ```
 
-![[images/Untitled 5.png|Untitled 5.png]]
+![[Untitled 5.png|Untitled 5.png]]
 
   
 
@@ -83,7 +85,7 @@ customCheatFoodMap.put("initMap", Integer.toString(foundCheatFood.getMax()));
 
 ### SaveData.java[Interface]
 
-![[images/Untitled 2 2.png|Untitled 2 2.png]]
+![[Untitled 2 2.png|Untitled 2 2.png]]
 
 customCheatMachineDataSave()
 
@@ -93,7 +95,7 @@ customCheatFoodDataSave() 메소드를 인터페이스에 추가해준다.
 
 ### SaveDataV1.java[customCheatFoodDataSave()]
 
-![[images/Untitled 3 2.png|Untitled 3 2.png]]
+![[Untitled 3 2.png|Untitled 3 2.png]]
 
   
 
@@ -105,7 +107,7 @@ CustomFood 객체를 생성해서 post로 전달 받은 인자값을 저장한�
 
 ### SaveDataV1.java[customCheatMachineDataSave()]
 
-![[images/Untitled 4 2.png|Untitled 4 2.png]]
+![[Untitled 4 2.png|Untitled 4 2.png]]
 
 CustomMachine 객체를 생성해서 post로 전달 받은 인자값을 저장한다.
 
@@ -133,7 +135,7 @@ CustomFood, CustomMachine을 새롭게 생성한 후 저장하니 Update가 아�
 
 ## way1
 
-![[images/Untitled 5 2.png|Untitled 5 2.png]]
+![[Untitled 5 2.png|Untitled 5 2.png]]
 
 @Modifying 애노테이션은 int 타입밖에 반환을 할 수 없다.
 

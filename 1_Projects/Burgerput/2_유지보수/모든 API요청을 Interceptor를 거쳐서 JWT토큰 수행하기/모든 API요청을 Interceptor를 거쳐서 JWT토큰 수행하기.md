@@ -4,6 +4,8 @@ Last edited time: Invalid date
 Posted to Naver: false
 Progress: end
 업로드할까?: false
+created: 2024-08-03T14:37
+updated: 2024-08-04T22:42
 ---
 # SUBJECT: 모든 API요청을 Interceptor를 거쳐서 JWT토큰을 검증해보자!
 
@@ -61,7 +63,7 @@ false는 위의 과정을 거치지 않지만 응답을 직접 처리할 수 있
 
   
 
-![[images/Untitled 34.png|Untitled 34.png]]
+![[Untitled 34.png|Untitled 34.png]]
 
 오늘 수행할 작업의 내용이다.
 

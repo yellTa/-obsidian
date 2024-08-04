@@ -6,12 +6,14 @@ Last edited time: Invalid date
 Review여부: false
 post됨: false
 post할까?: false
+created: 2024-08-03T14:37
+updated: 2024-08-04T22:42
 ---
 # Issue
 
 FoodLoading Failed on 오버이지에그패티
 
-![[images/Untitled 42.png|Untitled 42.png]]
+![[Untitled 42.png|Untitled 42.png]]
 
 Couldn’t load these.
 
@@ -31,7 +33,7 @@ the temp with space.
 
 # Solution
 
-![[images/Untitled 1 15.png|Untitled 1 15.png]]
+![[Untitled 1 15.png|Untitled 1 15.png]]
 
 Remove the “ “(space) with trim() method.
 

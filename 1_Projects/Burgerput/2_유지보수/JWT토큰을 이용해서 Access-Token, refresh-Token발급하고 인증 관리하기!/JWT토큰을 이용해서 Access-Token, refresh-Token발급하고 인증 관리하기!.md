@@ -4,6 +4,8 @@ Last edited time: Invalid date
 Posted to Naver: false
 Progress: end
 업로드할까?: false
+created: 2024-08-03T14:37
+updated: 2024-08-04T22:42
 ---
 # SUBJECT: JWT토큰을 이용해서 Access-Token, refresh-Token발급하고 인증 관리하기!
 
@@ -13,7 +15,7 @@ Progress: end
 
 우선 로직은 아래의 그림과 같다.
 
-![[images/Untitled 29.png|Untitled 29.png]]
+![[Untitled 29.png|Untitled 29.png]]
 
   
 

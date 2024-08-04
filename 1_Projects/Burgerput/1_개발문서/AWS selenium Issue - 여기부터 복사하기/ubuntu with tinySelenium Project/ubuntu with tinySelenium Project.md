@@ -1,3 +1,7 @@
+---
+created: 2024-08-03T14:37
+updated: 2024-08-04T22:42
+---
 ==Created : 2023 12 06==
 
 ==Modified :==
@@ -8,13 +12,13 @@
 
 ## Tiny selenium project update to AWS
 
-![[images/tinySeleniumProject 2.zip|tinySeleniumProject 2.zip]]
+![[tinySeleniumProject 2.zip|tinySeleniumProject 2.zip]]
 
 tinyProject zip file
 
   
 
-![[images/Untitled 50.png|Untitled 50.png]]
+![[Untitled 50.png|Untitled 50.png]]
 
 upload to AWS EC2
 
@@ -24,7 +28,7 @@ upload to AWS EC2
 
 ### Error
 
-![[images/Untitled 1 18.png|Untitled 1 18.png]]
+![[Untitled 1 18.png|Untitled 1 18.png]]
 
 chrome driver download completed but no longer error occurred
 
@@ -77,7 +81,7 @@ options.addArguments("--disable-dev-shm-usage");
 
 > 로컬 실험 환경에서는 새로운 창을 띄우지 않고 정상 작동했다.
 
-![[images/Untitled 2 10.png|Untitled 2 10.png]]
+![[Untitled 2 10.png|Untitled 2 10.png]]
 
 TimeoutException Occured
 
@@ -122,7 +126,7 @@ userpasswd : remote
 
 xrdp패키지와 xfce4 패키지를 다운로드 받아서 GUI환경 설치
 
-![[images/Untitled 3 8.png|Untitled 3 8.png]]
+![[Untitled 3 8.png|Untitled 3 8.png]]
 
 Unable to locate package 에러 발생
 
@@ -139,7 +143,7 @@ passwd ubuntu
 
   
 
-![[images/Untitled 4 7.png|Untitled 4 7.png]]
+![[Untitled 4 7.png|Untitled 4 7.png]]
 
 검정화면만 나옴 파란화면만 나왔다가 그래도 검정화면으로 바뀜 유저 이름을 ubuntu로 지정하니까 바꼇다.
 
@@ -147,7 +151,7 @@ passwd ubuntu
 > Xrdp를 활용하면 윈도우나 Mac에서 우분투로 GUI 원격 접속이 가능함을 확인했습니다.  
 > [https://lapina.tistory.com/147](https://lapina.tistory.com/147)  
 
-![[images/Untitled 5 6.png|Untitled 5 6.png]]
+![[Untitled 5 6.png|Untitled 5 6.png]]
 
 cp 명령어를 이용해 /etc/xrdp/startwm.sh 파일 복사
 

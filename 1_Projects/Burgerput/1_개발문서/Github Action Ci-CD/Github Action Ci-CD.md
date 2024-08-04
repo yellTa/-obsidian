@@ -4,6 +4,8 @@ Last edited time: Invalid date
 Progress: end
 on Naver: false
 업로드할까?: true
+created: 2024-08-03T14:37
+updated: 2024-08-04T22:42
 ---
 # CI/CD Using Github Action, AWS, Codeploy
 
@@ -87,7 +89,7 @@ create this .github/workflows/Ci.yml
 
 # 2. Create S3 Bucket
 
-![[images/Untitled 9.png|Untitled 9.png]]
+![[Untitled 9.png|Untitled 9.png]]
 
 Other setting is default.
 
@@ -109,11 +111,11 @@ For this, we have to create user who has the permission for the job and Github a
 
 ## 3-1. Create user
 
-![[images/Untitled 1 3.png|Untitled 1 3.png]]
+![[Untitled 1 3.png|Untitled 1 3.png]]
 
   
 
-![[images/Untitled 2 3.png|Untitled 2 3.png]]
+![[Untitled 2 3.png|Untitled 2 3.png]]
 
 Add the permissions
 
@@ -128,13 +130,13 @@ IAM→ Users → click the user
 
   
 
-![[images/Untitled 3 3.png|Untitled 3 3.png]]
+![[Untitled 3 3.png|Untitled 3 3.png]]
 
 Create access key
 
   
 
-![[images/Untitled 4 3.png|Untitled 4 3.png]]
+![[Untitled 4 3.png|Untitled 4 3.png]]
 
   
 
@@ -150,7 +152,7 @@ This information will use for GitHub Actions’s user certification information.
 
 ## 3-3. Save the Accesskey to Github Repository Secrets
 
-![[images/Untitled 5 3.png|Untitled 5 3.png]]
+![[Untitled 5 3.png|Untitled 5 3.png]]
 
 Add the values
 
@@ -230,7 +232,7 @@ and commit the project file.
 
 ## 3-4. Check the result.
 
-![[images/Untitled 6 2.png|Untitled 6 2.png]]
+![[Untitled 6 2.png|Untitled 6 2.png]]
 
 Uploaded S3! It worked!
 
@@ -238,13 +240,13 @@ Uploaded S3! It worked!
 
 ## 4-1. Create IAM User
 
-![[images/Untitled 7 2.png|Untitled 7 2.png]]
+![[Untitled 7 2.png|Untitled 7 2.png]]
 
   
 
   
 
-![[images/Untitled 8 2.png|Untitled 8 2.png]]
+![[Untitled 8 2.png|Untitled 8 2.png]]
 
   
 
@@ -252,7 +254,7 @@ Add Permission - AWSCodeDeployFullAccess || AmazonS3FullAccess
 
   
 
-![[images/Untitled 9 2.png|Untitled 9 2.png]]
+![[Untitled 9 2.png|Untitled 9 2.png]]
 
 Save it
 

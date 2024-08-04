@@ -4,6 +4,8 @@ Last edited time: Invalid date
 Posted to Naver: false
 Progress: end
 업로드할까?: false
+created: 2024-08-03T14:37
+updated: 2024-08-04T22:42
 ---
 # OBJECT:
 
@@ -389,7 +391,7 @@ temperList를 String으로 형변환해서 넣어줬었다. 이를 제거하고 
 
 이제 아침에 로딩이 됐다고 가정하고 수행해보았다.
 
-![[images/Untitled 36.png|Untitled 36.png]]
+![[Untitled 36.png|Untitled 36.png]]
 
 변경된 값이 드디어 잘 들어갔다. ㅠㅠㅠ
 
@@ -399,7 +401,7 @@ temperList를 String으로 형변환해서 넣어줬었다. 이를 제거하고 
 
 만들어놓은 Test파일을 활용해서 /loading/result 의 get메소드 확인도 해보았다.
 
-![[images/Untitled 1 12.png|Untitled 1 12.png]]
+![[Untitled 1 12.png|Untitled 1 12.png]]
 
 성공이다. 어엉엉엉
 

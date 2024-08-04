@@ -4,6 +4,8 @@ Last edited time: Invalid date
 Posted to Naver: true
 Progress: end
 업로드할까?: true
+created: 2024-08-03T14:37
+updated: 2024-08-04T22:42
 ---
 # SUBJECT: JWT토큰이란?
 
@@ -131,7 +133,7 @@ Szignature는 데이터의 무결성을 검증하며 이때 token이 private key
 
 위의 세 가지 자료(header, payload, Signature)를 합치면 된다. 세 가지 항목은 Base-64 URL 형식이고 dot(.)으로 구분된다. XML기반 보다 훨씬 간단한 형태이다.
 
-![[images/Untitled 33.png|Untitled 33.png]]
+![[Untitled 33.png|Untitled 33.png]]
 
 참고로 인코딩된 자료는  [jwt.io Debugger](https://jwt.io/#debugger-io) 에서 디코드 할 수 있다.
 
@@ -170,9 +172,9 @@ front-end 단에서 사용자가 로그인하면 서버는 JWT Token을 되돌�
 
 ---
 
-![[images/Untitled 1 10.png|Untitled 1 10.png]]
+![[Untitled 1 10.png|Untitled 1 10.png]]
 
-![[images/Untitled 2 7.png|Untitled 2 7.png]]
+![[Untitled 2 7.png|Untitled 2 7.png]]
 
   
 

@@ -4,6 +4,8 @@ Last edited time: Invalid date
 Progress: end
 on Naver: false
 업로드할까?: false
+created: 2024-08-03T14:37
+updated: 2024-08-04T22:42
 ---
 # WinSCP SSHD Error
 
@@ -36,7 +38,7 @@ But it’s not working
 % df -h
 ```
 
-![[images/Untitled 8.png|Untitled 8.png]]
+![[Untitled 8.png|Untitled 8.png]]
 
 before It takes 100% but it’s not now… IDK?
 
@@ -50,7 +52,7 @@ but my Ubnunt root folder got 4.1G free space so the SSH Upload error solved
 $ lsblk
 ```
 
-![[images/Untitled 1 2.png|Untitled 1 2.png]]
+![[Untitled 1 2.png|Untitled 1 2.png]]
 
 sda1, sda2, sda3 → 3 partition
 

@@ -4,6 +4,8 @@ Last edited time: Invalid date
 Progress: end
 on Naver: false
 업로드할까?: false
+created: 2024-08-03T14:37
+updated: 2024-08-04T22:42
 ---
 # Zenput Cheat 기능 개발
 
@@ -27,7 +29,7 @@ on Naver: false
 
 ### customFood.java
 
-![[images/Untitled 26.png|Untitled 26.png]]
+![[Untitled 26.png|Untitled 26.png]]
 
 min, max 값 추가
 
@@ -35,7 +37,7 @@ min, max 값 추가
 
 ### customMachine.java
 
-![[images/Untitled 1 6.png|Untitled 1 6.png]]
+![[Untitled 1 6.png|Untitled 1 6.png]]
 
   
 
@@ -45,7 +47,7 @@ min, max 값 추가
 
   
 
-![[images/Untitled 2 5.png|Untitled 2 5.png]]
+![[Untitled 2 5.png|Untitled 2 5.png]]
 
 Print Data 인터페이스에 해당 메소드 추가
 
@@ -108,11 +110,11 @@ id, name, min(custom), max(custom), initMin(zenput), initMax(zenput)
 
 ### SaveDataV1.java[customCheatFoodDataSave()]
 
-![[images/Untitled 3 5.png|Untitled 3 5.png]]
+![[Untitled 3 5.png|Untitled 3 5.png]]
 
 ### SaveDataV1.java[customCheatMachineDataSave()]
 
-![[images/Untitled 4 4.png|Untitled 4 4.png]]
+![[Untitled 4 4.png|Untitled 4 4.png]]
 
   
 
@@ -155,7 +157,7 @@ id, name, min(custom), max(custom), initMin(zenput), initMax(zenput)
 ]
 ```
 
-![[images/Untitled 5 4.png|Untitled 5 4.png]]
+![[Untitled 5 4.png|Untitled 5 4.png]]
 
 DB에 정상적으로 수행된 것을 확인할 수 있다.
 
@@ -185,6 +187,6 @@ DB에 정상적으로 수행된 것을 확인할 수 있다.
 ]
 ```
 
-![[images/Untitled 6 3.png|Untitled 6 3.png]]
+![[Untitled 6 3.png|Untitled 6 3.png]]
 
 DB에 정상적으로 값이 들어간 것을 확인할 수 있다.

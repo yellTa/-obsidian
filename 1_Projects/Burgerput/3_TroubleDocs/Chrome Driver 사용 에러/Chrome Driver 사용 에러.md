@@ -6,6 +6,8 @@ Last edited time: Invalid date
 Review여부: true
 post됨: false
 post할까?: false
+created: 2024-08-03T14:37
+updated: 2024-08-04T22:42
 ---
 # SUBJECT:
 
@@ -142,7 +144,7 @@ WebDrivermanager.chromeDriver().setup() 으로 크롬드라이버를 가져온�
 
 ### 1. 잘못된 값으로 전달되어 발생하는 경우
 
-![[images/Untitled 44.png|Untitled 44.png]]
+![[Untitled 44.png|Untitled 44.png]]
 
 코드를 모두 확인해보았다. 이때 MovePageServiceV1을 제외하고는 모두 테스트를 수행하는 페이지이다.
 

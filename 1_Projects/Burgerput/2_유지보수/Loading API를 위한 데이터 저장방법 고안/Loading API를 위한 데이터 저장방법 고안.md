@@ -4,6 +4,8 @@ Last edited time: Invalid date
 Posted to Naver: true
 Progress: end
 업로드할까?: true
+created: 2024-08-03T14:37
+updated: 2024-08-04T22:42
 ---
 # [Goal]
 
@@ -22,7 +24,7 @@ Progress: end
 
 챗 지피티를 이용해 가이드를 조금 받았다. 시스템의 분석, 설계 부분에서 GPT의 도움을 받는 것은 섣부른 판단이 될 수도 있지만(경험이 풍부한 사람이 더 좋은 결과를 내놓는 경우가 많기 때문) 지금의 나에겐 절대적인 도움을 줄 수 있는 도구이다.
 
-![[images/Untitled 32.png|Untitled 32.png]]
+![[Untitled 32.png|Untitled 32.png]]
 
 위의 답변을 기반으로 사용할 수 있는 기술들을 사전조사 해봤다.
 

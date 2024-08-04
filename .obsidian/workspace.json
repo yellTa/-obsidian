@@ -115,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 12일차 TIL +240803.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 12일차 TIL +240803.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "7_TIL/99클럽 코테 스터디 12일차 TIL +240803.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -181,12 +177,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "4105980464ffe352",
+  "active": "15f39cac7766290c",
   "lastOpenFiles": [
+    "resources/preview.mhtml",
+    "resources/preview 1.mhtml",
+    "7_TIL/99클럽 코테 스터디 12일차 TIL +240803.md",
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "2_Areas/취업준비/이력서 사이트 보기 리스트.md",
-    "7_TIL/99클럽 코테 스터디 12일차 TIL +240803.md",
     "5_Memo/java HashMap의 메소드.md",
     "5_Memo/웹 방화벽이란(WAF, Web Application Firewall).md",
     "5_Memo/웹 페이지 인덱싱.md",
@@ -208,27 +206,25 @@
     "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/휴먼 컨설팅 그룹.md",
     "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/그릿스탠다드.md",
     "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/NHN.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/토스.md",
     "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션",
-    "images/Untitled 59.png",
-    "images/Untitled 1 26.png",
-    "images/Untitled 58.png",
-    "images/Untitled 3 14.png",
-    "images/Untitled 2 16.png",
-    "images/Untitled 1 25.png",
-    "images/Untitled 57.png",
-    "images/Untitled 3 13.png",
-    "images/Untitled 2 15.png",
-    "images/Untitled 1 24.png",
-    "images/ytelltaAws 2.pem",
-    "images/tinySeleniumProject 2.zip",
-    "images/Store_API_data__alternatives(%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%80%EC%9E%A5%EB%B0%A9%EB%B2%95).mhtml",
-    "images/burger_Custom.sql",
-    "images/burger.sql",
+    "resources/Untitled 59.png",
+    "resources/Untitled 1 26.png",
+    "resources/Untitled 58.png",
+    "resources/Untitled 3 14.png",
+    "resources/Untitled 2 16.png",
+    "resources/Untitled 1 25.png",
+    "resources/Untitled 57.png",
+    "resources/Untitled 3 13.png",
+    "resources/Untitled 2 15.png",
+    "resources/Untitled 1 24.png",
+    "resources/ytelltaAws 2.pem",
+    "resources/tinySeleniumProject 2.zip",
+    "resources/Store_API_data__alternatives(%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%80%EC%9E%A5%EB%B0%A9%EB%B2%95).mhtml",
+    "resources/burger_Custom.sql",
+    "resources/burger.sql",
     "1_Projects/Burgerput/2_유지보수/3rd 테스트서버 셋업 1/swap 메모리 설정",
     "1_Projects/Burgerput/1_개발문서/linux mysql setup/Add min max column for custom_ tables",
     "1_Projects/Burgerput/1_개발문서/linux mysql setup/MySQL 8 대소문자 구분",
-    "1_Projects/Burgerput/1_개발문서/Aws Files/WinSCP를 이용해서 AWS FTP접속하기",
     "Untitled.canvas"
   ]
 }

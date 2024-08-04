@@ -4,6 +4,8 @@ Last edited time: Invalid date
 Progress: end
 on Naver: false
 업로드할까?: false
+created: 2024-08-03T14:37
+updated: 2024-08-04T22:42
 ---
 # Domain for EC2
 
@@ -27,7 +29,7 @@ Route 53 select → 호스팅 영역 생성
 
 ## 2-1. Create Hosted Zone
 
-![[images/Untitled 28.png|Untitled 28.png]]
+![[Untitled 28.png|Untitled 28.png]]
 
 ### Tags
 
@@ -39,19 +41,19 @@ Value : [your EC2 Instance Name]
 
 ## 2-2. Create record
 
-![[images/Untitled 1 8.png|Untitled 1 8.png]]
+![[Untitled 1 8.png|Untitled 1 8.png]]
 
   
 
   
 
-![[images/Untitled 2 6.png|Untitled 2 6.png]]
+![[Untitled 2 6.png|Untitled 2 6.png]]
 
 Enter your EC2 ip address in the Value
 
   
 
-![[images/Untitled 3 6.png|Untitled 3 6.png]]
+![[Untitled 3 6.png|Untitled 3 6.png]]
 
 highlight yellow addresses are connection addresses with nameServer( in my case 가비아)
 
@@ -61,13 +63,13 @@ highlight yellow addresses are connection addresses with nameServer( in my case 
 
 ## 1-1. 가비아 name server 설정
 
-![[images/Untitled 4 5.png|Untitled 4 5.png]]
+![[Untitled 4 5.png|Untitled 4 5.png]]
 
   
 
   
 
-![[images/Untitled 5 5.png|Untitled 5 5.png]]
+![[Untitled 5 5.png|Untitled 5 5.png]]
 
 Enter the AWS Addresses
 
