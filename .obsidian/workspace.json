@@ -4,76 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "f14be39471e43ef7",
-        "type": "tabs",
-        "dimension": 71.2707182320442,
-        "children": [
-          {
-            "id": "7f85f821156688c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/다섯가지기업 선정/NHN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f41efdc185e247fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/다섯가지기업 선정/그릿스탠다드.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16e2eca21741dc4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/다섯가지기업 선정/넥슨.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2b8e7b9e9a0319f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/넥슨에서 필요한 핵심 역량 다섯가지 선정/넥슨에서 필요한 핵심 역량 다섯가지 선정.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
         "id": "f2c09484126a8fb8",
         "type": "tabs",
-        "dimension": 28.729281767955804,
         "children": [
-          {
-            "id": "2caed6827f1efab6",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
           {
             "id": "7a78d9835dba43c0",
             "type": "leaf",
@@ -87,6 +20,35 @@
             }
           }
         ]
+      },
+      {
+        "id": "a2fd5dd963933f8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2caed6827f1efab6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "60da0eaa85a214d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5_Memo/화이트리스트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/넥슨에서 필요한 핵심 역량 다섯가지 선정/넥슨에서 필요한 핵심 역량 다섯가지 선정.md",
+                "file": "5_Memo/java HashMap의 메소드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/넥슨에서 필요한 핵심 역량 다섯가지 선정/넥슨에서 필요한 핵심 역량 다섯가지 선정.md",
+                "file": "5_Memo/java HashMap의 메소드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/넥슨에서 필요한 핵심 역량 다섯가지 선정/넥슨에서 필요한 핵심 역량 다섯가지 선정.md"
+                "file": "5_Memo/java HashMap의 메소드.md"
               }
             }
           }
@@ -218,17 +180,18 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c2b8e7b9e9a0319f",
+  "active": "7a78d9835dba43c0",
   "lastOpenFiles": [
-    "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/첫 번째 과제 - 기업조사 미션.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/넥슨에서 필요한 핵심 역량 다섯가지 선정/넥슨에서 필요한 핵심 역량 다섯가지 선정.md",
-    "7_TIL/99클럽 코테 스터디 13일차 TIL +240804.md",
+    "5_Memo/화이트리스트.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/다섯가지기업 선정/NHN.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/다섯가지기업 선정/그릿스탠다드.md",
     "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/다섯가지기업 선정/넥슨.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/넥슨에서 필요한 핵심 역량 다섯가지 선정/넥슨에서 필요한 핵심 역량 다섯가지 선정.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/첫 번째 과제 - 기업조사 미션.md",
+    "7_TIL/99클럽 코테 스터디 13일차 TIL +240804.md",
     "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/넥슨에서 필요한 핵심 역량 다섯가지 선정/넥슨에서필요한 핵심 역량 다섯가지 선정_20240805.pdf",
     "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/넥슨에서 필요한 핵심 역량 다섯가지 선정",
     "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/다섯가지기업 선정/휴먼 컨설팅 그룹.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/다섯가지기업 선정/그릿스탠다드.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/다섯가지기업 선정/NHN.md",
     "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/다섯가지기업 선정",
     "resources/preview.mhtml",
     "resources/preview 1.mhtml",
@@ -250,7 +213,6 @@
     "1_Projects/Burgerput/2_유지보수/Cookie를 주고받기 위한 Same-site설정.md",
     "1_Projects/Burgerput/2_유지보수/CORS설정.md",
     "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
-    "1_Projects/Burgerput/Burgerput.md",
     "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션",
     "resources/Untitled 59.png",
     "resources/Untitled 1 26.png",
