@@ -6,6 +6,7 @@
       {
         "id": "f2c09484126a8fb8",
         "type": "tabs",
+        "dimension": 83.72093023255815,
         "children": [
           {
             "id": "60da0eaa85a214d1",
@@ -61,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5_Memo/소수판별법.md",
+                "file": "1_Projects/Burgerput/2_유지보수/수상한 GET 요청.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,6 +86,7 @@
       {
         "id": "a2fd5dd963933f8d",
         "type": "tabs",
+        "dimension": 16.27906976744186,
         "children": [
           {
             "id": "2caed6827f1efab6",
@@ -146,8 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -163,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5_Memo/소수판별법.md",
+                "file": "1_Projects/Burgerput/2_유지보수/수상한 GET 요청.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5_Memo/소수판별법.md",
+                "file": "1_Projects/Burgerput/2_유지보수/수상한 GET 요청.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5_Memo/소수판별법.md"
+                "file": "1_Projects/Burgerput/2_유지보수/수상한 GET 요청.md"
               }
             }
           }
@@ -231,8 +232,10 @@
   },
   "active": "1c10c726519b68f0",
   "lastOpenFiles": [
-    "5_Memo/DevOps.md",
+    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
+    "1_Projects/Burgerput/Burgerput.md",
     "5_Memo/소수판별법.md",
+    "5_Memo/DevOps.md",
     "5_Memo/ERD.md",
     "5_Memo/싱글톤 패턴.md",
     "5_Memo/화이트리스트.md",
@@ -254,7 +257,6 @@
     "resources/preview 1.mhtml",
     "7_TIL/99클럽 코테 스터디 12일차 TIL +240803.md",
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
-    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "2_Areas/취업준비/이력서 사이트 보기 리스트.md",
     "5_Memo/웹 방화벽이란(WAF, Web Application Firewall).md",
     "5_Memo/웹 페이지 인덱싱.md",
@@ -262,7 +264,6 @@
     "5_Memo/java  Map.md",
     "5_Memo/c++ Map의 사용법.md",
     "5_Memo/HashTable.md",
-    "5_Memo/Java HashMap을 정렬하는 법.md",
     "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션",
     "resources/Untitled 59.png",
     "resources/Untitled 1 26.png",
