@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/수상한 GET 요청.md",
+                "file": "1_Projects/Burgerput/Burgerput.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/수상한 GET 요청.md",
+                "file": "1_Projects/Burgerput/Burgerput.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/수상한 GET 요청.md",
+                "file": "1_Projects/Burgerput/Burgerput.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/수상한 GET 요청.md"
+                "file": "1_Projects/Burgerput/Burgerput.md"
               }
             }
           }
@@ -232,8 +232,12 @@
   },
   "active": "1c10c726519b68f0",
   "lastOpenFiles": [
+    "1_Projects/Burgerput/0_회의록/0_회의록.md",
+    "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
+    "1_Projects/Burgerput/2_유지보수/3rd 테스트서버 셋업 1/3rd 테스트서버 셋업 1.md",
     "1_Projects/Burgerput/Burgerput.md",
+    "1_Projects/Burgerput/2_유지보수/수상한 GET 요청.md",
     "5_Memo/소수판별법.md",
     "5_Memo/DevOps.md",
     "5_Memo/ERD.md",
@@ -260,10 +264,6 @@
     "2_Areas/취업준비/이력서 사이트 보기 리스트.md",
     "5_Memo/웹 방화벽이란(WAF, Web Application Firewall).md",
     "5_Memo/웹 페이지 인덱싱.md",
-    "5_Memo/웹페이지 인덱싱.md",
-    "5_Memo/java  Map.md",
-    "5_Memo/c++ Map의 사용법.md",
-    "5_Memo/HashTable.md",
     "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션",
     "resources/Untitled 59.png",
     "resources/Untitled 1 26.png",
