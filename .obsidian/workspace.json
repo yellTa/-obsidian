@@ -14,7 +14,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/테스트서버에 cron설정하기.md",
+                "file": "Templates/99클럽 코테 스터디 n일차 TIL +.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2ac0ca3b0cc8b60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7_TIL/99클럽 코테 스터디 14일차 TIL + 240806.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +44,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -115,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/테스트서버에 cron설정하기.md",
+                "file": "7_TIL/99클럽 코테 스터디 14일차 TIL + 240806.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/테스트서버에 cron설정하기.md",
+                "file": "7_TIL/99클럽 코테 스터디 14일차 TIL + 240806.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/테스트서버에 cron설정하기.md"
+                "file": "7_TIL/99클럽 코테 스터디 14일차 TIL + 240806.md"
               }
             }
           }
@@ -181,15 +194,20 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "60da0eaa85a214d1",
+  "active": "e2ac0ca3b0cc8b60",
   "lastOpenFiles": [
-    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
+    "Templates/99클럽 코테 스터디 n일차 TIL +.md",
+    "7_TIL/99클럽 코테 스터디 14일차 TIL + 240806.md",
+    "7_TIL/99클럽 코테 스터디 12일차 TIL +240803.md",
+    "Templates/Memo.md",
+    "Templates/devlop.md",
+    "Templates/Todo.md",
+    "7_TIL/99클럽 코테 스터디 1일차 TIL + 2024-07-23.md",
     "1_Projects/Burgerput/2_유지보수/테스트서버에 cron설정하기.md",
+    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/2_유지보수/테스트 서버 Cron 설정하기.md",
     "5_Memo/화이트리스트.md",
     "Templates/projectdocs.md",
-    "Templates/devlop.md",
-    "Templates/99클럽 코테 스터디 n일차 TIL +.md",
     "1_Projects/Burgerput/2_유지보수/Cookie를 주고받기 위한 Same-site설정.md",
     "5_Memo/싱글톤 패턴.md",
     "5_Memo/ERD.md",
@@ -204,11 +222,6 @@
     "1_Projects/Burgerput/3_TroubleDocs/제출에러 수정하기/happy happy.md",
     "1_Projects/Burgerput/3_TroubleDocs/SSL 갱신 이슈.md",
     "1_Projects/Burgerput/2_유지보수/sortspec.md.md",
-    "2_Areas/취업준비/2025년 취업 다 개패버리기/2025년 취업 다 개패버리기.md",
-    "1_Projects/Burgerput/3_TroubleDocs/TEMPLATE.md",
-    "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
-    "1_Projects/Burgerput/2_유지보수/3rd 테스트서버 셋업 1/3rd 테스트서버 셋업 1.md",
-    "1_Projects/Burgerput/2_유지보수/수상한 GET 요청.md",
     "5_Memo/icp",
     "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/넥슨에서 필요한 핵심 역량 다섯가지 선정/넥슨에서필요한 핵심 역량 다섯가지 선정_20240805.pdf",
     "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/넥슨에서 필요한 핵심 역량 다섯가지 선정",
