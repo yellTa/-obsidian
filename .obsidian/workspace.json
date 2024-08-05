@@ -62,9 +62,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
+                "file": "1_Projects/Burgerput/3_TroubleDocs/sortspec.md.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
+                "file": "1_Projects/Burgerput/3_TroubleDocs/sortspec.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
+                "file": "1_Projects/Burgerput/3_TroubleDocs/sortspec.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md"
+                "file": "1_Projects/Burgerput/3_TroubleDocs/sortspec.md.md"
               }
             }
           }
@@ -230,15 +230,16 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "15f39cac7766290c",
+  "active": "1c10c726519b68f0",
   "lastOpenFiles": [
+    "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
+    "1_Projects/Burgerput/2_유지보수/sortspec.md.md",
+    "1_Projects/Burgerput/2_유지보수/테스트 서버 Cron 설정하기.md",
+    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/3_TroubleDocs/sortspec.md.md",
     "2_Areas/취업준비/2025년 취업 다 개패버리기/2025년 취업 다 개패버리기.md",
-    "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
     "1_Projects/Burgerput/3_TroubleDocs/TEMPLATE.md",
     "1_Projects/Burgerput/Burgerput.md",
-    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
-    "1_Projects/Burgerput/2_유지보수/Untitled.md",
     "1_Projects/Burgerput/0_회의록/0_회의록.md",
     "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
     "1_Projects/Burgerput/2_유지보수/3rd 테스트서버 셋업 1/3rd 테스트서버 셋업 1.md",
@@ -260,7 +261,6 @@
     "7_TIL/99클럽 코테 스터디 13일차 TIL +240804.md",
     "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/넥슨에서 필요한 핵심 역량 다섯가지 선정/넥슨에서필요한 핵심 역량 다섯가지 선정_20240805.pdf",
     "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/넥슨에서 필요한 핵심 역량 다섯가지 선정",
-    "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/다섯가지기업 선정/휴먼 컨설팅 그룹.md",
     "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/다섯가지기업 선정",
     "resources/preview.mhtml",
     "resources/preview 1.mhtml",
