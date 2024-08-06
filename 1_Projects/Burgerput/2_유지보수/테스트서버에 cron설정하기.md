@@ -1,6 +1,6 @@
 ---
 created: 2024-07-21T16:55
-updated: 2024-08-06T11:55
+updated: 2024-08-06T11:56
 tags:
   - develop
 progresses: []
@@ -25,8 +25,10 @@ post됨: false
 ## 1. burgerput서버 1의 도메인 해제
 ![[Pasted image 20240806115503.png]]
 
-레코드 세 개를 먼저 삭제한다.
+레코드를 삭제한다. NS와 SOA는 남아있는 것이 정상이다. 
+![[Pasted image 20240806115630.png]]
 
+호스팅 영역 선택 후 삭제를 수행한다.
 
 
 # CONCLUSION:

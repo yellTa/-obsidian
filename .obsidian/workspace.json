@@ -116,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1_Projects/Burgerput/2_유지보수/테스트서버에 cron설정하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1_Projects/Burgerput/2_유지보수/테스트서버에 cron설정하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1_Projects/Burgerput/2_유지보수/테스트서버에 cron설정하기.md"
+              }
             }
           }
         ]
@@ -178,8 +182,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2caed6827f1efab6",
+  "active": "7a78d9835dba43c0",
   "lastOpenFiles": [
+    "Pasted image 20240806115630.png",
     "1_Projects/Burgerput/2_유지보수/테스트서버에 cron설정하기.md",
     "Pasted image 20240806115503.png",
     "Pasted image 20240806115147.png",
