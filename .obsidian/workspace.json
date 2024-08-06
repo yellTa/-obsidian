@@ -6,7 +6,7 @@
       {
         "id": "f2c09484126a8fb8",
         "type": "tabs",
-        "dimension": 83.72093023255815,
+        "dimension": 74.31444241316271,
         "children": [
           {
             "id": "60da0eaa85a214d1",
@@ -15,18 +15,6 @@
               "type": "markdown",
               "state": {
                 "file": "Templates/99클럽 코테 스터디 n일차 TIL +.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2ac0ca3b0cc8b60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_TIL/99클럽 코테 스터디 14일차 TIL + 240806.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,14 +31,26 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e2ac0ca3b0cc8b60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Projects/Burgerput/2_유지보수/3rd 테스트서버 셋업 1/3rd 테스트서버 셋업 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "a2fd5dd963933f8d",
         "type": "tabs",
-        "dimension": 16.27906976744186,
+        "dimension": 25.685557586837295,
         "children": [
           {
             "id": "2caed6827f1efab6",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 14일차 TIL + 240806.md",
+                "file": "1_Projects/Burgerput/2_유지보수/3rd 테스트서버 셋업 1/3rd 테스트서버 셋업 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 14일차 TIL + 240806.md",
+                "file": "1_Projects/Burgerput/2_유지보수/3rd 테스트서버 셋업 1/3rd 테스트서버 셋업 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 14일차 TIL + 240806.md"
+                "file": "1_Projects/Burgerput/2_유지보수/3rd 테스트서버 셋업 1/3rd 테스트서버 셋업 1.md"
               }
             }
           }
@@ -196,15 +196,15 @@
   },
   "active": "e2ac0ca3b0cc8b60",
   "lastOpenFiles": [
-    "Templates/99클럽 코테 스터디 n일차 TIL +.md",
+    "1_Projects/Burgerput/2_유지보수/테스트서버에 cron설정하기.md",
+    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "7_TIL/99클럽 코테 스터디 14일차 TIL + 240806.md",
+    "Templates/99클럽 코테 스터디 n일차 TIL +.md",
     "7_TIL/99클럽 코테 스터디 12일차 TIL +240803.md",
     "Templates/Memo.md",
     "Templates/devlop.md",
     "Templates/Todo.md",
     "7_TIL/99클럽 코테 스터디 1일차 TIL + 2024-07-23.md",
-    "1_Projects/Burgerput/2_유지보수/테스트서버에 cron설정하기.md",
-    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/2_유지보수/테스트 서버 Cron 설정하기.md",
     "5_Memo/화이트리스트.md",
     "Templates/projectdocs.md",
