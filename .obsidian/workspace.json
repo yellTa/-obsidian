@@ -130,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/2_유지보수.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -196,13 +192,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "ccdae00068aa2652",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
+    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/Burgerput.md",
     "1_Projects/Burgerput/2_유지보수/테스트서버에 cron설정하기.md",
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
     "Templates/devlop.md",
-    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/2_유지보수/수상한 GET 요청.md",
     "1_Projects/Burgerput/0_회의록/0_회의록.md",
     "resources/Pasted image 20240806120816.png",
