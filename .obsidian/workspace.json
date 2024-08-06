@@ -126,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -210,6 +211,7 @@
   },
   "active": "a865e8273438783c",
   "lastOpenFiles": [
+    "resources/Pasted image 20240806194358.png",
     "resources/Pasted image 20240806194202.png",
     "resources/Pasted image 20240806193654.png",
     "1_Projects/Burgerput/0_회의록/0_회의록.md",
@@ -252,7 +254,6 @@
     "resources/Untitled 59.png",
     "resources/Untitled 1 26.png",
     "resources/Untitled 58.png",
-    "resources/Untitled 3 14.png",
     "resources/ytelltaAws 2.pem",
     "resources/tinySeleniumProject 2.zip",
     "resources/Store_API_data__alternatives(%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%80%EC%9E%A5%EB%B0%A9%EB%B2%95).mhtml",
