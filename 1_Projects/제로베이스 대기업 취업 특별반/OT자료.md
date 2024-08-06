@@ -1,6 +1,6 @@
 ---
 created: 2024-08-06T19:36
-updated: 2024-08-06T20:05
+updated: 2024-08-06T20:07
 ---
 ![[Pasted image 20240806193654.png]]
 
@@ -40,6 +40,8 @@ updated: 2024-08-06T20:05
 ![[Pasted image 20240806200437.png]]
 
 ![[Pasted image 20240806200532.png]]
+
+![[Pasted image 20240806200705.png]]
 
 
 
