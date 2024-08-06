@@ -11,27 +11,55 @@
           {
             "id": "60da0eaa85a214d1",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/99클럽 코테 스터디 n일차 TIL +.md",
+                "file": "1_Projects/Burgerput/Burgerput.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "a865e8273438783c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Projects/Burgerput/2_유지보수/테스트서버에 cron설정하기.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7a78d9835dba43c0",
+            "id": "0dfa50de9648790a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "resources/Pasted image 20240806115147.png"
+                "file": "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1032b6aec8b5d824",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Projects/Burgerput/2_유지보수/테스트서버에 cron설정하기.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -114,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1_Projects/Burgerput/2_유지보수/테스트서버에 cron설정하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1_Projects/Burgerput/2_유지보수/테스트서버에 cron설정하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1_Projects/Burgerput/2_유지보수/테스트서버에 cron설정하기.md"
+              }
             }
           }
         ]
@@ -176,23 +208,25 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2caed6827f1efab6",
+  "active": "1032b6aec8b5d824",
   "lastOpenFiles": [
-    "resources/Pasted image 20240806115147.png",
-    "1_Projects/Burgerput/2_유지보수/테스트서버에 cron설정하기.md",
-    "resources/Pasted image 20240806120139.png",
+    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
+    "1_Projects/Burgerput/2_유지보수/수상한 GET 요청.md",
     "1_Projects/Burgerput/Burgerput.md",
+    "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
+    "1_Projects/Burgerput/2_유지보수/테스트서버에 cron설정하기.md",
     "1_Projects/Burgerput/0_회의록/0_회의록.md",
+    "resources/Pasted image 20240806120816.png",
+    "Templates/99클럽 코테 스터디 n일차 TIL +.md",
+    "resources/Pasted image 20240806115147.png",
+    "resources/Pasted image 20240806120139.png",
     "resources/Pasted image 20240806115630.png",
     "resources/Pasted image 20240806115503.png",
     "5_Memo/java HashMap의 메소드.md",
     "1_Projects/Burgerput/2_유지보수/new note.md",
     "sortspec.md.md",
-    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
-    "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
     "1_Projects/Burgerput/2_유지보수/3rd 테스트서버 셋업 1/3rd 테스트서버 셋업 1.md",
     "7_TIL/99클럽 코테 스터디 14일차 TIL + 240806.md",
-    "Templates/99클럽 코테 스터디 n일차 TIL +.md",
     "7_TIL/99클럽 코테 스터디 12일차 TIL +240803.md",
     "Templates/Memo.md",
     "Templates/devlop.md",
@@ -219,7 +253,6 @@
     "resources/Untitled 58.png",
     "resources/Untitled 3 14.png",
     "resources/Untitled 2 16.png",
-    "resources/Untitled 1 25.png",
     "resources/ytelltaAws 2.pem",
     "resources/tinySeleniumProject 2.zip",
     "resources/Store_API_data__alternatives(%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%80%EC%9E%A5%EB%B0%A9%EB%B2%95).mhtml",
