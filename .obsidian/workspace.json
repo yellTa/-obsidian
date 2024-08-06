@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/Burgerput/0_회의록/0_회의록.md",
+                "file": "1_Projects/Burgerput/0_회의록/7월9일 회의록.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/Burgerput/0_회의록/0_회의록.md",
+                "file": "1_Projects/Burgerput/0_회의록/0806회의록.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -154,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/Burgerput/0_회의록/0_회의록.md",
+                "file": "1_Projects/Burgerput/0_회의록/0806회의록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/Burgerput/0_회의록/0_회의록.md",
+                "file": "1_Projects/Burgerput/0_회의록/0806회의록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/Burgerput/0_회의록/0_회의록.md"
+                "file": "1_Projects/Burgerput/0_회의록/0806회의록.md"
               }
             }
           }
@@ -222,8 +223,10 @@
   },
   "active": "b7a773606515beaa",
   "lastOpenFiles": [
-    "1_Projects/Burgerput/Burgerput.md",
+    "1_Projects/Burgerput/0_회의록/0806회의록.md",
+    "1_Projects/Burgerput/0_회의록/7월9일 회의록.md",
     "1_Projects/Burgerput/0_회의록/0_회의록.md",
+    "1_Projects/Burgerput/Burgerput.md",
     "Templates/devlop.md",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/2_유지보수/테스트서버에 cron설정하기.md",
@@ -251,8 +254,6 @@
     "5_Memo/싱글톤 패턴.md",
     "5_Memo/ERD.md",
     "1_Projects/Burgerput/3_TroubleDocs/테스트 서버에 cron 설정하기.md",
-    "1_Projects/Burgerput/3_TroubleDocs/accounts 테이블 저장이슈.md",
-    "5_Memo/DevOps.md",
     "5_Memo/icp",
     "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/넥슨에서 필요한 핵심 역량 다섯가지 선정/넥슨에서필요한 핵심 역량 다섯가지 선정_20240805.pdf",
     "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/넥슨에서 필요한 핵심 역량 다섯가지 선정",
