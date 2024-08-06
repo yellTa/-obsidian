@@ -1,9 +1,9 @@
 ---
 created: 2024-07-21T16:55
-updated: 2024-07-22T11:49
+updated: 2024-08-06T12:12
 tags:
   - develop
-progresses:
+Progress:
   - end
   - in_progress
   - unsolved

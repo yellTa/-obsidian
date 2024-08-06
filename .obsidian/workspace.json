@@ -35,31 +35,19 @@
             }
           },
           {
-            "id": "0dfa50de9648790a",
+            "id": "ccdae00068aa2652",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1032b6aec8b5d824",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/테스트서버에 cron설정하기.md",
+                "file": "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -142,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/테스트서버에 cron설정하기.md",
+                "file": "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/테스트서버에 cron설정하기.md",
+                "file": "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/테스트서버에 cron설정하기.md"
+                "file": "1_Projects/Burgerput/2_유지보수/2_유지보수.md"
               }
             }
           }
@@ -208,13 +196,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "1032b6aec8b5d824",
+  "active": "ccdae00068aa2652",
   "lastOpenFiles": [
+    "1_Projects/Burgerput/Burgerput.md",
+    "1_Projects/Burgerput/2_유지보수/테스트서버에 cron설정하기.md",
+    "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
+    "Templates/devlop.md",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/2_유지보수/수상한 GET 요청.md",
-    "1_Projects/Burgerput/Burgerput.md",
-    "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
-    "1_Projects/Burgerput/2_유지보수/테스트서버에 cron설정하기.md",
     "1_Projects/Burgerput/0_회의록/0_회의록.md",
     "resources/Pasted image 20240806120816.png",
     "Templates/99클럽 코테 스터디 n일차 TIL +.md",
@@ -229,7 +218,6 @@
     "7_TIL/99클럽 코테 스터디 14일차 TIL + 240806.md",
     "7_TIL/99클럽 코테 스터디 12일차 TIL +240803.md",
     "Templates/Memo.md",
-    "Templates/devlop.md",
     "Templates/Todo.md",
     "7_TIL/99클럽 코테 스터디 1일차 TIL + 2024-07-23.md",
     "1_Projects/Burgerput/2_유지보수/테스트 서버 Cron 설정하기.md",
