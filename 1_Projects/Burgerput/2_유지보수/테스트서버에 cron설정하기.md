@@ -1,6 +1,6 @@
 ---
 created: 2024-07-21T16:55
-updated: 2024-08-06T11:52
+updated: 2024-08-06T11:55
 tags:
   - develop
 progresses: []
@@ -23,9 +23,11 @@ post됨: false
 4. mysql 정보 분평점 정보로 바꿔놓기
 5. cron 설정해놓기- 일단 메일 시스템은 구축하지 않는 방향으로 설정
 ## 1. burgerput서버 1의 도메인 해제
-![[Pasted image 20240806115147.png]]
+![[Pasted image 20240806115503.png]]
 
-삭제를 눌러서 삭제하도록 하자
+레코드 세 개를 먼저 삭제한다.
+
+
 
 # CONCLUSION:
 
