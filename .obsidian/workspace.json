@@ -40,14 +40,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
+                "file": "Templates/devlop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8557ecdd50fd7aca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Projects/Burgerput/0_회의록/0_회의록.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7a773606515beaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Projects/Burgerput/0_회의록/0_회의록.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -130,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1_Projects/Burgerput/0_회의록/0_회의록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1_Projects/Burgerput/0_회의록/0_회의록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1_Projects/Burgerput/0_회의록/0_회의록.md"
+              }
             }
           }
         ]
@@ -192,15 +220,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2caed6827f1efab6",
+  "active": "b7a773606515beaa",
   "lastOpenFiles": [
-    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/Burgerput.md",
+    "1_Projects/Burgerput/0_회의록/0_회의록.md",
+    "Templates/devlop.md",
+    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/2_유지보수/테스트서버에 cron설정하기.md",
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
-    "Templates/devlop.md",
     "1_Projects/Burgerput/2_유지보수/수상한 GET 요청.md",
-    "1_Projects/Burgerput/0_회의록/0_회의록.md",
     "resources/Pasted image 20240806120816.png",
     "Templates/99클럽 코테 스터디 n일차 TIL +.md",
     "resources/Pasted image 20240806115147.png",

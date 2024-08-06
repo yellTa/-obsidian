@@ -1,12 +1,12 @@
 ---
 created: 2024-07-21T16:55
-updated: 2024-08-06T12:12
+updated: 2024-08-06T12:23
 tags:
   - develop
 Progress:
   - end
-  - in_progress
   - unsolved
+  - ongoing
 post할까?: false
 post됨: 
 ---
