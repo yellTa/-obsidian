@@ -1,9 +1,10 @@
 ---
 created: 2024-07-21T16:55
-updated: 2024-08-06T12:02
+updated: 2024-08-06T12:06
 tags:
   - develop
-progresses: []
+progresses:
+  - in_progress
 post할까?: false
 post됨: false
 ---
@@ -34,6 +35,9 @@ post됨: false
 ![[Pasted image 20240806120139.png]]
 
 해제한 도메인 burback2.shop등록
+
+> 현재 AWS에서 burback2.shop이 사용이 불가하다... shop을 사용할 수 없기 때문 ㅋ 그래서 다른거로 구매해서 설정해야할 듯 하다...
+
 
 
 
