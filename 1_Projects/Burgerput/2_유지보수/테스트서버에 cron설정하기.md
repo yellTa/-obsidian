@@ -1,6 +1,6 @@
 ---
 created: 2024-07-21T16:55
-updated: 2024-08-06T11:56
+updated: 2024-08-06T12:02
 tags:
   - develop
 progresses: []
@@ -29,6 +29,18 @@ post됨: false
 ![[Pasted image 20240806115630.png]]
 
 호스팅 영역 선택 후 삭제를 수행한다.
+
+## burgerput 서버 3에 도메인 적용(1에서 해제한 도메인을 적용하기)
+![[Pasted image 20240806120139.png]]
+
+해제한 도메인 burback2.shop등록
+
+
+
+## 3. java application 띄우기
+## 4. mysql 정보 분평점 정보로 바꿔놓기
+## 5. cron 설정해놓기- 일단 메일 시스템은 구축하지 않는 방향으로 설정
+
 
 
 # CONCLUSION:

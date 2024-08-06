@@ -116,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/테스트서버에 cron설정하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/테스트서버에 cron설정하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/테스트서버에 cron설정하기.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -182,10 +178,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "7a78d9835dba43c0",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
-    "Pasted image 20240806115630.png",
     "1_Projects/Burgerput/2_유지보수/테스트서버에 cron설정하기.md",
+    "Pasted image 20240806120139.png",
+    "1_Projects/Burgerput/Burgerput.md",
+    "1_Projects/Burgerput/0_회의록/0_회의록.md",
+    "Pasted image 20240806115630.png",
     "Pasted image 20240806115503.png",
     "Pasted image 20240806115147.png",
     "5_Memo/java HashMap의 메소드.md",
@@ -193,7 +192,6 @@
     "sortspec.md.md",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
-    "1_Projects/Burgerput/0_회의록/0_회의록.md",
     "1_Projects/Burgerput/2_유지보수/3rd 테스트서버 셋업 1/3rd 테스트서버 셋업 1.md",
     "7_TIL/99클럽 코테 스터디 14일차 TIL + 240806.md",
     "Templates/99클럽 코테 스터디 n일차 TIL +.md",
@@ -210,7 +208,6 @@
     "5_Memo/ERD.md",
     "1_Projects/Burgerput/3_TroubleDocs/테스트 서버에 cron 설정하기.md",
     "1_Projects/Burgerput/3_TroubleDocs/accounts 테이블 저장이슈.md",
-    "1_Projects/Burgerput/Burgerput.md",
     "5_Memo/DevOps.md",
     "5_Memo/icp",
     "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/넥슨에서 필요한 핵심 역량 다섯가지 선정/넥슨에서필요한 핵심 역량 다섯가지 선정_20240805.pdf",
@@ -225,8 +222,6 @@
     "resources/Untitled 3 14.png",
     "resources/Untitled 2 16.png",
     "resources/Untitled 1 25.png",
-    "resources/Untitled 57.png",
-    "resources/Untitled 3 13.png",
     "resources/ytelltaAws 2.pem",
     "resources/tinySeleniumProject 2.zip",
     "resources/Store_API_data__alternatives(%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%80%EC%9E%A5%EB%B0%A9%EB%B2%95).mhtml",
