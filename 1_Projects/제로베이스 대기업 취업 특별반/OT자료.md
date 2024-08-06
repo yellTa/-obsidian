@@ -1,6 +1,6 @@
 ---
 created: 2024-08-06T19:36
-updated: 2024-08-06T20:00
+updated: 2024-08-06T20:05
 ---
 ![[Pasted image 20240806193654.png]]
 
@@ -36,6 +36,11 @@ updated: 2024-08-06T20:00
 직무진단 스테이지
 
 ![[Pasted image 20240806200002.png]]
+
+![[Pasted image 20240806200437.png]]
+
+![[Pasted image 20240806200532.png]]
+
 
 
 
