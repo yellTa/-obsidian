@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5_Memo/TIL작성법.md",
+                "file": "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
                 "mode": "source",
                 "source": false
               }
@@ -175,7 +175,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5_Memo/TIL작성법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +191,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5_Memo/TIL작성법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,9 +212,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "5_Memo/TIL작성법.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -241,10 +237,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "5da8275d1c30bfbd",
+  "active": "c0c51e65638f135f",
   "lastOpenFiles": [
-    "7_TIL/99클럽 코테 스터디 15일차 TIL +20240807.md",
+    "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
     "5_Memo/TIL작성법.md",
+    "7_TIL/99클럽 코테 스터디 15일차 TIL +20240807.md",
     "Templates/99클럽 코테 스터디 n일차 TIL +.md",
     "7_TIL/99클럽 코테 스터디 n일차 TIL +.md",
     "7_TIL/99클럽 코테 스터디 14일차 TIL + 20240806.md",
@@ -278,7 +275,6 @@
     "sortspec.md.md",
     "1_Projects/Burgerput/2_유지보수/3rd 테스트서버 셋업 1/3rd 테스트서버 셋업 1.md",
     "7_TIL/99클럽 코테 스터디 14일차 TIL + 240806.md",
-    "7_TIL/99클럽 코테 스터디 12일차 TIL +240803.md",
     "5_Memo/icp",
     "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/넥슨에서 필요한 핵심 역량 다섯가지 선정/넥슨에서필요한 핵심 역량 다섯가지 선정_20240805.pdf",
     "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/넥슨에서 필요한 핵심 역량 다섯가지 선정",
