@@ -57,33 +57,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d5efdd3c3a979742",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Projects/Burgerput/3_TroubleDocs/제출에러 수정하기/제출에러 수정하기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad7ab6ff079c3acf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5_Memo/Parametric Search.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -175,6 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "7_TIL/99클럽 코테 스터디 14일차 TIL + 20240806.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,6 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "7_TIL/99클럽 코테 스터디 14일차 TIL + 20240806.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +190,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "7_TIL/99클럽 코테 스터디 14일차 TIL + 20240806.md"
+              }
             }
           }
         ]
@@ -237,9 +217,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c0c51e65638f135f",
+  "active": "6dfb7808933c91c8",
   "lastOpenFiles": [
     "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
+    "1_Projects/Burgerput/3_TroubleDocs/제출에러 수정하기/제출에러 수정하기.md",
     "5_Memo/TIL작성법.md",
     "7_TIL/99클럽 코테 스터디 15일차 TIL +20240807.md",
     "Templates/99클럽 코테 스터디 n일차 TIL +.md",
@@ -247,7 +228,6 @@
     "7_TIL/99클럽 코테 스터디 14일차 TIL + 20240806.md",
     "1_Projects/Burgerput/Burgerput.md",
     "5_Memo/Parametric Search.md",
-    "1_Projects/Burgerput/3_TroubleDocs/제출에러 수정하기/제출에러 수정하기.md",
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
     "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
     "1_Projects/Burgerput/1_개발문서/Spring JPA  update가 아닌 insert/Spring JPA  update가 아닌 insert.md",
