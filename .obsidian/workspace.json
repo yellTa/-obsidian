@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
+                "file": "7_TIL/99클럽 코테 스터디 16일차 TIL + 240809.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,14 +40,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 16일차 TIL + 240809.md",
+                "file": "5_Memo/백트래킹 중복제거.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -196,18 +196,20 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "adc8a0a865a291c3",
+  "active": "c0c51e65638f135f",
   "lastOpenFiles": [
-    "5_Memo/백트래킹 중복제거.md",
-    "7_TIL/99클럽 코테 스터디 16일차 TIL + 240809.md",
-    "resources/Pasted image 20240809021537.png",
     "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
+    "5_Memo/백트래킹 중복제거.md",
+    "5_Memo/일루미네이션 알고리즘.md",
+    "5_Memo/그래프 돌리기.md",
+    "7_TIL/99클럽 코테 스터디 16일차 TIL + 240809.md",
+    "resources/Pasted image 20240809022858.png",
+    "resources/Pasted image 20240809021537.png",
     "1_Projects/Burgerput/3_TroubleDocs/제출에러 수정하기/제출에러 수정하기.md",
     "1_Projects/Burgerput/Burgerput.md",
     "resources/Untitled 43.png",
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
     "1_Projects/Burgerput/3_TroubleDocs/테스트 서버에 cron 설정하기.md",
-    "5_Memo/일루미네이션 알고리즘.md",
     "7_TIL/99클럽 코테 스터디 14일차 TIL + 20240806.md",
     "5_Memo/TIL작성법.md",
     "7_TIL/99클럽 코테 스터디 15일차 TIL +20240807.md",
@@ -225,7 +227,6 @@
     "resources/Pasted image 20240806201513.png",
     "resources/Pasted image 20240806201414.png",
     "resources/Pasted image 20240806201343.png",
-    "resources/Pasted image 20240806201230.png",
     "1_Projects/Burgerput/0_회의록/0_회의록.md",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/2_유지보수/테스트서버에 cron설정하기.md",
@@ -233,7 +234,6 @@
     "1_Projects/Burgerput/0_회의록/0806회의록.md",
     "1_Projects/Burgerput/2_유지보수/수상한 GET 요청.md",
     "5_Memo/java HashMap의 메소드.md",
-    "1_Projects/Burgerput/2_유지보수/new note.md",
     "5_Memo/icp",
     "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/넥슨에서 필요한 핵심 역량 다섯가지 선정/넥슨에서필요한 핵심 역량 다섯가지 선정_20240805.pdf",
     "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/넥슨에서 필요한 핵심 역량 다섯가지 선정",
