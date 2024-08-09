@@ -130,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 17일차 TIL + 240809.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 17일차 TIL + 240809.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "7_TIL/99클럽 코테 스터디 17일차 TIL + 240809.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -196,11 +192,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "6e922cf4f545052e",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
+    "7_TIL/99클럽 코테 스터디 17일차 TIL + 240809.md",
     "resources/Pasted image 20240810010334.png",
     "resources/Pasted image 20240810010325.png",
-    "7_TIL/99클럽 코테 스터디 17일차 TIL + 240809.md",
     "2_Areas/알고리즘/트리구조.md",
     "5_Memo/백트래킹 중복제거.md",
     "5_Memo/인텔리제이 단어 같이선택.md",
@@ -233,7 +229,6 @@
     "5_Memo/백트래킹.md",
     "resources/Pasted image 20240807014131.png",
     "1_Projects/제로베이스 대기업 취업 특별반/OT자료.md",
-    "resources/Pasted image 20240806202114.png",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "5_Memo/icp",
     "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/넥슨에서 필요한 핵심 역량 다섯가지 선정/넥슨에서필요한 핵심 역량 다섯가지 선정_20240805.pdf",
