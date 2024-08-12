@@ -1,6 +1,6 @@
 ---
 created: 2024-07-21T16:55
-updated: 2024-08-13T01:48
+updated: 2024-08-13T01:51
 tags:
   - develop
 Progress:
@@ -33,7 +33,8 @@ route53 호스팅 영역 생성하기
 자세한 과정은 아래의 문서에 있다!
 [[AWS Domain Set-up]]
 
-
+## Burgerput 서버를 띄워보자!
+MySQL 정보를 체크해주고 넣어주자1
 
 # CONCLUSION:
 
