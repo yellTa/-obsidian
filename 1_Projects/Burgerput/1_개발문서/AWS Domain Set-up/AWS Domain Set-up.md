@@ -5,7 +5,7 @@ Progress: end
 on Naver: false
 업로드할까?: false
 created: 2024-08-03T14:37
-updated: 2024-08-04T22:42
+updated: 2024-08-13T02:05
 ---
 # Domain for EC2
 
@@ -57,7 +57,6 @@ Enter your EC2 ip address in the Value
 
 highlight yellow addresses are connection addresses with nameServer( in my case 가비아)
 
-  
 
 # 3. 가비아 setup
 
