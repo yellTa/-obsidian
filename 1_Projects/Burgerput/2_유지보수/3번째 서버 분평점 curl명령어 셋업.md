@@ -1,6 +1,6 @@
 ---
 created: 2024-07-21T16:55
-updated: 2024-08-13T02:13
+updated: 2024-08-13T02:20
 tags:
   - develop
 Progress:
@@ -41,6 +41,8 @@ jar파일을 만들어서 서버에 옮겨줬다.
 ## 4. curl명령어를 8시 34분에 수행되도록 설정하기
 burgerput 기본 서버랑 똑같이 세팅을 마치자
 
+## 4.1 잊고있었던 SSL세팅... 새롭게 받아서 세팅해주자
+[[SSL Set-up]]
 
 
 ## 5. 로딩의 결과를 다음날 아침에 확인한다!!!
@@ -74,3 +76,4 @@ burgerput 기본 서버랑 똑같이 세팅을 마치자
 
 # References
 [[AWS Domain Set-up]]
+[[SSL Set-up]]
