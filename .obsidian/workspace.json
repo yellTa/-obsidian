@@ -33,18 +33,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e9e2c018d3b42a7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Projects/Burgerput/1_개발문서/AWS Domain Set-up/AWS Domain Set-up.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -199,8 +187,8 @@
   "active": "ee5408de114c158f",
   "lastOpenFiles": [
     "1_Projects/Burgerput/1_개발문서/AWS Domain Set-up/AWS Domain Set-up.md",
-    "resources/Untitled 5 5.png",
     "1_Projects/Burgerput/2_유지보수/3번째 서버 분평점 curl명령어 셋업.md",
+    "resources/Untitled 5 5.png",
     "Templates/devlop.md",
     "resources/Pasted image 20240813014636.png",
     "resources/Pasted image 20240813014616.png",
