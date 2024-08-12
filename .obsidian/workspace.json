@@ -23,24 +23,24 @@
             }
           },
           {
-            "id": "c0c51e65638f135f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_Areas/알고리즘/트리구조.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6e922cf4f545052e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/자기소개서 컨펌 받기전.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "600f771a1642f4e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7_TIL/99클럽 코테 스터디 n일차 TIL +.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/자기소개서 컨펌 받기전.md",
+                "file": "7_TIL/99클럽 코테 스터디 n일차 TIL +.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/자기소개서 컨펌 받기전.md",
+                "file": "7_TIL/99클럽 코테 스터디 n일차 TIL +.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/자기소개서 컨펌 받기전.md"
+                "file": "7_TIL/99클럽 코테 스터디 n일차 TIL +.md"
               }
             }
           }
@@ -196,13 +196,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "6e922cf4f545052e",
+  "active": "600f771a1642f4e6",
   "lastOpenFiles": [
     "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/자기소개서 컨펌 받기전.md",
+    "7_TIL/99클럽 코테 스터디 n일차 TIL +.md",
+    "1_Projects/Burgerput/Burgerput.md",
+    "2_Areas/알고리즘/트리구조.md",
     "7_TIL/99클럽 코테 스터디 17일차 TIL + 240809.md",
     "resources/Pasted image 20240810010334.png",
     "resources/Pasted image 20240810010325.png",
-    "2_Areas/알고리즘/트리구조.md",
     "5_Memo/백트래킹 중복제거.md",
     "5_Memo/인텔리제이 단어 같이선택.md",
     "resources/Pasted image 20240809154358.png",
@@ -213,7 +215,6 @@
     "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
     "1_Projects/Burgerput/0_회의록/0806회의록.md",
     "1_Projects/Burgerput/0_회의록/0_회의록.md",
-    "1_Projects/Burgerput/Burgerput.md",
     "7_TIL/99클럽 코테 스터디 16일차 TIL + 240809.md",
     "resources/Pasted image 20240809024001.png",
     "5_Memo/일루미네이션 알고리즘.md",
@@ -234,7 +235,6 @@
     "5_Memo/백트래킹.md",
     "resources/Pasted image 20240807014131.png",
     "1_Projects/제로베이스 대기업 취업 특별반/OT자료.md",
-    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "5_Memo/icp",
     "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/넥슨에서 필요한 핵심 역량 다섯가지 선정/넥슨에서필요한 핵심 역량 다섯가지 선정_20240805.pdf",
     "1_Projects/제로베이스 대기업 취업 특별반/첫 번째 과제 - 기업조사 미션/넥슨에서 필요한 핵심 역량 다섯가지 선정",
