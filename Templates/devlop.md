@@ -1,6 +1,6 @@
 ---
 created: 2024-07-21T16:55
-updated: 2024-08-09T15:35
+updated: 2024-08-13T01:48
 tags:
   - develop
 Progress:
@@ -43,3 +43,5 @@ post됨: false
 원초적인 내용일 수록 좋다.(이론적인 내용들 기본지식들)
 
 # References
+
+# 연결문서

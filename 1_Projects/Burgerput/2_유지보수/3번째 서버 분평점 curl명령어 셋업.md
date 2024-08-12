@@ -1,6 +1,6 @@
 ---
 created: 2024-07-21T16:55
-updated: 2024-08-12T20:56
+updated: 2024-08-13T01:48
 tags:
   - develop
 Progress:
@@ -23,6 +23,15 @@ post됨: false
 가비아에서 burback2.store 라는 도메인을 550원에 구매했다.(부가세 10%포함)
 
 ### Amazon에 등록하기 
+route53 호스팅 영역 생성하기
+![[Pasted image 20240813014636.png]]
+태그에는 아래의 EC2 정보를 넣어주면 된다.
+
+
+![[Pasted image 20240813014616.png]]
+
+자세한 과정은 아래의 문서에 있다!
+[[AWS Domain Set-up]]
 
 
 
@@ -55,3 +64,4 @@ post됨: false
 원초적인 내용일 수록 좋다.(이론적인 내용들 기본지식들)
 
 # References
+[[AWS Domain Set-up]]
