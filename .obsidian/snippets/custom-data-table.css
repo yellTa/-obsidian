@@ -16,6 +16,21 @@ table .dataview .table-view-tbody {
     padding: 10px;
 /*    font-size: 12px;*/
 }
+
+/* progress에 따른 css적용*/
+/* unsolved 상태의 파일 이름에 빨간색 적용 */
+a.unsolved-link {
+    color: red !important;
+    text-decoration: none;
+}
+
+/* ongoing 상태의 파일 이름에 주황색 적용 */
+a.ongoing-link {
+    color: orange !important;
+    text-decoration: none;
+}
+
+
 /* 각 열의 너비 조정 */
 .dataview .table-view-tbody tr td:nth-child(1){
     width: 60% !important;

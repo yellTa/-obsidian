@@ -3,10 +3,10 @@ Created time: Invalid date
 Last edited time: Invalid date
 Posted to Naver: false
 Progress:
-  - unsolved
+  - end
 업로드할까?: false
 created: 2024-08-03T14:37
-updated: 2024-08-13T12:22
+updated: 2024-08-13T12:51
 ---
 # OBJECT/SUBJECT:
 
