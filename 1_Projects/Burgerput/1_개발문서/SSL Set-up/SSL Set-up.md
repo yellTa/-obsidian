@@ -5,7 +5,7 @@ Progress: end
 on Naver: false
 업로드할까?: false
 created: 2024-08-03T14:37
-updated: 2024-08-04T22:42
+updated: 2024-08-13T12:12
 ---
 # Set-up free SSL for my Project
 
@@ -66,7 +66,7 @@ WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
 $ sudo certbot certonly --standalone
 ```
 
-  
+  > <span style="color:rgb(255, 71, 71)">The port 80 and 443 must be opened</span>
 
 ![[Untitled 2.png|Untitled 2.png]]
 
