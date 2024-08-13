@@ -1,13 +1,9 @@
 ---
 created: 2024-08-13T12:21
-updated: 2024-08-14T00:27
+updated: 2024-08-14T01:14
 ---
 
- 
-```ccard
-type: folder_brief_live
-```
- # DataView
+
 ```dataviewjs
 //const pages, where의 폴더 경로만 바꿔주면 됨
 const pages = dv.pages('"1_Projects/제로베이스 대기업 취업 특별반/Study/Algorithm"')

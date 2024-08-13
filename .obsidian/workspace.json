@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/Study/Algorithm/Algorithm.md",
+                "file": "Templates/Folder(Develop).md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/Study/Algorithm/Algorithm.md",
+                "file": "Templates/Folder(Develop).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/Study/Algorithm/Algorithm.md",
+                "file": "Templates/Folder(Develop).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/Study/Algorithm/Algorithm.md"
+                "file": "Templates/Folder(Develop).md"
               }
             }
           }
@@ -222,8 +222,8 @@
   },
   "active": "2bf6c10a6a7aab0e",
   "lastOpenFiles": [
-    "5_Memo/Java HashMap을 정렬하는 법.md",
     "1_Projects/제로베이스 대기업 취업 특별반/Study/Algorithm/Algorithm.md",
+    "5_Memo/Java HashMap을 정렬하는 법.md",
     "1_Projects/제로베이스 대기업 취업 특별반/Study/Algorithm",
     "1_Projects/제로베이스 대기업 취업 특별반/Study",
     "5_Memo/java HashMap의 메소드.md",
