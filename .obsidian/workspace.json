@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 19일차 TIL + 240812.md",
+                "file": "Templates/99클럽 코테 스터디 n일차 TIL +.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 19일차 TIL + 240812.md",
+                "file": "Templates/99클럽 코테 스터디 n일차 TIL +.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 19일차 TIL + 240812.md",
+                "file": "Templates/99클럽 코테 스터디 n일차 TIL +.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 19일차 TIL + 240812.md"
+                "file": "Templates/99클럽 코테 스터디 n일차 TIL +.md"
               }
             }
           }
@@ -210,8 +210,8 @@
   },
   "active": "e5cb773b65c287d1",
   "lastOpenFiles": [
-    "1_Projects/Burgerput/1_개발문서/SSL Set-up/SSL Set-up.md",
     "7_TIL/99클럽 코테 스터디 19일차 TIL + 240812.md",
+    "1_Projects/Burgerput/1_개발문서/SSL Set-up/SSL Set-up.md",
     "1_Projects/Burgerput/2_유지보수/3번째 서버 분평점 curl명령어 셋업.md",
     "Untitled.md",
     "1_Projects/Burgerput/1_개발문서/AWS Domain Set-up/AWS Domain Set-up.md",
