@@ -1,6 +1,6 @@
 ---
 created: 2024-07-21T16:55
-updated: 2024-08-13T12:12
+updated: 2024-08-13T12:15
 tags:
   - develop
 Progress:
@@ -43,6 +43,36 @@ burgerput 기본 서버랑 똑같이 세팅을 마치자
 [[SSL Set-up]]
 
 ![[Pasted image 20240813121236.png]]
+```shell
+root@3rdBurger:/home/ubuntu# sudo certbot certonly --standalone
+Saving debug log to /var/log/letsencrypt/letsencrypt.log
+Please enter the domain name(s) you would like on your certificate (comma and/or
+space separated) (Enter 'c' to cancel): burback2.store
+Requesting a certificate for burback2.store
+
+Successfully received certificate.
+Certificate is saved at: /etc/letsencrypt/live/burback2.store/fullchain.pem
+Key is saved at:         /etc/letsencrypt/live/burback2.store/privkey.pem
+This certificate expires on 2024-11-11.
+These files will be updated when the certificate renews.
+Certbot has set up a scheduled task to automatically renew this certificate in the background.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+If you like Certbot, please consider supporting our work by:
+ * Donating to ISRG / Let's Encrypt:   https://letsencrypt.org/donate
+ * Donating to EFF:                    https://eff.org/donate-le
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+```
+
+/etc/letsencrypt/live/burback2.store/ 위치로 이동해서 명령어 쳐주기
+```shell
+openssl pkcs12 -export -in fullchain.pem -inkey privkey.pem \
+ -out keystore.p12 -name tomcat -CAfile chain.pem  -caname root
+```
+password : putBu13@9*
+
+
 ## 5. 로딩의 결과를 다음날 아침에 확인한다!!!
 # CONCLUSION:
 
