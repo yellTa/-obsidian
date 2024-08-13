@@ -35,6 +35,18 @@
             }
           },
           {
+            "id": "cde955766c8a4290",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7_TIL/99클럽 코테 스터디 20일차 TIL + 240814.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ee5408de114c158f",
             "type": "leaf",
             "state": {
@@ -47,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -130,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "7_TIL/99클럽 코테 스터디 20일차 TIL + 240814.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "7_TIL/99클럽 코테 스터디 20일차 TIL + 240814.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "7_TIL/99클럽 코테 스터디 20일차 TIL + 240814.md"
+              }
             }
           }
         ]
@@ -192,8 +208,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2caed6827f1efab6",
+  "active": "cde955766c8a4290",
   "lastOpenFiles": [
+    "7_TIL/99클럽 코테 스터디 20일차 TIL + 240814.md",
     "1_Projects/제로베이스 대기업 취업 특별반/Study/Algorithm/코테 문제를 풀어본 회고리스트.md",
     "resources/Pasted image 20240814020732.png",
     "1_Projects/제로베이스 대기업 취업 특별반/Study/Algorithm/Algorithm.md",
