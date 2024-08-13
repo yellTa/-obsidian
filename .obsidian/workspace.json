@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/Burgerput/0_회의록/8월 13일 회의록.md",
+                "file": "1_Projects/Burgerput/0_회의록/0_회의록.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -155,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/Burgerput/0_회의록/8월 13일 회의록.md",
+                "file": "1_Projects/Burgerput/0_회의록/0_회의록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/Burgerput/0_회의록/8월 13일 회의록.md",
+                "file": "1_Projects/Burgerput/0_회의록/0_회의록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/Burgerput/0_회의록/8월 13일 회의록.md"
+                "file": "1_Projects/Burgerput/0_회의록/0_회의록.md"
               }
             }
           }
@@ -224,10 +223,11 @@
   "active": "2bf6c10a6a7aab0e",
   "lastOpenFiles": [
     "1_Projects/Burgerput/0_회의록/8월 13일 회의록.md",
+    "1_Projects/Burgerput/0_회의록/0_회의록.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/August/정기회의/8월 13일 그룹 이력서 특강.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/August/정기회의/정기회의.md",
     "1_Projects/Burgerput/0_회의록/0806회의록.md",
     "1_Projects/Burgerput/2_유지보수/3번째 서버 분평점 curl명령어 셋업.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/August/정기회의/8월 13일 그룹 이력서 특강.md",
-    "1_Projects/Burgerput/0_회의록/0_회의록.md",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "Templates/Folder(Develop).md",
     "1_Projects/Burgerput/2_유지보수/테스트서버에 cron설정하기.md",
@@ -240,7 +240,6 @@
     "1_Projects/Burgerput/1_개발문서/SSL Set-up/SSL Set-up.md",
     "resources/Pasted image 20240813121236.png",
     "1_Projects/제로베이스 대기업 취업 특별반/August/정기회의/8월12일 미팅자료.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/August/정기회의/정기회의.md",
     "Templates/99클럽 코테 스터디 n일차 TIL +.md",
     "1_Projects/제로베이스 대기업 취업 특별반/August",
     "7_TIL/99클럽 코테 스터디 19일차 TIL + 240812.md",
