@@ -1,12 +1,12 @@
 ---
 created: 2024-08-13T12:21
-updated: 2024-08-13T12:52
+updated: 2024-08-13T12:53
 ---
 # DataView
 ```dataviewjs
 //const pages, where의 폴더 경로만 바꿔주면 됨
-const pages = dv.pages('"1_Projects/Burgerput/2_유지보수"')
-  .where(p => p.file.name !== "2_유지보수");
+const pages = dv.pages('"폴더의 경로를 적으렴"')
+  .where(p => p.file.name !== "경로의 폴더를 적으렴");
 
 dv.table(
   ["파일 이름", "생성 날짜", "수정 날짜", "Progress"],
