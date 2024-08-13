@@ -52,19 +52,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5_Memo/Java HashMap을 정렬하는 법.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/Study/Algorithm/Algorithm.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2dbecd2bbd549b67",
+            "id": "8af5604ce7cad477",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/Burgerput/0_회의록/0806회의록.md",
+                "file": "5_Memo/java HashMap의 메소드.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -155,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5_Memo/Java HashMap을 정렬하는 법.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/Study/Algorithm/Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5_Memo/Java HashMap을 정렬하는 법.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/Study/Algorithm/Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5_Memo/Java HashMap을 정렬하는 법.md"
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/Study/Algorithm/Algorithm.md"
               }
             }
           }
@@ -223,6 +222,11 @@
   },
   "active": "2bf6c10a6a7aab0e",
   "lastOpenFiles": [
+    "5_Memo/Java HashMap을 정렬하는 법.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/Study/Algorithm/Algorithm.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/Study/Algorithm",
+    "1_Projects/제로베이스 대기업 취업 특별반/Study",
+    "5_Memo/java HashMap의 메소드.md",
     "1_Projects/제로베이스 대기업 취업 특별반/August/정기회의/8월 13일 그룹 이력서 특강.md",
     "resources/Pasted image 20240813160001.png",
     "resources/Pasted image 20240813155911.png",
@@ -257,17 +261,13 @@
     "1_Projects/Burgerput/1_개발문서/AWS Domain Set-up/AWS Domain Set-up.md",
     "Templates/devlop.md",
     "1_Projects/제로베이스 대기업 취업 특별반/August/첫 번째 과제 - 기업조사 미션/자기소개서 컨펌 받기전.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/August/정기회의/OT자료.md",
     "1_Projects/제로베이스 대기업 취업 특별반/August/정기회의",
-    "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
     "2_Areas/알고리즘",
     "5_Memo/icp",
     "1_Projects/제로베이스 대기업 취업 특별반/August/첫 번째 과제 - 기업조사 미션/넥슨에서 필요한 핵심 역량 다섯가지 선정/넥슨에서필요한 핵심 역량 다섯가지 선정_20240805.pdf",
     "1_Projects/제로베이스 대기업 취업 특별반/August/첫 번째 과제 - 기업조사 미션/넥슨에서 필요한 핵심 역량 다섯가지 선정",
     "1_Projects/제로베이스 대기업 취업 특별반/August/첫 번째 과제 - 기업조사 미션/다섯가지기업 선정",
     "resources/preview.mhtml",
-    "resources/preview 1.mhtml",
-    "1_Projects/제로베이스 대기업 취업 특별반/August/첫 번째 과제 - 기업조사 미션",
     "Untitled.canvas"
   ]
 }
