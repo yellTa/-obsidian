@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/3번째 서버 분평점 curl명령어 셋업.md",
+                "file": "1_Projects/Burgerput/1_개발문서/SSL Set-up/SSL Set-up.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/August/정기회의/8월 13일 그룹 이력서 특강.md",
+                "file": "1_Projects/Burgerput/1_개발문서/SSL Set-up/SSL Set-up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/August/정기회의/8월 13일 그룹 이력서 특강.md",
+                "file": "1_Projects/Burgerput/1_개발문서/SSL Set-up/SSL Set-up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/August/정기회의/8월 13일 그룹 이력서 특강.md"
+                "file": "1_Projects/Burgerput/1_개발문서/SSL Set-up/SSL Set-up.md"
               }
             }
           }
@@ -208,16 +208,16 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e5cb773b65c287d1",
+  "active": "ee5408de114c158f",
   "lastOpenFiles": [
-    "1_Projects/제로베이스 대기업 취업 특별반/August/정기회의/8월12일 미팅자료.md",
+    "1_Projects/Burgerput/2_유지보수/3번째 서버 분평점 curl명령어 셋업.md",
     "1_Projects/제로베이스 대기업 취업 특별반/August/정기회의/8월 13일 그룹 이력서 특강.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/August/정기회의/8월12일 미팅자료.md",
     "1_Projects/제로베이스 대기업 취업 특별반/August/정기회의/정기회의.md",
     "Templates/99클럽 코테 스터디 n일차 TIL +.md",
     "1_Projects/제로베이스 대기업 취업 특별반/August",
     "7_TIL/99클럽 코테 스터디 19일차 TIL + 240812.md",
     "1_Projects/Burgerput/1_개발문서/SSL Set-up/SSL Set-up.md",
-    "1_Projects/Burgerput/2_유지보수/3번째 서버 분평점 curl명령어 셋업.md",
     "Untitled.md",
     "1_Projects/Burgerput/1_개발문서/AWS Domain Set-up/AWS Domain Set-up.md",
     "resources/Untitled 5 5.png",
