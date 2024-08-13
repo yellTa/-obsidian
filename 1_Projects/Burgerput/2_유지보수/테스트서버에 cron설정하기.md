@@ -1,6 +1,6 @@
 ---
 created: 2024-07-21T16:55
-updated: 2024-08-06T12:23
+updated: 2024-08-13T12:34
 tags:
   - develop
 Progress:
@@ -37,9 +37,6 @@ post됨: false
 해제한 도메인 burback2.shop등록
 
 > 현재 AWS에서 burback2.shop이 사용이 불가하다... shop을 사용할 수 없기 때문 ㅋ 그래서 다른거로 구매해서 설정해야할 듯 하다...
-
-
-
 
 ## 3. java application 띄우기
 ## 4. mysql 정보 분평점 정보로 바꿔놓기
