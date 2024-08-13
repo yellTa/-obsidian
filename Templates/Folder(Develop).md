@@ -1,7 +1,37 @@
 ---
 created: 2024-08-13T12:21
-updated: 2024-08-13T12:21
+updated: 2024-08-13T12:24
 ---
 # DataView
-```
+```dataviewjs
+//const pages랑 where(2,3번 라인) 위치만 고치면 된다.
+const pages = dv.pages('"1_Projects/Burgerput/2_유지보수"') // 페이지 폴더 경로 적기 
+  .where(p => p.file.name !== "2_유지보수"); //폴더는 제외하고 출력하기
+
+dv.table(
+  ["파일 이름", "생성 날짜", "수정 날짜", "Progress"],
+  pages.map(p => {
+    const progress = p.progress ? String(p.progress) : "";
+    let fileName;
+
+// 해결 못한 건 빨간색으로 표시 && 수행중인건 주황색으로 표시
+    if (progress.toLowerCase() === "unsolved") {
+      fileName = `<a href="${p.file.path}" style="color: red;">${p.file.name}</a>`;
+    } else if (progress.toLowerCase() === "ongoing") {
+      fileName = `<a href="${p.file.path}" style="color: orange;">${p.file.name}</a>`;
+    } else {
+      fileName = dv.fileLink(p.file.path);
+    }
+    
+    return [
+      fileName,
+      new Date(p.file.ctime).toISOString().split('T')[0],
+      new Date(p.file.mtime).toISOString().split('T')[0],
+      progress
+    ];
+  })
+);
+
+
+
 ```
