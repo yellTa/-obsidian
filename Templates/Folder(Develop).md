@@ -1,37 +1,38 @@
 ---
 created: 2024-08-13T12:21
-updated: 2024-08-13T12:53
+updated: 2024-08-14T21:52
 ---
 # DataView
 ```dataviewjs
-//const pages, where의 폴더 경로만 바꿔주면 됨
-const pages = dv.pages('"폴더의 경로를 적으렴"')
-  .where(p => p.file.name !== "경로의 폴더를 적으렴");
+//3,4 라인의 폴더 이름만 바꿔주면 된다.
+const pages = dv.pages('"폴더의 경로"')
+  .where(p => p.file.name !== "폴더의 이름")
+  .sort(p => p.file.ctime, 'asc'); // 생성 날짜 기준으로 오름차순 정렬
 
 dv.table(
   ["파일 이름", "생성 날짜", "수정 날짜", "Progress"],
   pages.map(p => {
     const progress = p.progress ? String(p.progress) : "";
     let fileName;
-//progress가 unsolved일때랑 ongoing일때 css적용해준다. css는 custom-data-table.css
+
     if (progress.toLowerCase() === "unsolved") {
-      fileName = `[[${p.file.path}|${p.file.name}]]`; // Markdown 링크 생성
-      fileName = `<span class="unsolved-link">${fileName}</span>`;
+      fileName = `<a href="${p.file.path}" class="internal-link unsolved-link">${p.file.name}</a>`;
     } else if (progress.toLowerCase() === "ongoing") {
-      fileName = `[[${p.file.path}|${p.file.name}]]`;
-      fileName = `<span class="ongoing-link">${fileName}</span>`;
+      fileName = `<a href="${p.file.path}" class="internal-link ongoing-link">${p.file.name}</a>`;
     } else {
-      fileName = `[[${p.file.path}|${p.file.name}]]`;
+      fileName = `<a href="${p.file.path}" class="internal-link">${p.file.name}</a>`;
     }
 
     return [
       fileName,
-      new Date(p.file.ctime).toISOString().split('T')[0],
-      new Date(p.file.mtime).toISOString().split('T')[0],
+      new Date(p.file.ctime).toISOString().split('T')[0], // 생성 날짜
+      new Date(p.file.mtime).toISOString().split('T')[0], // 수정 날짜
       progress
     ];
   })
 );
+
+
 
 
 ```

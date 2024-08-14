@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Folder(Develop).md",
+                "file": "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Folder(Develop).md",
+                "file": "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Folder(Develop).md",
+                "file": "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Folder(Develop).md"
+                "file": "1_Projects/Burgerput/2_유지보수/2_유지보수.md"
               }
             }
           }
@@ -222,12 +222,12 @@
   },
   "active": "395783e886e0d5a8",
   "lastOpenFiles": [
+    "Templates/Folder(Develop).md",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
     "1_Projects/Burgerput/2_유지보수/3번째 서버 분평점 curl명령어 셋업.md",
     "1_Projects/Burgerput/2_유지보수/수상한 GET 요청.md",
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
-    "Templates/Folder(Develop).md",
     "Templates/99클럽 코테 스터디 n일차 TIL +.md",
     "Templates/Todo.md",
     "Templates/Memo.md",

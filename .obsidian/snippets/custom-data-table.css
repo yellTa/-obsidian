@@ -1,23 +1,24 @@
 /* Dataview 테이블 스타일 조정 */
 .dataview .table-view-table {
-    width: 100% !important; 
-    
+    width: 100% !important;
 }
+
 table .dataview .table-view-tbody {
     margin: 10px;
     table-layout: fixed !important;
-    
-}
-.dataview .table-view-tbody tr{
-    background-color:#262626; 
 }
 
-.dataview .table-view-tbody tr td{
+.dataview .table-view-tbody tr {
+    background-color: #262626;
+}
+
+.dataview .table-view-tbody tr td {
     padding: 10px;
-/*    font-size: 12px;*/
+    /* font-size: 12px; */
+    text-align: left; /* 기본적으로 왼쪽 정렬 */
 }
 
-/* progress에 따른 css적용*/
+/* progress에 따른 css적용 */
 /* unsolved 상태의 파일 이름에 빨간색 적용 */
 .unsolved-link {
     color: red !important;
@@ -30,19 +31,14 @@ table .dataview .table-view-tbody {
     text-decoration: none;
 }
 
-
 /* 각 열의 너비 조정 */
-.dataview .table-view-tbody tr td:nth-child(1){
+.dataview .table-view-tbody tr td:nth-child(1) {
     width: 60% !important;
-    
 }
 
-.dataview .table-view-tbody tr td:nth-child(2){
+.dataview .table-view-tbody tr td:nth-child(2),
+.dataview .table-view-tbody tr td:nth-child(3),
+.dataview .table-view-tbody tr td:nth-child(4) {
     width: 20% !important;
-    
+    text-align: center; !important/* 가운데 정렬 */
 }
-
-.dataview .table-view-tbody tr td:nth-child(3){
-    width: 20% !important;
-}
-
