@@ -40,5 +40,6 @@ table .dataview .table-view-tbody {
 .dataview .table-view-tbody tr td:nth-child(3),
 .dataview .table-view-tbody tr td:nth-child(4) {
     width: 20% !important;
-    text-align: center; !important/* 가운데 정렬 */
+    text-align: center !important; /* 가로 가운데 정렬 */
+    vertical-align: middle !important; /* 세로 가운데 정렬 */
 }
