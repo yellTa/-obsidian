@@ -1,6 +1,6 @@
 ---
 created: 2024-07-21T16:55
-updated: 2024-08-13T01:48
+updated: 2024-08-14T12:28
 tags:
   - develop
 Progress:
@@ -36,6 +36,9 @@ post됨: false
 
 > _**아 이렇게 이렇게 이렇게 하면 되는 구나**_
 
+
+
+---
 # REVIEW:
 
 내가 이 문제를 통해서 깨닫고 배운 것들
