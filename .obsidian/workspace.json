@@ -57,9 +57,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "395783e886e0d5a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/Burgerput/Burgerput.md",
+                "file": "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/Burgerput/Burgerput.md",
+                "file": "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/Burgerput/Burgerput.md"
+                "file": "1_Projects/Burgerput/2_유지보수/2_유지보수.md"
               }
             }
           }
@@ -208,8 +220,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2caed6827f1efab6",
+  "active": "395783e886e0d5a8",
   "lastOpenFiles": [
+    "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
+    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
+    "1_Projects/Burgerput/0_회의록/0_회의록.md",
+    "1_Projects/Burgerput/0_회의록/5월 16일 회의록.md",
+    "1_Projects/Burgerput/0_회의록/0806회의록.md",
+    "1_Projects/Burgerput/2_유지보수/3번째 서버 분평점 curl명령어 셋업.md",
     "1_Projects/제로베이스 대기업 취업 특별반/Study/Algorithm/알고리즘 기초수학1.md",
     "resources/Pasted image 20240814124608.png",
     "resources/Pasted image 20240814123903.png",
@@ -231,16 +249,11 @@
     "resources/Pasted image 20240813155911.png",
     "resources/Pasted image 20240813155555.png",
     "resources/Pasted image 20240813153617.png",
-    "1_Projects/Burgerput/0_회의록/0_회의록.md",
     "1_Projects/Burgerput/0_회의록/8월 13일 회의록.md",
     "1_Projects/제로베이스 대기업 취업 특별반/August/정기회의/정기회의.md",
-    "1_Projects/Burgerput/0_회의록/0806회의록.md",
-    "1_Projects/Burgerput/2_유지보수/3번째 서버 분평점 curl명령어 셋업.md",
-    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/2_유지보수/테스트서버에 cron설정하기.md",
     "1_Projects/Burgerput/2_유지보수/수상한 GET 요청.md",
     "1_Projects/Burgerput/2_유지보수/비밀번호 암호화 저장.md",
-    "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
     "1_Projects/Burgerput/3_TroubleDocs/의미없는 url요청 체크해보기.md",
     "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
     "1_Projects/Burgerput/Burgerput.md",

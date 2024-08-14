@@ -3,7 +3,52 @@
     {
       "type": "group",
       "ctime": 1722609664046,
-      "items": [],
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1723638416246,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1723638426773,
+              "items": [
+                {
+                  "type": "group",
+                  "ctime": 1723638426773,
+                  "items": [],
+                  "title": "0_회의록"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1723638440813,
+                  "items": [],
+                  "title": "1_개발문서"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1723638440813,
+                  "items": [],
+                  "title": "2_유지보수"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1723638440813,
+                  "items": [],
+                  "title": "3_TroubleDocs"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1723638440813,
+                  "path": "1_Projects/Burgerput/Burgerput.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "Burgerput"
+            }
+          ],
+          "title": "1_Projects"
+        }
+      ],
       "title": "sortspec"
     }
   ]
