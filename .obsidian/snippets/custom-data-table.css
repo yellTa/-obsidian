@@ -19,13 +19,13 @@ table .dataview .table-view-tbody {
 
 /* progress에 따른 css적용*/
 /* unsolved 상태의 파일 이름에 빨간색 적용 */
-a.unsolved-link {
+.unsolved-link {
     color: red !important;
     text-decoration: none;
 }
 
 /* ongoing 상태의 파일 이름에 주황색 적용 */
-a.ongoing-link {
+.ongoing-link {
     color: orange !important;
     text-decoration: none;
 }
