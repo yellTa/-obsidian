@@ -5,8 +5,8 @@ Posted to Naver: false
 Progress:
   - end
 업로드할까?: false
-created: 2024-08-03T14:37
-updated: 2024-08-13T12:51
+created: 2024-07-03T14:37:00
+updated: 2024-08-14T21:29
 ---
 # OBJECT/SUBJECT:
 
