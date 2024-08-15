@@ -28,14 +28,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 21일차 TIL +240814.md",
+                "file": "1_Projects/Burgerput/0_회의록/8월 13일 회의록.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24e23c43b1f4698e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -102,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -118,7 +131,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 21일차 TIL +240814.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 21일차 TIL +240814.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +168,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "7_TIL/99클럽 코테 스터디 21일차 TIL +240814.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -184,8 +193,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2874d83c6f575e22",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
+    "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
+    "1_Projects/Burgerput/0_회의록/8월 13일 회의록.md",
+    "1_Projects/Burgerput/0_회의록/0_회의록.md",
     "7_TIL/99클럽 코테 스터디 21일차 TIL +240814.md",
     "5_Memo/java  Map.md",
     "java map.md",
@@ -197,7 +209,6 @@
     "5_Memo/c++ Map의 사용법.md",
     "resources/Pasted image 20240815103402.png",
     "resources/Pasted image 20240815103313.png",
-    "1_Projects/Burgerput/0_회의록/0_회의록.md",
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
     "1_Projects/Burgerput/3_TroubleDocs/테스트 서버에 cron 설정하기.md",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
@@ -218,8 +229,6 @@
     "7_TIL/99클럽 코테 스터디 20일차 TIL + 240814.md",
     "resources/Pasted image 20240814020732.png",
     "1_Projects/제로베이스 대기업 취업 특별반/Study/Algorithm/Algorithm.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/August/정기회의/8월 13일 그룹 이력서 특강.md",
-    "5_Memo/java HashMap의 메소드.md",
     "1_Projects/제로베이스 대기업 취업 특별반/Study/Algorithm",
     "1_Projects/제로베이스 대기업 취업 특별반/Study",
     "resources/Pasted image 20240813160001.png",
