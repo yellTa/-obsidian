@@ -23,67 +23,19 @@
             }
           },
           {
-            "id": "2bf6c10a6a7aab0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/Study/Algorithm/알고리즘 기초수학1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cde955766c8a4290",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/Study/Algorithm/알고리즘 기초수학1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee5408de114c158f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/3번째 서버 분평점 curl명령어 셋업.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "395783e886e0d5a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2874d83c6f575e22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 n일차 TIL +.md",
+                "file": "7_TIL/99클럽 코테 스터디 21일차 TIL +240814.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -166,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 n일차 TIL +.md",
+                "file": "7_TIL/99클럽 코테 스터디 21일차 TIL +240814.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 n일차 TIL +.md",
+                "file": "7_TIL/99클럽 코테 스터디 21일차 TIL +240814.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 n일차 TIL +.md"
+                "file": "7_TIL/99클럽 코테 스터디 21일차 TIL +240814.md"
               }
             }
           }
@@ -234,14 +186,22 @@
   },
   "active": "2874d83c6f575e22",
   "lastOpenFiles": [
-    "7_TIL/99클럽 코테 스터디 n일차 TIL +.md",
+    "7_TIL/99클럽 코테 스터디 21일차 TIL +240814.md",
+    "5_Memo/java  Map.md",
+    "java map.md",
+    "1_Projects/Burgerput/Burgerput.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/Study/Algorithm/알고리즘 기초수학1.md",
+    "1_Projects/Burgerput/2_유지보수/3번째 서버 분평점 curl명령어 셋업.md",
     "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
+    "5_Memo/C++과 이진검색 트리.md",
+    "5_Memo/c++ Map의 사용법.md",
+    "resources/Pasted image 20240815103402.png",
+    "resources/Pasted image 20240815103313.png",
     "1_Projects/Burgerput/0_회의록/0_회의록.md",
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
     "1_Projects/Burgerput/3_TroubleDocs/테스트 서버에 cron 설정하기.md",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "Templates/Folder(Develop).md",
-    "1_Projects/Burgerput/2_유지보수/3번째 서버 분평점 curl명령어 셋업.md",
     "1_Projects/Burgerput/2_유지보수/수상한 GET 요청.md",
     "Templates/99클럽 코테 스터디 n일차 TIL +.md",
     "Templates/Todo.md",
@@ -250,7 +210,6 @@
     "1_Projects/Burgerput/2_유지보수/토큰유효하지 않으면 refresh-token 쿠키 삭제.md",
     "1_Projects/Burgerput/0_회의록/5월 16일 회의록.md",
     "1_Projects/Burgerput/0_회의록/0806회의록.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/Study/Algorithm/알고리즘 기초수학1.md",
     "resources/Pasted image 20240814124608.png",
     "resources/Pasted image 20240814123903.png",
     "resources/Pasted image 20240814123442.png",
@@ -261,17 +220,10 @@
     "1_Projects/제로베이스 대기업 취업 특별반/Study/Algorithm/Algorithm.md",
     "1_Projects/제로베이스 대기업 취업 특별반/August/정기회의/8월 13일 그룹 이력서 특강.md",
     "5_Memo/java HashMap의 메소드.md",
-    "1_Projects/Burgerput/3_TroubleDocs/Loading failed - process 과다문제/Loading failed - process 과다문제.md",
-    "5_Memo/Java HashMap을 정렬하는 법.md",
     "1_Projects/제로베이스 대기업 취업 특별반/Study/Algorithm",
     "1_Projects/제로베이스 대기업 취업 특별반/Study",
     "resources/Pasted image 20240813160001.png",
     "resources/Pasted image 20240813155911.png",
-    "resources/Pasted image 20240813155555.png",
-    "resources/Pasted image 20240813153617.png",
-    "1_Projects/Burgerput/0_회의록/8월 13일 회의록.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/August/정기회의/정기회의.md",
-    "1_Projects/Burgerput/2_유지보수/테스트서버에 cron설정하기.md",
     "1_Projects/제로베이스 대기업 취업 특별반/August",
     "1_Projects/제로베이스 대기업 취업 특별반/August/정기회의",
     "2_Areas/알고리즘",
