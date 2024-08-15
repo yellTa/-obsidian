@@ -45,9 +45,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f10025a536ecc16c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7_TIL/99클럽 코테 스터디 22일차 TIL + 240815.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75c4401236d6e9ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5_Memo/플루이드와샬 알고리즘.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -114,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -195,6 +218,10 @@
   },
   "active": "2caed6827f1efab6",
   "lastOpenFiles": [
+    "7_TIL/99클럽 코테 스터디 22일차 TIL + 240815.md",
+    "5_Memo/플루이드와샬 알고리즘.md",
+    "5_Memo/그래프알고리즘.md",
+    "resources/Pasted image 20240816010811.png",
     "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
     "1_Projects/Burgerput/0_회의록/8월 13일 회의록.md",
     "1_Projects/Burgerput/0_회의록/0_회의록.md",
@@ -220,19 +247,15 @@
     "Templates/devlop.md",
     "1_Projects/Burgerput/2_유지보수/토큰유효하지 않으면 refresh-token 쿠키 삭제.md",
     "1_Projects/Burgerput/0_회의록/5월 16일 회의록.md",
-    "1_Projects/Burgerput/0_회의록/0806회의록.md",
     "resources/Pasted image 20240814124608.png",
     "resources/Pasted image 20240814123903.png",
     "resources/Pasted image 20240814123442.png",
     "resources/Pasted image 20240814123338.png",
     "resources/Pasted image 20240814122913.png",
-    "7_TIL/99클럽 코테 스터디 20일차 TIL + 240814.md",
     "resources/Pasted image 20240814020732.png",
-    "1_Projects/제로베이스 대기업 취업 특별반/Study/Algorithm/Algorithm.md",
     "1_Projects/제로베이스 대기업 취업 특별반/Study/Algorithm",
     "1_Projects/제로베이스 대기업 취업 특별반/Study",
     "resources/Pasted image 20240813160001.png",
-    "resources/Pasted image 20240813155911.png",
     "1_Projects/제로베이스 대기업 취업 특별반/August",
     "1_Projects/제로베이스 대기업 취업 특별반/August/정기회의",
     "2_Areas/알고리즘",
