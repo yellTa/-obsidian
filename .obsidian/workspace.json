@@ -33,9 +33,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ec1e2a58850efc3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_Areas/취업준비/이력서 사이트 보기 리스트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -118,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Docs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Docs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Templates/Docs.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -184,8 +192,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "31332d71f7302a9b",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
+    "2_Areas/취업준비/이력서 사이트 보기 리스트.md",
     "Templates/Docs.md",
     "2_Areas/알고리즘/이론/ArrayList와 LinkedList.md",
     "2_Areas/알고리즘/문제풀이/백준 -에디터.md",
