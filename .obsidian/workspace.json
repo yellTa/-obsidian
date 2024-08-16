@@ -142,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/August/2주차_지원기업조사/이글리안.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +158,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/August/2주차_지원기업조사/이글리안.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,9 +179,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/August/2주차_지원기업조사/이글리안.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -209,10 +205,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "a6af954c59ab1173",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
-    "Templates/Folder(Develop).md",
     "1_Projects/제로베이스 대기업 취업 특별반/August/2주차_지원기업조사/이글리안.md",
+    "resources/2024_이모션글로벌_회사소개서_20240416 1.pdf",
+    "resources/2024_이모션글로벌_회사소개서_20240416.pdf",
+    "Templates/Folder(Develop).md",
     "1_Projects/제로베이스 대기업 취업 특별반/정기회의/정기회의.md",
     "1_Projects/제로베이스 대기업 취업 특별반/August/3주차/3주차.md",
     "1_Projects/제로베이스 대기업 취업 특별반/August/4주차",
@@ -247,7 +245,6 @@
     "resources/Pasted image 20240816010811.png",
     "1_Projects/Burgerput/0_회의록/0_회의록.md",
     "7_TIL/99클럽 코테 스터디 21일차 TIL +240814.md",
-    "5_Memo/java  Map.md",
     "resources/Pasted image 20240815103402.png",
     "resources/Pasted image 20240815103313.png",
     "resources/Pasted image 20240814124608.png",
@@ -255,8 +252,6 @@
     "resources/Pasted image 20240814123442.png",
     "1_Projects/제로베이스 대기업 취업 특별반/Study/Algorithm",
     "1_Projects/제로베이스 대기업 취업 특별반/Study",
-    "1_Projects/제로베이스 대기업 취업 특별반/August",
-    "1_Projects/제로베이스 대기업 취업 특별반/정기회의",
     "Untitled.canvas"
   ]
 }
