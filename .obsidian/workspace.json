@@ -6,7 +6,7 @@
       {
         "id": "f2c09484126a8fb8",
         "type": "tabs",
-        "dimension": 82.03054806828392,
+        "dimension": 54.98652291105122,
         "children": [
           {
             "id": "60da0eaa85a214d1",
@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월 13일 그룹 이력서 특강.md",
+                "file": "1_Projects/Burgerput/0_회의록/8월 13일 회의록.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
       {
         "id": "a2fd5dd963933f8d",
         "type": "tabs",
-        "dimension": 17.969451931716083,
+        "dimension": 45.01347708894879,
         "children": [
           {
             "id": "2caed6827f1efab6",
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월 13일 그룹 이력서 특강.md",
+                "file": "1_Projects/Burgerput/0_회의록/8월 13일 회의록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월 13일 그룹 이력서 특강.md",
+                "file": "1_Projects/Burgerput/0_회의록/8월 13일 회의록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월 13일 그룹 이력서 특강.md"
+                "file": "1_Projects/Burgerput/0_회의록/8월 13일 회의록.md"
               }
             }
           }
@@ -211,6 +211,9 @@
   },
   "active": "ec1e2a58850efc3d",
   "lastOpenFiles": [
+    "1_Projects/Burgerput/0_회의록/0_회의록.md",
+    "1_Projects/Burgerput/Burgerput.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월 13일 그룹 이력서 특강.md",
     "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/회의 발표자료.md",
     "2_Areas/취업준비/이력서 사이트 보기 리스트.md",
     "Templates/Folder(Develop).md",
@@ -226,7 +229,6 @@
     "Templates/Docs.md",
     "2_Areas/알고리즘/이론/ArrayList와 LinkedList.md",
     "2_Areas/알고리즘/문제풀이/백준 -에디터.md",
-    "1_Projects/Burgerput/Burgerput.md",
     "resources/Pasted image 20240816141134.png",
     "2_Areas/알고리즘/문제풀이/문제풀이.md",
     "resources/Pasted image 20240816134725.png",
@@ -247,7 +249,6 @@
     "5_Memo/플루이드와샬 알고리즘.md",
     "5_Memo/그래프알고리즘.md",
     "resources/Pasted image 20240816010811.png",
-    "1_Projects/Burgerput/0_회의록/0_회의록.md",
     "7_TIL/99클럽 코테 스터디 21일차 TIL +240814.md",
     "resources/Pasted image 20240815103402.png",
     "resources/Pasted image 20240815103313.png",
