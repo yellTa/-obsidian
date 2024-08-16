@@ -23,24 +23,12 @@
             }
           },
           {
-            "id": "9d9f10acd29ebdf5",
+            "id": "31332d71f7302a9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2_Areas/알고리즘/문제풀이/백준 -에디터.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ca7360046f7237f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_Areas/알고리즘/이론/ArrayList와 LinkedList.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -131,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2_Areas/알고리즘/문제풀이/백준 -에디터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2_Areas/알고리즘/문제풀이/백준 -에디터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2_Areas/알고리즘/문제풀이/백준 -에디터.md"
+              }
             }
           }
         ]
@@ -193,14 +184,16 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2caed6827f1efab6",
+  "active": "31332d71f7302a9b",
   "lastOpenFiles": [
-    "2_Areas/알고리즘/문제풀이/백준 -에디터.md",
+    "1_Projects/Burgerput/Burgerput.md",
+    "Templates/Docs.md",
     "2_Areas/알고리즘/이론/ArrayList와 LinkedList.md",
+    "2_Areas/알고리즘/문제풀이/백준 -에디터.md",
+    "resources/Pasted image 20240816141134.png",
     "2_Areas/알고리즘/문제풀이/문제풀이.md",
     "resources/Pasted image 20240816134725.png",
     "resources/Pasted image 20240816133601.png",
-    "Templates/Docs.md",
     "resources/Pasted image 20240816132943.png",
     "2_Areas/알고리즘/이론/이론.md",
     "2_Areas/알고리즘/이론/트리구조.md",
@@ -208,7 +201,6 @@
     "2_Areas/알고리즘/이론",
     "2_Areas/알고리즘/문제풀이",
     "1_Projects/제로베이스 대기업 취업 특별반/Study/Algorithm/Algorithm.md",
-    "1_Projects/Burgerput/Burgerput.md",
     "1_Projects/Burgerput/0_회의록/8월 13일 회의록.md",
     "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
     "5_Memo/인텔리제이 단어 같이선택.md",
@@ -231,7 +223,6 @@
     "resources/Pasted image 20240814124608.png",
     "resources/Pasted image 20240814123903.png",
     "resources/Pasted image 20240814123442.png",
-    "resources/Pasted image 20240814123338.png",
     "1_Projects/제로베이스 대기업 취업 특별반/Study/Algorithm",
     "1_Projects/제로베이스 대기업 취업 특별반/Study",
     "1_Projects/제로베이스 대기업 취업 특별반/August",
