@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Areas/알고리즘/문제풀이/백준 -에디더.md",
+                "file": "2_Areas/알고리즘/이론/ArrayList와 LinkedList.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -142,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Areas/알고리즘/문제풀이/백준 -에디더.md",
+                "file": "2_Areas/알고리즘/이론/ArrayList와 LinkedList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Areas/알고리즘/문제풀이/백준 -에디더.md",
+                "file": "2_Areas/알고리즘/이론/ArrayList와 LinkedList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Areas/알고리즘/문제풀이/백준 -에디더.md"
+                "file": "2_Areas/알고리즘/이론/ArrayList와 LinkedList.md"
               }
             }
           }
@@ -208,11 +209,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "9d9f10acd29ebdf5",
+  "active": "15f39cac7766290c",
   "lastOpenFiles": [
+    "Templates/Docs.md",
+    "2_Areas/알고리즘/이론/ArrayList와 LinkedList.md",
+    "resources/Pasted image 20240816132943.png",
+    "2_Areas/알고리즘/이론/이론.md",
     "2_Areas/알고리즘/문제풀이/백준 -에디더.md",
     "2_Areas/알고리즘/문제풀이/문제풀이.md",
-    "2_Areas/알고리즘/이론/이론.md",
     "2_Areas/알고리즘/이론/트리구조.md",
     "2_Areas/알고리즘/이론/알고리즘 기초수학1.md",
     "2_Areas/알고리즘/이론",
@@ -238,9 +242,6 @@
     "resources/Pasted image 20240815103402.png",
     "resources/Pasted image 20240815103313.png",
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
-    "1_Projects/Burgerput/3_TroubleDocs/테스트 서버에 cron 설정하기.md",
-    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
-    "Templates/Folder(Develop).md",
     "resources/Pasted image 20240814124608.png",
     "resources/Pasted image 20240814123903.png",
     "resources/Pasted image 20240814123442.png",
@@ -249,7 +250,6 @@
     "resources/Pasted image 20240814020732.png",
     "1_Projects/제로베이스 대기업 취업 특별반/Study/Algorithm",
     "1_Projects/제로베이스 대기업 취업 특별반/Study",
-    "resources/Pasted image 20240813160001.png",
     "1_Projects/제로베이스 대기업 취업 특별반/August",
     "1_Projects/제로베이스 대기업 취업 특별반/August/정기회의",
     "2_Areas/알고리즘",
