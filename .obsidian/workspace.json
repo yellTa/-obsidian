@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
+                "file": "1_Projects/Burgerput/Burgerput.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
+                "file": "1_Projects/Burgerput/Burgerput.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
+                "file": "1_Projects/Burgerput/Burgerput.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/99클럽코테 3기/99클럽코테 3기.md"
+                "file": "1_Projects/Burgerput/Burgerput.md"
               }
             }
           }
@@ -198,9 +198,9 @@
   },
   "active": "24e23c43b1f4698e",
   "lastOpenFiles": [
+    "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
     "5_Memo/인텔리제이 단어 같이선택.md",
     "5_Memo/인텔리제이 inlayHints.md",
-    "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
     "1_Projects/Burgerput/Burgerput.md",
     "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
     "7_TIL/99클럽 코테 스터디 22일차 TIL + 240815.md",
