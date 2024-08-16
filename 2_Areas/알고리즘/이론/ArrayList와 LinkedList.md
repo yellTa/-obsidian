@@ -1,6 +1,6 @@
 ---
 created: 2024-08-16T13:28
-updated: 2024-08-16T13:48
+updated: 2024-08-16T13:52
 ---
 
 # ArrayList와 LinkedList의 차이
@@ -41,8 +41,17 @@ LinkedList는 노드로 이루어져 있다. 각 노드들이 실로 연결되�
 
 <span style="color:rgb(255, 128, 128)">즉, 삽입하려는 위치만 알고있다면 O(1)에 끝낼 수 있다는 의미이다. </span>
 
+### 조회
+조회에서는 조금 다른데 인덱스의 위치로 바로 접근하는 것이 아니라 head에서 끝까지 쭉쭉 탐색하다가 원하는 값을 찾으면 return한다. 
 
+<span style="color:rgb(255, 128, 128)">즉 조회는 O(N)의 시간 복잡도를 가진다는 의미이다. </span>
 
+# 결론
+## ArrayList와 LinkedList의 결정적인 차이
+- ArrayList는 배열이다.
+- LinkedList는 연결리스트이다.
+- <span style="color:rgb(255, 128, 128)">삽입과 삭제가 빈번</span>한 경우에는 <span style="color:rgb(102, 161, 255)">LinkedList</span>를 사용하는 것이 좋다.O(1)이기 때문
+- <span style="color:rgb(255, 128, 128)">조회가 빈번한 경우</span>는 <span style="color:rgb(102, 161, 255)">ArrayList, 배열</span>을 사용하는 것이 좋다.
 
 
 ---
