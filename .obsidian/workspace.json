@@ -6,7 +6,7 @@
       {
         "id": "f2c09484126a8fb8",
         "type": "tabs",
-        "dimension": 80.27613412228797,
+        "dimension": 82.03054806828392,
         "children": [
           {
             "id": "60da0eaa85a214d1",
@@ -52,7 +52,7 @@
       {
         "id": "a2fd5dd963933f8d",
         "type": "tabs",
-        "dimension": 19.723865877712033,
+        "dimension": 17.969451931716083,
         "children": [
           {
             "id": "2caed6827f1efab6",
@@ -63,33 +63,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "0c1b792ed567abcd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "45d8f52007b403f0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3314b670b651239f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -155,7 +131,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Areas/알고리즘/문제풀이/백준 -에디터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +147,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Areas/알고리즘/문제풀이/백준 -에디터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,9 +168,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2_Areas/알고리즘/문제풀이/백준 -에디터.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -221,10 +193,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "9d9f10acd29ebdf5",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
-    "2_Areas/알고리즘/이론/ArrayList와 LinkedList.md",
     "2_Areas/알고리즘/문제풀이/백준 -에디터.md",
+    "2_Areas/알고리즘/이론/ArrayList와 LinkedList.md",
     "2_Areas/알고리즘/문제풀이/문제풀이.md",
     "resources/Pasted image 20240816134725.png",
     "resources/Pasted image 20240816133601.png",
