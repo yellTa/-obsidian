@@ -1,6 +1,6 @@
 ---
 created: 2024-08-16T13:28
-updated: 2024-08-16T13:32
+updated: 2024-08-16T13:37
 ---
 
 # ArrayList와 LinkedList의 차이
@@ -17,6 +17,10 @@ updated: 2024-08-16T13:32
 
 
 ## 삽입, 삭제 연산의 차이
+![[Pasted image 20240816133601.png]]
+ArrayList의 연산방식이다. 
+
+
 
 
 
