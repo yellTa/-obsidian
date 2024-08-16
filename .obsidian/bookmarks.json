@@ -43,10 +43,23 @@
                   "subpath": "#^-"
                 }
               ],
-              "title": "Burgerput"
+              "title": "\\\\Burgerput"
+            },
+            {
+              "type": "group",
+              "ctime": 1723789196288,
+              "items": [
+                {
+                  "type": "group",
+                  "ctime": 1723789250056,
+                  "items": [],
+                  "title": "August"
+                }
+              ],
+              "title": "제로베이스 대기업 취업 특별반"
             }
           ],
-          "title": "1_Projects"
+          "title": "\\\\1_Projects"
         }
       ],
       "title": "sortspec"

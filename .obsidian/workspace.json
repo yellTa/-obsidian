@@ -45,9 +45,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a6af954c59ab1173",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HOW TO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -130,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HOW TO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HOW TO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HOW TO.md"
+              }
             }
           }
         ]
@@ -192,9 +208,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2caed6827f1efab6",
+  "active": "a6af954c59ab1173",
   "lastOpenFiles": [
     "2_Areas/취업준비/이력서 사이트 보기 리스트.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/August/첫 번째 과제 - 기업조사 미션/Untitled",
+    "1_Projects/제로베이스 대기업 취업 특별반/August/2주차",
     "Templates/Docs.md",
     "2_Areas/알고리즘/이론/ArrayList와 LinkedList.md",
     "2_Areas/알고리즘/문제풀이/백준 -에디터.md",
@@ -228,7 +246,6 @@
     "5_Memo/c++ Map의 사용법.md",
     "resources/Pasted image 20240815103402.png",
     "resources/Pasted image 20240815103313.png",
-    "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
     "resources/Pasted image 20240814124608.png",
     "resources/Pasted image 20240814123903.png",
     "resources/Pasted image 20240814123442.png",
@@ -238,8 +255,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/August/정기회의",
     "2_Areas/알고리즘",
     "5_Memo/icp",
-    "1_Projects/제로베이스 대기업 취업 특별반/August/첫 번째 과제 - 기업조사 미션/넥슨에서 필요한 핵심 역량 다섯가지 선정/넥슨에서필요한 핵심 역량 다섯가지 선정_20240805.pdf",
-    "1_Projects/제로베이스 대기업 취업 특별반/August/첫 번째 과제 - 기업조사 미션/넥슨에서 필요한 핵심 역량 다섯가지 선정",
     "Untitled.canvas"
   ]
 }
