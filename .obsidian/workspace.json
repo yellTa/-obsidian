@@ -45,21 +45,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f10025a536ecc16c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_TIL/99클럽 코테 스터디 22일차 TIL + 240815.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -142,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 22일차 TIL + 240815.md",
+                "file": "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 22일차 TIL + 240815.md",
+                "file": "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 22일차 TIL + 240815.md"
+                "file": "1_Projects/99클럽코테 3기/99클럽코테 3기.md"
               }
             }
           }
@@ -208,22 +196,24 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "f10025a536ecc16c",
+  "active": "24e23c43b1f4698e",
   "lastOpenFiles": [
-    "5_Memo/플루이드와샬 알고리즘.md",
+    "5_Memo/인텔리제이 단어 같이선택.md",
+    "5_Memo/인텔리제이 inlayHints.md",
+    "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
     "1_Projects/Burgerput/Burgerput.md",
-    "1_Projects/Burgerput/0_회의록/8월 13일 회의록.md",
+    "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
     "7_TIL/99클럽 코테 스터디 22일차 TIL + 240815.md",
+    "5_Memo/플루이드와샬 알고리즘.md",
+    "1_Projects/Burgerput/0_회의록/8월 13일 회의록.md",
     "5_Memo/그래프알고리즘.md",
     "resources/Pasted image 20240816010811.png",
-    "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
     "1_Projects/Burgerput/0_회의록/0_회의록.md",
     "7_TIL/99클럽 코테 스터디 21일차 TIL +240814.md",
     "5_Memo/java  Map.md",
     "java map.md",
     "1_Projects/제로베이스 대기업 취업 특별반/Study/Algorithm/알고리즘 기초수학1.md",
     "1_Projects/Burgerput/2_유지보수/3번째 서버 분평점 curl명령어 셋업.md",
-    "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
     "5_Memo/C++과 이진검색 트리.md",
     "5_Memo/c++ Map의 사용법.md",
     "resources/Pasted image 20240815103402.png",
@@ -237,8 +227,6 @@
     "Templates/Todo.md",
     "Templates/Memo.md",
     "Templates/devlop.md",
-    "1_Projects/Burgerput/2_유지보수/토큰유효하지 않으면 refresh-token 쿠키 삭제.md",
-    "1_Projects/Burgerput/0_회의록/5월 16일 회의록.md",
     "resources/Pasted image 20240814124608.png",
     "resources/Pasted image 20240814123903.png",
     "resources/Pasted image 20240814123442.png",
