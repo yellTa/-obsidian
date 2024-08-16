@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/August/2주차_지원기업조사/이글리안.md",
+                "file": "Templates/Folder(Develop).md",
                 "mode": "source",
                 "source": false
               }
@@ -142,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/Folder(Develop).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/Folder(Develop).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Templates/Folder(Develop).md"
+              }
             }
           }
         ]
@@ -205,7 +209,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "2caed6827f1efab6",
+  "active": "a6af954c59ab1173",
   "lastOpenFiles": [
     "1_Projects/제로베이스 대기업 취업 특별반/August/2주차_지원기업조사/이글리안.md",
     "resources/2024_이모션글로벌_회사소개서_20240416 1.pdf",
