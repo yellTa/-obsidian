@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Areas/알고리즘/문제풀이/백준 -에디터.md",
+                "file": "Templates/Docs.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Areas/알고리즘/문제풀이/백준 -에디터.md",
+                "file": "Templates/Docs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Areas/알고리즘/문제풀이/백준 -에디터.md",
+                "file": "Templates/Docs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Areas/알고리즘/문제풀이/백준 -에디터.md"
+                "file": "Templates/Docs.md"
               }
             }
           }
@@ -186,10 +186,10 @@
   },
   "active": "31332d71f7302a9b",
   "lastOpenFiles": [
-    "1_Projects/Burgerput/Burgerput.md",
     "Templates/Docs.md",
     "2_Areas/알고리즘/이론/ArrayList와 LinkedList.md",
     "2_Areas/알고리즘/문제풀이/백준 -에디터.md",
+    "1_Projects/Burgerput/Burgerput.md",
     "resources/Pasted image 20240816141134.png",
     "2_Areas/알고리즘/문제풀이/문제풀이.md",
     "resources/Pasted image 20240816134725.png",
