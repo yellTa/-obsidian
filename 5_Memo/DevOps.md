@@ -1,6 +1,6 @@
 ---
 created: 2024-08-05 23:32
-updated: 2024-08-05T23:34
+updated: 2024-08-16T22:16
 tags:
   - develop
   - study
@@ -18,8 +18,13 @@ tags:
 - 지속적인 통합 및 배포를 통해 코드 품질과 시스템 안정성을 개선
 - 사용자 피드백을 신속하게 수집, 이를 바탕으로 지속적인 개선을 도모
 
+![[Pasted image 20240816221546.png]]
+
+코드의 배포 주기를 짷게해서 빠른 서비스를 제공할 수 있도록 하는 것
+
 ## 출처/참고
 chatgpt
 
+https://www.youtube.com/watch?v=onOy7WiguMI
 ## 연결 문서
 

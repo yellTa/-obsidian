@@ -69,9 +69,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "665fcd0a070ccea7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cb45cf63ede824a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5_Memo/DevOps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -219,6 +239,8 @@
   },
   "active": "2caed6827f1efab6",
   "lastOpenFiles": [
+    "5_Memo/DevOps.md",
+    "resources/Pasted image 20240816221546.png",
     "5_Memo/일 구할 때 회사조사항목.md",
     "5_Memo/이력서작성법.md",
     "2_Areas/취업준비/이력서 사이트 보기 리스트.md",
@@ -256,13 +278,11 @@
     "5_Memo/인텔리제이 inlayHints.md",
     "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
     "7_TIL/99클럽 코테 스터디 22일차 TIL + 240815.md",
-    "5_Memo/플루이드와샬 알고리즘.md",
     "resources/Pasted image 20240816010811.png",
     "resources/Pasted image 20240815103402.png",
     "resources/Pasted image 20240815103313.png",
     "resources/Pasted image 20240814124608.png",
     "resources/Pasted image 20240814123903.png",
-    "resources/Pasted image 20240814123442.png",
     "1_Projects/제로베이스 대기업 취업 특별반/Study/Algorithm",
     "1_Projects/제로베이스 대기업 취업 특별반/Study",
     "Untitled.canvas"
