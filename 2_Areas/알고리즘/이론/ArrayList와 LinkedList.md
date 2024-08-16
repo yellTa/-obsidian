@@ -1,6 +1,6 @@
 ---
 created: 2024-08-16T13:28
-updated: 2024-08-16T13:43
+updated: 2024-08-16T13:48
 ---
 
 # ArrayList와 LinkedList의 차이
@@ -31,10 +31,16 @@ ArrayList는 배열과 같다고 했기 때문에 중간이나 앞쪽에 연산�
 마찬가지로 <span style="color:rgb(255, 128, 128)">ArrayList또한 메모리에 저장된 값을 빠르게 불러올 수 있다. O(1)의 연산</span>
 
 ## LinkedList
+![[Pasted image 20240816134725.png]]
 
+연결리스트는 value : node의 쌍으로 이루어져 있다. 서로 떨어져 있지만 연결점이 있다는 뜻
 
 ### 삽입과 삭제
-LinkedList는 노드로 이루어져 있다.
+LinkedList는 노드로 이루어져 있다. 각 노드들이 실로 연결되어 있다고 생각하자.
+중간에 하나를 삽입하고싶다. 라면 실을 끊고 삽입한 뒤 이어주면 된다.
+
+<span style="color:rgb(255, 128, 128)">즉, 삽입하려는 위치만 알고있다면 O(1)에 끝낼 수 있다는 의미이다. </span>
+
 
 
 
