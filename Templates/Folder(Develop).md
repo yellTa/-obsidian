@@ -1,8 +1,8 @@
 ---
 created: 2024-08-13T12:21
-updated: 2024-08-14T21:52
+updated: 2024-08-16T15:35
 ---
-# DataView
+# DataView(Progress에 따라서 색상까지)
 ```dataviewjs
 //3,4 라인의 폴더 이름만 바꿔주면 된다.
 const pages = dv.pages('"폴더의 경로"')
@@ -35,4 +35,11 @@ dv.table(
 
 
 
+```
+
+# 간단한 폴더(날짜만)
+
+ ```dataview 
+table dateformat(file.ctime, "yyyy-MM-dd") as "생성 날짜", dateformat(file.mtime, "yyyy-MM-dd") as "수정 날짜" FROM "1_Projects/제로베이스 대기업 취업 특별반/정기회의"
+WHERE file.name != "정기회의"
 ```

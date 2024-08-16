@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOW TO.md",
+                "file": "Templates/Folder(Develop).md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOW TO.md",
+                "file": "Templates/Folder(Develop).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOW TO.md",
+                "file": "Templates/Folder(Develop).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOW TO.md"
+                "file": "Templates/Folder(Develop).md"
               }
             }
           }
@@ -205,14 +205,20 @@
       "quickadd:QuickAdd": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
       "custom-sort:Toggle custom sorting": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "a6af954c59ab1173",
+  "active": "15f39cac7766290c",
   "lastOpenFiles": [
+    "1_Projects/제로베이스 대기업 취업 특별반/정기회의/정기회의.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/August/3주차/3주차.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/August/4주차",
+    "1_Projects/제로베이스 대기업 취업 특별반/August/3주차",
+    "HOW TO.md",
     "2_Areas/취업준비/이력서 사이트 보기 리스트.md",
     "1_Projects/제로베이스 대기업 취업 특별반/August/첫 번째 과제 - 기업조사 미션/Untitled",
-    "1_Projects/제로베이스 대기업 취업 특별반/August/2주차",
+    "1_Projects/제로베이스 대기업 취업 특별반/August/2주차_지원기업조사",
     "Templates/Docs.md",
     "2_Areas/알고리즘/이론/ArrayList와 LinkedList.md",
     "2_Areas/알고리즘/문제풀이/백준 -에디터.md",
@@ -242,8 +248,6 @@
     "5_Memo/java  Map.md",
     "java map.md",
     "1_Projects/Burgerput/2_유지보수/3번째 서버 분평점 curl명령어 셋업.md",
-    "5_Memo/C++과 이진검색 트리.md",
-    "5_Memo/c++ Map의 사용법.md",
     "resources/Pasted image 20240815103402.png",
     "resources/Pasted image 20240815103313.png",
     "resources/Pasted image 20240814124608.png",
@@ -252,9 +256,7 @@
     "1_Projects/제로베이스 대기업 취업 특별반/Study/Algorithm",
     "1_Projects/제로베이스 대기업 취업 특별반/Study",
     "1_Projects/제로베이스 대기업 취업 특별반/August",
-    "1_Projects/제로베이스 대기업 취업 특별반/August/정기회의",
-    "2_Areas/알고리즘",
-    "5_Memo/icp",
+    "1_Projects/제로베이스 대기업 취업 특별반/정기회의",
     "Untitled.canvas"
   ]
 }
