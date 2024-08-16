@@ -28,18 +28,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/Burgerput/0_회의록/8월 13일 회의록.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24e23c43b1f4698e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "1_Projects/Burgerput/Burgerput.md",
                 "mode": "source",
                 "source": false
@@ -47,7 +35,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -196,16 +184,16 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "24e23c43b1f4698e",
+  "active": "2874d83c6f575e22",
   "lastOpenFiles": [
+    "1_Projects/Burgerput/Burgerput.md",
+    "1_Projects/Burgerput/0_회의록/8월 13일 회의록.md",
     "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
     "5_Memo/인텔리제이 단어 같이선택.md",
     "5_Memo/인텔리제이 inlayHints.md",
-    "1_Projects/Burgerput/Burgerput.md",
     "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
     "7_TIL/99클럽 코테 스터디 22일차 TIL + 240815.md",
     "5_Memo/플루이드와샬 알고리즘.md",
-    "1_Projects/Burgerput/0_회의록/8월 13일 회의록.md",
     "5_Memo/그래프알고리즘.md",
     "resources/Pasted image 20240816010811.png",
     "1_Projects/Burgerput/0_회의록/0_회의록.md",
