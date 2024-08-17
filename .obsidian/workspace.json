@@ -6,7 +6,7 @@
       {
         "id": "f2c09484126a8fb8",
         "type": "tabs",
-        "dimension": 54.98652291105122,
+        "dimension": 54.98652291105121,
         "children": [
           {
             "id": "60da0eaa85a214d1",
@@ -47,51 +47,19 @@
             }
           },
           {
-            "id": "189d15b6dbacc930",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5_Memo/이력서작성법.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e537012abd36e385",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5_Memo/일 구할 때 회사조사항목.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "665fcd0a070ccea7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "cb45cf63ede824a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5_Memo/DevOps.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월 13일 그룹 이력서 특강.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -127,7 +95,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -174,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1_Projects/Burgerput/0_회의록/8월 13일 회의록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1_Projects/Burgerput/0_회의록/8월 13일 회의록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1_Projects/Burgerput/0_회의록/8월 13일 회의록.md"
+              }
             }
           }
         ]
@@ -232,24 +204,23 @@
       "obsidian-projects:Open projects": false,
       "quickadd:QuickAdd": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
-      "custom-sort:Toggle custom sorting": false,
-      "obsidian-importer:Open Importer": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2caed6827f1efab6",
+  "active": "ec1e2a58850efc3d",
   "lastOpenFiles": [
+    "5_Memo/이력서작성법.md",
+    "5_Memo/일 구할 때 회사조사항목.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월 13일 그룹 이력서 특강.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/회의 발표자료.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월12일 미팅자료.md",
     "5_Memo/DevOps.md",
     "resources/Pasted image 20240816221546.png",
-    "5_Memo/일 구할 때 회사조사항목.md",
-    "5_Memo/이력서작성법.md",
     "2_Areas/취업준비/이력서 사이트 보기 리스트.md",
     "1_Projects/Burgerput/0_회의록/8월 13일 회의록.md",
     "Templates/Folder(Develop).md",
     "1_Projects/Burgerput/0_회의록/0_회의록.md",
     "1_Projects/Burgerput/Burgerput.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월 13일 그룹 이력서 특강.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/회의 발표자료.md",
     "1_Projects/제로베이스 대기업 취업 특별반/August/2주차_지원기업조사/이글리안.md",
     "resources/2024_이모션글로벌_회사소개서_20240416 1.pdf",
     "resources/2024_이모션글로벌_회사소개서_20240416.pdf",
@@ -277,7 +248,6 @@
     "5_Memo/인텔리제이 단어 같이선택.md",
     "5_Memo/인텔리제이 inlayHints.md",
     "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
-    "7_TIL/99클럽 코테 스터디 22일차 TIL + 240815.md",
     "resources/Pasted image 20240816010811.png",
     "resources/Pasted image 20240815103402.png",
     "resources/Pasted image 20240815103313.png",
