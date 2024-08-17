@@ -6,7 +6,7 @@
       {
         "id": "f2c09484126a8fb8",
         "type": "tabs",
-        "dimension": 54.98652291105121,
+        "dimension": 70.55167055167055,
         "children": [
           {
             "id": "60da0eaa85a214d1",
@@ -35,42 +35,6 @@
             }
           },
           {
-            "id": "ec1e2a58850efc3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Projects/Burgerput/0_회의록/8월 13일 회의록.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0a1b964529e6ff0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_TIL/99클럽 코테 스터디 23일차 TIL + 240816.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb45cf63ede824a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월 13일 그룹 이력서 특강.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3174223bb31353f6",
             "type": "leaf",
             "state": {
@@ -83,12 +47,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       },
       {
         "id": "a2fd5dd963933f8d",
         "type": "tabs",
-        "dimension": 45.01347708894879,
+        "dimension": 29.448329448329446,
         "children": [
           {
             "id": "2caed6827f1efab6",
@@ -166,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5_Memo/if조건을 명확히주어야하는 이유.md",
+                "file": "1_Projects/Burgerput/Burgerput.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5_Memo/if조건을 명확히주어야하는 이유.md",
+                "file": "1_Projects/Burgerput/Burgerput.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5_Memo/if조건을 명확히주어야하는 이유.md"
+                "file": "1_Projects/Burgerput/Burgerput.md"
               }
             }
           }
@@ -231,7 +195,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "3174223bb31353f6",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
     "5_Memo/if조건을 명확히주어야하는 이유.md",
     "7_TIL/99클럽 코테 스터디 23일차 TIL + 240816.md",
