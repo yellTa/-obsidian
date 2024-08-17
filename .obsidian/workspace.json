@@ -6,7 +6,7 @@
       {
         "id": "f2c09484126a8fb8",
         "type": "tabs",
-        "dimension": 32.09964412811388,
+        "dimension": 77.67857142857143,
         "children": [
           {
             "id": "60da0eaa85a214d1",
@@ -20,6 +20,18 @@
                 "source": false
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "74c9caabaac9e8f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5_Memo/일 구할 때 회사 조사항목.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -47,12 +59,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "a2fd5dd963933f8d",
         "type": "tabs",
-        "dimension": 67.90035587188612,
+        "dimension": 22.321428571428573,
         "children": [
           {
             "id": "2caed6827f1efab6",
@@ -63,21 +75,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "74c9caabaac9e8f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5_Memo/일 구할 때 회사조사항목.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5_Memo/일 구할 때 회사조사항목.md",
+                "file": "5_Memo/일 구할 때 회사 조사항목.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5_Memo/일 구할 때 회사조사항목.md",
+                "file": "5_Memo/일 구할 때 회사 조사항목.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5_Memo/일 구할 때 회사조사항목.md"
+                "file": "5_Memo/일 구할 때 회사 조사항목.md"
               }
             }
           }
@@ -217,7 +216,7 @@
     "7_TIL/99클럽 코테 스터디 23일차 TIL + 240816.md",
     "Templates/99클럽 코테 스터디 n일차 TIL +.md",
     "1_Projects/Burgerput/0_회의록/8월 13일 회의록.md",
-    "5_Memo/일 구할 때 회사조사항목.md",
+    "5_Memo/일 구할 때 회사 조사항목.md",
     "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월 13일 그룹 이력서 특강.md",
     "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/회의 발표자료.md",
     "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월12일 미팅자료.md",
