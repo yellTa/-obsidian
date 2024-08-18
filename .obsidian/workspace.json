@@ -52,38 +52,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5_Memo/일 구할 때 회사 조사항목.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec635e199261c642",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_TIL/99클럽 코테 스터디 24일차 TIL + 240817.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5df281dd4ff6d536",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5_Memo/if조건을 명확히주어야하는 이유.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/August/2주차_지원기업조사/갤럭시아머니트리.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -166,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 24일차 TIL + 240817.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/August/2주차_지원기업조사/갤럭시아머니트리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 24일차 TIL + 240817.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/August/2주차_지원기업조사/갤럭시아머니트리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 24일차 TIL + 240817.md"
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/August/2주차_지원기업조사/갤럭시아머니트리.md"
               }
             }
           }
@@ -231,12 +207,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "ec635e199261c642",
+  "active": "3f80c24dc3858bad",
   "lastOpenFiles": [
+    "1_Projects/제로베이스 대기업 취업 특별반/August/2주차_지원기업조사/갤럭시아머니트리.md",
     "5_Memo/일 구할 때 회사 조사항목.md",
+    "7_TIL/99클럽 코테 스터디 24일차 TIL + 240817.md",
     "Templates/Docs.md",
     "5_Memo/if조건을 명확히주어야하는 이유.md",
-    "7_TIL/99클럽 코테 스터디 24일차 TIL + 240817.md",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/2_유지보수/3번째 서버 분평점 curl명령어 셋업.md",
     "1_Projects/Burgerput/Burgerput.md",
@@ -265,7 +242,6 @@
     "HOW TO.md",
     "1_Projects/제로베이스 대기업 취업 특별반/August/첫 번째 과제 - 기업조사 미션/Untitled",
     "1_Projects/제로베이스 대기업 취업 특별반/August/2주차_지원기업조사",
-    "2_Areas/알고리즘/이론/ArrayList와 LinkedList.md",
     "resources/Pasted image 20240816141134.png",
     "resources/Pasted image 20240816134725.png",
     "resources/Pasted image 20240816133601.png",

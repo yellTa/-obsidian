@@ -14,3 +14,7 @@
 .table-wrapper a{
     
 }
+/*hr 라인 색상 변경*/
+hr{
+    color: aquamarine;
+}
