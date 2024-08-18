@@ -16,5 +16,7 @@
 }
 /*hr 라인 색상 변경*/
 hr{
-    color: aquamarine;
+  border-color: dimgrey; /* 원하는 색상 코드로 변경하세요 */
+/*  border-width: 0.5px;  구분선의 두께를 조정합니다 (선택사항) */
+/*  border-style: solid;  선 스타일을 설정합니다. */
 }
