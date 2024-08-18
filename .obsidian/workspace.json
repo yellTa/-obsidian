@@ -62,11 +62,9 @@
             "id": "991476fdaa993aae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Templates/Folder(Develop).md",
-                "mode": "source",
-                "source": false
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서0818이전.pdf"
               }
             }
           }
@@ -154,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Folder(Develop).md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서0818이전.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Folder(Develop).md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서0818이전.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Folder(Develop).md"
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서0818이전.pdf"
               }
             }
           }
@@ -221,8 +219,13 @@
   },
   "active": "991476fdaa993aae",
   "lastOpenFiles": [
-    "Templates/Docs.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서버전들.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서0818이전.pdf",
+    "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/Untitled.md",
     "Templates/Folder(Develop).md",
+    "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들",
+    "1_Projects/Burgerput/Untitled",
+    "Templates/Docs.md",
     "Templates/99클럽 코테 스터디 n일차 TIL +.md",
     "Templates/기업조사.md",
     "Templates/Todo.md",
@@ -245,9 +248,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월12일 미팅자료.md",
     "5_Memo/DevOps.md",
     "resources/Pasted image 20240816221546.png",
-    "2_Areas/취업준비/이력서 사이트 보기 리스트.md",
-    "1_Projects/Burgerput/0_회의록/0_회의록.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/August/2주차_지원기업조사/이글리안.md",
     "resources/2024_이모션글로벌_회사소개서_20240416 1.pdf",
     "resources/2024_이모션글로벌_회사소개서_20240416.pdf",
     "1_Projects/제로베이스 대기업 취업 특별반/August/4주차",
@@ -259,14 +259,11 @@
     "resources/Pasted image 20240816133601.png",
     "resources/Pasted image 20240816132943.png",
     "2_Areas/알고리즘/이론",
-    "2_Areas/알고리즘/문제풀이",
     "resources/Pasted image 20240816010811.png",
     "resources/Pasted image 20240815103402.png",
     "resources/Pasted image 20240815103313.png",
     "resources/Pasted image 20240814124608.png",
     "resources/Pasted image 20240814123903.png",
-    "1_Projects/제로베이스 대기업 취업 특별반/Study/Algorithm",
-    "1_Projects/제로베이스 대기업 취업 특별반/Study",
     "Untitled.canvas"
   ]
 }
