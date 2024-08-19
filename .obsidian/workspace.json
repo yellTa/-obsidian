@@ -112,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -195,6 +196,11 @@
   },
   "active": "c4c1778397fa040f",
   "lastOpenFiles": [
+    "resources/Pasted image 20240819211003.png",
+    "resources/Pasted image 20240819210913.png",
+    "resources/Pasted image 20240819210829.png",
+    "resources/Pasted image 20240819210430.png",
+    "resources/Pasted image 20240819210317.png",
     "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/회의 발표자료.md",
     "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월19일 월요일 줌 미팅.md",
     "7_TIL/99클럽 코테 스터디 25일차 TIL + 240818.md",
@@ -224,7 +230,6 @@
     "7_TIL/99클럽 코테 스터디 23일차 TIL + 240816.md",
     "1_Projects/Burgerput/0_회의록/8월 13일 회의록.md",
     "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월 13일 그룹 이력서 특강.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월12일 미팅자료.md",
     "resources/Pasted image 20240816221546.png",
     "resources/2024_이모션글로벌_회사소개서_20240416 1.pdf",
     "resources/2024_이모션글로벌_회사소개서_20240416.pdf",
@@ -237,10 +242,6 @@
     "resources/Pasted image 20240816133601.png",
     "resources/Pasted image 20240816132943.png",
     "2_Areas/알고리즘/이론",
-    "resources/Pasted image 20240816010811.png",
-    "resources/Pasted image 20240815103402.png",
-    "resources/Pasted image 20240815103313.png",
-    "resources/Pasted image 20240814124608.png",
     "Untitled.canvas"
   ]
 }
