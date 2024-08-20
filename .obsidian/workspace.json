@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월19일 월요일 줌 미팅.md",
+                "file": "1_Projects/Burgerput/0_회의록/0820회의록.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월19일 월요일 줌 미팅.md",
+                "file": "1_Projects/Burgerput/0_회의록/0820회의록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월19일 월요일 줌 미팅.md",
+                "file": "1_Projects/Burgerput/0_회의록/0820회의록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월19일 월요일 줌 미팅.md"
+                "file": "1_Projects/Burgerput/0_회의록/0820회의록.md"
               }
             }
           }
@@ -195,6 +194,11 @@
   },
   "active": "c4c1778397fa040f",
   "lastOpenFiles": [
+    "1_Projects/Burgerput/0_회의록/0_회의록.md",
+    "1_Projects/Burgerput/0_회의록/0820회의록.md",
+    "1_Projects/Burgerput/Burgerput.md",
+    "1_Projects/Burgerput/0_회의록/8월 13일 회의록.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월19일 월요일 줌 미팅.md",
     "resources/Pasted image 20240819213243.png",
     "resources/Pasted image 20240819213119.png",
     "resources/Pasted image 20240819212747.png",
@@ -205,7 +209,6 @@
     "resources/Pasted image 20240819210430.png",
     "resources/Pasted image 20240819210317.png",
     "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/회의 발표자료.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월19일 월요일 줌 미팅.md",
     "7_TIL/99클럽 코테 스터디 25일차 TIL + 240818.md",
     "resources/Pasted image 20240819102941.png",
     "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서0818이전.pdf",
@@ -224,16 +227,12 @@
     "7_TIL/99클럽 코테 스터디 24일차 TIL + 240817.md",
     "5_Memo/if조건을 명확히주어야하는 이유.md",
     "1_Projects/Burgerput/2_유지보수/3번째 서버 분평점 curl명령어 셋업.md",
-    "1_Projects/Burgerput/Burgerput.md",
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
     "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
     "5_Memo/자소서 작성하는법.md",
     "5_Memo/나만의 자소서 작성법.md",
     "5_Memo/이력서작성법.md",
     "7_TIL/99클럽 코테 스터디 23일차 TIL + 240816.md",
-    "1_Projects/Burgerput/0_회의록/8월 13일 회의록.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월 13일 그룹 이력서 특강.md",
-    "resources/Pasted image 20240816221546.png",
     "resources/2024_이모션글로벌_회사소개서_20240416 1.pdf",
     "resources/2024_이모션글로벌_회사소개서_20240416.pdf",
     "1_Projects/제로베이스 대기업 취업 특별반/August/4주차",
