@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/Burgerput/0_회의록/0820회의록.md",
+                "file": "1_Projects/Burgerput/Burgerput.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/Burgerput/0_회의록/0820회의록.md",
+                "file": "1_Projects/Burgerput/Burgerput.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/Burgerput/0_회의록/0820회의록.md"
+                "file": "1_Projects/Burgerput/Burgerput.md"
               }
             }
           }
@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,7 +193,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c4c1778397fa040f",
+  "active": "cbce9fcb5a3ea9be",
   "lastOpenFiles": [
     "1_Projects/Burgerput/0_회의록/0_회의록.md",
     "1_Projects/Burgerput/0_회의록/0820회의록.md",
