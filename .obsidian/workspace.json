@@ -43,9 +43,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5d7272acd215340e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7_TIL/99클럽 코테 스터디 26일차 TIL + 240820.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/Burgerput/Burgerput.md",
+                "file": "7_TIL/99클럽 코테 스터디 26일차 TIL + 240820.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/Burgerput/Burgerput.md",
+                "file": "7_TIL/99클럽 코테 스터디 26일차 TIL + 240820.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/Burgerput/Burgerput.md"
+                "file": "7_TIL/99클럽 코테 스터디 26일차 TIL + 240820.md"
               }
             }
           }
@@ -193,11 +205,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "cbce9fcb5a3ea9be",
+  "active": "5d7272acd215340e",
   "lastOpenFiles": [
-    "1_Projects/Burgerput/0_회의록/0_회의록.md",
     "1_Projects/Burgerput/0_회의록/0820회의록.md",
+    "7_TIL/99클럽 코테 스터디 26일차 TIL + 240820.md",
     "1_Projects/Burgerput/Burgerput.md",
+    "1_Projects/Burgerput/0_회의록/0_회의록.md",
     "1_Projects/Burgerput/0_회의록/8월 13일 회의록.md",
     "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월19일 월요일 줌 미팅.md",
     "resources/Pasted image 20240819213243.png",
@@ -233,7 +246,6 @@
     "5_Memo/자소서 작성하는법.md",
     "5_Memo/나만의 자소서 작성법.md",
     "5_Memo/이력서작성법.md",
-    "7_TIL/99클럽 코테 스터디 23일차 TIL + 240816.md",
     "resources/2024_이모션글로벌_회사소개서_20240416 1.pdf",
     "resources/2024_이모션글로벌_회사소개서_20240416.pdf",
     "1_Projects/제로베이스 대기업 취업 특별반/August/4주차",
