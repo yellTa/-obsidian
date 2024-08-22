@@ -55,9 +55,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "909996b0fefa0ffd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7_TIL/99클럽 코테 스터디 27일차 TIL + 240821.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -124,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -141,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5_Memo/일 구할 때 회사 조사항목.md",
+                "file": "7_TIL/99클럽 코테 스터디 27일차 TIL + 240821.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5_Memo/일 구할 때 회사 조사항목.md",
+                "file": "7_TIL/99클럽 코테 스터디 27일차 TIL + 240821.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5_Memo/일 구할 때 회사 조사항목.md"
+                "file": "7_TIL/99클럽 코테 스터디 27일차 TIL + 240821.md"
               }
             }
           }
@@ -206,8 +217,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "5d7272acd215340e",
+  "active": "909996b0fefa0ffd",
   "lastOpenFiles": [
+    "5_Memo/일 구할 때 회사 조사항목.md",
+    "7_TIL/99클럽 코테 스터디 27일차 TIL + 240821.md",
     "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월 21일 코테특강.md",
     "resources/Pasted image 20240821203436.png",
     "resources/Pasted image 20240821201538.png",
@@ -219,7 +232,6 @@
     "resources/Pasted image 20240821191106.png",
     "resources/Pasted image 20240821190325.png",
     "1_Projects/Burgerput/0_회의록/0820회의록.md",
-    "5_Memo/일 구할 때 회사 조사항목.md",
     "7_TIL/99클럽 코테 스터디 26일차 TIL + 240820.md",
     "1_Projects/Burgerput/Burgerput.md",
     "1_Projects/Burgerput/0_회의록/0_회의록.md",
