@@ -152,7 +152,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 27일차 TIL + 240821.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +168,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 27일차 TIL + 240821.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,9 +189,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "7_TIL/99클럽 코테 스터디 27일차 TIL + 240821.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -217,10 +213,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "909996b0fefa0ffd",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
-    "5_Memo/일 구할 때 회사 조사항목.md",
     "7_TIL/99클럽 코테 스터디 27일차 TIL + 240821.md",
+    "5_Memo/일 구할 때 회사 조사항목.md",
     "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월 21일 코테특강.md",
     "resources/Pasted image 20240821203436.png",
     "resources/Pasted image 20240821201538.png",
