@@ -59,31 +59,7 @@
             }
           },
           {
-            "id": "84571f993e00c8b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_Areas/알고리즘/문제풀이/아이템줍기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0fd09c16568f4244",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Memo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f90167024613cd5",
+            "id": "e0336fc4dffbe418",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -95,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -179,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5_Memo/BFS단위측정하는방법.md",
+                "file": "7_TIL/99클럽 코테 스터디 23일차 TIL + 240823.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5_Memo/BFS단위측정하는방법.md",
+                "file": "7_TIL/99클럽 코테 스터디 23일차 TIL + 240823.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5_Memo/BFS단위측정하는방법.md"
+                "file": "7_TIL/99클럽 코테 스터디 23일차 TIL + 240823.md"
               }
             }
           }
@@ -244,14 +220,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "4f90167024613cd5",
+  "active": "82032d2955edac66",
   "lastOpenFiles": [
-    "resources/Pasted image 20240823012915.png",
     "5_Memo/BFS단위측정하는방법.md",
+    "2_Areas/알고리즘/문제풀이/아이템줍기.md",
     "Templates/Memo.md",
+    "resources/Pasted image 20240823012915.png",
     "7_TIL/99클럽 코테 스터디 23일차 TIL + 240823.md",
     "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
-    "2_Areas/알고리즘/문제풀이/아이템줍기.md",
     "7_TIL/99클럽 코테 스터디 22일차 TIL + 240822.md",
     "5_Memo/일 구할 때 회사 조사항목.md",
     "resources/Pasted image 20240822185126.png",
@@ -267,7 +243,6 @@
     "2_Areas/알고리즘/문제풀이/문제풀이.md",
     "HOW TO.md",
     "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월 21일 코테특강.md",
-    "resources/Pasted image 20240822102835.png",
     "1_Projects/Burgerput/0_회의록/0820회의록.md",
     "7_TIL/99클럽 코테 스터디 26일차 TIL + 240820.md",
     "1_Projects/Burgerput/Burgerput.md",
