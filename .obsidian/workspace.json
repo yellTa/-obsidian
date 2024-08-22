@@ -38,7 +38,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월 21일 코테특강.md",
+                "file": "HOW TO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f2f0da514aa547a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7_TIL/99클럽 코테 스터디 22일차 TIL + 240822.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -215,12 +227,14 @@
   },
   "active": "2caed6827f1efab6",
   "lastOpenFiles": [
+    "7_TIL/99클럽 코테 스터디 22일차 TIL + 240822.md",
+    "HOW TO.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월 21일 코테특강.md",
     "7_TIL/99클럽 코테 스터디 27일차 TIL + 240821.md",
     "resources/Pasted image 20240822102835.png",
     "resources/Pasted image 20240822102831.png",
     "resources/Pasted image 20240822100757.png",
     "5_Memo/일 구할 때 회사 조사항목.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월 21일 코테특강.md",
     "resources/Pasted image 20240821203436.png",
     "resources/Pasted image 20240821201538.png",
     "resources/Pasted image 20240821201007.png",
@@ -252,7 +266,6 @@
     "5_Memo/if조건을 명확히주어야하는 이유.md",
     "1_Projects/Burgerput/2_유지보수/3번째 서버 분평점 curl명령어 셋업.md",
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
-    "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
     "resources/2024_이모션글로벌_회사소개서_20240416 1.pdf",
     "resources/2024_이모션글로벌_회사소개서_20240416.pdf",
     "1_Projects/제로베이스 대기업 취업 특별반/August/4주차",
