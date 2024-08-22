@@ -152,6 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "7_TIL/99클럽 코테 스터디 27일차 TIL + 240821.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,6 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "7_TIL/99클럽 코테 스터디 27일차 TIL + 240821.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +191,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "7_TIL/99클럽 코테 스터디 27일차 TIL + 240821.md"
+              }
             }
           }
         ]
@@ -213,8 +217,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2caed6827f1efab6",
+  "active": "909996b0fefa0ffd",
   "lastOpenFiles": [
+    "resources/Pasted image 20240822100757.png",
     "7_TIL/99클럽 코테 스터디 27일차 TIL + 240821.md",
     "5_Memo/일 구할 때 회사 조사항목.md",
     "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월 21일 코테특강.md",
@@ -253,7 +258,6 @@
     "1_Projects/Burgerput/2_유지보수/3번째 서버 분평점 curl명령어 셋업.md",
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
     "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
-    "5_Memo/자소서 작성하는법.md",
     "resources/2024_이모션글로벌_회사소개서_20240416 1.pdf",
     "resources/2024_이모션글로벌_회사소개서_20240416.pdf",
     "1_Projects/제로베이스 대기업 취업 특별반/August/4주차",
