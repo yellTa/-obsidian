@@ -23,46 +23,12 @@
             }
           },
           {
-            "id": "74c9caabaac9e8f1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서0818이전.pdf"
-              }
-            }
-          },
-          {
             "id": "c4c1778397fa040f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "HOW TO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f2f0da514aa547a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_TIL/99클럽 코테 스터디 22일차 TIL + 240822.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d7272acd215340e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5_Memo/일 구할 때 회사 조사항목.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,9 +45,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "82032d2955edac66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7_TIL/99클럽 코테 스터디 23일차 TIL + 240823.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84571f993e00c8b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_Areas/알고리즘/문제풀이/아이템줍기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fd09c16568f4244",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Memo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f90167024613cd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5_Memo/BFS단위측정하는방법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -148,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -164,6 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "5_Memo/BFS단위측정하는방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,6 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "5_Memo/BFS단위측정하는방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +218,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "5_Memo/BFS단위측정하는방법.md"
+              }
             }
           }
         ]
@@ -225,10 +244,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2caed6827f1efab6",
+  "active": "4f90167024613cd5",
   "lastOpenFiles": [
+    "5_Memo/BFS단위측정하는방법.md",
+    "Templates/Memo.md",
+    "7_TIL/99클럽 코테 스터디 23일차 TIL + 240823.md",
     "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
     "2_Areas/알고리즘/문제풀이/아이템줍기.md",
+    "7_TIL/99클럽 코테 스터디 22일차 TIL + 240822.md",
+    "5_Memo/일 구할 때 회사 조사항목.md",
     "resources/Pasted image 20240822185126.png",
     "resources/Pasted image 20240822183840.png",
     "resources/Pasted image 20240822183537.png",
@@ -238,8 +262,6 @@
     "resources/Pasted image 20240822174709.png",
     "resources/Pasted image 20240822173810.png",
     "resources/Pasted image 20240822173749.png",
-    "7_TIL/99클럽 코테 스터디 22일차 TIL + 240822.md",
-    "5_Memo/일 구할 때 회사 조사항목.md",
     "7_TIL/99클럽 코테 스터디 27일차 TIL + 240821.md",
     "2_Areas/알고리즘/문제풀이/문제풀이.md",
     "HOW TO.md",
@@ -263,9 +285,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들",
     "1_Projects/Burgerput/Untitled",
     "Templates/99클럽 코테 스터디 n일차 TIL +.md",
-    "Templates/기업조사.md",
-    "Templates/Todo.md",
-    "7_TIL/99클럽 코테 스터디 24일차 TIL + 240817.md",
     "resources/2024_이모션글로벌_회사소개서_20240416 1.pdf",
     "resources/2024_이모션글로벌_회사소개서_20240416.pdf",
     "1_Projects/제로베이스 대기업 취업 특별반/August/4주차",
