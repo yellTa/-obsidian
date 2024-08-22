@@ -164,7 +164,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Areas/알고리즘/문제풀이/아이템줍기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +180,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Areas/알고리즘/문제풀이/아이템줍기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,9 +201,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2_Areas/알고리즘/문제풀이/아이템줍기.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -229,11 +225,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "6db28a46c8e53f25",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
+    "2_Areas/알고리즘/문제풀이/아이템줍기.md",
+    "resources/Pasted image 20240822182843.png",
     "resources/Pasted image 20240822181037.png",
     "resources/Pasted image 20240822180424.png",
-    "2_Areas/알고리즘/문제풀이/아이템줍기.md",
     "resources/Pasted image 20240822174709.png",
     "resources/Pasted image 20240822173810.png",
     "resources/Pasted image 20240822173749.png",
@@ -247,8 +244,6 @@
     "resources/Pasted image 20240822102831.png",
     "resources/Pasted image 20240822100757.png",
     "resources/Pasted image 20240821203436.png",
-    "resources/Pasted image 20240821201538.png",
-    "resources/Pasted image 20240821201007.png",
     "1_Projects/Burgerput/0_회의록/0820회의록.md",
     "7_TIL/99클럽 코테 스터디 26일차 TIL + 240820.md",
     "1_Projects/Burgerput/Burgerput.md",
