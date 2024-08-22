@@ -69,19 +69,19 @@
             }
           },
           {
-            "id": "909996b0fefa0ffd",
+            "id": "6db28a46c8e53f25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 27일차 TIL + 240821.md",
+                "file": "2_Areas/알고리즘/문제풀이/아이템줍기.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -164,6 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2_Areas/알고리즘/문제풀이/아이템줍기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,6 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2_Areas/알고리즘/문제풀이/아이템줍기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +203,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2_Areas/알고리즘/문제풀이/아이템줍기.md"
+              }
             }
           }
         ]
@@ -225,16 +229,18 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2caed6827f1efab6",
+  "active": "6db28a46c8e53f25",
   "lastOpenFiles": [
+    "2_Areas/알고리즘/문제풀이/아이템줍기.md",
     "7_TIL/99클럽 코테 스터디 22일차 TIL + 240822.md",
+    "5_Memo/일 구할 때 회사 조사항목.md",
+    "7_TIL/99클럽 코테 스터디 27일차 TIL + 240821.md",
+    "2_Areas/알고리즘/문제풀이/문제풀이.md",
     "HOW TO.md",
     "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월 21일 코테특강.md",
-    "7_TIL/99클럽 코테 스터디 27일차 TIL + 240821.md",
     "resources/Pasted image 20240822102835.png",
     "resources/Pasted image 20240822102831.png",
     "resources/Pasted image 20240822100757.png",
-    "5_Memo/일 구할 때 회사 조사항목.md",
     "resources/Pasted image 20240821203436.png",
     "resources/Pasted image 20240821201538.png",
     "resources/Pasted image 20240821201007.png",
@@ -264,8 +270,6 @@
     "Templates/Todo.md",
     "7_TIL/99클럽 코테 스터디 24일차 TIL + 240817.md",
     "5_Memo/if조건을 명확히주어야하는 이유.md",
-    "1_Projects/Burgerput/2_유지보수/3번째 서버 분평점 curl명령어 셋업.md",
-    "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
     "resources/2024_이모션글로벌_회사소개서_20240416 1.pdf",
     "resources/2024_이모션글로벌_회사소개서_20240416.pdf",
     "1_Projects/제로베이스 대기업 취업 특별반/August/4주차",
