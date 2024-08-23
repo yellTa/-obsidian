@@ -12,6 +12,7 @@
   "baseFontSizeAction": true,
   "nativeMenus": false,
   "theme": "obsidian",
-  "monospaceFontFamily": "",
-  "interfaceFontFamily": ""
+  "monospaceFontFamily": "Wanted Sans Std",
+  "interfaceFontFamily": "Wanted Sans Std",
+  "textFontFamily": "BBTreeG_B,Wanted Sans Std"
 }
