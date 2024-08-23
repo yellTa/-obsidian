@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 23일차 TIL + 240823.md",
+                "file": "1_Projects/Burgerput/Burgerput.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 23일차 TIL + 240823.md",
+                "file": "1_Projects/Burgerput/Burgerput.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7_TIL/99클럽 코테 스터디 23일차 TIL + 240823.md"
+                "file": "1_Projects/Burgerput/Burgerput.md"
               }
             }
           }
@@ -220,13 +220,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "82032d2955edac66",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
+    "7_TIL/99클럽 코테 스터디 23일차 TIL + 240823.md",
     "5_Memo/BFS단위측정하는방법.md",
     "2_Areas/알고리즘/문제풀이/아이템줍기.md",
     "Templates/Memo.md",
     "resources/Pasted image 20240823012915.png",
-    "7_TIL/99클럽 코테 스터디 23일차 TIL + 240823.md",
     "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
     "7_TIL/99클럽 코테 스터디 22일차 TIL + 240822.md",
     "5_Memo/일 구할 때 회사 조사항목.md",
