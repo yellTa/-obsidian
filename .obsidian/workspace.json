@@ -6,7 +6,7 @@
       {
         "id": "f2c09484126a8fb8",
         "type": "tabs",
-        "dimension": 63.594994311717855,
+        "dimension": 77.1604938271605,
         "children": [
           {
             "id": "60da0eaa85a214d1",
@@ -35,60 +35,24 @@
             }
           },
           {
-            "id": "6db28a46c8e53f25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82032d2955edac66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_TIL/99클럽 코테 스터디 23일차 TIL + 240823.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e0336fc4dffbe418",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5_Memo/BFS단위측정하는방법.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b281081f4da976a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5_Memo/일 구할 때 회사 조사항목.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/August/2주차_지원기업조사/토스 기업조사.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       },
       {
         "id": "a2fd5dd963933f8d",
         "type": "tabs",
-        "dimension": 36.40500568828214,
+        "dimension": 22.839506172839506,
         "children": [
           {
             "id": "2caed6827f1efab6",
@@ -167,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/August/2주차_지원기업조사/토스 기업조사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/August/2주차_지원기업조사/토스 기업조사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/August/2주차_지원기업조사/토스 기업조사.md"
+              }
             }
           }
         ]
@@ -228,11 +196,20 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2caed6827f1efab6",
+  "active": "e0336fc4dffbe418",
   "lastOpenFiles": [
+    "1_Projects/제로베이스 대기업 취업 특별반/August/2주차_지원기업조사/토스 기업조사.md",
     "5_Memo/일 구할 때 회사 조사항목.md",
-    "7_TIL/99클럽 코테 스터디 23일차 TIL + 240823.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/August/2주차_지원기업조사/갤럭시아머니트리.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/August/1주차 과제_기업조사미션/넥슨에서 필요한 핵심 역량 다섯가지 선정/넥슨에서 필요한 핵심 역량 다섯가지 선정.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/August/1주차 과제_기업조사미션/카카오뱅크_백엔드 개발자_신입_합격_자소서.pdf",
+    "1_Projects/제로베이스 대기업 취업 특별반/August/1주차 과제_기업조사미션/데이원컴퍼니_백엔드개발자_합격_이력서.pdf",
+    "1_Projects/제로베이스 대기업 취업 특별반/August/1주차 과제_기업조사미션/네이버 클라우드 자기소개서.pdf",
     "5_Memo/BFS단위측정하는방법.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/August/1주차 과제_기업조사미션/넥슨에서 필요한 핵심 역량 다섯가지 선정/넥슨에서필요한 핵심 역량 다섯가지 선정_20240805.pdf",
+    "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서0818이전.pdf",
+    "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서버전들.md",
+    "7_TIL/99클럽 코테 스터디 23일차 TIL + 240823.md",
     "2_Areas/알고리즘/문제풀이/아이템줍기.md",
     "Templates/Memo.md",
     "resources/Pasted image 20240823012915.png",
@@ -259,22 +236,14 @@
     "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월19일 월요일 줌 미팅.md",
     "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/회의 발표자료.md",
     "7_TIL/99클럽 코테 스터디 25일차 TIL + 240818.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서0818이전.pdf",
-    "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서버전들.md",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "Templates/Docs.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/August/2주차_지원기업조사/갤럭시아머니트리.md",
     "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/Untitled.md",
-    "Templates/Folder(Develop).md",
     "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들",
     "1_Projects/Burgerput/Untitled",
     "resources/2024_이모션글로벌_회사소개서_20240416 1.pdf",
     "resources/2024_이모션글로벌_회사소개서_20240416.pdf",
     "1_Projects/제로베이스 대기업 취업 특별반/August/4주차",
-    "1_Projects/제로베이스 대기업 취업 특별반/August/3주차",
-    "1_Projects/제로베이스 대기업 취업 특별반/August/첫 번째 과제 - 기업조사 미션/Untitled",
-    "1_Projects/제로베이스 대기업 취업 특별반/August/2주차_지원기업조사",
-    "2_Areas/알고리즘/이론",
     "Untitled.canvas"
   ]
 }
