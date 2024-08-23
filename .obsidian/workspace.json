@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/August/3주차_지원기업조사/Untitled.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/August/3주차_지원기업조사/커넥트웨이브.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -130,7 +131,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/August/3주차_지원기업조사/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/August/3주차_지원기업조사/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +168,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/August/3주차_지원기업조사/Untitled.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -195,13 +192,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "15f39cac7766290c",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
+    "1_Projects/제로베이스 대기업 취업 특별반/August/3주차_지원기업조사/커넥트웨이브.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/August/2주차_지원기업조사/갤럭시아머니트리.md",
+    "Templates/기업조사.md",
     "1_Projects/제로베이스 대기업 취업 특별반/August/3주차_지원기업조사",
     "1_Projects/제로베이스 대기업 취업 특별반/August/3주차_지원기업조사/토스 기업조사.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/August/3주차_지원기업조사/Untitled.md",
     "5_Memo/일 구할 때 회사 조사항목.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/August/2주차_지원기업조사/갤럭시아머니트리.md",
     "1_Projects/제로베이스 대기업 취업 특별반/August/1주차 과제_기업조사미션/넥슨에서 필요한 핵심 역량 다섯가지 선정/넥슨에서 필요한 핵심 역량 다섯가지 선정.md",
     "1_Projects/제로베이스 대기업 취업 특별반/August/1주차 과제_기업조사미션/카카오뱅크_백엔드 개발자_신입_합격_자소서.pdf",
     "1_Projects/제로베이스 대기업 취업 특별반/August/1주차 과제_기업조사미션/데이원컴퍼니_백엔드개발자_합격_이력서.pdf",
@@ -242,7 +240,6 @@
     "1_Projects/Burgerput/Untitled",
     "resources/2024_이모션글로벌_회사소개서_20240416 1.pdf",
     "resources/2024_이모션글로벌_회사소개서_20240416.pdf",
-    "1_Projects/제로베이스 대기업 취업 특별반/August/4주차",
     "Untitled.canvas"
   ]
 }
