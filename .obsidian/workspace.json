@@ -69,9 +69,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3b281081f4da976a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5_Memo/일 구할 때 회사 조사항목.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -155,7 +167,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/Burgerput/Burgerput.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +183,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/Burgerput/Burgerput.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,9 +204,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1_Projects/Burgerput/Burgerput.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -222,6 +230,7 @@
   },
   "active": "2caed6827f1efab6",
   "lastOpenFiles": [
+    "5_Memo/일 구할 때 회사 조사항목.md",
     "7_TIL/99클럽 코테 스터디 23일차 TIL + 240823.md",
     "5_Memo/BFS단위측정하는방법.md",
     "2_Areas/알고리즘/문제풀이/아이템줍기.md",
@@ -229,7 +238,6 @@
     "resources/Pasted image 20240823012915.png",
     "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
     "7_TIL/99클럽 코테 스터디 22일차 TIL + 240822.md",
-    "5_Memo/일 구할 때 회사 조사항목.md",
     "resources/Pasted image 20240822185126.png",
     "resources/Pasted image 20240822183840.png",
     "resources/Pasted image 20240822183537.png",
