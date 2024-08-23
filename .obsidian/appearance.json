@@ -12,6 +12,6 @@
   "baseFontSizeAction": true,
   "nativeMenus": false,
   "theme": "obsidian",
-  "monospaceFontFamily": "Noto Sans KR,Noto Serif KR",
-  "interfaceFontFamily": "Noto Sans KR,Noto Serif KR"
+  "monospaceFontFamily": "",
+  "interfaceFontFamily": ""
 }
