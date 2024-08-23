@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -131,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/August/3주차_지원기업조사/커넥트웨이브.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/August/3주차_지원기업조사/커넥트웨이브.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/August/3주차_지원기업조사/커넥트웨이브.md"
+              }
             }
           }
         ]
@@ -192,7 +195,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2caed6827f1efab6",
+  "active": "e0336fc4dffbe418",
   "lastOpenFiles": [
     "1_Projects/제로베이스 대기업 취업 특별반/August/3주차_지원기업조사/커넥트웨이브.md",
     "1_Projects/제로베이스 대기업 취업 특별반/August/2주차_지원기업조사/갤럭시아머니트리.md",
