@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/August/3주차_과제/토스 기업조사.md",
+                "file": "1_Projects/Burgerput/3_TroubleDocs/🟣Loading이 3번씩 도는 이유…/🟣Loading이 3번씩 도는 이유….md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/Burgerput/Burgerput.md",
+                "file": "1_Projects/Burgerput/3_TroubleDocs/🟣Loading이 3번씩 도는 이유…/🟣Loading이 3번씩 도는 이유….md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/Burgerput/Burgerput.md",
+                "file": "1_Projects/Burgerput/3_TroubleDocs/🟣Loading이 3번씩 도는 이유…/🟣Loading이 3번씩 도는 이유….md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/Burgerput/Burgerput.md"
+                "file": "1_Projects/Burgerput/3_TroubleDocs/🟣Loading이 3번씩 도는 이유…/🟣Loading이 3번씩 도는 이유….md"
               }
             }
           }
@@ -195,8 +195,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "15f39cac7766290c",
+  "active": "e0336fc4dffbe418",
   "lastOpenFiles": [
+    "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
+    "1_Projects/Burgerput/3_TroubleDocs/😂연속제출에러(IDEA만…)/😂연속제출에러(IDEA만…).md",
+    "1_Projects/Burgerput/Burgerput.md",
     "1_Projects/제로베이스 대기업 취업 특별반/August/2주차_과제/8월2주차포트폴리오.pdf",
     "Templates/기업조사.md",
     "1_Projects/제로베이스 대기업 취업 특별반/August/3주차_과제/기업조사 별 지원동기 작성.md",
@@ -234,15 +237,12 @@
     "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월 21일 코테특강.md",
     "1_Projects/Burgerput/0_회의록/0820회의록.md",
     "7_TIL/99클럽 코테 스터디 26일차 TIL + 240820.md",
-    "1_Projects/Burgerput/Burgerput.md",
     "1_Projects/Burgerput/0_회의록/0_회의록.md",
     "1_Projects/Burgerput/0_회의록/8월 13일 회의록.md",
     "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월19일 월요일 줌 미팅.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/회의 발표자료.md",
     "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들",
     "1_Projects/Burgerput/Untitled",
     "resources/2024_이모션글로벌_회사소개서_20240416 1.pdf",
-    "resources/2024_이모션글로벌_회사소개서_20240416.pdf",
     "Untitled.canvas"
   ]
 }

@@ -7,9 +7,10 @@ Review여부: false
 post됨: false
 post할까?: false
 created: 2024-08-03T14:37
-updated: 2024-08-04T22:42
+updated: 2024-08-25T00:13
 ---
-# OBJECT:
+# OBJECT: 
+
 
 ![[Untitled 48.png|Untitled 48.png]]
 
