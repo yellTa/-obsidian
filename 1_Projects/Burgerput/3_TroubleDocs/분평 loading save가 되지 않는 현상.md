@@ -1,6 +1,6 @@
 ---
 created: 2024-07-21T16:55
-updated: 2024-08-25T23:52
+updated: 2024-08-25T23:54
 tags:
   - develop
 Progress:
@@ -59,6 +59,8 @@ Hibernate: select m1_0.id,m1_0.max,m1_0.min,m1_0.name,m1_0.num from machine m1_0
 
 처음에 읽고 수행한걸 그대로 쭉 유지해준다고 생각하면 된다. (중꺽마 비슷한 느낌)
 
+## 데드락 체크해보기
+데이터 베이스에서 두 개 이상의 트랜잭션이 서로가 잠금(Lock)한 자원을 기다려 무한 대기상태로 빠지는 현상이다. 데드락 로그를 확인했더니
 
 
 
