@@ -1,6 +1,6 @@
 ---
 created: 2024-07-21T16:55
-updated: 2024-08-25T17:05
+updated: 2024-08-25T23:42
 tags:
   - develop
 Progress:
@@ -9,7 +9,7 @@ post할까?: false
 post됨: false
 ---
 # OBJECT/SUBJECT:
-분평동에서 Loading Save가 되지 않는 현상 발생
+다른 서버에서 프로젝트를 돌렸을 때  Loading Save가 되지 않는 현상 발생
 
 # ANALYSIS:
 
@@ -28,6 +28,10 @@ Hibernate: select m1_0.id,m1_0.max,m1_0.min,m1_0.name,m1_0.num from machine m1_0
 위와 같은 에러가 발생했다. 
 
 
+## 서버의 조건
+서버의 조건은 모두 동일하다 DB설정 정보도 동일하다. 심지어 쓰는 파일도 같다.
+
+## 위 같은 현상이 나타나는 이유 
 # CONCLUSION:
 
 ## 원인 :
