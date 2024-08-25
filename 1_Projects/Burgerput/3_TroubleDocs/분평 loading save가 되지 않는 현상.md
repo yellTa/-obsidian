@@ -1,6 +1,6 @@
 ---
 created: 2024-07-21T16:55
-updated: 2024-08-26T00:02
+updated: 2024-08-26T00:20
 tags:
   - develop
 Progress:
@@ -115,6 +115,10 @@ Hibernate: select m1_0.id,m1_0.max,m1_0.min,m1_0.name,m1_0.num from machine m1_0
 ### 결론
 
 > _**아 이렇게 이렇게 이렇게 하면 되는 구나**_
+
+---
+# 추가로... 현 Controller 및 Transactional의 문제점
+
 
 
 
