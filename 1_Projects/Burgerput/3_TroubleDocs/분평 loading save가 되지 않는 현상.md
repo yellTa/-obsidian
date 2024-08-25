@@ -1,6 +1,6 @@
 ---
 created: 2024-07-21T16:55
-updated: 2024-08-26T00:22
+updated: 2024-08-26T00:26
 tags:
   - develop
 Progress:
@@ -92,6 +92,8 @@ Hibernate: select m1_0.id,m1_0.max,m1_0.min,m1_0.name,m1_0.num from machine m1_0
 
 현재 Repository에 Transactional이 적용되어 있다. 이를 메소드 단으로 전부 변경해 줄 예정이다.
 
+## 이식 계획
+
 
 
 # CONCLUSION:
@@ -146,7 +148,15 @@ public void saveZenputAccounts(@RequestBody  Map<String,String>  param) {
 }
 ```
 
-Controller에서 direct로 
+Controller에서 direct로 save를 진행하고 있는 끔찍한 모습이다.
+이떄 ZenputAccountRepository에는 @Transactional이 붙어있지 않았고 Controller에도 붙어있지않다. 하지만 CURD가 정상적으로 수행되는 것을 확인할 수 있었는데
+
+그 이유는
+
+간단한 CRUD는 @Transactional없이도 Spring이 자동으로 관리해준다. 
+복잡한 쿼리는 @Transactional을 사용해야하지만 간단한 것은 생략할 수 있다는 이야기
+
+나중에 해야될 리팩토링 항목에 추가된 친구들...
 
 
 
