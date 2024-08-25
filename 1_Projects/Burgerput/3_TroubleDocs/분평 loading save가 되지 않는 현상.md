@@ -1,6 +1,6 @@
 ---
 created: 2024-07-21T16:55
-updated: 2024-08-26T00:20
+updated: 2024-08-26T00:22
 tags:
   - develop
 Progress:
@@ -119,6 +119,34 @@ Hibernate: select m1_0.id,m1_0.max,m1_0.min,m1_0.name,m1_0.num from machine m1_0
 ---
 # 추가로... 현 Controller 및 Transactional의 문제점
 
+```java
+@PostMapping("/back/accounts")  
+@ResponseBody  
+public void saveZenputAccounts(@RequestBody  Map<String,String>  param) {  
+    Accounts account = new Accounts();  
+  
+    try {  
+        Accounts byZenputId = zenputAccountRepository.findByZenputId(param.get("zenputId"));  
+  
+        //not empty!  
+        byZenputId.setRbiId(param.get("rbiId"));  
+        byZenputId.setRbiPw(param.get("rbiPw"));  
+  
+        zenputAccountRepository.save(byZenputId);  
+  
+    } catch (NullPointerException e) {  
+        //empty!  
+        account.setZenputId(param.get("zenputId"));  
+        account.setRbiId(param.get("rbiId"));  
+        account.setRbiPw(param.get("rbiPw"));  
+  
+        zenputAccountRepository.save(account);  
+    }  
+  
+}
+```
+
+Controller에서 direct로 
 
 
 
