@@ -1,6 +1,6 @@
 ---
 created: 2024-07-21T16:55
-updated: 2024-08-26T00:36
+updated: 2024-08-26T00:42
 tags:
   - develop
 Progress:
@@ -102,6 +102,31 @@ Hibernate: select m1_0.id,m1_0.max,m1_0.min,m1_0.name,m1_0.num from machine m1_0
    delMachine -> findAll()
    
    모두 MachineRepository를 사용하며 이때 MachineRepository에 Transactional이 적용되어 있다... 
+   
+   
+   이때 상위 Transaction이 있는경우는 해당 트랙잭션에 포함된다.
+ ```java
+@Transactional
+public void performMachineOperations() {
+    addMachine();  // 상위 트랜잭션 내에서 실행
+    editMachine(); // 상위 트랜잭션 내에서 실행
+    delMachine();  // 상위 트랜잭션 내에서 실행
+}
+
+```
+   하지만 나같은 경우에는 상위 트랙잭션이 없기 때문에 
+   
+   ```java
+
+addMachine();  // 트랜잭션 1
+editMachine(); // 트랜잭션 2
+delMachine();  // 트랜잭션 3
+```
+이렇게 세 개의 트랜잭션이 생성된다... 
+
+3. 그렇게 하고 CustomRepository의 DeleteById가 호출된다. 그러면 또?
+   MachineRepository와 또 다른 CustomRepository의 트랜잭션이 생성되는 것이다.
+
 # CONCLUSION:
 
 ## 원인 :
