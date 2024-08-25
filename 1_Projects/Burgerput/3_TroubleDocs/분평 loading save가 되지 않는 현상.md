@@ -1,6 +1,6 @@
 ---
 created: 2024-07-21T16:55
-updated: 2024-08-26T00:26
+updated: 2024-08-26T00:36
 tags:
   - develop
 Progress:
@@ -93,9 +93,15 @@ Hibernate: select m1_0.id,m1_0.max,m1_0.min,m1_0.name,m1_0.num from machine m1_0
 현재 Repository에 Transactional이 적용되어 있다. 이를 메소드 단으로 전부 변경해 줄 예정이다.
 
 ## 이식 계획
+![[Pasted image 20240826003411.png]]
 
-
-
+1. LoadingController에서 데이터를 로딩하고 로딩의 값을 AlertLoading.MachineJsonMakerandDbSet(로딩 데이터)로 보낸다. (이름에서 알 수 있다싶이 여러 역할을 가지고 있는 메소드...ㅂㄷㅂㄷ)
+2. AlertLoading의 MachineJsonMakerandDBSet에서 사용하는 Repository는 다음과 같다.
+   addMachine -> findAll()
+   editMachine -> findAll(), findById()
+   delMachine -> findAll()
+   
+   모두 MachineRepository를 사용하며 이때 MachineRepository에 Transactional이 적용되어 있다... 
 # CONCLUSION:
 
 ## 원인 :
