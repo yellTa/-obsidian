@@ -57,9 +57,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ca70649f04078781",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -126,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -143,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/August/3주차_과제/커넥트웨이브 기업조사.md",
+                "file": "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/August/3주차_과제/커넥트웨이브 기업조사.md",
+                "file": "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/August/3주차_과제/커넥트웨이브 기업조사.md"
+                "file": "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md"
               }
             }
           }
@@ -208,8 +219,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e21ff227fc2f151c",
+  "active": "ca70649f04078781",
   "lastOpenFiles": [
+    "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
+    "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md",
+    "1_Projects/Burgerput/Burgerput.md",
     "1_Projects/제로베이스 대기업 취업 특별반/August/3주차_과제/커넥트웨이브 기업조사.md",
     "2_Areas/취업준비/2025년 취업 다 개패버리기/2025년 취업 다 개패버리기.md",
     "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/회의 발표자료.md",
@@ -217,9 +231,7 @@
     "7_TIL/99클럽 코테 스터디 25일차 TIL +240825.md",
     "1_Projects/제로베이스 대기업 취업 특별반/August/2주차_과제/미령님이 받으신 면접 질문들.md",
     "1_Projects/Burgerput/3_TroubleDocs/🟣Loading이 3번씩 도는 이유…/🟣Loading이 3번씩 도는 이유….md",
-    "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
     "1_Projects/Burgerput/3_TroubleDocs/😂연속제출에러(IDEA만…)/😂연속제출에러(IDEA만…).md",
-    "1_Projects/Burgerput/Burgerput.md",
     "1_Projects/제로베이스 대기업 취업 특별반/August/2주차_과제/8월2주차포트폴리오.pdf",
     "Templates/기업조사.md",
     "1_Projects/제로베이스 대기업 취업 특별반/August/3주차_과제/기업조사 별 지원동기 작성.md",
@@ -252,7 +264,6 @@
     "7_TIL/99클럽 코테 스터디 27일차 TIL + 240821.md",
     "2_Areas/알고리즘/문제풀이/문제풀이.md",
     "HOW TO.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월 21일 코테특강.md",
     "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들",
     "1_Projects/Burgerput/Untitled",
     "resources/2024_이모션글로벌_회사소개서_20240416 1.pdf",
