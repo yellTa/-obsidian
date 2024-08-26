@@ -70,7 +70,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -154,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/Burgerput/Burgerput.md",
+                "file": "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/Burgerput/Burgerput.md",
+                "file": "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/Burgerput/Burgerput.md"
+                "file": "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md"
               }
             }
           }
@@ -219,11 +220,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "60da0eaa85a214d1",
+  "active": "ca70649f04078781",
   "lastOpenFiles": [
+    "1_Projects/Burgerput/Burgerput.md",
     "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md",
     "resources/Pasted image 20240826003411.png",
-    "1_Projects/Burgerput/Burgerput.md",
     "resources/Pasted image 20240825170538.png",
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
     "1_Projects/제로베이스 대기업 취업 특별반/August/3주차_과제/커넥트웨이브 기업조사.md",

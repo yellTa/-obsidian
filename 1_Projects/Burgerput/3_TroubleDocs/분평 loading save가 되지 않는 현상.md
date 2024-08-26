@@ -1,6 +1,6 @@
 ---
 created: 2024-07-21T16:55
-updated: 2024-08-26T00:42
+updated: 2024-08-26T01:05
 tags:
   - develop
 Progress:
@@ -127,6 +127,10 @@ delMachine();  // 트랜잭션 3
 3. 그렇게 하고 CustomRepository의 DeleteById가 호출된다. 그러면 또?
    MachineRepository와 또 다른 CustomRepository의 트랜잭션이 생성되는 것이다.
 
+
+위 문제를 해결하기 위해 
+SaveData, PrintData에 모두 DB와 관련된 서비스 로직을 넣어놓는 수 밖에 없다.즉 
+SaveData, PrintData이 외에는 Repository를 의존하지 않도록 전부 변경할 예정이다. 
 # CONCLUSION:
 
 ## 원인 :
