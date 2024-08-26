@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md",
+                "file": "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -155,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md",
+                "file": "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md",
+                "file": "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md"
+                "file": "1_Projects/99클럽코테 3기/99클럽코테 3기.md"
               }
             }
           }
@@ -222,8 +221,9 @@
   },
   "active": "ca70649f04078781",
   "lastOpenFiles": [
-    "1_Projects/Burgerput/Burgerput.md",
+    "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
     "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md",
+    "1_Projects/Burgerput/Burgerput.md",
     "resources/Pasted image 20240826003411.png",
     "resources/Pasted image 20240825170538.png",
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
@@ -253,7 +253,6 @@
     "2_Areas/알고리즘/문제풀이/아이템줍기.md",
     "Templates/Memo.md",
     "resources/Pasted image 20240823012915.png",
-    "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
     "7_TIL/99클럽 코테 스터디 22일차 TIL + 240822.md",
     "resources/Pasted image 20240822185126.png",
     "resources/Pasted image 20240822183840.png",
