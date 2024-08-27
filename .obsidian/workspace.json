@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
+                "file": "1_Projects/Burgerput/2_유지보수/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "수상한 ",
+                "query": "토큰 유효하지 않으면",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
+                "file": "1_Projects/Burgerput/2_유지보수/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
+                "file": "1_Projects/Burgerput/2_유지보수/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/2_유지보수.md"
+                "file": "1_Projects/Burgerput/2_유지보수/Untitled.md"
               }
             }
           }
@@ -209,19 +209,22 @@
   },
   "active": "d81bbda9f1b9eb91",
   "lastOpenFiles": [
-    "1_Projects/Burgerput/2_유지보수/3rd 테스트서버 셋업 1/swap 메모리 설정/swap 메모리 설정.md",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
-    "1_Projects/Burgerput/Burgerput.md",
-    "1_Projects/Burgerput/2_유지보수/Loading API를 위한 데이터 저장방법 고안/Loading API를 위한 데이터 저장방법 고안.md",
-    "1_Projects/Burgerput/2_유지보수/토큰유효하지 않으면 refresh-token 쿠키 삭제.md",
-    "1_Projects/Burgerput/2_유지보수/수상한 GET 요청.md",
-    "1_Projects/Burgerput/2_유지보수/달라진 값 API check.md",
-    "1_Projects/Burgerput/2_유지보수/비밀번호 암호화 저장.md",
-    "1_Projects/Burgerput/2_유지보수/Cookie를 주고받기 위한 Same-site설정.md",
+    "1_Projects/Burgerput/2_유지보수/Untitled.md",
     "1_Projects/Burgerput/2_유지보수/모든 API요청을 Interceptor를 거쳐서 JWT토큰 수행하기/모든 API요청을 Interceptor를 거쳐서 JWT토큰 수행하기.md",
+    "1_Projects/Burgerput/2_유지보수/Cookie를 주고받기 위한 Same-site설정.md",
+    "1_Projects/Burgerput/2_유지보수/토큰유효하지 않으면 refresh-token 쿠키 삭제.md",
     "1_Projects/Burgerput/2_유지보수/🟣Spring frame work에서 JWT토큰 사용하기.md",
+    "1_Projects/Burgerput/2_유지보수/JWT토큰을 이용해서 Access-Token, refresh-Token발급하고 인증 관리하기!/JWT토큰을 이용해서 Access-Token, refresh-Token발급하고 인증 관리하기!.md",
     "1_Projects/Burgerput/2_유지보수/JWT토큰이란/JWT토큰이란.md",
     "1_Projects/Burgerput/2_유지보수/3rd 테스트서버 셋업 1/3rd 테스트서버 셋업 1.md",
+    "1_Projects/Burgerput/2_유지보수/@JsonIgnore가 필요한이유가 뭘까.md",
+    "1_Projects/Burgerput/2_유지보수/비밀번호 암호화 저장.md",
+    "1_Projects/Burgerput/2_유지보수/3rd 테스트서버 셋업 1/swap 메모리 설정/swap 메모리 설정.md",
+    "1_Projects/Burgerput/Burgerput.md",
+    "1_Projects/Burgerput/2_유지보수/Loading API를 위한 데이터 저장방법 고안/Loading API를 위한 데이터 저장방법 고안.md",
+    "1_Projects/Burgerput/2_유지보수/수상한 GET 요청.md",
+    "1_Projects/Burgerput/2_유지보수/달라진 값 API check.md",
     "1_Projects/Burgerput/2_유지보수/SpringMock MVC를 통한 Get테스트/SpringMock MVC를 통한 Get테스트.md",
     "1_Projects/Burgerput/2_유지보수/ArrayListMap을 JSON형태로 변환/ArrayListMap을 JSON형태로 변환.md",
     "1_Projects/Burgerput/2_유지보수/Machine과 Food 로딩결과 통합, JSON 데이터 저장, LoadingRefactoring/Machine과 Food 로딩결과 통합, JSON 데이터 저장, LoadingRefactoring.md",
@@ -229,12 +232,9 @@
     "1_Projects/Burgerput/2_유지보수/SSL certbot 자동 업데이트 설정.md",
     "1_Projects/Burgerput/2_유지보수/Loading결과값 반환 API/Loading결과값 반환 API.md",
     "1_Projects/Burgerput/2_유지보수/fix JPA DTO @ID 수정/fix JPA DTO @ID 수정.md",
-    "1_Projects/Burgerput/2_유지보수/@JsonIgnore가 필요한이유가 뭘까.md",
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
     "Templates/Folder(Develop).md",
     "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
-    "1_Projects/Burgerput/1_개발문서/SSL Set-up/SSL Set-up.md",
-    "1_Projects/Burgerput/1_개발문서/Aws Files/aws생성하기/aws생성하기.md",
     "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서0818이전.pdf",
     "resources/Pasted image 20240826210303.png",
     "resources/Pasted image 20240826210231.png",
