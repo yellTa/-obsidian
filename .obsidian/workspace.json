@@ -67,9 +67,21 @@
                 "file": "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서0818이전.pdf"
               }
             }
+          },
+          {
+            "id": "d81bbda9f1b9eb91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/99클럽 코테 스터디 36일차 TIL + 240826.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -152,7 +164,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서0818이전.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +180,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서0818이전.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,9 +201,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서0818이전.pdf"
-              }
+              "state": {}
             }
           }
         ]
@@ -217,8 +225,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "ca70649f04078781",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
+    "Templates/99클럽 코테 스터디 36일차 TIL + 240826.md",
+    "7_TIL/99클럽 코테 스터디 n일차 TIL +.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서0818이전.pdf",
     "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서버전들.md",
     "4_Archives/1_Projects/99클럽코테 2기/99클럽코테 2기.md",
     "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월 마지막주차 공지사항.md",
@@ -257,11 +268,8 @@
     "1_Projects/제로베이스 대기업 취업 특별반/August/1주차 과제_기업조사미션/네이버 클라우드 자기소개서.pdf",
     "5_Memo/BFS단위측정하는방법.md",
     "1_Projects/제로베이스 대기업 취업 특별반/August/1주차 과제_기업조사미션/넥슨에서 필요한 핵심 역량 다섯가지 선정/넥슨에서필요한 핵심 역량 다섯가지 선정_20240805.pdf",
-    "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서0818이전.pdf",
     "7_TIL/99클럽 코테 스터디 23일차 TIL + 240823.md",
     "2_Areas/알고리즘/문제풀이/아이템줍기.md",
-    "Templates/Memo.md",
-    "7_TIL/99클럽 코테 스터디 22일차 TIL + 240822.md",
     "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들",
     "1_Projects/Burgerput/Untitled",
     "resources/2024_이모션글로벌_회사소개서_20240416 1.pdf",

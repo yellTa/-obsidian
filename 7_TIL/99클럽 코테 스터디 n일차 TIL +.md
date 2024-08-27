@@ -1,5 +1,5 @@
 ---
-created: "{{date}} {{time}}"
+created: "2024-08-27 10:11"
 updated: 2024-08-17T10:28
 tags:
   - TIL
