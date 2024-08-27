@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
+                "file": "1_Projects/Burgerput/1_개발문서/Spring JPA  update가 아닌 insert/Spring JPA  update가 아닌 insert.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1_Projects/Burgerput/1_개발문서/Spring JPA  update가 아닌 insert/Spring JPA  update가 아닌 insert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1_Projects/Burgerput/1_개발문서/Spring JPA  update가 아닌 insert/Spring JPA  update가 아닌 insert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1_Projects/Burgerput/1_개발문서/Spring JPA  update가 아닌 insert/Spring JPA  update가 아닌 insert.md"
+              }
             }
           }
         ]
@@ -203,9 +207,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2caed6827f1efab6",
+  "active": "d81bbda9f1b9eb91",
   "lastOpenFiles": [
     "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
+    "1_Projects/Burgerput/1_개발문서/Spring JPA  update가 아닌 insert/Spring JPA  update가 아닌 insert.md",
     "1_Projects/Burgerput/1_개발문서/linux mysql setup/Add min max column for custom_ tables/Add min max column for custom_ tables.md",
     "1_Projects/Burgerput/1_개발문서/AWS - jar 파일 배포/AWS - jar 파일 배포.md",
     "1_Projects/Burgerput/1_개발문서/Aws Files/Aws Files.md",
@@ -230,7 +235,6 @@
     "1_Projects/Burgerput/2_유지보수/JWT토큰을 이용해서 Access-Token, refresh-Token발급하고 인증 관리하기!/JWT토큰을 이용해서 Access-Token, refresh-Token발급하고 인증 관리하기!.md",
     "1_Projects/Burgerput/2_유지보수/JWT토큰이란/JWT토큰이란.md",
     "1_Projects/Burgerput/2_유지보수/3rd 테스트서버 셋업 1/3rd 테스트서버 셋업 1.md",
-    "1_Projects/Burgerput/2_유지보수/@JsonIgnore가 필요한이유가 뭘까.md",
     "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서0818이전.pdf",
     "resources/Pasted image 20240826210303.png",
     "resources/Pasted image 20240826210231.png",

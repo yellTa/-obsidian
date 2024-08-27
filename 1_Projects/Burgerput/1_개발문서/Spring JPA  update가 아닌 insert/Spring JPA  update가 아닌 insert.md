@@ -6,7 +6,7 @@ Progress:
 on Naver: true
 업로드할까?: true
 created: 2023-12-29T14:37:00
-updated: 2024-08-27T17:52
+updated: 2024-08-27T20:40
 ---
 # Given
 
@@ -126,9 +126,6 @@ CustomMachine 객체를 생성해서 post로 전달 받은 인자값을 저장�
 
 CustomFood, CustomMachine을 새롭게 생성한 후 저장하니 Update가 아닌 새로운 값을 insert해 버렸다.
 
-  
-
-  
 
 ---
 
