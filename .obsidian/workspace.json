@@ -126,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -209,8 +210,8 @@
   },
   "active": "d81bbda9f1b9eb91",
   "lastOpenFiles": [
-    "1_Projects/Burgerput/0_회의록/0820회의록.md",
     "1_Projects/Burgerput/0_회의록/8월27일 회의록.md",
+    "1_Projects/Burgerput/0_회의록/0820회의록.md",
     "1_Projects/Burgerput/0_회의록/0_회의록.md",
     "1_Projects/Burgerput/Burgerput.md",
     "Templates/99클럽 코테 스터디 36일차 TIL + 240826.md",
