@@ -1,9 +1,12 @@
 ---
 Created time: Invalid date
 Last edited time: Invalid date
-Progress: end
+Progress:
+  - end
 on Naver: false
 업로드할까?: false
+created: 2023-08-03T17:50:00
+updated: 2024-08-27T17:50
 ---
 [[MySQL 8 대소문자 구분]]
 

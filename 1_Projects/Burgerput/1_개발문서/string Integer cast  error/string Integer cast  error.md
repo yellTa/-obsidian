@@ -1,11 +1,12 @@
 ---
 Created time: Invalid date
 Last edited time: Invalid date
-Progress: end
+Progress:
+  - end
 on Naver: false
 업로드할까?: false
-created: 2024-08-03T14:37
-updated: 2024-08-04T22:42
+created: 2023-12-29T14:37:00
+updated: 2024-08-27T17:53
 ---
 # 💯
 

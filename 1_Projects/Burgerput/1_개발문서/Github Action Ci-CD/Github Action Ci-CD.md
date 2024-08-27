@@ -1,11 +1,12 @@
 ---
 Created time: Invalid date
 Last edited time: Invalid date
-Progress: end
+Progress:
+  - end
 on Naver: false
 업로드할까?: true
-created: 2024-08-03T14:37
-updated: 2024-08-04T22:42
+created: 2024-04-26T14:37:00
+updated: 2024-08-27T17:56
 ---
 # CI/CD Using Github Action, AWS, Codeploy
 
