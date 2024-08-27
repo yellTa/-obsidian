@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/Burgerput/3_TroubleDocs/Loading failed - process 과다문제/Loading failed - process 과다문제.md",
+                "file": "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/Burgerput/3_TroubleDocs/Loading failed - process 과다문제/Loading failed - process 과다문제.md",
+                "file": "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/Burgerput/3_TroubleDocs/Loading failed - process 과다문제/Loading failed - process 과다문제.md",
+                "file": "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/Burgerput/3_TroubleDocs/Loading failed - process 과다문제/Loading failed - process 과다문제.md"
+                "file": "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md"
               }
             }
           }
@@ -209,7 +209,11 @@
   },
   "active": "d81bbda9f1b9eb91",
   "lastOpenFiles": [
+    "1_Projects/Burgerput/3_TroubleDocs/아침로딩 실패2….md",
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
+    "1_Projects/Burgerput/3_TroubleDocs/🟣Loading이 3번씩 도는 이유…/🟣Loading이 3번씩 도는 이유….md",
+    "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md",
+    "1_Projects/Burgerput/3_TroubleDocs/의미없는 url요청 체크해보기.md",
     "1_Projects/Burgerput/3_TroubleDocs/Loading failed - process 과다문제/Loading failed - process 과다문제.md",
     "1_Projects/Burgerput/Burgerput.md",
     "1_Projects/Burgerput/3_TroubleDocs/Loading Logic false but true return/Loading Logic false but true return.md",
@@ -236,17 +240,13 @@
     "resources/Pasted image 20240826191505.png",
     "resources/Pasted image 20240826191338.png",
     "1_Projects/99클럽코테 3기/99클럽코테 3기.md",
-    "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md",
     "1_Projects/제로베이스 대기업 취업 특별반/August/3주차_과제/커넥트웨이브 기업조사.md",
     "2_Areas/취업준비/2025년 취업 다 개패버리기/2025년 취업 다 개패버리기.md",
     "7_TIL/99클럽 코테 스터디 25일차 TIL +240825.md",
     "1_Projects/제로베이스 대기업 취업 특별반/August/2주차_과제/미령님이 받으신 면접 질문들.md",
-    "1_Projects/Burgerput/3_TroubleDocs/🟣Loading이 3번씩 도는 이유…/🟣Loading이 3번씩 도는 이유….md",
     "1_Projects/Burgerput/3_TroubleDocs/😂연속제출에러(IDEA만…)/😂연속제출에러(IDEA만…).md",
     "1_Projects/제로베이스 대기업 취업 특별반/August/2주차_과제/8월2주차포트폴리오.pdf",
     "Templates/기업조사.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/August/3주차_과제/기업조사 별 지원동기 작성.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/August/3주차_과제/토스 기업조사.md",
     "1_Projects/제로베이스 대기업 취업 특별반/August/3주차_과제",
     "1_Projects/제로베이스 대기업 취업 특별반/August/1주차 과제_기업조사미션/카카오뱅크_백엔드 개발자_신입_합격_자소서.pdf",
     "1_Projects/제로베이스 대기업 취업 특별반/August/1주차 과제_기업조사미션/데이원컴퍼니_백엔드개발자_합격_이력서.pdf",
