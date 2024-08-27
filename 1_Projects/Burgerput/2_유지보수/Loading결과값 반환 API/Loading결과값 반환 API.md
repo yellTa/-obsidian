@@ -2,10 +2,11 @@
 Created time: Invalid date
 Last edited time: Invalid date
 Posted to Naver: false
-Progress: end
+Progress:
+  - end
 업로드할까?: false
-created: 2024-08-03T14:37
-updated: 2024-08-04T22:42
+created: 2024-04-22T14:37:00
+updated: 2024-08-27T18:01
 ---
 # 반환해야하는 API형태
 

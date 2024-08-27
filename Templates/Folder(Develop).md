@@ -1,13 +1,13 @@
 ---
 created: 2024-08-13T12:21
-updated: 2024-08-16T15:35
+updated: 2024-08-27T17:59
 ---
 # DataView(Progress에 따라서 색상까지)
 ```dataviewjs
 //3,4 라인의 폴더 이름만 바꿔주면 된다.
 const pages = dv.pages('"폴더의 경로"')
   .where(p => p.file.name !== "폴더의 이름")
-  .sort(p => p.file.ctime, 'asc'); // 생성 날짜 기준으로 오름차순 정렬
+.sort(p => p.created, 'asc'); // created 태그 기준으로 오름차순 정렬
 
 dv.table(
   ["파일 이름", "생성 날짜", "수정 날짜", "Progress"],
