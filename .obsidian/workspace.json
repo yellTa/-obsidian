@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
+                "file": "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "youtube",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
+                "file": "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
+                "file": "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md"
+                "file": "1_Projects/Burgerput/1_개발문서/1_개발문서.md"
               }
             }
           }
@@ -209,9 +209,22 @@
   },
   "active": "d81bbda9f1b9eb91",
   "lastOpenFiles": [
-    "1_Projects/Burgerput/3_TroubleDocs/로딩실패하면 no만 저장되는 경우.md",
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
+    "1_Projects/Burgerput/3_TroubleDocs/🟣Loading이 3번씩 도는 이유…/🟣Loading이 3번씩 도는 이유….md",
+    "1_Projects/Burgerput/3_TroubleDocs/Loading 후 update에러.md",
+    "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md",
+    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
+    "1_Projects/Burgerput/Burgerput.md",
+    "1_Projects/Burgerput/3_TroubleDocs/제출에러 수정하기/제출에러 수정하기.md",
+    "1_Projects/Burgerput/3_TroubleDocs/아침로딩 실패 3.md",
+    "1_Projects/Burgerput/3_TroubleDocs/의미없는 url요청 체크해보기.md",
+    "1_Projects/Burgerput/3_TroubleDocs/아침로딩 실패2….md",
+    "1_Projects/Burgerput/3_TroubleDocs/아침 로딩 실패…/아침 로딩 실패….md",
+    "1_Projects/Burgerput/3_TroubleDocs/Chrome Driver 사용 에러/Chrome Driver 사용 에러.md",
+    "1_Projects/Burgerput/3_TroubleDocs/front-end단에서 JSON데이터를 보낼때 Spring에서 받는 법.md",
+    "1_Projects/Burgerput/3_TroubleDocs/SSL 갱신 이슈.md",
     "1_Projects/Burgerput/3_TroubleDocs/accounts 테이블 저장이슈.md",
+    "1_Projects/Burgerput/3_TroubleDocs/로딩실패하면 no만 저장되는 경우.md",
     "1_Projects/Burgerput/3_TroubleDocs/CI-CD main브랜치가 아닌 곳에서 배포됨/CI-CD main브랜치가 아닌 곳에서 배포됨.md",
     "1_Projects/Burgerput/3_TroubleDocs/crontab…시간적용.md",
     "1_Projects/Burgerput/3_TroubleDocs/😂연속제출에러(IDEA만…)/😂연속제출에러(IDEA만…).md",
@@ -219,25 +232,12 @@
     "1_Projects/Burgerput/3_TroubleDocs/FoodLoading space Error/FoodLoading space Error.md",
     "1_Projects/Burgerput/3_TroubleDocs/Loading failed - process 과다문제/Loading failed - process 과다문제.md",
     "1_Projects/Burgerput/3_TroubleDocs/Loading Logic false but true return/Loading Logic false but true return.md",
-    "1_Projects/Burgerput/3_TroubleDocs/아침로딩 실패2….md",
-    "1_Projects/Burgerput/3_TroubleDocs/🟣Loading이 3번씩 도는 이유…/🟣Loading이 3번씩 도는 이유….md",
-    "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md",
-    "1_Projects/Burgerput/3_TroubleDocs/의미없는 url요청 체크해보기.md",
-    "1_Projects/Burgerput/Burgerput.md",
-    "1_Projects/Burgerput/3_TroubleDocs/Chrome Driver 사용 에러/Chrome Driver 사용 에러.md",
     "4_Archives/1_Projects/99클럽코테 2기/99클럽코테 2기.md",
     "1_Projects/Burgerput/0_회의록/8월27일 회의록.md",
     "1_Projects/Burgerput/0_회의록/0820회의록.md",
-    "1_Projects/Burgerput/0_회의록/0_회의록.md",
-    "Templates/99클럽 코테 스터디 36일차 TIL + 240826.md",
-    "7_TIL/99클럽 코테 스터디 n일차 TIL +.md",
     "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서0818이전.pdf",
-    "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서버전들.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월 마지막주차 공지사항.md",
     "resources/Pasted image 20240826210303.png",
     "resources/Pasted image 20240826210231.png",
-    "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/회의 발표자료.md",
-    "2_Areas/알고리즘/그래프강의.md",
     "resources/Pasted image 20240826191849.png",
     "resources/Pasted image 20240826191807.png",
     "resources/Pasted image 20240826191705.png",

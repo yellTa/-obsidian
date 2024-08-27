@@ -4,6 +4,8 @@ Last edited time: Invalid date
 Review여부: false
 post됨: false
 post할까?: true
+created: 2024-06-13T17:44:00
+updated: 2024-08-27T17:44
 ---
 # SUBJECT: front-end단에서 body에 데이터를 보내고 Spring에서 처리하는 방법
 

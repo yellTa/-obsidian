@@ -6,6 +6,8 @@ Last edited time: Invalid date
 Review여부: false
 post됨: false
 post할까?: false
+created: 2024-07-28T17:47:00
+updated: 2024-08-27T17:48
 ---
 # OBJECT/SUBJECT:
 
