@@ -1,6 +1,6 @@
 ---
 created: 2024-08-03T14:38
-updated: 2024-08-27T14:31
+updated: 2024-08-27T18:15
 ---
 # 3_TroubleDocs
  
@@ -25,8 +25,8 @@ dv.table(
 
     return [
       fileName,
-      new Date(p.file.ctime).toISOString().split('T')[0], // 생성 날짜
-      new Date(p.file.mtime).toISOString().split('T')[0], // 수정 날짜
+      new Date(p.created).toISOString().split('T')[0], // 생성 날짜
+      new Date(p.updated).toISOString().split('T')[0], // 수정 날짜
       progress
     ];
   })

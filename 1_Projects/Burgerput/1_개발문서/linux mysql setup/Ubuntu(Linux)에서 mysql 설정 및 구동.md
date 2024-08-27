@@ -1,3 +1,8 @@
+---
+created: 2023-01-03T14:37:00
+updated: 2024-08-27T18:18
+---
+
 # Mysql 구동
 
 ### mysql version 확인
