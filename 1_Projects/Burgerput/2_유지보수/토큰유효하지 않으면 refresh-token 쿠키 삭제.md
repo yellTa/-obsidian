@@ -2,8 +2,11 @@
 Created time: Invalid date
 Last edited time: Invalid date
 Posted to Naver: false
-Progress: end
+Progress:
+  - end
 업로드할까?: false
+created: 2024-07-02T18:05:00
+updated: 2024-08-27T18:05
 ---
 # OBJECT/SUBJECT:
 

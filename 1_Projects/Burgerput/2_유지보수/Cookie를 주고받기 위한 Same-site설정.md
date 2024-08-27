@@ -2,8 +2,11 @@
 Created time: Invalid date
 Last edited time: Invalid date
 Posted to Naver: false
-Progress: end
+Progress:
+  - end
 업로드할까?: false
+created: 2024-06-27T18:05:00
+updated: 2024-08-27T18:05
 ---
 # OBJECT: 서로다른 도메인이 쿠키를 주고받기 위해 필요한 설정
 
