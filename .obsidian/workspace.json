@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/August/4주차자료및과제/기업조사 목록.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/August/4주차자료및과제/이모션 - 기업조사.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/August/4주차자료및과제/이모션 - 기업조사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/August/4주차자료및과제/이모션 - 기업조사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/August/4주차자료및과제/이모션 - 기업조사.md"
+              }
             }
           }
         ]
@@ -203,9 +207,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2caed6827f1efab6",
+  "active": "d81bbda9f1b9eb91",
   "lastOpenFiles": [
     "1_Projects/제로베이스 대기업 취업 특별반/August/4주차자료및과제/기업조사 목록.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/August/4주차자료및과제/이모션 - 기업조사.md",
     "1_Projects/제로베이스 대기업 취업 특별반/August/3주차_과제/토스 기업조사.md",
     "1_Projects/제로베이스 대기업 취업 특별반/August/4주차자료및과제/토스증권-product팀 긴급첨삭 피드백 내용.md",
     "resources/Pasted image 20240828135202.png",
@@ -238,7 +243,6 @@
     "1_Projects/Burgerput/3_TroubleDocs/Loading Logic false but true return/Loading Logic false but true return.md",
     "1_Projects/Burgerput/2_유지보수/토큰유효하지 않으면 refresh-token 쿠키 삭제.md",
     "1_Projects/Burgerput/2_유지보수/fix JPA DTO @ID 수정/fix JPA DTO @ID 수정.md",
-    "1_Projects/Burgerput/2_유지보수/temp1.md",
     "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서0818이전.pdf",
     "resources/Pasted image 20240826210303.png",
     "resources/Pasted image 20240826210231.png",
