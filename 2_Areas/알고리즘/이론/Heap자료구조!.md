@@ -1,6 +1,6 @@
 ---
 created: 2024-08-29T18:09
-updated: 2024-08-30T00:01
+updated: 2024-08-30T00:29
 ---
 
 
@@ -257,7 +257,80 @@ public class MaxHeap{
 
 MinHeap도 같은 방식으로 작성하면 된다.
 
-
+```java
+public class MinHeap {  
+    public int[] heap;  
+    public int size;  
+  
+  
+    public MinHeap(int len){  
+        this.heap = new int[len];  
+        this.size = 0;  
+        this.heap[0] = -100000000;  
+    }  
+  
+    public void downHeap(int pos){  
+        int tmp = heap[pos];  
+  
+        while(pos*2<=size){//부노까지 구하기  
+            int child = pos*2;  
+            if(child<size && heap[child]> heap[child+1])child++;  
+            if(tmp<heap[child])break;  
+            heap[pos] = heap[child];  
+            pos = child;  
+        }  
+        heap[pos] =tmp;  
+    }  
+  
+    public int get(){  
+        if(size<1)return 10000000;  
+  
+        int result = heap[1];  
+  
+        heap[1] = heap[size--];//말단의 값을 제일 위로  
+        downHeap(1);  
+        return result;  
+    }  
+    public void upHeap(int pos){//제일 작은 값을 위로 올려야됨  
+        int tmp = heap[pos];  
+        while(heap[pos/2] >tmp){//값이 부모보다 크면 stop            heap[pos] = heap[pos/2];  
+            pos = pos/2;  
+        }  
+        heap[pos] = tmp;  
+    }  
+    public void insert(int x){  
+        heap[++size] = x;  
+        upHeap(size);  
+    }  
+  
+    public static void main(String[] args) {  
+        MinHeap mh = new MinHeap(100);  
+        mh.insert(10);  
+        mh.insert(5);  
+        mh.insert(8);  
+        mh.insert(15);  
+        mh.insert(3);  
+        mh.insert(12);  
+  
+        for(int i = 1; i <= mh.size; i++){  
+            System.out.print(mh.heap[i] + " ");  
+        }  
+        System.out.println();  
+  
+        mh.insert(20);  
+        for(int i = 1; i <= mh.size; i++){  
+            System.out.print(mh.heap[i] + " ");  
+        }  
+        System.out.println();  
+        System.out.println(mh.get());  
+        for(int i = 1; i <= mh.size; i++){  
+            System.out.print(mh.heap[i] + " ");  
+        }  
+        System.out.println();  
+        System.out.println("asdf");  
+    }  
+}
+```
 
 
 

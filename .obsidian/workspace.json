@@ -119,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Areas/알고리즘/이론/Heap자료구조!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Areas/알고리즘/이론/Heap자료구조!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,9 +156,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2_Areas/알고리즘/이론/Heap자료구조!.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -184,8 +180,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c4c1778397fa040f",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
+    "2_Areas/알고리즘/이론/Heap자료구조!.md",
     "resources/Pasted image 20240829235753.png",
     "resources/Pasted image 20240829235016.png",
     "resources/Pasted image 20240829234557.png",
@@ -193,11 +190,9 @@
     "resources/Pasted image 20240829234304.png",
     "resources/Pasted image 20240829234144.png",
     "resources/Pasted image 20240829183257.png",
-    "2_Areas/알고리즘/이론/Heap자료구조!.md",
     "resources/Pasted image 20240829182935.png",
     "resources/Pasted image 20240829182605.png",
     "resources/Pasted image 20240829182228.png",
-    "resources/Pasted image 20240829181944.png",
     "2_Areas/알고리즘/이론/트리구조.md",
     "2_Areas/알고리즘/이론/이론.md",
     "1_Projects/제로베이스 대기업 취업 특별반/August/4주차자료및과제/박신영 멘토님 첨삭 내용/토스이력서 .pdf",
