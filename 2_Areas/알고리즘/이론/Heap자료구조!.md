@@ -1,6 +1,6 @@
 ---
 created: 2024-08-29T18:09
-updated: 2024-08-29T23:54
+updated: 2024-08-30T00:01
 ---
 
 
@@ -133,11 +133,129 @@ child(오) = pos*2+1이 된다.
 여기서 문제가 하나 발생하는데 
 child의 범위이다. 
 
+![[Pasted image 20240829235753.png]]
+
+위 그림에서 pos가 3일때 child는 6,7이 된다. 하지만 7은 없는 상황
+
+이럴 땐 child 두 개를 비교하면 안된다.
+
+즉 child의 범위가 size보다 작거나 같아야하는 경우이다. 
+만약에 크게 되는 순간 위 그림처럼 에러가 발생한다.
+
+## 코드
+지금까지 작성한 주의사항을 토대로 값을 꺼내는 get메서드와 DownHeap을 구현해보자
+
+```java
+public void downHeap(int pos){//제일 위의 상단의 값  
+    int tmp = heap[pos];//최 상단의 값 넣어줌  
+     while(pos/2<=size){// 끝점의 outof bounds에러를 방지하기 위함  
+         int child = pos*2;  
+         if(child<size && heap[child]< heap[child+1])child++;  
+         if(heap[pos]> heap[child])break;  
+         heap[pos] = heap[child];  
+         pos = child;  
+     }  
+     heap[pos] = tmp;  
+}  
+  
+  
+public int get(){//  
+    //맨 앞단의 값을 빼고 정렬하기  
+    if(size >=1){  
+        int result = heap[1];  
+        heap[1] = heap[size--];//말단을 1로 옮겨주고 size-1해주기  
+        downHeap(1);  
+        return result;  
+    }else return -1;  
+}
+```
+
+
+# 최종코드 
+```java
+public class MaxHeap{  
+    public int[] heap;  
+    public int size;  
+  
+    public MaxHeap(int length){  
+        heap = new int[length];  
+        heap[0] = 1000000000;  
+        size = 0;  
+    }  
+  
+    public void upHeap(int pos){//현재 위치  
+        int tmp = heap[pos];  
+  
+        while(heap[pos/2]< tmp){//브모가 tmp보다 작으면 바꿀거임  
+            heap[pos] = heap[pos/2]; //부모를 자식위치로 내려줌  
+            pos = pos/2;  
+        }  
+        heap[pos] =tmp;  
+    }  
+  
+  
+    public void insert(int num){  
+        heap[++size] = num;//말단에 값넣기  
+        upHeap(size);//말단의 값 보내기  
+  
+    }  
+    public void downHeap(int pos){//제일 위의 상단의 값  
+        int tmp = heap[pos];//최 상단의 값 넣어줌  
+         while(pos/2<=size){// 끝점의 outof bounds에러를 방지하기 위함  
+             int child = pos*2;  
+             if(child<size && heap[child]< heap[child+1])child++;  
+             if(heap[pos]> heap[child])break;  
+             heap[pos] = heap[child];  
+             pos = child;  
+         }  
+         heap[pos] = tmp;  
+    }  
+  
+  
+    public int get(){//  
+        //맨 앞단의 값을 빼고 정렬하기  
+        if(size >=1){  
+            int result = heap[1];  
+            heap[1] = heap[size--];//말단을 1로 옮겨주고 size-1해주기  
+            downHeap(1);  
+            return result;  
+        }else return -1;  
+    }  
+  
+    public static void main(String[] args) {  
+        MaxHeap mh = new MaxHeap(100);  
+        mh.insert(10);  
+        mh.insert(5);  
+        mh.insert(8);  
+        mh.insert(15);  
+        mh.insert(3);  
+        mh.insert(12);  
+  
+        for(int i = 1; i <= mh.size; i++){  
+            System.out.print(mh.heap[i] + " ");  
+        }  
+        System.out.println();  
+  
+        mh.insert(20);  
+        for(int i = 1; i <= mh.size; i++){  
+            System.out.print(mh.heap[i] + " ");  
+        }  
+        System.out.println();  
+        System.out.println(mh.get());  
+        for(int i = 1; i <= mh.size; i++){  
+            System.out.print(mh.heap[i] + " ");  
+        }  
+        System.out.println();  
+        System.out.println("asdf");  
+    }  
+}
+```
 
 
 
+위와 같은 코드가 나오게 된다. 
 
-
+MinHeap도 같은 방식으로 작성하면 된다.
 
 
 
