@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Areas/알고리즘/이론/Heap자료구조!.md",
+                "file": "2_Areas/알고리즘/문제풀이/로또의 최고 순위와 최저 순위.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5110321044922,
-    "collapsed": true
+    "width": 257.5110321044922
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -119,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2_Areas/알고리즘/문제풀이/로또의 최고 순위와 최저 순위.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2_Areas/알고리즘/문제풀이/로또의 최고 순위와 최저 순위.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2_Areas/알고리즘/문제풀이/로또의 최고 순위와 최저 순위.md"
+              }
             }
           }
         ]
@@ -180,8 +183,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2caed6827f1efab6",
+  "active": "c4c1778397fa040f",
   "lastOpenFiles": [
+    "2_Areas/알고리즘/문제풀이/로또의 최고 순위와 최저 순위.md",
+    "2_Areas/알고리즘/문제풀이/문제풀이.md",
     "2_Areas/알고리즘/이론/Heap자료구조!.md",
     "resources/Pasted image 20240829235753.png",
     "resources/Pasted image 20240829235016.png",
@@ -226,7 +231,6 @@
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/1_개발문서/linux mysql setup/Add min max column for custom_ tables/Add min max column for custom_ tables.md",
     "1_Projects/Burgerput/1_개발문서/AWS - jar 파일 배포/AWS - jar 파일 배포.md",
-    "1_Projects/Burgerput/1_개발문서/Aws Files/Aws Files.md",
     "Untitled.canvas"
   ]
 }
