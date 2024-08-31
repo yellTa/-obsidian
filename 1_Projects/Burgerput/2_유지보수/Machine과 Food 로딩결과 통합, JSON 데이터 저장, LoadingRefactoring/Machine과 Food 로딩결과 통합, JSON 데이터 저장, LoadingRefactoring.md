@@ -6,7 +6,7 @@ Progress:
   - end
 업로드할까?: true
 created: 2024-05-13T14:37:00
-updated: 2024-08-27T18:02
+updated: 2024-08-31T18:44
 ---
 # OBJECT
 
@@ -167,8 +167,6 @@ Machine과 Food가 통합된 결과를 얻을 수 있었다.
 로딩 컨트롤러는 getInfoData만 제공하도록 하고
 
 제공 받은 데이터를 가공하는 작업은 AlertLoadingV2로 이식하도록 하겠다.
-
-  
 
 이는 SOLID원칙 중 하나인 단일 책임 원칙(Single Responsibility Principle)에 따른다.
 
