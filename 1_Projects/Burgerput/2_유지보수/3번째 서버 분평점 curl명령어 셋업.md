@@ -1,10 +1,10 @@
 ---
 created: 2024-07-21T16:55
-updated: 2024-08-14T21:34
+updated: 2024-08-31T18:43
 tags:
   - develop
 Progress:
-  - ongoing
+  - end
 post할까?: false
 post됨: false
 ---
@@ -74,34 +74,9 @@ password : putBu13@9*
 
 
 ## 5. 로딩의 결과를 다음날 아침에 확인한다!!!
-# CONCLUSION:
+성공!!!
 
-## 원인 :
-
-## 작업 :
-
-## 결과 :
-
-## 부제목
-
-<aside> 🔽 code file name
-
-</aside>
-
-```bash
-# codes
-```
-
-### 결론
-
-> _**아 이렇게 이렇게 이렇게 하면 되는 구나**_
-
-# REVIEW:
-
-내가 이 문제를 통해서 깨닫고 배운 것들
-
-원초적인 내용일 수록 좋다.(이론적인 내용들 기본지식들)
-
+참고로 에러가 발생했었는데 이는 애플리케이션의 Transaction문제였다
 # References
 [[AWS Domain Set-up]]
 [[SSL Set-up]]
