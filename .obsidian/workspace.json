@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/Burgerput/1_개발문서/Github Action Ci-CD/Github Action Ci-CD.md",
+                "file": "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/Burgerput/1_개발문서/Github Action Ci-CD/Github Action Ci-CD.md",
+                "file": "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/Burgerput/1_개발문서/Github Action Ci-CD/Github Action Ci-CD.md",
+                "file": "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/Burgerput/1_개발문서/Github Action Ci-CD/Github Action Ci-CD.md"
+                "file": "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md"
               }
             }
           }
@@ -209,11 +209,11 @@
   },
   "active": "ed4dcb8e2ca31259",
   "lastOpenFiles": [
+    "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
+    "1_Projects/Burgerput/Burgerput.md",
     "1_Projects/Burgerput/1_개발문서/Github Action Ci-CD/Github Action Ci-CD.md",
     "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
-    "1_Projects/Burgerput/Burgerput.md",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
-    "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
     "7_TIL/99클럽 코테 스터디 31일차 TIL +240901.md",
     "Templates/99클럽 코테 스터디 n일차.md",
     "1_Projects/Burgerput/2_유지보수/Cookie를 주고받기 위한 Same-site설정.md",
