@@ -63,7 +63,7 @@
       "name": "TIL",
       "type": "Template",
       "command": false,
-      "templatePath": "Templates/99클럽 코테 스터디 n일차 TIL +.md",
+      "templatePath": "Templates/99클럽 코테 스터디 n일차.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "99클럽 코테 스터디 n일차 TIL +"
