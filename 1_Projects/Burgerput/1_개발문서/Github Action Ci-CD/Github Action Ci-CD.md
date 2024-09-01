@@ -6,7 +6,7 @@ Progress:
 on Naver: false
 업로드할까?: true
 created: 2024-04-26T14:37:00
-updated: 2024-09-01T17:23
+updated: 2024-09-01T17:27
 ---
 # CI/CD Using Github Action, AWS, Codeploy
   
@@ -408,13 +408,28 @@ add the permission to the file.
 # 7. CI/CD set script set-up
 
 ## 7-1. Write appspec.yml
+appspec.yml 파이프라인의 일부로 사용되는 중요한 구성 파일
+이 파일의 역할은 배포 프로세스 세부 사항을 정의하는 것
+AWS CodeDeploy에서 Ci/CD 파이프 라인의 일부로 사용된다.
 
 ```Shell
-version: 0.0
-os: linux
-files:
-  - source: /
-    destination: /home/ubuntu/burgerput/cicd/deploy
+version: 0.0  
+os: linux  
+files:  
+  - source: /  
+    destination: /home/ubuntu/burgerput/cicd/deploy  
+file_exists_behavior: OVERWRITE  
+  
+permissions:  
+  - object: /  
+    pattern: "**"  
+    owner: ubuntu  
+    group: ubuntu  
+  
+hooks:  
+  ApplicationStart:    - location: script.sh # Start the script  
+      timeout: 60  
+      runas: ubuntu
 ```
 
   
