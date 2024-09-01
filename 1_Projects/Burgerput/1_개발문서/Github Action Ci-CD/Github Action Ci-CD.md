@@ -6,17 +6,13 @@ Progress:
 on Naver: false
 업로드할까?: true
 created: 2024-04-26T14:37:00
-updated: 2024-08-27T17:56
+updated: 2024-09-01T17:16
 ---
 # CI/CD Using Github Action, AWS, Codeploy
-
   
-
 # CI/CD
 
 Continuous integration / Continuous delivery
-
-  
 
 # Given
 
@@ -103,12 +99,6 @@ Github Action uploads source code in the S3 Bucket, and transmits the deployment
 For this, we have to create user who has the permission for the job and Github action has to use that to gain permission for the job.
 
 *plus : IAM User used for sending data from other platform to AWS
-
-  
-
-  
-
-  
 
 ## 3-1. Create user
 
