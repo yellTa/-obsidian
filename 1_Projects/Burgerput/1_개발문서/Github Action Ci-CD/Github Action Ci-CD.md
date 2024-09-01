@@ -6,7 +6,7 @@ Progress:
 on Naver: false
 업로드할까?: true
 created: 2024-04-26T14:37:00
-updated: 2024-09-01T17:16
+updated: 2024-09-01T17:23
 ---
 # CI/CD Using Github Action, AWS, Codeploy
   
@@ -527,7 +527,6 @@ Finally Successed!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 # 8. Write Deploy Script
 
 Write Deploly Script and send it with jar file!
-
 ### logic
 
 1. Find the PID from command netstat -tnlp | grep 8080
