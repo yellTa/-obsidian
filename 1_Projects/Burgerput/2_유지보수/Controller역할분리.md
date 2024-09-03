@@ -1,6 +1,6 @@
 ---
 created: 2024-09-03T13:27:00
-updated: 2024-09-03T13:33
+updated: 2024-09-03T13:34
 tags:
   - develop
 Progress:
@@ -17,7 +17,8 @@ post됨: false
 ## 1. 기능의 시작점이 되는 Controller를 분석해보자
 ![[Pasted image 20240903133320.png]]
 
-프로젝트 패키지의 구성의 위 처럼 되어있다. Web 패키지에 
+프로젝트 패키지의 구성의 위 처럼 되어있다. Web 패키지에 Controller들이 들어있다. 하나씩 확인해보자
+
 # CONCLUSION:
 
 ## 원인 :
