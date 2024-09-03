@@ -42,8 +42,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -127,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/입사지원회사 목록/제이원 파트너스.md",
+                "file": "1_Projects/Burgerput/Burgerput.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/입사지원회사 목록/제이원 파트너스.md",
+                "file": "1_Projects/Burgerput/Burgerput.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/입사지원회사 목록/제이원 파트너스.md"
+                "file": "1_Projects/Burgerput/Burgerput.md"
               }
             }
           }
@@ -192,10 +191,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "ae83324d065899fd",
+  "active": "60da0eaa85a214d1",
   "lastOpenFiles": [
-    "resources/Pasted image 20240903212057.png",
     "1_Projects/제로베이스 대기업 취업 특별반/입사지원회사 목록/제이원 파트너스.md",
+    "resources/Pasted image 20240903212057.png",
     "1_Projects/제로베이스 대기업 취업 특별반/입사지원회사 목록/입사지원회사 목록.md",
     "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서버전들.md",
     "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
@@ -242,7 +241,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/August/제주에어자소서(정량화끝판왕).pdf",
     "1_Projects/Burgerput/1_개발문서/AWS selenium Issue - 여기부터 복사하기/ubuntu 서버 설정해보기…/ubuntu 서버 설정해보기….md",
     "1_Projects/제로베이스 대기업 취업 특별반/August/2주차_과제/8월2주차포트폴리오.pdf",
-    "resources/Pasted image 20240829235753.png",
     "1_Projects/제로베이스 대기업 취업 특별반/August/4주차자료및과제/박신영 멘토님 첨삭 내용/토스이력서 .pdf",
     "1_Projects/제로베이스 대기업 취업 특별반/August/4주차자료및과제/박신영 멘토님 첨삭 내용/토스이력서 였던 것.pdf",
     "1_Projects/제로베이스 대기업 취업 특별반/August/4주차자료및과제/박신영 멘토님 첨삭 내용",
