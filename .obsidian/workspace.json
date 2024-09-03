@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "ed4dcb8e2ca31259",
+            "id": "4ab2893a8a581b39",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Untitled 7.canvas",
                 "viewState": {
                   "x": 0,
                   "y": 0,
@@ -36,21 +36,9 @@
                 }
               }
             }
-          },
-          {
-            "id": "43581978afc47098",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -133,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
+                "file": "Untitled 7.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
+                "file": "Untitled 7.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/Controller역할분리.md"
+                "file": "Untitled 7.canvas"
               }
             }
           }
@@ -198,15 +186,23 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "43581978afc47098",
+  "active": "4ab2893a8a581b39",
   "lastOpenFiles": [
+    "1_Projects/Burgerput/Burgerput.md",
+    "Untitled 7.canvas",
+    "Untitled 6.canvas",
+    "Untitled 5.canvas",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled.canvas",
+    "Burgerput Controller역할.canvas",
+    "Untitled 1.canvas",
+    "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
     "resources/Pasted image 20240903133320.png",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "Templates/devlop.md",
     "Templates/99클럽 코테 스터디 n일차.md",
-    "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
-    "1_Projects/Burgerput/Burgerput.md",
-    "Untitled.canvas",
     "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/9월 1주차 공지사항.md",
     "1_Projects/제로베이스 대기업 취업 특별반/September",
     "resources/Pasted image 20240902210518.png",
@@ -239,7 +235,6 @@
     "resources/Pasted image 20240829234406.png",
     "resources/Pasted image 20240829234304.png",
     "resources/Pasted image 20240829234144.png",
-    "resources/Pasted image 20240829183257.png",
     "1_Projects/제로베이스 대기업 취업 특별반/August/4주차자료및과제/박신영 멘토님 첨삭 내용/토스이력서 .pdf",
     "1_Projects/제로베이스 대기업 취업 특별반/August/4주차자료및과제/박신영 멘토님 첨삭 내용/토스이력서 였던 것.pdf",
     "1_Projects/제로베이스 대기업 취업 특별반/August/4주차자료및과제/박신영 멘토님 첨삭 내용",
