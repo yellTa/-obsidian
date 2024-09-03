@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/9월 1주차 공지사항.md",
+                "file": "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5110321044922,
-    "collapsed": true
+    "width": 257.5110321044922
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/9월 1주차 공지사항.md",
+                "file": "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/9월 1주차 공지사항.md",
+                "file": "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/9월 1주차 공지사항.md"
+                "file": "1_Projects/Burgerput/2_유지보수/Controller역할분리.md"
               }
             }
           }
@@ -198,20 +197,22 @@
   },
   "active": "ed4dcb8e2ca31259",
   "lastOpenFiles": [
+    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
+    "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
+    "1_Projects/Burgerput/Burgerput.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/9월 1주차 공지사항.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/September",
     "resources/Pasted image 20240902210518.png",
     "resources/Pasted image 20240902210356.png",
     "resources/Pasted image 20240902210109.png",
     "1_Projects/Burgerput/2_유지보수/Cookie를 주고받기 위한 Same-site설정.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/9월 1주차 공지사항.md",
     "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/회의 발표자료.md",
     "1_Projects/Burgerput/1_개발문서/Github Action Ci-CD/Github Action Ci-CD.md",
     "1_Projects/제로베이스 대기업 취업 특별반/August/제주에어자소서(정량화끝판왕).pdf",
     "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
-    "1_Projects/Burgerput/Burgerput.md",
     "1_Projects/Burgerput/1_개발문서/AWS selenium Issue - 여기부터 복사하기/ubuntu 서버 설정해보기…/ubuntu 서버 설정해보기….md",
     "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md",
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
-    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "7_TIL/99클럽 코테 스터디 31일차 TIL +240901.md",
     "Templates/99클럽 코테 스터디 n일차.md",
     "1_Projects/Burgerput/2_유지보수/Machine과 Food 로딩결과 통합, JSON 데이터 저장, LoadingRefactoring/Machine과 Food 로딩결과 통합, JSON 데이터 저장, LoadingRefactoring.md",
@@ -234,7 +235,6 @@
     "resources/Pasted image 20240829234304.png",
     "resources/Pasted image 20240829234144.png",
     "resources/Pasted image 20240829183257.png",
-    "resources/Pasted image 20240829182935.png",
     "2_Areas/알고리즘/이론/트리구조.md",
     "1_Projects/제로베이스 대기업 취업 특별반/August/4주차자료및과제/박신영 멘토님 첨삭 내용/토스이력서 .pdf",
     "1_Projects/제로베이스 대기업 취업 특별반/August/4주차자료및과제/박신영 멘토님 첨삭 내용/토스이력서 였던 것.pdf",
@@ -243,7 +243,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/8월28일 코테 라이브 특강 김태원님",
     "1_Projects/제로베이스 대기업 취업 특별반/August/4주차자료및과제",
     "1_Projects/제로베이스 대기업 취업 특별반/August/3주차_과제/토스이력서 .pdf",
-    "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/백준님 코테특강자료/1.java",
     "Untitled.canvas"
   ]
 }
