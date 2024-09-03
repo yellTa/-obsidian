@@ -118,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1_Projects/Burgerput/2_유지보수/Controller역할분리.md"
+              }
             }
           }
         ]
@@ -179,8 +183,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2caed6827f1efab6",
+  "active": "ae83324d065899fd",
   "lastOpenFiles": [
+    "resources/Pasted image 20240903144241.png",
     "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
     "resources/Pasted image 20240903143233.png",
     "resources/Pasted image 20240903143059.png",
