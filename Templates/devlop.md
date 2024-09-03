@@ -1,6 +1,6 @@
 ---
-created: 2024-07-21T16:55
-updated: 2024-08-14T12:28
+created: "{{date}} {{time}}"
+updated: 2024-09-03T13:28
 tags:
   - develop
 Progress:
