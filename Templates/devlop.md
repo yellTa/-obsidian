@@ -1,9 +1,8 @@
 ---
-created: 2024-09-03T14:57:00
-updated: 2024-09-03T14:57
+created: "{{date}} {{time}}"
+updated: 2024-09-03T15:00
 tags:
   - develop
-  - burgerput
 Progress:
   - ongoing
 post할까?: false

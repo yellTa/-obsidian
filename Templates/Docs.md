@@ -1,6 +1,6 @@
 ---
-created: 2024-08-16T13:28
-updated: 2024-08-16T14:29
+created: "{{date}} {{time}}"
+updated: 2024-09-03T15:01
 ---
 
 # 제목

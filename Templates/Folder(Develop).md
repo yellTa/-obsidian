@@ -1,6 +1,6 @@
 ---
-created: 2024-08-13T12:21
-updated: 2024-08-27T18:14
+created: "{{date}} {{time}}"
+updated: 2024-09-03T15:01
 ---
 # DataView(Progress에 따라서 색상까지)
 ```dataviewjs
