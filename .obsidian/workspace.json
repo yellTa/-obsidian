@@ -142,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7_TIL/20240903의 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +158,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7_TIL/20240903의 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,9 +179,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "7_TIL/20240903의 TIL.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -207,7 +203,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "6e1f5b0366b40532",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
     "7_TIL/20240903의 TIL.md",
     "1_Projects/Burgerput/2_유지보수/LoadingController 정리하기.md",
