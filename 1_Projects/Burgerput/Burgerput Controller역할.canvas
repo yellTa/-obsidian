@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"d3f4018360ff0740","type":"text","text":"error","x":-680,"y":-340,"width":250,"height":60},
+		{"id":"dd14a573556912d1","type":"text","text":"InitController","x":-680,"y":300,"width":250,"height":60},
+		{"id":"508388fb33da8b92","type":"text","text":"MasterLoginController","x":-680,"y":400,"width":250,"height":60},
+		{"id":"2931f4bd9397badc","type":"text","text":"altPages","x":-680,"y":-560,"width":250,"height":50},
+		{"id":"47cb758f28157091","type":"text","text":"cheat","x":-680,"y":-460,"width":250,"height":60},
+		{"id":"1e3dd22439a2ec5a","type":"text","text":"food","x":-600,"y":-120,"width":250,"height":60},
+		{"id":"cee46384ebc84d26","type":"text","text":"machine","x":-600,"y":-20,"width":250,"height":60},
+		{"id":"86f7f64d79b9eb79","type":"text","text":"ZenputAccounts","x":-600,"y":180,"width":250,"height":60},
+		{"id":"9a0b2c2682164d69","type":"text","text":"mgrList","x":-600,"y":80,"width":250,"height":60},
+		{"id":"ed597e9a70a2f814","type":"text","text":"Manager","x":-680,"y":-240,"width":250,"height":60},
+		{"id":"20ead4a52ff5dcce","type":"text","text":"APITestController\nAPI테스트를 위해서 만든 컨트롤러 ","x":-300,"y":-940,"width":250,"height":120},
+		{"id":"811272b0b96cc903","x":-260,"y":-780,"width":250,"height":120,"type":"text","text":"LoadingController\n아침 로딩이 수행되는 컨트롤러 "}
+	],
+	"edges":[
+		{"id":"346b717f5e343e78","fromNode":"2931f4bd9397badc","fromSide":"top","toNode":"20ead4a52ff5dcce","toSide":"left"},
+		{"id":"18e5e5f8ab60b164","fromNode":"2931f4bd9397badc","fromSide":"top","toNode":"811272b0b96cc903","toSide":"left"}
+	]
+}

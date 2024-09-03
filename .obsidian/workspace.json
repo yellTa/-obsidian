@@ -23,16 +23,16 @@
             }
           },
           {
-            "id": "4ab2893a8a581b39",
+            "id": "ae83324d065899fd",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled 7.canvas",
+                "file": "1_Projects/Burgerput/Burgerput Controller역할.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": -393.31082612427076,
+                  "y": -195.71229323254286,
+                  "zoom": -0.6609549714724268
                 }
               }
             }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 7.canvas",
+                "file": "1_Projects/Burgerput/Burgerput Controller역할.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 7.canvas",
+                "file": "1_Projects/Burgerput/Burgerput Controller역할.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 7.canvas"
+                "file": "1_Projects/Burgerput/Burgerput Controller역할.canvas"
               }
             }
           }
@@ -186,9 +186,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "4ab2893a8a581b39",
+  "active": "ae83324d065899fd",
   "lastOpenFiles": [
     "1_Projects/Burgerput/Burgerput.md",
+    "1_Projects/Burgerput/Burgerput Controller역할.canvas",
     "Untitled 7.canvas",
     "Untitled 6.canvas",
     "Untitled 5.canvas",
@@ -196,7 +197,6 @@
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled.canvas",
-    "Burgerput Controller역할.canvas",
     "Untitled 1.canvas",
     "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
     "resources/Pasted image 20240903133320.png",
