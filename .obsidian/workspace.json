@@ -26,14 +26,11 @@
             "id": "ae83324d065899fd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "1_Projects/Burgerput/Burgerput Controller역할.canvas",
-                "viewState": {
-                  "x": -393.31082612427076,
-                  "y": -356.79200244756663,
-                  "zoom": -0.6609549714724268
-                }
+                "file": "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -121,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/Burgerput/Burgerput Controller역할.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/Burgerput/Burgerput Controller역할.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1_Projects/Burgerput/Burgerput Controller역할.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -186,9 +179,17 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "ae83324d065899fd",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
+    "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
+    "resources/Pasted image 20240903143233.png",
+    "resources/Pasted image 20240903143059.png",
+    "image 20240903143043.png.md",
+    "resources/Pasted image 20240903143043.png",
+    "resources/Pasted image 20240903143101.png",
+    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/Burgerput.md",
+    "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
     "1_Projects/Burgerput/Burgerput Controller역할.canvas",
     "Untitled 7.canvas",
     "Untitled 6.canvas",
@@ -198,9 +199,7 @@
     "Untitled 2.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
     "resources/Pasted image 20240903133320.png",
-    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "Templates/devlop.md",
     "Templates/99클럽 코테 스터디 n일차.md",
     "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/9월 1주차 공지사항.md",
@@ -212,7 +211,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/회의 발표자료.md",
     "1_Projects/Burgerput/1_개발문서/Github Action Ci-CD/Github Action Ci-CD.md",
     "1_Projects/제로베이스 대기업 취업 특별반/August/제주에어자소서(정량화끝판왕).pdf",
-    "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
     "1_Projects/Burgerput/1_개발문서/AWS selenium Issue - 여기부터 복사하기/ubuntu 서버 설정해보기…/ubuntu 서버 설정해보기….md",
     "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md",
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
@@ -228,13 +226,8 @@
     "2_Areas/취업준비/2025년 취업 다 개패버리기/2025년 취업 다 개패버리기.md",
     "2_Areas/취업준비/2025년 취업 다 개패버리기/떨어진사유/떨어진사유.md",
     "2_Areas/취업준비/2025년 취업 다 개패버리기/상담받은내용!.md",
-    "2_Areas/알고리즘/문제풀이/로또의 최고 순위와 최저 순위.md",
     "resources/Pasted image 20240829235753.png",
     "resources/Pasted image 20240829235016.png",
-    "resources/Pasted image 20240829234557.png",
-    "resources/Pasted image 20240829234406.png",
-    "resources/Pasted image 20240829234304.png",
-    "resources/Pasted image 20240829234144.png",
     "1_Projects/제로베이스 대기업 취업 특별반/August/4주차자료및과제/박신영 멘토님 첨삭 내용/토스이력서 .pdf",
     "1_Projects/제로베이스 대기업 취업 특별반/August/4주차자료및과제/박신영 멘토님 첨삭 내용/토스이력서 였던 것.pdf",
     "1_Projects/제로베이스 대기업 취업 특별반/August/4주차자료및과제/박신영 멘토님 첨삭 내용",
