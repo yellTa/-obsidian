@@ -28,18 +28,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
+                "file": "1_Projects/Burgerput/2_유지보수/CheatController분리하기.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "3d282ba9e804c0d7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
@@ -126,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
+                "file": "1_Projects/Burgerput/2_유지보수/CheatController분리하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
+                "file": "1_Projects/Burgerput/2_유지보수/CheatController분리하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/Controller역할분리.md"
+                "file": "1_Projects/Burgerput/2_유지보수/CheatController분리하기.md"
               }
             }
           }
@@ -193,9 +185,10 @@
   },
   "active": "ae83324d065899fd",
   "lastOpenFiles": [
-    "1_Projects/Burgerput/2_유지보수/LoadingController 정리하기.md",
-    "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
+    "1_Projects/Burgerput/2_유지보수/CheatController분리하기.md",
+    "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
+    "1_Projects/Burgerput/2_유지보수/LoadingController 정리하기.md",
     "Templates/devlop.md",
     "1_Projects/Burgerput/Burgerput Controller역할.canvas",
     "Templates/Memo.md",
