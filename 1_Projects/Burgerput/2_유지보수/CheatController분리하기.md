@@ -1,6 +1,6 @@
 ---
 created: 2024-09-03 17:56
-updated: 2024-09-03T18:09
+updated: 2024-09-03T18:14
 tags:
   - develop
 Progress:
@@ -84,7 +84,41 @@ PrintData, SaveData를  통해서 처리하고 있다. 다른 의존성은 보�
 PrintData는 DB에 있는 값을 출력한다. 
 SaveData를 통해서 값을 저장한다. 
 
-단일 책임 원칙을 잘 지키는 것으로 보
+하지만 PrintData에서 가져온 값을 가공하는 과정이 Controller에 속해있는데 이는 옳지 않은 방향이다. 
+
+``` java
+@RestController
+@RequiredArgsConstructor
+public class CheatFoodController {
+
+    private final CheatFoodService cheatFoodService;
+
+    @GetMapping("back/cheatFood")
+    public Map<String, ArrayList<Map>> showCheatFood() {
+        return cheatFoodService.getCheatFoodData();
+    }
+
+    @PostMapping("back/cheatFood")
+    public void saveCheatFood(@RequestBody ArrayList<Map> param) {
+        cheatFoodService.saveCheatFoodData(param);
+    }
+
+    @GetMapping("back/cheatMachine")
+    public Map<String, ArrayList<Map>> showCheatMachine() {
+        return cheatFoodService.getCheatMachineData();
+    }
+
+    @PostMapping("back/cheatMachine")
+    public void saveCheatMachine(@RequestBody ArrayList<Map> param) {
+        cheatFoodService.saveCheatMachineData(param);
+    }
+}
+
+```
+아래와 같이 CheatFoodService라는 서비스 레이어를 만들고 처리하는 것이 좋다.
+
+> [!info]
+> 여기부터 다시 쓰세요 
 
 # CONCLUSION:
 

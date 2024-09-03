@@ -1,10 +1,10 @@
 ---
 created: 2024-09-03T13:27:00
-updated: 2024-09-03T17:56
+updated: 2024-09-03T18:12
 tags:
   - burgerput
 Progress:
-  - end
+  - ongoing
 post할까?: false
 post됨: false
 ---
