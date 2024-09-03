@@ -1,11 +1,10 @@
 ---
-created: "{{date}} {{time}}"
-updated: 2024-09-03T13:28
+created: 2024-09-03T14:57:00
+updated: 2024-09-03T14:57
 tags:
   - develop
+  - burgerput
 Progress:
-  - end
-  - unsolved
   - ongoing
 post할까?: false
 post됨: false

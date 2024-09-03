@@ -1,10 +1,10 @@
 ---
 created: 2024-09-03T13:27:00
-updated: 2024-09-03T14:50
+updated: 2024-09-03T14:56
 tags:
-  - develop
+  - burgerput
 Progress:
-  - ongoing
+  - end
 post할까?: false
 post됨: false
 ---
@@ -81,7 +81,7 @@ APITestController
 사용하지 않는 컨트롤러는 모두 지웠다.
 
 
-## 각 Controller 정리하기
+## LoadingController 정리하기
 
 ### LoadingController
 LoadingController의 패키지 이름은 Loading으로 변경했다. 
@@ -170,6 +170,17 @@ blic class LoadingController {
 
 현재 로직은 Controller에서 DB와 통신하기위한 Repository를 사용하지 않는 것으로 변경되었다.  따라서 Repository주입은 받을 필요가 없다. 제거하자!
 
+
+#### 애노테이션 정리
+``` java
+@Controller  
+@Slf4j  
+@RequiredArgsConstructor  
+@RestController
+```
+
+RestController는 Controller를 포함하고 있다. 제거하자!!
+
 #### 정리 :
 ##### 사용하지 않는 메서드 삭제
 alertFoodInfoDb
@@ -183,37 +194,22 @@ alertMachineIntoDb
 
 ##### DB와 통신시 사용되는 Repository의존성 제거
 
+##### Controller애노테이션 제거 (RestController를 사용중이라서 )
+
 # CONCLUSION:
-
-## 원인 :
-
 ## 작업 :
+사용하지 않는 Controller와 LoadingController안 필요없는 메서드, 사용하지 않는 API주소, 필요없는 주석 제거를 수행했다.
 
 ## 결과 :
-
-## 부제목
-
-<aside> 🔽 code file name
-
-</aside>
-
-```bash
-# codes
-```
-
+코드가 짧고 간결해졌다. 
+첫 시작 부분에 주석을 달아놓아서 어떤 로직을 수행하는지 깔끔하게 정리했다.
 ### 결론
-
-> _**아 이렇게 이렇게 이렇게 하면 되는 구나**_
-
-
+코드를 깔끔하게 짜자... 
 
 ---
 # REVIEW:
-
-내가 이 문제를 통해서 깨닫고 배운 것들
-
-원초적인 내용일 수록 좋다.(이론적인 내용들 기본지식들)
-
+과거에 이렇게 지저분하게 짠줄 몰랐다... 이리저리 테스트파일이 돌아다니고 사용하지도 않는데 저장하고 있거나 애노테이션을 중복해서 사용하는 문제가 발생했다. 
+리팩토링을 통해서 코드를 깔끔하게 수정하고 유지보수가 좋게 하자... 
 # References
 
 # 연결문서
