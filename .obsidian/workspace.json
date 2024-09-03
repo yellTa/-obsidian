@@ -38,11 +38,28 @@
             "id": "6e1f5b0366b40532",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "7_TIL/20240903의 TIL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6df9f033ddf0bc3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Projects/Burgerput/2_유지보수/LoadingController 정리하기.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -109,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5110321044922,
-    "collapsed": true
+    "width": 257.5110321044922
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -126,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/Burgerput/Burgerput.md",
+                "file": "7_TIL/20240903의 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/Burgerput/Burgerput.md",
+                "file": "7_TIL/20240903의 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/Burgerput/Burgerput.md"
+                "file": "7_TIL/20240903의 TIL.md"
               }
             }
           }
@@ -191,22 +207,23 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "60da0eaa85a214d1",
+  "active": "6e1f5b0366b40532",
   "lastOpenFiles": [
+    "1_Projects/Burgerput/2_유지보수/LoadingController 정리하기.md",
+    "7_TIL/20240903의 TIL.md",
+    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
+    "1_Projects/Burgerput/Burgerput.md",
     "1_Projects/제로베이스 대기업 취업 특별반/입사지원회사 목록/제이원 파트너스.md",
     "resources/Pasted image 20240903212057.png",
     "1_Projects/제로베이스 대기업 취업 특별반/입사지원회사 목록/입사지원회사 목록.md",
     "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서버전들.md",
     "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
     "1_Projects/제로베이스 대기업 취업 특별반/입사지원회사 목록",
-    "1_Projects/Burgerput/Burgerput.md",
     "1_Projects/Burgerput/2_유지보수/CheatController분리하기.md",
-    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/1_개발문서/Zenput 뒤로가기 버튼 에러/Zenput 뒤로가기 버튼 에러.md",
     "1_Projects/Burgerput/1_개발문서/Aws Files/aws Putty로 연결하기/aws Putty로 연결하기.md",
     "1_Projects/Burgerput/1_개발문서/SSL Set-up/SSL Set-up.md",
     "1_Projects/Burgerput/1_개발문서/linux mysql setup/Ubuntu(Linux)에서 mysql 설정 및 구동.md",
-    "1_Projects/Burgerput/2_유지보수/LoadingController 정리하기.md",
     "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
     "Templates/devlop.md",
     "1_Projects/Burgerput/Burgerput Controller역할.canvas",
