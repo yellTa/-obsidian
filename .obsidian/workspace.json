@@ -23,18 +23,6 @@
             }
           },
           {
-            "id": "ae83324d065899fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 5월 목요일 23시 멘토링 자료 준비.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6e1f5b0366b40532",
             "type": "leaf",
             "state": {
@@ -57,9 +45,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "df6536a8525854f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 5월 목요일 23시 멘토링 자료 준비.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -142,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 5월 목요일 23시 멘토링 자료 준비.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 5월 목요일 23시 멘토링 자료 준비.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 5월 목요일 23시 멘토링 자료 준비.md"
+              }
             }
           }
         ]
@@ -203,11 +207,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2caed6827f1efab6",
+  "active": "df6536a8525854f5",
   "lastOpenFiles": [
+    "1_Projects/제로베이스 대기업 취업 특별반/입사지원회사 목록/제이원 파트너스.md",
+    "1_Projects/Burgerput/1_개발문서/Github Action Ci-CD/Github Action Ci-CD.md",
+    "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
+    "1_Projects/Burgerput/Burgerput.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 5월 목요일 23시 멘토링 자료 준비.md",
     "resources/이력서_20240904.pdf",
-    "1_Projects/제로베이스 대기업 취업 특별반/입사지원회사 목록/제이원 파트너스.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서버전들.md",
     "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서0818이전.pdf",
@@ -218,9 +225,7 @@
     "resources/Pasted image 20240904004853.png",
     "1_Projects/Burgerput/2_유지보수/LoadingController 정리하기.md",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
-    "1_Projects/Burgerput/Burgerput.md",
     "resources/Pasted image 20240903212057.png",
-    "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
     "1_Projects/제로베이스 대기업 취업 특별반/입사지원회사 목록",
     "1_Projects/Burgerput/2_유지보수/CheatController분리하기.md",
     "1_Projects/Burgerput/1_개발문서/Zenput 뒤로가기 버튼 에러/Zenput 뒤로가기 버튼 에러.md",
