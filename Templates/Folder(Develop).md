@@ -1,6 +1,6 @@
 ---
 created: "{{date}} {{time}}"
-updated: 2024-09-03T15:01
+updated: 2024-09-04T16:45
 ---
 # DataView(Progress에 따라서 색상까지)
 ```dataviewjs
@@ -40,6 +40,10 @@ dv.table(
 # 간단한 폴더(날짜만)
 
  ```dataview 
-table dateformat(file.ctime, "yyyy-MM-dd") as "생성 날짜", dateformat(file.mtime, "yyyy-MM-dd") as "수정 날짜" FROM "1_Projects/제로베이스 대기업 취업 특별반/정기회의"
+table 
+dateformat(file.ctime, "yyyy-MM-dd") as "생성 날짜", 
+dateformat(file.mtime, "yyyy-MM-dd") as "수정 날짜" 
+
+FROM "1_Projects/제로베이스 대기업 취업 특별반/정기회의"
 WHERE file.name != "정기회의"
 ```
