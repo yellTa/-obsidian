@@ -142,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 5월 목요일 23시 멘토링 자료 준비.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +158,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 5월 목요일 23시 멘토링 자료 준비.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,9 +179,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 5월 목요일 23시 멘토링 자료 준비.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -207,7 +203,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "ae83324d065899fd",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 5월 목요일 23시 멘토링 자료 준비.md",
     "resources/이력서_20240904.pdf",
