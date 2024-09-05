@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Areas/알고리즘/문제풀이/백준 dfs와 bfs.md",
+                "file": "2_Areas/알고리즘/이론/인접행렬과 인접 리스트.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Areas/알고리즘/문제풀이/백준 dfs와 bfs.md",
+                "file": "2_Areas/알고리즘/이론/인접행렬과 인접 리스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Areas/알고리즘/문제풀이/백준 dfs와 bfs.md",
+                "file": "2_Areas/알고리즘/이론/인접행렬과 인접 리스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Areas/알고리즘/문제풀이/백준 dfs와 bfs.md"
+                "file": "2_Areas/알고리즘/이론/인접행렬과 인접 리스트.md"
               }
             }
           }
@@ -209,8 +209,10 @@
   },
   "active": "df6536a8525854f5",
   "lastOpenFiles": [
-    "2_Areas/알고리즘/문제풀이/문제풀이.md",
+    "2_Areas/알고리즘/그래프강의.md",
+    "2_Areas/알고리즘/이론/인접행렬과 인접 리스트.md",
     "2_Areas/알고리즘/문제풀이/백준 dfs와 bfs.md",
+    "2_Areas/알고리즘/문제풀이/문제풀이.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/취업스터디.md",
     "Templates/Folder(Develop).md",
@@ -249,8 +251,6 @@
     "1_Projects/Burgerput/1_개발문서/Aws Files/aws Putty로 연결하기/aws Putty로 연결하기.md",
     "1_Projects/Burgerput/1_개발문서/SSL Set-up/SSL Set-up.md",
     "1_Projects/Burgerput/1_개발문서/linux mysql setup/Ubuntu(Linux)에서 mysql 설정 및 구동.md",
-    "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
-    "Templates/devlop.md",
     "1_Projects/Burgerput/Burgerput Controller역할.canvas",
     "Untitled 7.canvas",
     "Untitled 6.canvas",
