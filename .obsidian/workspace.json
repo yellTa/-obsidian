@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Areas/알고리즘/이론/인접행렬과 인접 리스트.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 5일 목요일 23시 멘토링 질문 준비.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 5일 목요일 23시 멘토링 질문 준비.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 5일 목요일 23시 멘토링 질문 준비.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 5일 목요일 23시 멘토링 질문 준비.md"
+              }
             }
           }
         ]
@@ -203,8 +207,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2caed6827f1efab6",
+  "active": "df6536a8525854f5",
   "lastOpenFiles": [
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 5일 목요일 23시 멘토링 자료 준비.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 5일 목요일 23시 멘토링 질문 준비.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링.md",
     "2_Areas/알고리즘/이론/인접행렬과 인접 리스트.md",
     "resources/Pasted image 20240905214609.png",
     "resources/Pasted image 20240905214352.png",
@@ -216,7 +223,6 @@
     "2_Areas/알고리즘/그래프강의.md",
     "2_Areas/알고리즘/문제풀이/백준 dfs와 bfs.md",
     "2_Areas/알고리즘/문제풀이/문제풀이.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/취업스터디.md",
     "Templates/Folder(Develop).md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/9월 7일 토요일 미팅 사전 정리.md",
@@ -229,7 +235,6 @@
     "1_Projects/Burgerput/0_회의록/0_회의록.md",
     "resources/Pasted image 20240904181808.png",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 5일 목요일 23시 멘토링 자료 준비.md",
     "1_Projects/제로베이스 대기업 취업 특별반/입사지원회사 목록/제이원 파트너스.md",
     "1_Projects/Burgerput/1_개발문서/Github Action Ci-CD/Github Action Ci-CD.md",
     "1_Projects/Burgerput/Burgerput.md",
