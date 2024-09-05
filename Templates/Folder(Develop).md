@@ -1,6 +1,6 @@
 ---
 created: "{{date}} {{time}}"
-updated: 2024-09-04T16:53
+updated: 2024-09-05T14:46
 ---
 # DataView(Progress에 따라서 색상까지)
 ```dataviewjs
@@ -48,7 +48,7 @@ FROM "1_Projects/제로베이스 대기업 취업 특별반/정기회의"
 WHERE file.name != "정기회의"
 ```
 
-# True를 블럭으로 표시하는 리스트
+# True를 블럭으로 표시하는 리스트 - 폴더이름만 바꿔주면 됨
 ```dataviewjs
 for (let page of dv.pages('"1_Projects/제로베이스 대기업 취업 특별반/멘토링"')
 .where(p => p.file.name != "멘토링")) {

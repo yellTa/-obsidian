@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/9월 7일 토요일 미팅 사전 정리.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/취업스터디.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/9월 7일 토요일 미팅 사전 정리.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/취업스터디.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/9월 7일 토요일 미팅 사전 정리.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/취업스터디.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/9월 7일 토요일 미팅 사전 정리.md"
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/취업스터디.md"
               }
             }
           }
@@ -209,12 +209,13 @@
   },
   "active": "df6536a8525854f5",
   "lastOpenFiles": [
-    "resources/Pasted image 20240905143419.png",
+    "Templates/Folder(Develop).md",
+    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/취업스터디.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/9월 7일 토요일 미팅 사전 정리.md",
+    "resources/Pasted image 20240905143419.png",
     "resources/Pasted image 20240905141700.png",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/취업 스터디 조장 내용정리.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/Untitled",
-    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/취업스터디.md",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
     "1_Projects/Burgerput/0_회의록/0_회의록.md",
@@ -223,7 +224,6 @@
     "resources/Pasted image 20240904181058.png",
     "resources/Pasted image 20240904181049.png",
     "resources/Pasted image 20240904180212.png",
-    "Templates/Folder(Develop).md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 5일 목요일 23시 멘토링 자료 준비.md",
