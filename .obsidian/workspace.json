@@ -52,26 +52,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/회의 발표자료.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf10eeed96eb1fd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 5일 멘토링.md",
+                "file": "1_Projects/Burgerput/0_회의록/9월 6일.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -154,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 5일 멘토링.md",
+                "file": "1_Projects/Burgerput/0_회의록/9월 6일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 5일 멘토링.md",
+                "file": "1_Projects/Burgerput/0_회의록/9월 6일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 5일 멘토링.md"
+                "file": "1_Projects/Burgerput/0_회의록/9월 6일.md"
               }
             }
           }
@@ -219,20 +207,20 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "bf10eeed96eb1fd9",
+  "active": "df6536a8525854f5",
   "lastOpenFiles": [
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 5일 목요일 23시 멘토링 자료 준비.md",
+    "1_Projects/Burgerput/0_회의록/0_회의록.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/회의 발표자료.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 5일 멘토링.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 5일 목요일 23시 멘토링 자료 준비.md",
     "1_Projects/Burgerput/0_회의록/9월 6일.md",
     "1_Projects/Burgerput/0_회의록/8월27일 회의록.md",
-    "1_Projects/Burgerput/0_회의록/0_회의록.md",
     "3_Resources/MVP란.md",
     "resources/Pasted image 20240906122012.png",
     "Templates/Docs.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/입사지원회사 목록/입사지원회사 목록.md",
     "7_TIL/20240906 오눌의 TIL.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/회의 발표자료.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/취업스터디.md",
     "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서버전들.md",
     "Templates/기업조사.md",
