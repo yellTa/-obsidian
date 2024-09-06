@@ -13,6 +13,6 @@
   "nativeMenus": false,
   "theme": "obsidian",
   "monospaceFontFamily": "Wanted Sans Std",
-  "interfaceFontFamily": "Wanted Sans Std",
+  "interfaceFontFamily": "",
   "textFontFamily": "Noto Sans KR"
 }
