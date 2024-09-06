@@ -118,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 13일 멘토링 준비/백엔드자소서/라인개발자 자소서 2022년도.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 13일 멘토링 준비/백엔드자소서/라인개발자 자소서 2022년도.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 13일 멘토링 준비/백엔드자소서/라인개발자 자소서 2022년도.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -183,7 +179,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "6e1f5b0366b40532",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 13일 멘토링 준비/백엔드자소서/라인개발자 자소서 2022년도.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 13일 멘토링 준비/9월 13일 멘토링 준비.md",
