@@ -1,6 +1,6 @@
 ---
 created: 2024-09-06 12:14
-updated: 2024-09-06T12:58
+updated: 2024-09-06T14:39
 tags:
   - mvp
 출처: https://brunch.co.kr/@dongdong1/14
@@ -13,20 +13,18 @@ tags:
 
 사람의 중심에서 생각해야한다.
 ## MVP는 사람 중심에서 생각되어야 한다.
-이런 사용성이 있으면 사용자가 좋아할 것 이다. 이것을 먼저 생각해야한다.
+이런 사용성이 있으면 사용자가 좋아할 것이다. 이것을 먼저 생각해야한다.
 고객이 쓸 수 있어? 라는 질문을 던지는게 MVP
-출시를 하는 정도의 레벨의 제품이 아니다.
+출시를 하는 레벨의 제품이 아니다.
 
 0 TO 1으로 갈때 가설이 검증 될 때 다음으로 나갈 수 있다. 
 가장 위험한 가설들에 대해서 최소한의 사용성이 있는지 알아낸다.
-
 ### 가장 큰 특징
 -  빠르게 기능을 만들고 제출하고 피드백받는 것
 - Application이 있고 그걸 기반으로 하는 BareBone이 있고 그걸 개선하는 방식
 - 받은 feedBack은 추후 기능에 도움이 된다.
 
 최대한 빨리 배포하고 최대한 빨리 피드백받아서 개선할 것
-
 
 ## RAT
 
@@ -37,45 +35,32 @@ RAT는 가장 위험한 가설을 테스트하는 것이다.
 이것만 만족하면 이걸 만들어도 되겠어 라고 할 수 있다.
 ## MLP
 그 다음은 MLP이다. MLP는 사용자들이 좋아하고 사용할 만한 가치가 있는 것을 확인하는 것이다. 
+
 예를 들어 노션은 위키피디아 대신 회의록을 쓸 수 있는 노트였다. 대신 블록으로 왔다갔다하는 기능이 있는 단순한 노트였다. 블록 단위를 통해 움직이는 노션은 그때 당시 wow point (사람들이 흥미가 있고 관심이 가는)였고, 지금은 계속해서 기능을 추가해서 지금같은 노션이 된 것
 
+<span style="color:rgb(255, 128, 128)">기본 노트 기능+ 노션만의 기능(블록단위로 이동하기) 를 곁들여서 발전한 것</span>
+
+## MVP를 구성하는 예시
+### 인스타그램 같은 소셜 프로그램을만들자!
+
+### 필요한 기능 생각하기
+1. 필터
+2. 해시태그
+3. 영상 올리기
+4. 사진 공유
+5. 댓글
+6. 좋아요
+
+### 필요한 기능 중요도 매기기
+1. 필터 1
+2. 해시태그 2
+3. 영상 올리기 10
+4. 사진 공유 5
+5. 댓글 2
+6. 좋아요 1
 
 
-
-
-
-
-인스타그램같은 프로그램을 만든다고 가정하자
-
-
-
-instagram을 만든다.
-아이디어를 짠다
-엄청 많은 아이디어를 만든다. 필터, 해시ㅟ탴 ㅡ기타듵ㅇ등
-모두 다 필요한 ㄱ ㅓ시잠ㄴ
-피처에 등수를 매겨서 어떤 기능이 가장 먼저 나와야하는지 this is out my MVP
-
-포토 쉐어링 기능
-코어 피처셋은 나의 MVP이다. 
-
-code에도 help you get atlist get key features 
-
-
-feature set of the app
-good iea no one downeld  code up an adiea every one use it nstiripe vuilding companey havein gaidan doesn 
-
-
-but evne if you take nessacesry you cnat stiil up ethere 
-iteractions done of not resly helps to get makter of faster test it see watrher poe;e like or not  rly good one 
-
-
-you tube dating app -> video company 
-thisnk ingo f the product 
-coulb be so lucky 
-
-
-
-
+이런식으로 코어 기능을 선택하고 구현한 다음 피드백을 받고 개선하는 구조이다.
 
 ---
 # 참고

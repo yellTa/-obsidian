@@ -28,38 +28,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/입사지원회사 목록/제이원 파트너스.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6df9f033ddf0bc3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/LoadingController 정리하기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df6536a8525854f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Projects/Burgerput/0_회의록/9월 6일.md",
+                "file": "3_Resources/MVP란.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -142,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/Burgerput/0_회의록/9월 6일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/Burgerput/0_회의록/9월 6일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1_Projects/Burgerput/0_회의록/9월 6일.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -207,15 +179,17 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "df6536a8525854f5",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
+    "3_Resources/MVP란.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 5일 멘토링.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/입사지원회사 목록/제이원 파트너스.md",
+    "1_Projects/Burgerput/2_유지보수/LoadingController 정리하기.md",
+    "1_Projects/Burgerput/0_회의록/9월 6일.md",
     "1_Projects/Burgerput/0_회의록/0_회의록.md",
     "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/회의 발표자료.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 5일 멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 5일 목요일 23시 멘토링 자료 준비.md",
-    "1_Projects/Burgerput/0_회의록/9월 6일.md",
     "1_Projects/Burgerput/0_회의록/8월27일 회의록.md",
-    "3_Resources/MVP란.md",
     "resources/Pasted image 20240906122012.png",
     "Templates/Docs.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링.md",
@@ -244,8 +218,6 @@
     "resources/Pasted image 20240905141700.png",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/취업 스터디 조장 내용정리.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/Untitled",
-    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
-    "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디",
     "resources/이력서_20240904.pdf",
     "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서0818이전.pdf",
