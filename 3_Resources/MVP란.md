@@ -1,6 +1,6 @@
 ---
 created: 2024-09-06 12:14
-updated: 2024-09-06T12:26
+updated: 2024-09-06T12:36
 tags:
   - mvp
 출처: https://brunch.co.kr/@dongdong1/14
@@ -31,29 +31,43 @@ Human centered importnant
 
 jobs, pains, gains생각할 것
 
+빠르게 기능 만들고 제출하고 히드백 받곡시고 그때 맨다. 
+aplication있고 bareborn있고 그걸 개선하는 방식 
+피드백을 받고 future를 위해서 도움이 됨
+
+빨리 만들어서 사람들한테 보여주는거고
+최대한 빨리 배포하는 것이 목적
+
+
+instagram을 만든다.
+아이디어를 짠다
+엄청 많은 아이디어를 만든다. 필터, 해시ㅟ탴 ㅡ기타듵ㅇ등
+모두 다 필요한 ㄱ ㅓ시잠ㄴ
+피처에 등수를 매겨서 어떤 기능이 가장 먼저 나와야하는지 this is out my MVP
+
+포토 쉐어링 기능
+코어 피처셋은 나의 MVP이다. 
+
+code에도 help you get atlist get key features 
+
+
+feature set of the app
+good iea no one downeld  code up an adiea every one use it nstiripe vuilding companey havein gaidan doesn 
+
+
+but evne if you take nessacesry you cnat stiil up ethere 
+iteractions done of not resly helps to get makter of faster test it see watrher poe;e like or not  rly good one 
+
+
+you tube dating app -> video company 
+thisnk ingo f the product 
+coulb be so lucky 
 
 
 
-# 결론
-
-# REVIEW
 
 
 ---
 # 참고
-
-# 연결문서
-
-# 제목
-
-
-
-# 결론
-
-# REVIEW
-
-
----
-# 참고
-
+https://www.youtube.com/watch?v=T8xvMIiFzD0
 # 연결문서
