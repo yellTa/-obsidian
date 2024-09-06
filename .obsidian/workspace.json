@@ -154,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3_Resources/MVP란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,6 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3_Resources/MVP란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3_Resources/MVP란.md"
+              }
             }
           }
         ]
@@ -215,8 +219,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2caed6827f1efab6",
+  "active": "bf10eeed96eb1fd9",
   "lastOpenFiles": [
+    "resources/Pasted image 20240906122012.png",
     "3_Resources/MVP란.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 5일 멘토링.md",
     "Templates/Docs.md",
@@ -254,7 +259,6 @@
     "resources/Pasted image 20240904181808.png",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디",
     "1_Projects/제로베이스 대기업 취업 특별반/입사지원회사 목록/제이원 파트너스.md",
-    "1_Projects/Burgerput/1_개발문서/Github Action Ci-CD/Github Action Ci-CD.md",
     "resources/이력서_20240904.pdf",
     "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서0818이전.pdf",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링",
