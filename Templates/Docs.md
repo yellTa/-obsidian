@@ -1,6 +1,8 @@
 ---
 created: "{{date}} {{time}}"
-updated: 2024-09-03T15:01
+updated: 2024-09-06T12:14
+tags: 
+출처: 
 ---
 
 # 제목

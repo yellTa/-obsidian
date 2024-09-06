@@ -6,7 +6,7 @@
       {
         "id": "f2c09484126a8fb8",
         "type": "tabs",
-        "dimension": 52.37704918032787,
+        "dimension": 74.26229508196721,
         "children": [
           {
             "id": "60da0eaa85a214d1",
@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7_TIL/20240906 오눌의 TIL.md",
+                "file": "3_Resources/MVP란.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,7 +76,7 @@
       {
         "id": "a2fd5dd963933f8d",
         "type": "tabs",
-        "dimension": 47.622950819672134,
+        "dimension": 25.73770491803279,
         "children": [
           {
             "id": "2caed6827f1efab6",
@@ -138,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5110321044922,
-    "collapsed": true
+    "width": 257.5110321044922
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -155,7 +154,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7_TIL/20240906 오눌의 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +170,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7_TIL/20240906 오눌의 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,9 +191,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "7_TIL/20240906 오눌의 TIL.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -220,15 +215,18 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "bf10eeed96eb1fd9",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
+    "3_Resources/MVP란.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 5일 멘토링.md",
+    "Templates/Docs.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 5일 목요일 23시 멘토링 자료 준비.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/입사지원회사 목록/입사지원회사 목록.md",
     "7_TIL/20240906 오눌의 TIL.md",
     "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/회의 발표자료.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/취업스터디.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/입사지원회사 목록/입사지원회사 목록.md",
     "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서버전들.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링.md",
-    "Templates/Docs.md",
     "Templates/기업조사.md",
     "Templates/99클럽 코테 스터디 n일차.md",
     "Templates/Folder(Develop).md",
@@ -236,8 +234,6 @@
     "Templates/devlop.md",
     "2_Areas/알고리즘/문제풀이/백준 dfs와 bfs.md",
     "2_Areas/알고리즘/이론/인접행렬과 인접 리스트.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 5일 멘토링.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 5일 목요일 23시 멘토링 자료 준비.md",
     "resources/Pasted image 20240905214609.png",
     "resources/Pasted image 20240905214352.png",
     "resources/Pasted image 20240905213903.png",
@@ -259,7 +255,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디",
     "1_Projects/제로베이스 대기업 취업 특별반/입사지원회사 목록/제이원 파트너스.md",
     "1_Projects/Burgerput/1_개발문서/Github Action Ci-CD/Github Action Ci-CD.md",
-    "1_Projects/Burgerput/Burgerput.md",
     "resources/이력서_20240904.pdf",
     "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서0818이전.pdf",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링",
