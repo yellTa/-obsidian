@@ -1,6 +1,6 @@
 ---
 created: 2024-09-06 12:14
-updated: 2024-09-06T12:22
+updated: 2024-09-06T12:26
 tags:
   - mvp
 출처: https://brunch.co.kr/@dongdong1/14
@@ -24,6 +24,16 @@ tags:
 1. 소비자가 사용하고 싶어하는 기능일 것
 2. 고객의 관심을 끌기 위해 만들 기능의 기반이 될 것
 3. 제품이나 서비스를 개선하면서 도움이 되는 피드백을 받을 수 있음
+
+사람의 중심에서 생각해야함 
+
+Human centered importnant 
+
+jobs, pains, gains생각할 것
+
+
+
+
 # 결론
 
 # REVIEW
