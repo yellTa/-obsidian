@@ -1,6 +1,6 @@
 ---
 created: 2024-09-07 18:21
-updated: 2024-09-08T02:00
+updated: 2024-09-08T02:06
 tags:
   - java
   - study
@@ -68,9 +68,24 @@ void add2(int[] arr){
 
 Call by Reference는 <span style="color:rgb(255, 128, 128)">참조 자체를 넘기기때문에 새로운 객체를 할당하면 원본 변수도 영향을 받는다.</span>
 
+## 그러면 전달받은 값을 새로운 객체로 변경하면 어떻게 될까?
+``` java
+    @Test
 
+    void referenceTest() {
 
+        int[] arr = { 10 }; // 0x001
+        newArr(arr);
+        assertThat(arr).isEqualTo("0x001");
 
+    }
+    void newArr(int[] arrArg) {
+        arrArg = new int[]{ 20 }; // 0x002
+    }
+
+```
+
+전달 받은 값을 새로운 객체로 변경해도 원본의 변수는 변하지 않는다. 
 
 
 # 결론
