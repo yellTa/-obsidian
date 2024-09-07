@@ -1,10 +1,9 @@
 ---
 created: "{{date}} {{time}}"
-updated: 2024-09-06T12:14
+updated: 2024-09-07T12:51
 tags: 
 출처: 
 ---
-
 # 제목
 
 
