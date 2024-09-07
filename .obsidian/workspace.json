@@ -126,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5110321044922
+    "width": 276.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -142,7 +143,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 7일 회의록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 7일 회의록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,9 +180,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 7일 회의록.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -207,7 +204,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "6110019b4910263d",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 7일 회의록.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/공지내용정리-9월조장/취업 스터디 조장 내용정리.md",
