@@ -40,19 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Areas/Java/Call by Value, Call by Reference.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4adf3f03a427cbe5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/CheatController분리하기.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 7일 회의록.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5110321044922
+    "width": 276.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -142,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Areas/Java/Call by Value, Call by Reference.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 7일 회의록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Areas/Java/Call by Value, Call by Reference.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 7일 회의록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Areas/Java/Call by Value, Call by Reference.md"
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 7일 회의록.md"
               }
             }
           }
@@ -209,8 +198,8 @@
   },
   "active": "6110019b4910263d",
   "lastOpenFiles": [
-    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 7일 회의록.md",
     "2_Areas/Java/Call by Value, Call by Reference.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 7일 회의록.md",
     "2_Areas/Java",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/취업스터디.md",
     "2_Areas/알고리즘/문제풀이/백준 결혼식.md",
