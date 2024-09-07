@@ -1,6 +1,6 @@
 ---
 created: "{{date}} {{time}}"
-updated: 2024-09-06T23:57
+updated: 2024-09-08T01:22
 ---
 # DataView(Progress에 따라서 색상까지)
 ```dataviewjs
@@ -31,8 +31,6 @@ dv.table(
     ];
   })
 );
-
-
 
 
 ```

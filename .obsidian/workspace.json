@@ -40,14 +40,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 7일 회의록.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 5일 멘토링.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f797dc1d1d1d70b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_Areas/Java/Call by Value, Call by Reference.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -131,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 7일 회의록.md",
+                "file": "2_Areas/Java/Call by Value, Call by Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 7일 회의록.md",
+                "file": "2_Areas/Java/Call by Value, Call by Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 7일 회의록.md"
+                "file": "2_Areas/Java/Call by Value, Call by Reference.md"
               }
             }
           }
@@ -196,23 +208,23 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "6110019b4910263d",
+  "active": "1f797dc1d1d1d70b",
   "lastOpenFiles": [
-    "resources/Pasted image 20240907191059.png",
-    "resources/Pasted image 20240907191042.png",
-    "2_Areas/Java/Call by Value, Call by Reference.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 7일 회의록.md",
-    "2_Areas/Java",
-    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/취업스터디.md",
-    "2_Areas/알고리즘/문제풀이/백준 결혼식.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 5일 멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/멘토링.md",
+    "Templates/Folder(Develop).md",
+    "Templates/Docs.md",
+    "2_Areas/Java/Call by Value, Call by Reference.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/취업스터디.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 7일 회의록.md",
+    "resources/Pasted image 20240907191059.png",
+    "resources/Pasted image 20240907191042.png",
+    "2_Areas/Java",
+    "2_Areas/알고리즘/문제풀이/백준 결혼식.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/공지내용정리-9월조장/공지내용정리-9월조장.md",
     "2_Areas/알고리즘/문제풀이/바이러스.md",
     "resources/Pasted image 20240907130301.png",
-    "Templates/Folder(Develop).md",
-    "Templates/Docs.md",
     "2_Areas/알고리즘/문제풀이/문제풀이.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/공지내용정리-9월조장/취업 스터디 조장 내용정리.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/공지내용정리-9월조장/9월 7일 토요일 미팅 공지.md",
@@ -241,7 +253,6 @@
     "resources/Pasted image 20240905213424.png",
     "resources/Pasted image 20240905213149.png",
     "resources/Pasted image 20240905212942.png",
-    "resources/Pasted image 20240905212930.png",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디",
     "resources/이력서_20240904.pdf",
     "1_Projects/Burgerput/Burgerput Controller역할.canvas",
