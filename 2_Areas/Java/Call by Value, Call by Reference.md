@@ -1,6 +1,6 @@
 ---
 created: 2024-09-07 18:21
-updated: 2024-09-08T01:24
+updated: 2024-09-08T01:46
 tags:
   - java
   - study
@@ -21,6 +21,21 @@ tags:
 ## 참조타입(reference type)
 - Class Type, Interface, Array, Enum, 기타등등(String포함)
 
+```java
+public class CallByExampleTest {  
+    @Test  
+    void primitiveTest(){  
+        int v = 10;  
+  
+        add(v);  
+  
+        assertThat(v).isEqualTo(10);  
+    }  
+    void add(int num){  
+        num++;  
+    }  
+}
+```
 
 
 
