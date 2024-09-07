@@ -1,6 +1,6 @@
 ---
 created: 2024-09-07 18:21
-updated: 2024-09-08T02:06
+updated: 2024-09-08T02:08
 tags:
   - java
   - study
@@ -87,10 +87,10 @@ Call by Reference는 <span style="color:rgb(255, 128, 128)">참조 자체를 넘
 
 전달 받은 값을 새로운 객체로 변경해도 원본의 변수는 변하지 않는다. 
 
+![[Pasted image 20240908020734.png]]
 
-# 결론
 
-# REVIEW
+자바는 언제나 <span style="color:rgb(255, 128, 128)">Call by Value형태로 데이터를 전달</span>하고, <span style="color:rgb(255, 128, 128)">호출자 변수와 수신자 파라미터는 Stack 영역 내에서 각각 독립적으로 존재하는 다른 변수</span>이다. 
 
 
 ---
@@ -98,5 +98,3 @@ Call by Reference는 <span style="color:rgb(255, 128, 128)">참조 자체를 넘
 https://dev-coco.tistory.com/189
 
 https://bcp0109.tistory.com/360
-
-# 연결문서
