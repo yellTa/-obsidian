@@ -1,6 +1,6 @@
 ---
 created: 2024-09-07 18:21
-updated: 2024-09-08T01:46
+updated: 2024-09-08T01:52
 tags:
   - java
   - study
@@ -37,6 +37,16 @@ public class CallByExampleTest {
 }
 ```
 
+![[Pasted image 20240908015058.png]]
+자바에서 변수를 선언하면 Stack메모리 영역에 할당한다.
+
+Stack 영역안에서 PrimitiveTest메소드와 add 메소드의 영역이 따로 나뉘어져있고 변수도 각가 존재한다.
+따라서 <span style="color:rgb(255, 128, 128)">원시타입의 전달은 값을 복사해서 전달하는 Call by Value 방식으로 동작한다.</span>
+
+
+# 참조 타입 (reference type)전달 방식
+변수는 stack에 있지만 객체는 Heap 영역에 위치한다. 
+Stack에 있는 변수가 Heap영역에 있는 객체를 바라보고 있는 것이다.
 
 
 
@@ -51,5 +61,8 @@ public class CallByExampleTest {
 
 ---
 # 참고
+https://dev-coco.tistory.com/189
+
+https://bcp0109.tistory.com/360
 
 # 연결문서
