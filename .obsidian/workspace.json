@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 7일 회의록.md",
+                "file": "2_Areas/Java/Call by Value, Call by Reference.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 7일 회의록.md",
+                "file": "2_Areas/Java/Call by Value, Call by Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 7일 회의록.md",
+                "file": "2_Areas/Java/Call by Value, Call by Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 7일 회의록.md"
+                "file": "2_Areas/Java/Call by Value, Call by Reference.md"
               }
             }
           }
@@ -209,12 +209,14 @@
   },
   "active": "6110019b4910263d",
   "lastOpenFiles": [
+    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 7일 회의록.md",
+    "2_Areas/Java/Call by Value, Call by Reference.md",
+    "2_Areas/Java",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/취업스터디.md",
     "2_Areas/알고리즘/문제풀이/백준 결혼식.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 5일 멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 7일 회의록.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/공지내용정리-9월조장/공지내용정리-9월조장.md",
     "2_Areas/알고리즘/문제풀이/바이러스.md",
     "resources/Pasted image 20240907130301.png",
@@ -237,7 +239,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/입사지원회사 목록/입사지원회사 목록.md",
     "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/회의 발표자료.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 5일 목요일 23시 멘토링 자료 준비.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/질문집 모음/Spring MVC파일 구조 여쭤보기.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/질문집 모음",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/백엔드자소서",
@@ -254,7 +255,6 @@
     "resources/Pasted image 20240905143419.png",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디",
     "resources/이력서_20240904.pdf",
-    "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서0818이전.pdf",
     "1_Projects/Burgerput/Burgerput Controller역할.canvas",
     "Untitled 7.canvas",
     "Untitled 6.canvas",
