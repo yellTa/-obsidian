@@ -1,6 +1,6 @@
 ---
 created: 2024-09-03 17:56
-updated: 2024-09-08T21:41
+updated: 2024-09-08T23:02
 tags:
   - develop
 Progress:
@@ -226,13 +226,15 @@ public class CheatController {
 @Transactional 애노테이션도 옮겨주었다. 
 
 
+## 회고
+
+실수로 저번 과정에서 MasterLoginController를 지웠었다. 하지만 그건 JWT로그인 관련 Controller여서 지우면 안되는거였음... 
+다시 되돌렸다.
+
+
 ---
 # REVIEW:
-
-내가 이 문제를 통해서 깨닫고 배운 것들
-
-원초적인 내용일 수록 좋다.(이론적인 내용들 기본지식들)
-
+이번에는 깃 커밋 메세지를 잘 써보려고 노력했다. 이번엔 잘 써서 다행이다...
 # References
 
 # 연결문서

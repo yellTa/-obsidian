@@ -40,18 +40,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 5일 멘토링.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f797dc1d1d1d70b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "1_Projects/Burgerput/2_유지보수/CheatController분리하기.md",
                 "mode": "source",
                 "source": false
@@ -71,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -220,6 +208,9 @@
     "1_Projects/Burgerput/2_유지보수/CheatController분리하기.md",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/Burgerput.md",
+    "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
+    "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
+    "1_Projects/Burgerput/2_유지보수/LoadingController 정리하기.md",
     "2_Areas/Java/Java Generics.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/실전프로젝트.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사랑 자소서 조사.md",
@@ -249,9 +240,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/공지내용정리-9월조장/공지내용정리-9월조장.md",
     "2_Areas/알고리즘/문제풀이/바이러스.md",
     "resources/Pasted image 20240907130301.png",
-    "2_Areas/알고리즘/문제풀이/문제풀이.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/공지내용정리-9월조장/취업 스터디 조장 내용정리.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/공지내용정리-9월조장/9월 7일 토요일 미팅 공지.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/공지내용정리-9월조장",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링",
