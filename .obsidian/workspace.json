@@ -28,19 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/질문집 모음/Spring MVC파일 구조 여쭤보기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6110019b4910263d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사조사/캐논코리아.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사조사/토스증권 -product.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -154,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사조사/캐논코리아.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사조사/토스증권 -product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사조사/캐논코리아.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사조사/토스증권 -product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사조사/캐논코리아.md"
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사조사/토스증권 -product.md"
               }
             }
           }
@@ -219,18 +207,18 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "6110019b4910263d",
+  "active": "6e1f5b0366b40532",
   "lastOpenFiles": [
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사조사/넥슨 - 인텔리전스랩스.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사조사/캐논코리아.md",
     "resources/Pasted image 20240908234532.png",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사랑 자소서 조사.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사조사/캐논코리아.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/Untitled 1.md",
     "Templates/회사조사2.md",
     "Templates/Docs.md",
     "Templates/기업조사.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/Untitled.md",
     "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사조사/넥슨 - 인텔리전스랩스.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 5일 멘토링.md",
     "Templates/Folder(Develop).md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사조사/토스증권 -product.md",
@@ -266,7 +254,6 @@
     "resources/Pasted image 20240906122012.png",
     "resources/Pasted image 20240905214609.png",
     "resources/Pasted image 20240905214352.png",
-    "resources/Pasted image 20240905213903.png",
     "1_Projects/Burgerput/Burgerput Controller역할.canvas",
     "Untitled 7.canvas",
     "Untitled 6.canvas",
