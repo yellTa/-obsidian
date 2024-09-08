@@ -1,6 +1,6 @@
 ---
 created: 2024-09-03 17:56
-updated: 2024-09-08T21:33
+updated: 2024-09-08T21:41
 tags:
   - develop
 Progress:
@@ -10,7 +10,6 @@ post됨: false
 ---
 # OBJECT/SUBJECT:
 CheatController에서 리팩토링을 수행해보자!
-
 ## 확인할 사항
 1. 불필요한 Annotaion옵션 사용 여부
 2. 단일 책임 원칙을 지키고 있는지 여부
@@ -136,40 +135,95 @@ public interface CheatServiceV1 {
     }
 ```
 
-
-
-
-
-
-
-
-
-
-> [!info]
-> 여기부터 다시 쓰세요 
-
-# CONCLUSION:
-
-## 원인 :
-
-## 작업 :
-
-## 결과 :
-
-## 부제목
-
-<aside> 🔽 code file name
-
-</aside>
-
-```bash
-# codes
+### CheatServiceController구현하기
+``` java
+@Service //Spring bean 등록  
+@Slf4j//로그확인  
+@RequiredArgsConstructor  
+@Transactional //DB사용하니까 트랜잭션 붙여줌  
+public class CheatServiceV1 implements CheatService {  
+  
+    //DB사용  
+    private final PrintData printData;  
+    private final SaveData saveData;  
+  
+    @Override  
+    public Map<String, ArrayList<Map>> showCheatFood() {  
+  
+        ArrayList<Map> maps = printData.customCheatFood();  
+        ArrayList<Map> mgrMap = printData.mgrList();  
+  
+        Map<String, ArrayList<Map>> tempMap = new LinkedHashMap<>();  
+  
+        tempMap.put("customCheatFood", maps);  
+        tempMap.put("mgrList", mgrMap);  
+  
+        return tempMap;  
+    }  
+  
+    @Override  
+    public void saveCheatFood(ArrayList<Map> param) {  
+        saveData.customCheatFoodDataSave(param);  
+    }  
+  
+    @Override  
+    public Map<String, ArrayList<Map>> showCheatMachine() {  
+  
+        ArrayList<Map> maps = printData.customCheatMachine();  
+        ArrayList<Map> mgrMap = printData.mgrList();  
+  
+        Map<String, ArrayList<Map>> tempMap = new LinkedHashMap<>();  
+  
+        tempMap.put("customCheatMachine", maps);  
+        tempMap.put("mgrList", mgrMap);  
+  
+        return tempMap;  
+  
+    }  
+  
+    @Override  
+    public void saveCheatMachine(ArrayList<Map> param) {  
+        saveData.customCheatMachineDataSave(param);  
+    }  
+}
 ```
 
-### 결론
+크게 Controller에 있던 기능들을 전부 옮겨주었다!
+### CheatController Refactoring하기!
 
-> _**아 이렇게 이렇게 이렇게 하면 되는 구나**_
+``` java
+@Slf4j  
+@RestController  
+@RequiredArgsConstructor  
+public class CheatController {  
+  
+    private final CheatService cheatService;  
+            @GetMapping("back/cheatFood")  
+    public Map<String, ArrayList<Map>> showCheatFood() {  
+        return cheatService.showCheatFood();  
+  
+    }  
+  
+    @PostMapping("back/cheatFood")  
+    public void saveCheatFood(@RequestBody ArrayList<Map> param) {  
+        cheatService.saveCheatFood(param);  
+    }  
+  
+    @GetMapping("back/cheatMachine")  
+    public Map<String, ArrayList<Map>> showCheatMachine() {  
+        return cheatService.showCheatMachine();  
+    }  
+  
+    @PostMapping("back/cheatMachine")  
+    public void saveCheatMachine(@RequestBody ArrayList<Map> param) {  
+        cheatService.saveCheatMachine(param);  
+    }  
+  
+}
+```
 
+서비스 로직이 들어있던 부분을 전부 제거하고 
+@Transactional 애노테이션도 옮겨주었다. 
 
 
 ---
