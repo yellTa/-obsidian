@@ -1,13 +1,12 @@
 ---
 created: 2024-09-08 17:56
-updated: 2024-09-08T18:53
+updated: 2024-09-08T19:07
 tags:
   - java
 출처: 
 ---
 # boxing과 unboxing의 개념
-Boxing과 Unboxing은 기본 타입과 참조 타입 간의 변환 과정을 의미한다. 
-
+Boxing과 Unboxing은 기본 타입과 참조 타입 간의  
 ## Boxing
 기본타입의 데이터(primitve type) -> 참조타입으로
 
