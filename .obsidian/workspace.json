@@ -155,7 +155,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/주제정하기/주제 아이디어 리스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/주제정하기/주제 아이디어 리스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,9 +192,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/주제정하기/주제 아이디어 리스트.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -220,7 +216,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "807994d10ebc47dd",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/주제정하기/주제 아이디어 리스트.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/주제정하기/주제정하기.md",
