@@ -20,6 +20,7 @@
     "코테여부": "checkbox",
     "pick여부": "checkbox",
     "pick": "checkbox",
-    "test": "checkbox"
+    "test": "checkbox",
+    "마감일": "date"
   }
 }
