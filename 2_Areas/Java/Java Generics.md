@@ -1,6 +1,6 @@
 ---
 created: 2024-09-08 19:01
-updated: 2024-09-08T20:30
+updated: 2024-09-08T20:32
 tags:
   - java
   - cpp
@@ -58,6 +58,24 @@ String str = stringBox.getItem();
 
 ## 타입 소거?
 컴파일 후 타입 소거로 인해 삭제된다.
+
+즉, 런타임 시에는 제네릭스가 존재하는 않고, 대신 Object로 처리되거나 해당 제약에 맞는 상위 타입으로 변환된다.
+
+```java
+//컴파일된 코드
+public class Box {
+    private Object item;
+
+    public void setItem(Object item) {
+        this.item = item;
+    }
+
+    public Object getItem() {
+        return item;
+    }
+}
+
+```
 
 # 결론
 
