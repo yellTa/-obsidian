@@ -52,6 +52,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "2_Areas/Java/Java Generics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2de4d7c06dff014f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "2_Areas/Java/java boxing unboxing.md",
                 "mode": "source",
                 "source": false
@@ -59,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -126,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5110321044922,
-    "collapsed": true
+    "width": 276.5110321044922
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -143,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2_Areas/Java/java boxing unboxing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,6 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2_Areas/Java/java boxing unboxing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2_Areas/Java/java boxing unboxing.md"
+              }
             }
           }
         ]
@@ -204,9 +219,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2caed6827f1efab6",
+  "active": "2de4d7c06dff014f",
   "lastOpenFiles": [
+    "2_Areas/Java/Java Generics.md",
     "2_Areas/Java/java boxing unboxing.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 5일 멘토링.md",
     "2_Areas/Java/Call by Value, Call by Reference.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/질문집 모음/실전프로젝트 주제.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/질문집 모음/질문집 모음.md",
@@ -221,7 +238,6 @@
     "resources/Pasted image 20240908020734.png",
     "resources/Pasted image 20240908015714.png",
     "resources/Pasted image 20240908015058.png",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 5일 멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/멘토링.md",
     "Templates/Folder(Develop).md",
     "Templates/Docs.md",
@@ -242,7 +258,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사랑 자소서 조사.md",
     "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서버전들.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/Untitled.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사조사/토스증권 -product.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/질문집 모음",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/백엔드자소서",
