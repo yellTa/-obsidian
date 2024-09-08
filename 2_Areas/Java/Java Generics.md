@@ -1,6 +1,6 @@
 ---
 created: 2024-09-08 19:01
-updated: 2024-09-08T20:38
+updated: 2024-09-08T20:40
 tags:
   - java
   - cpp
@@ -29,7 +29,7 @@ LinkedList<Character> list4 = new LinkedList<Character>();
 
 
 ## 제네릭스가 컴파일 될 때 처리되는 과정
-- 타입 소거를 수행하여 제네릭 타입의 정보를 지우고ㅓ, 그 자리에 Object 또는 조건에 맞는 특정 타입을 사용한다.
+- 타입 소거를 수행하여 제네릭 타입의 정보를 지우고, 그 자리에 Object 또는 조건에 맞는 특정 타입을 사용한다.
 
 
 ``` java
@@ -78,11 +78,13 @@ public class Box {
 ```
 
 ### 컴파일(Compile Time)
-- 
-
-
+- 자바 컴파일러가 소스코드를 바이트코드로 변환하는 시간
+- 컴파일 시 발생 오류는 문법오류, 타입 오류 등이 있음
+- 제네릭 타입 검사 수행, 오류가 있으면 프로그램이 실행되기 전 알려줌
 ### 런타임(RunTime)
-
+- 프로그램이 JVM에서 실제 실행되는 시간
+- 실행 중 발생하는 오류로, NullPointException, ArrayIndexOutOfBoundsException등이 있음
+- 컴파일된 Byte코드를 JVM이 운영체제에 맞게 변환하여 실행함
 # 결론
 
 # REVIEW
