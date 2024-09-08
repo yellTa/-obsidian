@@ -1,13 +1,12 @@
 ---
-progress:
-  - inprogress
+progress: []
 Created time: Invalid date
 Last edited time: Invalid date
 Review여부: false
 post됨: false
 post할까?: false
 created: 2024-06-06T14:38:00
-updated: 2024-08-27T14:38
+updated: 2024-09-08T23:52
 ---
 # OBJECT:
 
