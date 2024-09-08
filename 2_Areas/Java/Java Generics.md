@@ -1,6 +1,6 @@
 ---
 created: 2024-09-08 19:01
-updated: 2024-09-08T20:23
+updated: 2024-09-08T20:27
 tags:
   - java
   - cpp
@@ -25,9 +25,7 @@ LinkedList<Character> list4 = new LinkedList<Character>();
 1. 타입 안정성을 제공한다.
 2. 타입 체크와 형변환을 생략할  수 있으므로 코드가 간결해진다.
 
-
 즉 다룰 객체의 타입을 미리 명시해서 번거로운 형 변환을 줄여준다.
-
 
 # 결론
 
