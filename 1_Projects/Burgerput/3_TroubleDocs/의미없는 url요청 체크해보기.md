@@ -7,7 +7,7 @@ Review여부: false
 post됨: false
 post할까?: false
 created: 2024-07-21T17:46:00
-updated: 2024-08-27T17:46
+updated: 2024-09-08T23:59
 ---
 # OBJECT/SUBJECT:
 
@@ -107,23 +107,6 @@ user-Agent를 이용해서 특정 이용자에만 접근할 수 있도록 접근
 ## 작업 : user-Agent를 통한 로깅
 
 헤더에 담긴 User-Agent 정보를 통해서 어떤 client가 서버에 요청을 하는지 확인해보도록 했다.
-
-  
-
-## 결과 :
-
-  
-
-  
-
-## 부제목
-
-> [!important]  
-> code file name  
-
-```Shell
-# codes
-```
 
   
 
