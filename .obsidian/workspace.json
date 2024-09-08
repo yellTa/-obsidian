@@ -142,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1_Projects/Burgerput/2_유지보수/CheatController분리하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1_Projects/Burgerput/2_유지보수/CheatController분리하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1_Projects/Burgerput/2_유지보수/CheatController분리하기.md"
+              }
             }
           }
         ]
@@ -203,7 +207,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2caed6827f1efab6",
+  "active": "6110019b4910263d",
   "lastOpenFiles": [
     "1_Projects/Burgerput/2_유지보수/CheatController분리하기.md",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",

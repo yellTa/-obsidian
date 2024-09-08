@@ -1,6 +1,6 @@
 ---
 created: 2024-09-03 17:56
-updated: 2024-09-08T23:02
+updated: 2024-09-08T23:11
 tags:
   - develop
 Progress:
@@ -224,8 +224,6 @@ public class CheatController {
 
 서비스 로직이 들어있던 부분을 전부 제거하고 
 @Transactional 애노테이션도 옮겨주었다. 
-
-
 ## 회고
 
 실수로 저번 과정에서 MasterLoginController를 지웠었다. 하지만 그건 JWT로그인 관련 Controller여서 지우면 안되는거였음... 
