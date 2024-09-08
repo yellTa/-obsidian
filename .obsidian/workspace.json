@@ -64,14 +64,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Areas/Java/java boxing unboxing.md",
+                "file": "2_Areas/Java/Java Generics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e746951769b148c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7_TIL/240908의 TIL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Areas/Java/java boxing unboxing.md",
+                "file": "7_TIL/240908의 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Areas/Java/java boxing unboxing.md",
+                "file": "7_TIL/240908의 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Areas/Java/java boxing unboxing.md"
+                "file": "7_TIL/240908의 TIL.md"
               }
             }
           }
@@ -219,8 +231,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "232f8062720610ca",
+  "active": "5e746951769b148c",
   "lastOpenFiles": [
+    "7_TIL/240908의 TIL.md",
+    "resources/Pasted image 20240909011308.png",
     "2_Areas/Java/Java Generics.md",
     "2_Areas/Java/java boxing unboxing.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/데일리미팅준비/9월 9일 아침 8-30분 데일리미팅.md",
@@ -247,8 +261,6 @@
     "Templates/기업조사.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/Untitled.md",
     "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 5일 멘토링.md",
-    "Templates/Folder(Develop).md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/주제정하기",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트",
     "resources/Pasted image 20240908020734.png",
@@ -266,7 +278,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사조사",
     "resources/Pasted image 20240906122012.png",
     "resources/Pasted image 20240905214609.png",
-    "resources/Pasted image 20240905214352.png",
     "1_Projects/Burgerput/Burgerput Controller역할.canvas",
     "Untitled 7.canvas",
     "Untitled 6.canvas",
