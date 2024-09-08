@@ -52,26 +52,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Areas/Java/Call by Value, Call by Reference.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "807994d10ebc47dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_Areas/Java/Call by Value, Call by Reference.md",
+                "file": "2_Areas/Java/java boxing unboxing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -138,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5110321044922
+    "width": 276.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -154,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Areas/Java/Call by Value, Call by Reference.md",
+                "file": "2_Areas/Java/java boxing unboxing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Areas/Java/Call by Value, Call by Reference.md",
+                "file": "2_Areas/Java/java boxing unboxing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Areas/Java/Call by Value, Call by Reference.md"
+                "file": "2_Areas/Java/java boxing unboxing.md"
               }
             }
           }
@@ -219,8 +208,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "807994d10ebc47dd",
+  "active": "1f797dc1d1d1d70b",
   "lastOpenFiles": [
+    "2_Areas/Java/Call by Value, Call by Reference.md",
     "2_Areas/Java/java boxing unboxing.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/질문집 모음/실전프로젝트 주제.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/질문집 모음/질문집 모음.md",
@@ -232,7 +222,6 @@
     "7_TIL/오늘의 TIL... java와 코테들....md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트",
     "2_Areas/알고리즘/문제풀이/백준 결혼식.md",
-    "2_Areas/Java/Call by Value, Call by Reference.md",
     "resources/Pasted image 20240908020734.png",
     "resources/Pasted image 20240908015714.png",
     "resources/Pasted image 20240908015058.png",
