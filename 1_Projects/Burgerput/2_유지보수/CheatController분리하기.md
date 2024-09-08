@@ -1,6 +1,6 @@
 ---
 created: 2024-09-03 17:56
-updated: 2024-09-08T23:11
+updated: 2024-09-08T23:17
 tags:
   - develop
 Progress:
@@ -13,7 +13,6 @@ CheatController에서 리팩토링을 수행해보자!
 ## 확인할 사항
 1. 불필요한 Annotaion옵션 사용 여부
 2. 단일 책임 원칙을 지키고 있는지 여부
-
 # ANALYSIS:
 ## 불필요한 Annotation옵션 사용 여부
 ``` java
