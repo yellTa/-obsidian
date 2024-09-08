@@ -6,7 +6,7 @@
       {
         "id": "f2c09484126a8fb8",
         "type": "tabs",
-        "dimension": 74.80258435032304,
+        "dimension": 57.0516911295469,
         "children": [
           {
             "id": "60da0eaa85a214d1",
@@ -76,7 +76,7 @@
       {
         "id": "a2fd5dd963933f8d",
         "type": "tabs",
-        "dimension": 25.19741564967696,
+        "dimension": 42.9483088704531,
         "children": [
           {
             "id": "2caed6827f1efab6",
@@ -86,38 +86,6 @@
               "type": "graph",
               "state": {},
               "pinned": true
-            }
-          },
-          {
-            "id": "c95360c3641b67a2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a55ba27d0698ac29",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "7a64fe86ebf4557a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "0b07a45ba2bfd9ec",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -170,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5110321044922
+    "width": 276.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -186,7 +155,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/주제정하기/주제 아이디어 리스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +171,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/주제정하기/주제 아이디어 리스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,9 +192,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/주제정하기/주제 아이디어 리스트.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -251,7 +216,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "807994d10ebc47dd",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/주제정하기/주제 아이디어 리스트.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/주제정하기/주제정하기.md",
