@@ -1,6 +1,6 @@
 ---
 created: 2024-09-08 19:01
-updated: 2024-09-08T20:27
+updated: 2024-09-08T20:30
 tags:
   - java
   - cpp
@@ -26,6 +26,38 @@ LinkedList<Character> list4 = new LinkedList<Character>();
 2. 타입 체크와 형변환을 생략할  수 있으므로 코드가 간결해진다.
 
 즉 다룰 객체의 타입을 미리 명시해서 번거로운 형 변환을 줄여준다.
+
+
+## 제네릭스가 컴파일 될 때 처리되는 과정
+- 타입 소거를 수행하여 제네릭 타입의 정보를 지우고ㅓ, 그 자리에 Object 또는 조건에 맞는 특정 타입을 사용한다.
+
+
+``` java
+public class Box<T> {
+    private T item;
+
+    public void setItem(T item) {
+        this.item = item;
+    }
+
+    public T getItem() {
+        return item;
+    }
+}
+
+```
+
+```java
+Box<String> stringBox = new Box<>();
+stringBox.setItem("Hello");
+String str = stringBox.getItem();
+
+```
+컴파일 시 위의 Box 클래스에서 제네릭 타입 T는 String형태로 치환된다. 
+실행 시점에는 타입의 정보가 소거된다. 이를 타입 소거라고 한다.
+
+## 타입 소거?
+컴파일 후 타입 소거로 인해 삭제된다.
 
 # 결론
 
