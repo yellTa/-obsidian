@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/질문집 모음/실전프로젝트 주제.md",
+                "file": "2_Areas/Java/java boxing unboxing.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/질문집 모음/실전프로젝트 주제.md",
+                "file": "2_Areas/Java/java boxing unboxing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/질문집 모음/실전프로젝트 주제.md",
+                "file": "2_Areas/Java/java boxing unboxing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/질문집 모음/실전프로젝트 주제.md"
+                "file": "2_Areas/Java/java boxing unboxing.md"
               }
             }
           }
@@ -221,8 +221,9 @@
   },
   "active": "807994d10ebc47dd",
   "lastOpenFiles": [
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/질문집 모음/질문집 모음.md",
+    "2_Areas/Java/java boxing unboxing.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/질문집 모음/실전프로젝트 주제.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/질문집 모음/질문집 모음.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/주제정하기/주제 아이디어 리스트.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/주제정하기/주제정하기.md",
@@ -257,7 +258,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서버전들.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/Untitled.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사조사/토스증권 -product.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/9월 13일 멘토링 준비 - 회사조사 백엔드 자소서 항목 조사/백엔드자소서/백엔드자소서.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/질문집 모음",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/백엔드자소서",
