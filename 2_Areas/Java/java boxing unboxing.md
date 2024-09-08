@@ -1,6 +1,6 @@
 ---
 created: 2024-09-08 17:56
-updated: 2024-09-08T19:07
+updated: 2024-09-09T01:01
 tags:
   - java
 출처: 
@@ -108,3 +108,4 @@ java에서 Integer같은 래퍼 클래스는 캐싱을 사용한다.
 https://f-lab.kr/insight/understanding-java-boxing-and-unboxing
 
 # 연결문서
+[[멘토링]]
