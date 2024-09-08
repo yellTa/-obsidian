@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Areas/Java/Java Generics.md",
+                "file": "1_Projects/Burgerput/2_유지보수/CheatController분리하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5110321044922,
-    "collapsed": true
+    "width": 276.5110321044922
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -155,7 +154,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Areas/Java/Java Generics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +170,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Areas/Java/Java Generics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,9 +191,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2_Areas/Java/Java Generics.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -220,11 +215,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "1f797dc1d1d1d70b",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
+    "1_Projects/Burgerput/2_유지보수/CheatController분리하기.md",
+    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
+    "1_Projects/Burgerput/Burgerput.md",
+    "2_Areas/Java/Java Generics.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/실전프로젝트.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사랑 자소서 조사.md",
-    "2_Areas/Java/Java Generics.md",
     "2_Areas/Java/java boxing unboxing.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 5일 멘토링.md",
     "2_Areas/Java/Call by Value, Call by Reference.md",
@@ -254,11 +252,8 @@
     "2_Areas/알고리즘/문제풀이/문제풀이.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/공지내용정리-9월조장/취업 스터디 조장 내용정리.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/공지내용정리-9월조장/9월 7일 토요일 미팅 공지.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/회의.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/공지내용정리-9월조장",
-    "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서버전들.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/Untitled.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/질문집 모음",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/백엔드자소서",

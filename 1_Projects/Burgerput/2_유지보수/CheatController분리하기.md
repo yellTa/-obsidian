@@ -1,6 +1,6 @@
 ---
 created: 2024-09-03 17:56
-updated: 2024-09-06T23:35
+updated: 2024-09-08T21:29
 tags:
   - develop
 Progress:
@@ -117,8 +117,13 @@ public class CheatFoodController {
 ```
 아래와 같이 CheatFoodService라는 서비스 레이어를 만들고 처리하는 것이 좋다.
 
-## CheatService만들기
 cheatService를 만들어서 cheatController가 비지니스 로직을 받아 요청을 response하는 방식으로 변경해주자!
+## CheatServiceInterface준비하기
+추후에 추가될 Service의 확장을 위해서 Interface를 준비하자.
+
+
+
+
 
 
 
