@@ -1,6 +1,6 @@
 ---
 created: 2024-09-08 19:01
-updated: 2024-09-08T20:34
+updated: 2024-09-08T20:38
 tags:
   - java
   - cpp
@@ -77,7 +77,11 @@ public class Box {
 
 ```
 
+### 컴파일(Compile Time)
+- 
 
+
+### 런타임(RunTime)
 
 # 결론
 
