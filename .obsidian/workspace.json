@@ -154,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2_Areas/Java/java boxing unboxing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,6 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2_Areas/Java/java boxing unboxing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2_Areas/Java/java boxing unboxing.md"
+              }
             }
           }
         ]
@@ -215,8 +219,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2caed6827f1efab6",
+  "active": "232f8062720610ca",
   "lastOpenFiles": [
+    "2_Areas/Java/Java Generics.md",
     "2_Areas/Java/java boxing unboxing.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/데일리미팅준비/9월 9일 아침 8-30분 데일리미팅.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/실전프로젝트.md",
@@ -244,7 +249,6 @@
     "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 5일 멘토링.md",
     "Templates/Folder(Develop).md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/주제정하기",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트",
     "resources/Pasted image 20240908020734.png",

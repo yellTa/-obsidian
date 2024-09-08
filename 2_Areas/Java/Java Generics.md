@@ -1,6 +1,6 @@
 ---
 created: 2024-09-08 19:01
-updated: 2024-09-08T20:49
+updated: 2024-09-09T01:02
 tags:
   - java
   - cpp
@@ -84,8 +84,6 @@ public class Box {
 - 프로그램이 JVM에서 실제 실행되는 시간
 - 실행 중 발생하는 오류로, NullPointException, ArrayIndexOutOfBoundsException등이 있음
 - 컴파일된 Byte코드를 JVM이 운영체제에 맞게 변환하여 실행함
-# 결론
-
 # REVIEW
 
 
