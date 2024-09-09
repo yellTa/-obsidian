@@ -23,18 +23,6 @@
             }
           },
           {
-            "id": "6e1f5b0366b40532",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/수상한 GET 요청.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9fa0353ec2e23ff3",
             "type": "leaf",
             "state": {
@@ -71,31 +59,19 @@
             }
           },
           {
-            "id": "5e746951769b148c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/데일리미팅준비/9월 9일 아침 8-30분 데일리미팅.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5fb0468af8e5b448",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "새로운 노트.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월9일 star 경험정리.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       },
       {
         "id": "a2fd5dd963933f8d",
@@ -162,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5110321044922
+    "width": 276.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -178,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "새로운 노트.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월9일 star 경험정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "새로운 노트.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월9일 star 경험정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "새로운 노트.md"
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월9일 star 경험정리.md"
               }
             }
           }
@@ -245,12 +222,15 @@
   },
   "active": "5fb0468af8e5b448",
   "lastOpenFiles": [
+    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/회의.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월9일 star 경험정리.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/공지내용정리-9월조장/공지내용정리-9월조장.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/취업스터디.md",
+    "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
     "새로운 노트.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/데일리미팅준비/9월 9일 아침 8-30분 데일리미팅.md",
     "1_Projects/Burgerput/1_개발문서/AWS selenium Issue - 여기부터 복사하기/ubuntu with tinySelenium Project/ubuntu with tinySelenium Project.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/실전프로젝트.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/취업스터디.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/공지내용정리-9월조장/공지내용정리-9월조장.md",
     "7_TIL/240908의 TIL.md",
     "resources/Pasted image 20240909011308.png",
     "2_Areas/Java/Java Generics.md",
@@ -271,9 +251,6 @@
     "resources/Pasted image 20240908234532.png",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사랑 자소서 조사.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/Untitled 1.md",
-    "Templates/회사조사2.md",
-    "Templates/Docs.md",
-    "Templates/기업조사.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/주제정하기",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트",
     "resources/Pasted image 20240908020734.png",
