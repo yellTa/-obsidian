@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5110321044922
+    "width": 276.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -166,6 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/데일리미팅준비/9월 9일 아침 8-30분 데일리미팅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,6 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/데일리미팅준비/9월 9일 아침 8-30분 데일리미팅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +206,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/데일리미팅준비/9월 9일 아침 8-30분 데일리미팅.md"
+              }
             }
           }
         ]
@@ -227,7 +232,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2caed6827f1efab6",
+  "active": "5e746951769b148c",
   "lastOpenFiles": [
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/데일리미팅준비/9월 9일 아침 8-30분 데일리미팅.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/실전프로젝트.md",
