@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 10일 실전서비스 멘토링.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/월요일 18시 정기모임!.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5110321044922,
-    "collapsed": true
+    "width": 276.5110321044922
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -155,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 10일 실전서비스 멘토링.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/월요일 18시 정기모임!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 10일 실전서비스 멘토링.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/월요일 18시 정기모임!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 10일 실전서비스 멘토링.md"
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/월요일 18시 정기모임!.md"
               }
             }
           }
@@ -222,8 +221,14 @@
   },
   "active": "5fb0468af8e5b448",
   "lastOpenFiles": [
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/회의록모음.md",
+    "Templates/취업스터디-회의록양식.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월9일 star 경험정리.md",
+    "Templates/실전서비스런칭 프로젝트.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/월요일 18시 정기모임!.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/회의 발표자료.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/회의.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 10일 실전서비스 멘토링.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/회의록모음.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/실전프로젝트.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/질문집 모음/질문집 모음.md",
@@ -231,23 +236,17 @@
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/주제 아이디어 리스트.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 9일 아침 8-30분 데일리미팅.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 10일 데일리 미팅 정리.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/회의.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/공지내용정리-9월조장/공지내용정리-9월조장.md",
     "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서버전들.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링.md",
     "Templates/멘토링노트.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 5일 멘토링.md",
-    "Templates/취업스터디-회의록양식.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월9일 star 경험정리.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/취업스터디.md",
     "Templates/Folder(Develop).md",
     "Templates/Docs.md",
-    "Templates/실전서비스런칭 프로젝트.md",
     "새로운 노트.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/주제정하기/주제정하기.md",
     "Templates/99클럽 코테 스터디 n일차.md",
-    "Templates/devlop.md",
-    "Templates/Memo.md",
     "resources/Pasted image 20240909011308.png",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음",
     "resources/Pasted image 20240908234532.png",
