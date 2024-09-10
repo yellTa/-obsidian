@@ -14,7 +14,7 @@
     "progress": "multitext",
     "기한": "text",
     "공고 사이트": "text",
-    "출처": "text",
+    "출처": "checkbox",
     "updated": "datetime",
     "멘토링날": "checkbox",
     "코테여부": "checkbox",

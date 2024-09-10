@@ -1,6 +1,6 @@
 ---
 created: "{{date}} {{time}}"
-updated: 2024-09-08T01:22
+updated: 2024-09-10T18:44
 ---
 # DataView(Progress에 따라서 색상까지)
 ```dataviewjs
@@ -57,16 +57,22 @@ for (let page of dv.pages('"1_Projects/제로베이스 대기업 취업 특별�
     let modifiedDate = new Date(page.file.mtime);
     
     // 한 페이지에 대한 데이터를 배열에 추가
-    rows.push([
-        page.file.link,  // 파일 이름을 클릭 가능한 링크로 변환
-        createdDate.toLocaleDateString("en-CA"),  // 'yyyy-MM-dd' 형식으로 출력
-        modifiedDate.toLocaleDateString("en-CA"),  // 'yyyy-MM-dd' 형식으로 출력
-        page.멘토링날 ? `<span style="color:white; background-color:green; padding:2px; border-radius:4px;">True</span>` : page.멘토링날
-    ]);
+    rows.push({
+        link: page.file.link,  // 파일 이름을 클릭 가능한 링크로 변환
+        createdDate: createdDate.toLocaleDateString("en-CA"),  // 'yyyy-MM-dd' 형식으로 출력
+        modifiedDate: modifiedDate.toLocaleDateString("en-CA"),  // 'yyyy-MM-dd' 형식으로 출력
+        //멘토링 날을 체크리스트 메타데이터 이름으로 바꾸기
+        mentoringDay: page.멘토링날 ? `<span style="color:white; background-color:green; padding:2px; border-radius:4px;">  T  </span>` : page.멘토링날
+        // 멘토링날을 체크리스트 메타 데이터 이름으로 바꾸끼
+    });
 }
 
-// 누적된 데이터를 한 번에 테이블로 출력
-dv.table(["제목", "생성 날짜", "수정 날짜", "멘토링 날"], rows);
+// 데이터를 생성 날짜(createdDate) 기준으로 오름차순 정렬
+rows.sort((a, b) => new Date(a.createdDate) - new Date(b.createdDate));
+
+// 정렬된 데이터를 한 번에 테이블로 출력
+dv.table(["제목", "생성 날짜", "수정 날짜", "멘토링 날"], rows.map(row => [row.link, row.createdDate, row.modifiedDate, row.mentoringDay]));
+
 
 ```
 
