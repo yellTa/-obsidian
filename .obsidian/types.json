@@ -14,13 +14,14 @@
     "progress": "multitext",
     "기한": "text",
     "공고 사이트": "text",
-    "출처": "text",
+    "출처": "checkbox",
     "updated": "datetime",
     "멘토링날": "checkbox",
     "코테여부": "checkbox",
     "pick여부": "checkbox",
     "pick": "checkbox",
     "test": "checkbox",
-    "마감일": "date"
+    "마감일": "date",
+    "회의": "checkbox"
   }
 }
