@@ -1,8 +1,8 @@
 ---
 created: 2024-09-09 14:05
-updated: 2024-09-09T15:58
+updated: 2024-09-10T18:54
 tags: 
-출처: 
+회의: true
 ---
 ### Situation(상황) : Burgerput을 만들게 된 배경
 
