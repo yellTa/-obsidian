@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/이력서첨삭/이력서첨삭.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/이력서첨삭/이력서 제출....md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5110321044922
+    "width": 253.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -142,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/이력서첨삭/이력서첨삭.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/이력서첨삭/이력서 제출....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/이력서첨삭/이력서첨삭.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/이력서첨삭/이력서 제출....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/이력서첨삭/이력서첨삭.md"
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/이력서첨삭/이력서 제출....md"
               }
             }
           }
@@ -207,10 +208,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "15f39cac7766290c",
+  "active": "232f8062720610ca",
   "lastOpenFiles": [
-    "1_Projects/제로베이스 대기업 취업 특별반/이력서첨삭/이력서 제출....md",
     "1_Projects/제로베이스 대기업 취업 특별반/이력서첨삭/이력서첨삭.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/이력서첨삭/이력서 제출....md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 10일 실전서비스 멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/이력서첨삭",
     "resources/Pasted image 20240910214604.png",
