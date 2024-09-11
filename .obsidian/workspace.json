@@ -6,7 +6,7 @@
       {
         "id": "f2c09484126a8fb8",
         "type": "tabs",
-        "dimension": 58.30860534124629,
+        "dimension": 71.14243323442136,
         "children": [
           {
             "id": "60da0eaa85a214d1",
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/취업스터디-회의록양식.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/이력서첨삭/kb 국민카드 이력서 첨삭 내용.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
       {
         "id": "34c70a62ed80b617",
         "type": "tabs",
-        "dimension": 41.69139465875371,
+        "dimension": 28.857566765578635,
         "children": [
           {
             "id": "2caed6827f1efab6",
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/취업스터디-회의록양식.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/이력서첨삭/kb 국민카드 이력서 첨삭 내용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/취업스터디-회의록양식.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/이력서첨삭/kb 국민카드 이력서 첨삭 내용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/취업스터디-회의록양식.md"
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/이력서첨삭/kb 국민카드 이력서 첨삭 내용.md"
               }
             }
           }
@@ -210,19 +210,19 @@
   "active": "232f8062720610ca",
   "lastOpenFiles": [
     "1_Projects/제로베이스 대기업 취업 특별반/이력서첨삭/이력서첨삭.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 11일 19시 취업스터디!.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/공지내용정리-9월조장/공지내용정리-9월조장.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/회의.md",
     "1_Projects/제로베이스 대기업 취업 특별반/이력서첨삭/kb 국민카드 이력서 첨삭 내용.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/공지내용정리-9월조장/9월 11일 아침공지.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/이력서첨삭/이력서 첨삭 내용.md",
+    "Templates/취업스터디-회의록양식.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 11일 19시 취업스터디!.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/실전프로젝트.md",
     "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서버전들.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/월요일 18시 정기모임!.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/취업스터디.md",
     "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/회의 발표자료.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/공지내용정리-9월조장/공지내용정리-9월조장.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/이력서첨삭/이력서 첨삭 내용.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/공지내용정리-9월조장/9월 11일 아침공지.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/회의.md",
-    "Templates/취업스터디-회의록양식.md",
     "Templates/실전서비스런칭 프로젝트.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 10일 실전서비스 멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/이력서첨삭",
