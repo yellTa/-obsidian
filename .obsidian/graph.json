@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "09-08",
+  "collapse-filter": true,
+  "search": "09-11",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -18,5 +18,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.6633963768298704,
-  "close": true
+  "close": false
 }
