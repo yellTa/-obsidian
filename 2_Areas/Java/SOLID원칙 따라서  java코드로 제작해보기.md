@@ -1,6 +1,6 @@
 ---
 created: 2024-09-12 15:33
-updated: 2024-09-12T20:16
+updated: 2024-09-12T20:20
 tags:
   - develop
   - SOLID
@@ -93,7 +93,6 @@ public interface PaymentMethod {
   
 }
 ```
-
 PaymentMethod를 사용해 인터페이스를 생성했다.
 
 ```java
@@ -105,6 +104,14 @@ public class CreditCardPayment implements PaymentMethod{
 }
 ```
 CreditCardPayment는 PayMentMethod를 Implement해서 생성된다. 
+
+확장에는 열려있게 된다.
+
+즉 PaymentMethod를 이용해서 Credit카드, 혹은 PointPayment 등 다양한 결제 시스템을 구현할 수 있다.
+이때 interface를 상속 받는 클래스는 processPayment 메소드를 필수로 구현해야하는데 이는 변경에는 닫혀있다는 것을 의미한다.(무조건 구현해야하는 사항이니까 최소로 가지고 있어야 되는 거임 변하지 않는 기능)
+
+## LSP지키기
+
 
 
 
