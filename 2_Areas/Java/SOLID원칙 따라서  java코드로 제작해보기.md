@@ -1,6 +1,6 @@
 ---
 created: 2024-09-12 15:33
-updated: 2024-09-12T15:42
+updated: 2024-09-12T15:43
 tags:
   - develop
   - SOLID
@@ -25,7 +25,7 @@ post됨: false
 ## LSP(Liskov Substitution Principle)
 - 서브 타입은 언제나 기반(부모) 타입으로 교체할 수 있어야 한다.
 - 다형성 원리를 이용하기 위한 원칙이다.
-- 
+
 
 
 
