@@ -1,14 +1,12 @@
 ---
-created: 2024-09-12 23:17
-updated: 2024-09-12T23:22
-tags: 
-출처: 
+created: 2024-09-12 23:28
+updated: 2024-09-12T23:29
 ---
-# docs
+# DataView(Progress에 따라서 색상까지)
 ```dataviewjs
 //3,4 라인의 폴더 이름만 바꿔주면 된다.
-const pages = dv.pages('"1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/실전프로젝트/docs"')
-  .where(p => p.file.name !== "docs")
+const pages = dv.pages('"1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs"')
+.where(p => p.file.name !== "Docs")
 .sort(p => p.created, 'asc'); // created 태그 기준으로 오름차순 정렬
 
 dv.table(
@@ -33,4 +31,17 @@ dv.table(
     ];
   })
 );
+
+
+```
+
+# 간단한 폴더(날짜만)
+
+ ```dataview 
+table 
+dateformat(file.ctime, "yyyy-MM-dd") as "생성 날짜", 
+dateformat(file.mtime, "yyyy-MM-dd") as "수정 날짜" 
+
+FROM "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs"
+WHERE file.name != "정기회의"
 ```
