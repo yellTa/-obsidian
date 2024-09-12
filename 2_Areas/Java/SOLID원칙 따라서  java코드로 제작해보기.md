@@ -1,6 +1,6 @@
 ---
 created: 2024-09-12 15:33
-updated: 2024-09-12T20:10
+updated: 2024-09-12T20:16
 tags:
   - develop
   - SOLID
@@ -86,7 +86,25 @@ OrderService -> 고객이 주문을 수행함, 주문하고 결제 서비스를 
 
 
 
+## OCP지키기 
+``` java
+public interface PaymentMethod {  
+    void processPayment(double amount);  
+  
+}
+```
 
+PaymentMethod를 사용해 인터페이스를 생성했다.
+
+```java
+public class CreditCardPayment implements PaymentMethod{  
+    @Override  
+    public void processPayment(double amount) {  
+        System.out.println("카드 결제 되었읍니다 + "+ amount);  
+    }  
+}
+```
+CreditCardPayment는 PayMentMethod를 Implement해서 생성된다. 
 
 
 
