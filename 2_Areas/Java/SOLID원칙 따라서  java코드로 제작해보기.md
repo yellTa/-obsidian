@@ -1,6 +1,6 @@
 ---
 created: 2024-09-12 15:33
-updated: 2024-09-12T15:48
+updated: 2024-09-12T20:08
 tags:
   - develop
   - SOLID
@@ -39,6 +39,50 @@ post됨: false
 ---
 간략하게 SOLID를 알아보았으니 구현해보자!
 
+# 요구사항
+주문 시스템을 만들어보자(근데 진짜 주문 가격만 보여주는 시스템임)
+## 필요기능
+- 주문기능
+- 결제기능
+## SRP지키기
+단 하나의 역할 자기만의 역할을 수행하는 클래스를 만들자
+
+### CreditCardPayment
+
+``` java
+public class CreditCardPayment implements PaymentMethod{  
+    @Override  
+    public void processPayment(double amount) {  
+        System.out.println("카드 결제 되었읍니다 + "+ amount);  
+    }  
+}
+```
+인터페이스를 implements한 이유는 조금 나중에 알아보자!
+
+
+### OrderService
+``` java
+public class OrderService {  
+  
+    private final PaymentMethod paymentMethod;  
+  
+    //외부에서 주입받기  
+    public OrderService(PaymentMethod paymentMethod){  
+        this.paymentMethod = paymentMethod;  
+    }  
+  
+    public void placeOrder(double amount){  
+        System.out.println("주문되었다" + amount);  
+        paymentMethod.processPayment(amount);  
+    }  
+  
+}
+
+```
+
+
+CredtiCardPayement -> 카드로 결제가 되고 결제 금액을 뿌려줌
+OrderService -> 
 
 
 
