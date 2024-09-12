@@ -6,7 +6,7 @@
       {
         "id": "f2c09484126a8fb8",
         "type": "tabs",
-        "dimension": 71.14243323442136,
+        "dimension": 79.45034353529044,
         "children": [
           {
             "id": "60da0eaa85a214d1",
@@ -52,7 +52,7 @@
       {
         "id": "34c70a62ed80b617",
         "type": "tabs",
-        "dimension": 28.857566765578635,
+        "dimension": 20.549656464709557,
         "children": [
           {
             "id": "2caed6827f1efab6",
@@ -131,7 +131,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Areas/Java/SOLID원칙 따라서  java코드로 제작해보기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Areas/Java/SOLID원칙 따라서  java코드로 제작해보기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,9 +168,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2_Areas/Java/SOLID원칙 따라서  java코드로 제작해보기.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -196,10 +192,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "232f8062720610ca",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 12일 실전서비스런칭 프로젝트 멘토링.md",
     "2_Areas/Java/SOLID원칙 따라서  java코드로 제작해보기.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 12일 실전서비스런칭 프로젝트 멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/회의록모음.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/실전프로젝트.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 12일 17시 취업스터디.md",
