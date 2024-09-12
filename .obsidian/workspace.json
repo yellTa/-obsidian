@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 12일 17시 취업스터디.md",
+                "file": "2_Areas/Java/SOLID원칙 따라서  java코드로 제작해보기.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5110321044922
+    "width": 253.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -142,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 12일 17시 취업스터디.md",
+                "file": "2_Areas/Java/SOLID원칙 따라서  java코드로 제작해보기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 12일 17시 취업스터디.md",
+                "file": "2_Areas/Java/SOLID원칙 따라서  java코드로 제작해보기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 12일 17시 취업스터디.md"
+                "file": "2_Areas/Java/SOLID원칙 따라서  java코드로 제작해보기.md"
               }
             }
           }
@@ -209,8 +210,9 @@
   },
   "active": "232f8062720610ca",
   "lastOpenFiles": [
-    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/회의.md",
+    "2_Areas/Java/SOLID원칙 따라서  java코드로 제작해보기.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 12일 17시 취업스터디.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/회의.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/취업스터디.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사랑 자소서 조사.md",
     "7_TIL/240911의 TIL.md",
@@ -238,7 +240,6 @@
     "resources/Pasted image 20240910214604.png",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/회의록모음.md",
     "2_Areas/Java/Java Generics.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월9일 star 경험정리.md",
     "resources/Pasted image 20240909011308.png",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음",
     "resources/Pasted image 20240908234532.png",
