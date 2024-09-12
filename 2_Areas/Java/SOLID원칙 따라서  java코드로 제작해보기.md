@@ -1,6 +1,6 @@
 ---
 created: 2024-09-12 15:33
-updated: 2024-09-12T20:08
+updated: 2024-09-12T20:10
 tags:
   - develop
   - SOLID
@@ -81,8 +81,10 @@ public class OrderService {
 ```
 
 
-CredtiCardPayement -> 카드로 결제가 되고 결제 금액을 뿌려줌
-OrderService -> 
+CreditCardPayment -> 카드로 결제가 되고 결제 금액을 뿌려줌
+OrderService -> 고객이 주문을 수행함, 주문하고 결제 서비스를 이용해 결제함(CreditCardPayment)
+
+
 
 
 
