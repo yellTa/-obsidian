@@ -1,9 +1,12 @@
 ---
-created: 2024-09-12 22:51
-updated: 2024-09-12T22:52
+created: "{{date}} {{time}}"
+updated: 2024-09-12T23:17
 tags:
-  - 실전서비스런칭프로젝트
-출처: 
+  - develop
+Progress:
+  - ongoing
+post할까?: false
+post됨: false
 ---
 # 제목
 

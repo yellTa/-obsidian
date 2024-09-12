@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/docs/OAuth를 통한 로그인처리.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/docs/docs.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/docs/OAuth를 통한 로그인처리.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/docs/docs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/docs/OAuth를 통한 로그인처리.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/docs/docs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/docs/OAuth를 통한 로그인처리.md"
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/docs/docs.md"
               }
             }
           }
@@ -197,15 +197,18 @@
   },
   "active": "9fa0353ec2e23ff3",
   "lastOpenFiles": [
-    "Templates/Docs.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/docs/OAuth를 통한 로그인처리.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/회의록모음.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/docs/docs.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/docs/ddddddd.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/docs/OAuth를 통한 로그인처리.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/취업스터디.md",
+    "Templates/devlop.md",
+    "Templates/Docs.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/docs",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/실전프로젝트.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 12일 실전서비스런칭 프로젝트 멘토링.md",
     "2_Areas/Java/SOLID원칙 따라서  java코드로 제작해보기.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 12일 17시 취업스터디.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/취업스터디.md",
     "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
     "2_Areas/Java/java boxing unboxing.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/회의.md",
@@ -223,9 +226,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/이력서첨삭/이력서첨삭.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/공지내용정리-9월조장/공지내용정리-9월조장.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/공지내용정리-9월조장/9월 11일 아침공지.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/이력서첨삭/이력서 첨삭 내용.md",
-    "Templates/취업스터디-회의록양식.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서버전들.md",
     "1_Projects/제로베이스 대기업 취업 특별반/이력서첨삭",
     "resources/Pasted image 20240910214604.png",
     "resources/Pasted image 20240909011308.png",
