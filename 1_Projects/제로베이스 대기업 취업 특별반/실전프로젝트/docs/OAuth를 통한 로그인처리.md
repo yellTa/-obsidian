@@ -1,6 +1,6 @@
 ---
 created: 2024-09-12 23:30
-updated: 2024-09-13T21:28
+updated: 2024-09-13T21:33
 tags:
   - develop
 Progress:
@@ -9,9 +9,12 @@ post할까?: false
 post됨: false
 ---
 # OAuth를 통한 로그인처리... Issue 조사
-# 네이버, 카카오, 구글같은 간편로그인으로 크롤링 페이지에서 로그인 한 뒤에 
+# 네이버, 카카오, 구글같은 간편로그인으로 크롤링 페이지에서 로그인을 할 수 있을까?
+말 그대로 셀레니움을 통해 WebDriver를 띄우고 OAuth를 활용한 간편로그인을 수행할 수 있을까 하는 실험이다.
 
 # ANALYSIS:
+
+
 
 # CONCLUSION:
 
