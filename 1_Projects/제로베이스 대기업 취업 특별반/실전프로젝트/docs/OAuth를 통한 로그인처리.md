@@ -1,6 +1,6 @@
 ---
 created: 2024-09-12 23:30
-updated: 2024-09-13T21:56
+updated: 2024-09-13T22:01
 tags:
   - develop
 Progress:
@@ -21,7 +21,7 @@ post됨: false
    하지만 이것도 refresh토큰이 만료된 경우 다시 로그인해야됨 이건 어쩔 수 없음
    refreshToken이 만료된 경우에는 로그아웃이 된 경우임을 뜻하기 때문
 
-
+![[Pasted image 20240913220131.png]]
 
 # CONCLUSION:
 
