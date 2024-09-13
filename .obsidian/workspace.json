@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "34c70a62ed80b617",
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월13일 멘토링.md",
+                "file": "2_Areas/Java/SOLID원칙 따라서  java코드로 제작해보기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월13일 멘토링.md",
+                "file": "2_Areas/Java/SOLID원칙 따라서  java코드로 제작해보기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월13일 멘토링.md"
+                "file": "2_Areas/Java/SOLID원칙 따라서  java코드로 제작해보기.md"
               }
             }
           }
@@ -196,10 +196,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "9fa0353ec2e23ff3",
+  "active": "232f8062720610ca",
   "lastOpenFiles": [
-    "2_Areas/Java/SOLID원칙 따라서  java코드로 제작해보기.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월13일 멘토링.md",
+    "2_Areas/Java/SOLID원칙 따라서  java코드로 제작해보기.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/백엔드자소서/라인개발자 자소서 2022년도.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사랑 자소서 조사.md",
