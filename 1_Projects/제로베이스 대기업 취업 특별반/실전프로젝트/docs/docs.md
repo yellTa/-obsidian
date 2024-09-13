@@ -1,6 +1,6 @@
 ---
 created: 2024-09-12 23:28
-updated: 2024-09-12T23:29
+updated: 2024-09-13T21:28
 ---
 # DataView(Progress에 따라서 색상까지)
 ```dataviewjs
@@ -35,13 +35,3 @@ dv.table(
 
 ```
 
-# 간단한 폴더(날짜만)
-
- ```dataview 
-table 
-dateformat(file.ctime, "yyyy-MM-dd") as "생성 날짜", 
-dateformat(file.mtime, "yyyy-MM-dd") as "수정 날짜" 
-
-FROM "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs"
-WHERE file.name != "정기회의"
-```

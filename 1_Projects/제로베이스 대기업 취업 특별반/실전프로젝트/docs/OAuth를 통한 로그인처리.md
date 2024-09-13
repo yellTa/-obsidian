@@ -1,6 +1,6 @@
 ---
 created: 2024-09-12 23:30
-updated: 2024-09-12T23:30
+updated: 2024-09-13T21:28
 tags:
   - develop
 Progress:
@@ -8,8 +8,8 @@ Progress:
 post할까?: false
 post됨: false
 ---
-# 제목
-# OBJECT/SUBJECT:
+# OAuth를 통한 로그인처리... Issue 조사
+# 네이버, 카카오, 구글같은 간편로그인으로 크롤링 페이지에서 로그인 한 뒤에 
 
 # ANALYSIS:
 
