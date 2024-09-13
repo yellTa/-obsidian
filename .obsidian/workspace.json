@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/OAuth를 통한 로그인처리.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/QA, 기획관련 자료 공유.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5110321044922,
-    "collapsed": true
+    "width": 253.5110321044922
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/OAuth를 통한 로그인처리.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/QA, 기획관련 자료 공유.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/OAuth를 통한 로그인처리.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/QA, 기획관련 자료 공유.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/OAuth를 통한 로그인처리.md"
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/QA, 기획관련 자료 공유.md"
               }
             }
           }
@@ -198,8 +197,9 @@
   },
   "active": "9fa0353ec2e23ff3",
   "lastOpenFiles": [
-    "resources/Pasted image 20240913220131.png",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/OAuth를 통한 로그인처리.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/QA, 기획관련 자료 공유.md",
+    "resources/Pasted image 20240913220131.png",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/Docs.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월13일 멘토링.md",
@@ -241,7 +241,6 @@
     "resources/Pasted image 20240907191059.png",
     "resources/Pasted image 20240907191042.png",
     "2_Areas/Java",
-    "resources/Pasted image 20240907130301.png",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/공지내용정리-9월조장",
     "1_Projects/Burgerput/Burgerput Controller역할.canvas",
