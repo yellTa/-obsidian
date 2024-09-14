@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Areas/알고리즘/문제풀이/문제풀이.md",
+                "file": "2_Areas/알고리즘/문제풀이/문자열압축.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Areas/알고리즘/문제풀이/문제풀이.md",
+                "file": "2_Areas/알고리즘/문제풀이/문자열압축.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Areas/알고리즘/문제풀이/문제풀이.md",
+                "file": "2_Areas/알고리즘/문제풀이/문자열압축.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Areas/알고리즘/문제풀이/문제풀이.md"
+                "file": "2_Areas/알고리즘/문제풀이/문자열압축.md"
               }
             }
           }
@@ -197,6 +197,8 @@
   },
   "active": "9fa0353ec2e23ff3",
   "lastOpenFiles": [
+    "2_Areas/알고리즘/문제풀이/문자열압축.md",
+    "2_Areas/알고리즘/문제풀이/문제풀이.md",
     "2_Areas/알고리즘/문제풀이/JadenCase문자열 만들기.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월13일 멘토링.md",
     "2_Areas/알고리즘/문제풀이/Untitled",
@@ -229,8 +231,6 @@
     "Templates/Docs.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/문서",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 12일 실전서비스런칭 프로젝트 멘토링.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 12일 17시 취업스터디.md",
-    "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
     "resources/Pasted image 20240911235805.png",
     "2_Areas/cs",
     "1_Projects/제로베이스 대기업 취업 특별반/이력서첨삭",
