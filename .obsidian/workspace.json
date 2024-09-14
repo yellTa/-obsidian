@@ -130,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Areas/알고리즘/문제풀이/문자열압축.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Areas/알고리즘/문제풀이/문자열압축.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2_Areas/알고리즘/문제풀이/문자열압축.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -195,9 +191,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "9fa0353ec2e23ff3",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
     "2_Areas/알고리즘/문제풀이/문자열압축.md",
+    "resources/Pasted image 20240914205030.png",
+    "resources/Pasted image 20240914204804.png",
     "2_Areas/알고리즘/문제풀이/문제풀이.md",
     "2_Areas/알고리즘/문제풀이/JadenCase문자열 만들기.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월13일 멘토링.md",
@@ -230,17 +228,14 @@
     "Templates/devlop.md",
     "Templates/Docs.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/문서",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 12일 실전서비스런칭 프로젝트 멘토링.md",
     "resources/Pasted image 20240911235805.png",
     "2_Areas/cs",
     "1_Projects/제로베이스 대기업 취업 특별반/이력서첨삭",
     "resources/Pasted image 20240910214604.png",
     "resources/Pasted image 20240909011308.png",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음",
-    "resources/Pasted image 20240908234532.png",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/주제정하기",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트",
-    "resources/Pasted image 20240908020734.png",
     "2_Areas/Java",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의",
     "1_Projects/Burgerput/Burgerput Controller역할.canvas",
