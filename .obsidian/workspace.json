@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월13일 멘토링.md",
+                "file": "2_Areas/알고리즘/문제풀이/문제풀이.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5110321044922
+    "width": 276.5110321044922
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월13일 멘토링.md",
+                "file": "2_Areas/알고리즘/문제풀이/문제풀이.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월13일 멘토링.md",
+                "file": "2_Areas/알고리즘/문제풀이/문제풀이.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월13일 멘토링.md"
+                "file": "2_Areas/알고리즘/문제풀이/문제풀이.md"
               }
             }
           }
@@ -197,6 +197,9 @@
   },
   "active": "9fa0353ec2e23ff3",
   "lastOpenFiles": [
+    "2_Areas/알고리즘/문제풀이/JadenCase문자열 만들기.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월13일 멘토링.md",
+    "2_Areas/알고리즘/문제풀이/Untitled",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 5일 멘토링.md",
@@ -208,7 +211,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/OAuth를 통한 로그인처리.md",
     "resources/Pasted image 20240913220131.png",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/Docs.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월13일 멘토링.md",
     "1_Projects/Burgerput/Burgerput.md",
     "2_Areas/Java/SOLID원칙 따라서  java코드로 제작해보기.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링.md",
@@ -241,7 +243,6 @@
     "resources/Pasted image 20240908020734.png",
     "2_Areas/Java",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의",
-    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/공지내용정리-9월조장",
     "1_Projects/Burgerput/Burgerput Controller역할.canvas",
     "Untitled 7.canvas",
     "Untitled 6.canvas",
