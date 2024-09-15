@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
+                "file": "1_Projects/Burgerput/2_유지보수/LoadingController분리.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
+                "file": "1_Projects/Burgerput/2_유지보수/LoadingController분리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
+                "file": "1_Projects/Burgerput/2_유지보수/LoadingController분리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/Controller역할분리.md"
+                "file": "1_Projects/Burgerput/2_유지보수/LoadingController분리.md"
               }
             }
           }
@@ -209,8 +209,9 @@
   },
   "active": "1a8585a65f6bed4a",
   "lastOpenFiles": [
-    "1_Projects/Burgerput/2_유지보수/LoadingController 정리하기.md",
     "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
+    "1_Projects/Burgerput/2_유지보수/LoadingController분리.md",
+    "1_Projects/Burgerput/2_유지보수/LoadingController 정리하기.md",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/2_유지보수/CheatController분리하기.md",
     "1_Projects/Burgerput/Burgerput.md",
@@ -246,7 +247,6 @@
     "Templates/기업조사.md",
     "Templates/회사조사2.md",
     "Templates/Memo.md",
-    "Templates/devlop.md",
     "resources/~$실전프로젝트_요구사항명세.xlsx",
     "resources/실전프로젝트_요구사항명세.xlsx",
     "resources/~$20240501_요구사항명세_v2.1 .xlsx",
