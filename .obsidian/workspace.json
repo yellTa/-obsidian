@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/취업스터디-회의록양식.md",
+                "file": "2_Areas/알고리즘/문제풀이/프로그래머스 입국심사.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/취업스터디-회의록양식.md",
+                "file": "2_Areas/알고리즘/문제풀이/프로그래머스 입국심사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/취업스터디-회의록양식.md",
+                "file": "2_Areas/알고리즘/문제풀이/프로그래머스 입국심사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/취업스터디-회의록양식.md"
+                "file": "2_Areas/알고리즘/문제풀이/프로그래머스 입국심사.md"
               }
             }
           }
@@ -197,8 +197,8 @@
   },
   "active": "232f8062720610ca",
   "lastOpenFiles": [
-    "Templates/멘토링노트.md",
     "Templates/취업스터디-회의록양식.md",
+    "Templates/멘토링노트.md",
     "Templates/실전서비스런칭 프로젝트.md",
     "Templates/Docs.md",
     "Templates/기업조사.md",
