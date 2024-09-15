@@ -1,13 +1,11 @@
 ---
-created: 2024-09-15T15:09
-updated: 2024-09-15T15:31
+created: 2024-09-15T15:31
+updated: 2024-09-15T15:32
 ---
-
-# Spring 
 ```dataviewjs
 //3,4 라인의 폴더 이름만 바꿔주면 된다.
-const pages = dv.pages('"2_Areas/Spring"')
-  .where(p => p.file.name !== "Spring")
+const pages = dv.pages('"2_Areas/Java"')
+  .where(p => p.file.name !== "Java")
   .sort(p => p.file.ctime, 'asc'); // 생성 날짜 기준으로 오름차순 정렬
 
 dv.table(
