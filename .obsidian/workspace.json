@@ -52,14 +52,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/9월 16일 18시까지 근나님께 전달할 내용.md",
+                "file": "7_TIL/20240916의 TIL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "34c70a62ed80b617",
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/9월 16일 12시 범석님이랑 짧은 회의.md",
+                "file": "7_TIL/20240916의 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/9월 16일 12시 범석님이랑 짧은 회의.md",
+                "file": "7_TIL/20240916의 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/9월 16일 12시 범석님이랑 짧은 회의.md"
+                "file": "7_TIL/20240916의 TIL.md"
               }
             }
           }
@@ -207,9 +207,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "1a8585a65f6bed4a",
+  "active": "16db7f7e00f72ca9",
   "lastOpenFiles": [
+    "7_TIL/20240916의 TIL.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/9월 16일 18시까지 근나님께 전달할 내용.md",
+    "Untitled.md",
+    "Untitled 1.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/9월 16일 12시 범석님이랑 짧은 회의.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 15일 10시 정기회의.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/회의록모음.md",
@@ -226,7 +229,6 @@
     "1_Projects/Burgerput/2_유지보수/LoadingController 정리하기.md",
     "1_Projects/Burgerput/2_유지보수/CheatController분리하기.md",
     "1_Projects/Burgerput/Burgerput.md",
-    "Untitled.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사랑 자소서 조사.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링.md",
     "2_Areas/Docs/SOLID원칙.md",
@@ -241,11 +243,9 @@
     "2_Areas/Spring/Spring.md",
     "2_Areas/Docs",
     "2_Areas/Spring/Spring이란.md",
-    "2_Areas/Java/객체 지향의 특징.md",
     "resources/Pasted image 20240915152847.png",
     "resources/Pasted image 20240915152754.png",
     "resources/Pasted image 20240915152729.png",
-    "2_Areas/알고리즘/문제풀이/문제풀이.md",
     "2_Areas/Spring",
     "resources/~$실전프로젝트_요구사항명세.xlsx",
     "resources/실전프로젝트_요구사항명세.xlsx",
