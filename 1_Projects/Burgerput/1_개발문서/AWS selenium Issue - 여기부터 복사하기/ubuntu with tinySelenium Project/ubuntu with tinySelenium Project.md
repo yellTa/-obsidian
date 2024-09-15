@@ -1,6 +1,6 @@
 ---
 created: 2023-01-06T14:37:00
-updated: 2024-08-27T18:18
+updated: 2024-09-15T11:45
 ---
 ==Created : 2023 12 06==
 
@@ -15,9 +15,6 @@ updated: 2024-08-27T18:18
 ![[tinySeleniumProject 2.zip|tinySeleniumProject 2.zip]]
 
 tinyProject zip file
-
-  
-
 ![[Untitled 50.png|Untitled 50.png]]
 
 upload to AWS EC2
