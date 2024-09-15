@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Areas/Spring/Spring.md",
+                "file": "2_Areas/Spring/Spring이란.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5110321044922
+    "width": 276.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Areas/Spring/Spring.md",
+                "file": "2_Areas/Spring/Spring이란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Areas/Spring/Spring.md",
+                "file": "2_Areas/Spring/Spring이란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Areas/Spring/Spring.md"
+                "file": "2_Areas/Spring/Spring이란.md"
               }
             }
           }
@@ -197,8 +198,10 @@
   },
   "active": "232f8062720610ca",
   "lastOpenFiles": [
-    "2_Areas/알고리즘/문제풀이/문제풀이.md",
+    "resources/Pasted image 20240915151423.png",
     "2_Areas/Spring/Spring.md",
+    "2_Areas/Spring/Spring이란.md",
+    "2_Areas/알고리즘/문제풀이/문제풀이.md",
     "2_Areas/Spring",
     "2_Areas/알고리즘/문제풀이/프로그래머스 입국심사.md",
     "resources/Pasted image 20240915142349.png",
@@ -223,8 +226,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/OAuth를 통한 로그인처리.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 15일 10시 정기회의.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/실전프로젝트.md",
-    "1_Projects/Burgerput/1_개발문서/AWS selenium Issue - 여기부터 복사하기/ubuntu with tinySelenium Project/ubuntu with tinySelenium Project.md",
-    "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
     "resources/Pasted image 20240915112921.png",
     "resources/Pasted image 20240915104145.png",
     "resources/~$실전프로젝트_요구사항명세.xlsx",
