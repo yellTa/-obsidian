@@ -1,6 +1,6 @@
 ---
 created: 2024-09-15 23:25
-updated: 2024-09-15T23:26
+updated: 2024-09-15T23:29
 tags:
   - develop
   - burgerput
@@ -11,9 +11,11 @@ Progress:
 # LoadingController분리하기:
 cheatController를 수정했던 것과 마찬가지로 Service를 하나 두고 분리해보자~~~
 잦은 연결고리가 생기지만 우리는 단일 서비스 사용자를 위한 거니까
-
-
 # ANALYSIS:
+## LoadingController에 필요한 기능
+1. 프로그램 로딩 기능
+2. 로딩의 결과를 반환하는 result기능
+
 
 # CONCLUSION:
 
