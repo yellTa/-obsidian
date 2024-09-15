@@ -1,10 +1,10 @@
 ---
 created: 2024-09-03 17:56
-updated: 2024-09-08T23:17
+updated: 2024-09-15T23:22
 tags:
   - develop
 Progress:
-  - ongoing
+  - end
 post할까?: false
 post됨: false
 ---

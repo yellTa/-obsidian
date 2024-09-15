@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1_Projects/Burgerput/2_유지보수/Controller역할분리.md"
+              }
             }
           }
         ]
@@ -203,8 +207,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2caed6827f1efab6",
+  "active": "1a8585a65f6bed4a",
   "lastOpenFiles": [
+    "1_Projects/Burgerput/2_유지보수/LoadingController 정리하기.md",
+    "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
+    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
+    "1_Projects/Burgerput/2_유지보수/CheatController분리하기.md",
+    "1_Projects/Burgerput/Burgerput.md",
     "Untitled.md",
     "2_Areas/Java/SOLID원칙 따라서  java코드로 제작해보기.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사랑 자소서 조사.md",
@@ -238,11 +247,6 @@
     "Templates/회사조사2.md",
     "Templates/Memo.md",
     "Templates/devlop.md",
-    "Templates/99클럽 코테 스터디 n일차.md",
-    "Templates/Folder(Develop).md",
-    "2_Areas/알고리즘/문제풀이/백준 -에디터.md",
-    "2_Areas/알고리즘/문제풀이/바이러스.md",
-    "2_Areas/알고리즘/문제풀이/아이템줍기.md",
     "resources/~$실전프로젝트_요구사항명세.xlsx",
     "resources/실전프로젝트_요구사항명세.xlsx",
     "resources/~$20240501_요구사항명세_v2.1 .xlsx",
