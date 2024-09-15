@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5110321044922,
-    "collapsed": true
+    "width": 276.5110321044922
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -198,6 +197,7 @@
   },
   "active": "232f8062720610ca",
   "lastOpenFiles": [
+    "resources/Pasted image 20240915112921.png",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 15일 10시 정기회의.md",
     "resources/Pasted image 20240915104145.png",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/OAuth를 통한 로그인처리.md",
