@@ -1,12 +1,10 @@
 ---
 created: "{{date}} {{time}}"
-updated: 2024-09-03T15:00
+updated: 2024-09-15T13:13
 tags:
   - develop
 Progress:
   - ongoing
-post할까?: false
-post됨: false
 ---
 # OBJECT/SUBJECT:
 
