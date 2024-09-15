@@ -130,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 15일 10시 정기회의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 15일 10시 정기회의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 15일 10시 정기회의.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -195,14 +191,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "232f8062720610ca",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 15일 10시 정기회의.md",
     "resources/Pasted image 20240915104145.png",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/OAuth를 통한 로그인처리.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/Docs.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/회의록모음.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/실전프로젝트.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 15일 10시 정기회의.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월13일 멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/멘토링.md",
     "resources/~$실전프로젝트_요구사항명세.xlsx",
@@ -239,7 +235,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/문서/문서.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/문서",
-    "resources/Pasted image 20240911235805.png",
     "2_Areas/cs",
     "1_Projects/제로베이스 대기업 취업 특별반/이력서첨삭",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음",
