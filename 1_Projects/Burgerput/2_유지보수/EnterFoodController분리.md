@@ -1,6 +1,6 @@
 ---
 created: 2024-09-15 23:52
-updated: 2024-09-15T23:52
+updated: 2024-09-15T23:54
 tags:
   - burgerput
 Progress:
@@ -8,11 +8,13 @@ Progress:
 ---
 
 # EnterFoodController를 분리하자
-
-
-
+마찬가지로 Interface를 만들고 Service 구현체를 만들어서 분리하자...
 
 # ANALYSIS:
+## 필요 기능 정의하기
+1. Map<String, ArrayList<Map>> enterFood() -> 식품을 입력하는
+
+
 
 # CONCLUSION:
 

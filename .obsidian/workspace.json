@@ -57,9 +57,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a47098ded317a655",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Projects/Burgerput/0_회의록/9월 6일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "34c70a62ed80b617",
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/EnterFoodController분리.md",
+                "file": "1_Projects/Burgerput/0_회의록/9월 6일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/EnterFoodController분리.md",
+                "file": "1_Projects/Burgerput/0_회의록/9월 6일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/EnterFoodController분리.md"
+                "file": "1_Projects/Burgerput/0_회의록/9월 6일.md"
               }
             }
           }
@@ -207,10 +219,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "1a8585a65f6bed4a",
+  "active": "a47098ded317a655",
   "lastOpenFiles": [
-    "1_Projects/Burgerput/2_유지보수/LoadingController분리.md",
+    "1_Projects/Burgerput/0_회의록/0_회의록.md",
     "1_Projects/Burgerput/2_유지보수/EnterFoodController분리.md",
+    "1_Projects/Burgerput/2_유지보수/LoadingController분리.md",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
     "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
@@ -246,7 +259,6 @@
     "Templates/멘토링노트.md",
     "Templates/실전서비스런칭 프로젝트.md",
     "Templates/Docs.md",
-    "Templates/기업조사.md",
     "resources/~$실전프로젝트_요구사항명세.xlsx",
     "resources/실전프로젝트_요구사항명세.xlsx",
     "resources/~$20240501_요구사항명세_v2.1 .xlsx",
