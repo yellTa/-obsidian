@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Areas/Spring/Spring이란.md",
+                "file": "2_Areas/Java/객체 지향의 특징.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Areas/Spring/Spring이란.md",
+                "file": "2_Areas/Java/객체 지향의 특징.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Areas/Spring/Spring이란.md",
+                "file": "2_Areas/Java/객체 지향의 특징.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Areas/Spring/Spring이란.md"
+                "file": "2_Areas/Java/객체 지향의 특징.md"
               }
             }
           }
@@ -198,9 +198,14 @@
   },
   "active": "232f8062720610ca",
   "lastOpenFiles": [
+    "resources/Pasted image 20240915151955.png",
+    "resources/Pasted image 20240915151752.png",
+    "resources/Pasted image 20240915151659.png",
+    "resources/Pasted image 20240915151632.png",
+    "2_Areas/Spring/Spring이란.md",
+    "2_Areas/Java/객체 지향의 특징.md",
     "resources/Pasted image 20240915151423.png",
     "2_Areas/Spring/Spring.md",
-    "2_Areas/Spring/Spring이란.md",
     "2_Areas/알고리즘/문제풀이/문제풀이.md",
     "2_Areas/Spring",
     "2_Areas/알고리즘/문제풀이/프로그래머스 입국심사.md",
@@ -225,7 +230,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/QA, 기획관련 자료 공유.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/OAuth를 통한 로그인처리.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 15일 10시 정기회의.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/실전프로젝트.md",
     "resources/Pasted image 20240915112921.png",
     "resources/Pasted image 20240915104145.png",
     "resources/~$실전프로젝트_요구사항명세.xlsx",
@@ -235,11 +239,7 @@
     "resources/Pasted image 20240915000810.png",
     "resources/Pasted image 20240914210416.png",
     "resources/Pasted image 20240914205030.png",
-    "resources/Pasted image 20240914204804.png",
     "2_Areas/알고리즘/문제풀이/Untitled",
-    "resources/Pasted image 20240914005051.png",
-    "resources/Pasted image 20240914004856.png",
-    "resources/Pasted image 20240914004835.png",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/문서",
     "2_Areas/cs",
