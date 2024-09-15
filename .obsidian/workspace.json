@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Areas/Docs/SOLID원칙.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사랑 자소서 조사.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Areas/Docs/SOLID원칙.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사랑 자소서 조사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Areas/Docs/SOLID원칙.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사랑 자소서 조사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Areas/Docs/SOLID원칙.md"
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사랑 자소서 조사.md"
               }
             }
           }
@@ -197,6 +197,9 @@
   },
   "active": "232f8062720610ca",
   "lastOpenFiles": [
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/9월 16일 18시까지 근나님께 전달할 내용.md",
+    "2_Areas/Docs/SOLID원칙.md",
     "resources/Pasted image 20240915155446.png",
     "resources/Pasted image 20240915155247.png",
     "resources/Pasted image 20240915155151.png",
@@ -204,7 +207,6 @@
     "resources/Pasted image 20240915154757.png",
     "resources/Pasted image 20240915154749.png",
     "2_Areas/Docs/Docs.md",
-    "2_Areas/Docs/SOLID원칙.md",
     "2_Areas/Java/Java.md",
     "2_Areas/Spring/Spring.md",
     "2_Areas/Docs",
@@ -214,7 +216,6 @@
     "resources/Pasted image 20240915152754.png",
     "resources/Pasted image 20240915152729.png",
     "resources/Pasted image 20240915152628.png",
-    "resources/Pasted image 20240915152531.png",
     "2_Areas/알고리즘/문제풀이/문제풀이.md",
     "2_Areas/Spring",
     "2_Areas/알고리즘/문제풀이/프로그래머스 입국심사.md",
@@ -232,7 +233,6 @@
     "2_Areas/알고리즘/문제풀이/바이러스.md",
     "2_Areas/알고리즘/문제풀이/아이템줍기.md",
     "2_Areas/알고리즘/문제풀이/백준 숫자카드.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/9월 16일 18시까지 근나님께 전달할 내용.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/9월 16일까지 수행할 사안.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/Docs.md",
     "resources/~$실전프로젝트_요구사항명세.xlsx",
