@@ -1,11 +1,11 @@
 ---
 created: 2024-09-15 23:25
-updated: 2024-09-15T23:39
+updated: 2024-09-15T23:51
 tags:
   - develop
   - burgerput
 Progress:
-  - ongoing
+  - end
 ---
 
 # LoadingController분리하기:
