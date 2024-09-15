@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Areas/알고리즘/문제풀이/백준 숫자카드.md",
+                "file": "Templates/취업스터디-회의록양식.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/취업스터디-회의록양식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/취업스터디-회의록양식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Templates/취업스터디-회의록양식.md"
+              }
             }
           }
         ]
@@ -191,21 +195,25 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2caed6827f1efab6",
+  "active": "232f8062720610ca",
   "lastOpenFiles": [
-    "2_Areas/알고리즘/문제풀이/백준 숫자카드.md",
-    "2_Areas/알고리즘/문제풀이/문제풀이.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/9월 16일 18시까지 근나님께 전달할 내용.md",
-    "Templates/Docs.md",
-    "Templates/Folder(Develop).md",
-    "Templates/99클럽 코테 스터디 n일차.md",
-    "Templates/devlop.md",
-    "Templates/Memo.md",
     "Templates/멘토링노트.md",
     "Templates/취업스터디-회의록양식.md",
     "Templates/실전서비스런칭 프로젝트.md",
-    "Templates/회사조사2.md",
+    "Templates/Docs.md",
     "Templates/기업조사.md",
+    "Templates/회사조사2.md",
+    "Templates/Memo.md",
+    "Templates/devlop.md",
+    "Templates/99클럽 코테 스터디 n일차.md",
+    "Templates/Folder(Develop).md",
+    "2_Areas/알고리즘/문제풀이/프로그래머스 입국심사.md",
+    "2_Areas/알고리즘/문제풀이/백준 -에디터.md",
+    "2_Areas/알고리즘/문제풀이/바이러스.md",
+    "2_Areas/알고리즘/문제풀이/아이템줍기.md",
+    "2_Areas/알고리즘/문제풀이/백준 숫자카드.md",
+    "2_Areas/알고리즘/문제풀이/문제풀이.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/9월 16일 18시까지 근나님께 전달할 내용.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/9월 16일까지 수행할 사안.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/Docs.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/QA, 기획관련 자료 공유.md",
@@ -217,11 +225,7 @@
     "1_Projects/Burgerput/Burgerput.md",
     "resources/Pasted image 20240915112921.png",
     "resources/Pasted image 20240915104145.png",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/회의록모음.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월13일 멘토링.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/멘토링.md",
     "resources/~$실전프로젝트_요구사항명세.xlsx",
-    "20240501_요구사항명세_v2.1 .xlsx.md",
     "resources/실전프로젝트_요구사항명세.xlsx",
     "resources/~$20240501_요구사항명세_v2.1 .xlsx",
     "resources/20240501_요구사항명세_v2.1 .xlsx",
