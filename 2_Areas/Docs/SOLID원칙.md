@@ -1,6 +1,6 @@
 ---
 created: 2024-09-15 15:32
-updated: 2024-09-15T15:53
+updated: 2024-09-15T15:56
 tags:
   - SOLID
   - java
@@ -45,13 +45,11 @@ Spring은 Spring Container가 해주는 거고
 
 역할에 의존하라는 거랑 똑같은 말
 
+구현체에 의존하게 되면 아주 힘들게 된다.
 
+![[Pasted image 20240915155446.png]]
 
-
-
-# 결론
-
-# REVIEW
+위의 코드는 추상화에도 의존하고 구체화인 MemoeryMemberRepository에도 의존하고 있다.
 
 
 ---
