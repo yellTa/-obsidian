@@ -40,14 +40,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사랑 자소서 조사.md",
+                "file": "2_Areas/Java/SOLID원칙 따라서  java코드로 제작해보기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a8585a65f6bed4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "34c70a62ed80b617",
@@ -130,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사랑 자소서 조사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +158,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사랑 자소서 조사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +179,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사랑 자소서 조사.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -195,8 +203,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "232f8062720610ca",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
+    "Untitled.md",
+    "2_Areas/Java/SOLID원칙 따라서  java코드로 제작해보기.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사랑 자소서 조사.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/9월 16일 18시까지 근나님께 전달할 내용.md",
     "2_Areas/Docs/SOLID원칙.md",
@@ -232,9 +243,6 @@
     "2_Areas/알고리즘/문제풀이/백준 -에디터.md",
     "2_Areas/알고리즘/문제풀이/바이러스.md",
     "2_Areas/알고리즘/문제풀이/아이템줍기.md",
-    "2_Areas/알고리즘/문제풀이/백준 숫자카드.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/9월 16일까지 수행할 사안.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/Docs.md",
     "resources/~$실전프로젝트_요구사항명세.xlsx",
     "resources/실전프로젝트_요구사항명세.xlsx",
     "resources/~$20240501_요구사항명세_v2.1 .xlsx",
