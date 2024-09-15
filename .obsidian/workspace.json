@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 15일 10시 정기회의.md",
+                "file": "1_Projects/Burgerput/Burgerput.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 15일 10시 정기회의.md",
+                "file": "1_Projects/Burgerput/Burgerput.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 15일 10시 정기회의.md"
+                "file": "1_Projects/Burgerput/Burgerput.md"
               }
             }
           }
@@ -195,12 +195,17 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "232f8062720610ca",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 15일 10시 정기회의.md",
+    "resources/~$실전프로젝트_요구사항명세.xlsx",
+    "20240501_요구사항명세_v2.1 .xlsx.md",
+    "resources/실전프로젝트_요구사항명세.xlsx",
+    "resources/~$20240501_요구사항명세_v2.1 .xlsx",
+    "resources/20240501_요구사항명세_v2.1 .xlsx",
     "resources/Pasted image 20240915000810.png",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
     "2_Areas/Java/SOLID원칙 따라서  java코드로 제작해보기.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 15일 10시 정기회의.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/회의록모음.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/실전프로젝트.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월13일 멘토링.md",
@@ -232,17 +237,11 @@
     "Templates/기업조사.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/문서/문서.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/문서/ddddddd.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/문서",
     "resources/Pasted image 20240911235805.png",
     "2_Areas/cs",
     "1_Projects/제로베이스 대기업 취업 특별반/이력서첨삭",
-    "resources/Pasted image 20240910214604.png",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/주제정하기",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트",
-    "2_Areas/Java",
-    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의",
     "1_Projects/Burgerput/Burgerput Controller역할.canvas",
     "Untitled 7.canvas",
     "Untitled 6.canvas",
