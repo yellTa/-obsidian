@@ -1,6 +1,6 @@
 ---
 created: 2024-09-03T13:27:00
-updated: 2024-09-15T23:25
+updated: 2024-09-16T20:36
 tags:
   - burgerput
 Progress:
@@ -82,10 +82,9 @@ APITestController
 
 ## 각 컨트롤러 정리하기
 [[LoadingController 정리하기]]
-
-
+[[LoadingController분리]]
 [[CheatController분리하기]]
-
+[[EnterFoodController분리]]
 
 
 ---

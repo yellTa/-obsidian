@@ -1,10 +1,10 @@
 ---
 created: 2024-09-15 23:52
-updated: 2024-09-16T00:01
+updated: 2024-09-16T20:35
 tags:
   - burgerput
 Progress:
-  - ongoing
+  - end
 ---
 
 # EnterFoodController를 분리하자
