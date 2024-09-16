@@ -166,7 +166,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +182,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,9 +203,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -231,12 +227,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c68f195de2617363",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
+    "Untitled.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/설계문서/설계문서.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/개발문서.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/설계문서",
-    "Untitled.md",
     "resources/Pasted image 20240916225035.png",
     "resources/Pasted image 20240916225028.png",
     "resources/Pasted image 20240916225018.png",
