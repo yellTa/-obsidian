@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "2_Areas/Spring/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,6 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2_Areas/Spring/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,6 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2_Areas/Spring/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +205,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2_Areas/Spring/Untitled.md"
+              }
             }
           }
         ]
@@ -227,9 +231,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2caed6827f1efab6",
+  "active": "c68f195de2617363",
   "lastOpenFiles": [
-    "Untitled.md",
+    "2_Areas/Spring/기능을 설계할 때 생각해야할 다이어그램!.md",
+    "2_Areas/Spring/Untitled.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/설계문서/설계문서.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/개발문서.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/설계문서",
@@ -261,7 +266,6 @@
     "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
     "1_Projects/Burgerput/2_유지보수/LoadingController 정리하기.md",
     "1_Projects/Burgerput/2_유지보수/CheatController분리하기.md",
-    "1_Projects/Burgerput/Burgerput.md",
     "resources/Pasted image 20240915155446.png",
     "resources/Pasted image 20240915155247.png",
     "resources/Pasted image 20240915155151.png",
