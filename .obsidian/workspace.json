@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 15일 10시 정기회의.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/9월 16일 근나님께 전달할 API내용.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,9 +57,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f2719d9fd004a826",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/9월 16일 18시까지 근나님께 전달할 내용.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "34c70a62ed80b617",
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 15일 10시 정기회의.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/9월 16일 18시까지 근나님께 전달할 내용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 15일 10시 정기회의.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/9월 16일 18시까지 근나님께 전달할 내용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 15일 10시 정기회의.md"
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/9월 16일 18시까지 근나님께 전달할 내용.md"
               }
             }
           }
@@ -207,15 +219,16 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "1a8585a65f6bed4a",
+  "active": "f2719d9fd004a826",
   "lastOpenFiles": [
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/실전프로젝트.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/9월 16일 12시 범석님이랑 짧은 회의.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/9월 16일 근나님께 전달할 API내용.md",
     "7_TIL/20240916의 TIL.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 15일 10시 정기회의.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/실전프로젝트.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/9월 16일 18시까지 근나님께 전달할 내용.md",
     "Untitled.md",
     "Untitled 1.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 15일 10시 정기회의.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/회의록모음.md",
     "resources/Pasted image 20240916001415.png",
     "1_Projects/Burgerput/2_유지보수/EnterFoodController분리.md",
@@ -241,7 +254,6 @@
     "resources/Pasted image 20240915154749.png",
     "2_Areas/Docs/Docs.md",
     "2_Areas/Java/Java.md",
-    "2_Areas/Spring/Spring.md",
     "2_Areas/Docs",
     "resources/Pasted image 20240915152847.png",
     "resources/Pasted image 20240915152754.png",
