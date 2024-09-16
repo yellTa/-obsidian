@@ -1,6 +1,6 @@
 ---
 created: 2024-09-16 23:23
-updated: 2024-09-17T00:15
+updated: 2024-09-17T00:33
 tags:
   - Spring
   - java
@@ -184,15 +184,86 @@ class MemberServiceImplTest {
 ### MemberServiceImpl은 MemberRepository에 의존한다. 근데 구현체에 의존을 안하는데 어떻게 MemoryMemberRepository의 기능을 하는 걸까?
 
 그 이유는 Spring Container에 있다.
+![[Pasted image 20240917002236.png]]
 
+MemberServiceImpl은 확실하게 MemberRepository에 의존한다. 그렇다면 MemberRepository의 구현체는 도대체 어디서 가져오는 걸까?
+그건 바로 Spring Container다. @Repository, @Service가 붙은 것들은 Spring Container로 향하게 된다. 이때 @Repository애노테이션을 갖는 MemoryMemberRepository는 MemberRepository를 상속받았기 때문에 스프링은 MemberRepository를 의존하게 되면 이를 상속하는 객체를 꺼내와서 주입해준다.
 
+그래서 제어의 역전이라고 부르는 것이다.
+순수 자바 코드에서 AppConfig를 생각해보자
 
+```java
+ 
+//appliction환경 구성은 여기서 다 하는 거임  
+  
+@Configuration //Spring 옵션  
+public class Appconfig {  
+    //역할들이 나오고 역할들이 어떤 구현체를 갖는 지 확인할 수 있다.  
+    //역할과 구현 클래스가 한눈에 들어온다.  
+  
+  
+    //bean을 쓰면 Spring Container에 저장이 된다.  
 
+    public MemberService memberService() {  
+        return new MemberServiceImpl(memberRepository());  
+    }  
 
+    public OrderService orderService() {  
+        return new OrderServiceImpl(  
+                memberRepository(), discountPolicy());  
+    }  
+
+    public MemberRepository memberRepository() {  
+        return new MemoryMemberRepository();  
+    }  
+  
+
+    public DiscountPolicy discountPolicy() {  
+        return new FixDiscountPolicy();  
+    }  
+  
+  
+  
+}
+```
+
+이렇게 구현되어 있고 구현체에서는 
+
+``` java
+AppConfig app = new AppConfig();
+
+MemberService memberRe = app.memberService();
+
+```
+의 형태로 가져오게 된다. 
+DIP, OCP를 지키기는 하지만 그래도 개발자들이 AppConfig에서 객체를 갈아 끼워줘야하는 상황이 발생한다.
+
+Spring Container를 사용하면 그럴 필요가 없다는 의미이다.
+추상화를 만들고 그 추상화를 상속받는 친구들만 만들고 @Bean으로 등록만 해주면 Spring이 알아서 객체를 관리해주는 것이다. 
 ## DI
+직역하면 외부에서 주입해준다는 뜻이다. 
+그럼 Spring에서 DI는 어떻게 이루어 지는지 보자
 
 
+SOLID 원칙을 지키기위해서는 다형성을 지키기위해 추상화에 의존해야한다고 했다.
+이제 추상화에 의존하는 건 알겠는데... 문제는 추상화에 의존받으면 객체를 주입해주는 과정이 필요하다.
 
+그러기 위해서 순수 자바코드에서는 AppConfig를 사용했다. 그렇다면 Spring에서는 어떻게 사용할까?
+
+``` java
+  
+@Autowired  
+final MemberRepository memberRepository;  
+
+public MemberServiceImpl(MemberRepository memberRepository) {  
+    this.memberRepository = memberRepository;  
+}
+```
+ServiceImpl의 일부분이다. 
+
+@Autowired를 통해서 스프링이 생성자 주입 방식으로 MemberRepository를 스프링 컨테이너에서 찾아서 주입해준다. 
+
+스프링은 인터페이스를 확인하고, 그 인터페이스를 구현한 구현체를 찾아서 주입하게된다. 이 과정을 DI라고 한다. 
 
 # 결론
 
