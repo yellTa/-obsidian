@@ -40,50 +40,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/hourplace 순서도.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2719d9fd004a826",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c68f195de2617363",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_Areas/Spring/Spring DI,IoC 구현해보기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b67c1e353fb923da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
+                "file": "7_TIL/20240917.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "34c70a62ed80b617",
@@ -150,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5110321044922,
-    "collapsed": true
+    "width": 276.5110321044922
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -167,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Areas/Spring/Spring DI,IoC 구현해보기.md",
+                "file": "7_TIL/20240917.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Areas/Spring/Spring DI,IoC 구현해보기.md",
+                "file": "7_TIL/20240917.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Areas/Spring/Spring DI,IoC 구현해보기.md"
+                "file": "7_TIL/20240917.md"
               }
             }
           }
@@ -232,8 +195,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c68f195de2617363",
+  "active": "1a8585a65f6bed4a",
   "lastOpenFiles": [
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/hourplace 순서도.md",
+    "7_TIL/20240917.md",
+    "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
+    "2_Areas/Spring/Spring DI,IoC 구현해보기.md",
     "resources/Pasted image 20240917002236.png",
     "resources/Pasted image 20240916233729.png",
     "resources/Pasted image 20240916233708.png",
@@ -244,20 +211,16 @@
     "resources/Pasted image 20240916233552.png",
     "resources/Pasted image 20240916233551.png",
     "resources/Pasted image 20240916233523.png",
-    "resources/Pasted image 20240916233517.png",
     "2_Areas/Spring/기능을 설계할 때 생각해야할 다이어그램!.md",
-    "2_Areas/Spring/Spring DI,IoC 구현해보기.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/설계문서/설계문서.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/개발문서.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/설계문서",
-    "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/2_유지보수/EnterFoodController분리.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/9월 16일 근나님께 전달할 API내용.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/Docs.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/9월 16일 18시까지 근나님께 전달할 내용.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월13일 멘토링.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/hourplace 순서도.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/QA, 기획관련 자료 공유.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/9월 16일 12시 범석님이랑 짧은 회의.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서",
