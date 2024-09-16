@@ -1,6 +1,6 @@
 ---
 created: 2024-09-16 23:23
-updated: 2024-09-17T00:05
+updated: 2024-09-17T00:08
 tags:
   - Spring
   - java
@@ -146,12 +146,41 @@ MemberService는 다이어그램에서 보면 알 수있듯 MemberRepository에 
 ## 회원가입 테스트해보기
 이제 회원 가입을 설계한 도메인대로 작성을 완료했다. 한번 테스트해보자!
 
+``` java
+package hello.core.useSpring.member;  
+  
+import org.junit.jupiter.api.Test;  
+import org.springframework.beans.factory.annotation.Autowired;  
+import org.springframework.boot.test.context.SpringBootTest;  
+  
+import static org.junit.jupiter.api.Assertions.assertEquals;  
+  
+@SpringBootTest // Spring 컨테이너를 불러오는 설정  
+class MemberServiceImplTest {  
+    @Autowired  
+    private MemberService memberService;   //필드주입
+  
+    @Test  
+    public void register(){  
+        Member member = new Member(1, "member1", Grade.VIP);  
+  
+        memberService.register(member);  
+  
+        Member findMember = memberService.findMemberById(1);  
+  
+        assertEquals(member, findMember);  
+    }  
+  
+}
+```
 
-
-
-
-
+성공!!
 # 결론
+## IoC
+위의 코드를 작성하면서 나는 IoC에 대한 설명을 따로 하지 않았다. 그 이유는 
+바로 @Service나 @Repository처럼 Sprign bean으로 등록하는 행위가 객체의 관리를 Spring에게 전가? 한다는 의미이다.
+
+
 
 # REVIEW
 
