@@ -1,6 +1,6 @@
 ---
 created: 2024-09-16 23:23
-updated: 2024-09-16T23:49
+updated: 2024-09-16T23:54
 tags:
   - Spring
   - java
@@ -92,6 +92,30 @@ DB에서 수행되는 내용은
 2. DB에 저장된 회원 찾아서 조회하기
 
 이 기능은 MemberService의 역할과는 다르다.
+회원을 가입하는 기능을 제공하는 거고 위의 MemberRepository는 회원을 DB에 저장하는 행위를 의미한다.
+
+
+#### MemoryMemberRepository (MemberRepository 상속)
+``` java
+@Service
+public class MemoryMemberRepository implements MemberRepository{  
+    Map<Integer, Member> store = new HashMap<>();  
+    @Override  
+    public void save(Member member) {  
+        store.put(member.getId(), member);  
+    }  
+  
+    @Override  
+    public Member findMember(int id) {  
+        return store.get(id);  
+    }  
+}
+```
+MemberRepository를 상속받는 MemoryMemberRepository를 작성한다. 
+
+이때 @Repository 애노테이션을 이용해 스프링빈으로 등록한다. 즉 해당 구현체는 스프링 컨테이너에 들어가게 된다.
+
+#### MemberServiceImpl (MemberService 구현체)
 
 
 
