@@ -1,6 +1,6 @@
 ---
 created: 2024-09-16 23:23
-updated: 2024-09-16T23:54
+updated: 2024-09-16T23:58
 tags:
   - Spring
   - java
@@ -66,7 +66,7 @@ public class Member {
 package hello.core.useSpring;  
   
 public interface MemberService {  
-    public void register();  
+    public void register(Member member);  
     public Member findMemberById(int id);  
 }
 ```
@@ -116,6 +116,37 @@ MemberRepository를 상속받는 MemoryMemberRepository를 작성한다.
 이때 @Repository 애노테이션을 이용해 스프링빈으로 등록한다. 즉 해당 구현체는 스프링 컨테이너에 들어가게 된다.
 
 #### MemberServiceImpl (MemberService 구현체)
+```  java
+package hello.core.useSpring.member;  
+  
+import org.springframework.beans.factory.annotation.Autowired;  
+import org.springframework.stereotype.Service;  
+  
+@Service  
+public class MemberServiceImpl implements MemberService{  
+//AutoWired를 사용한 생성자 주입  
+  
+    @Autowired  
+    final MemberRepository memberRepository;  
+  
+    public MemberServiceImpl(MemberRepository memberRepository) {  
+        this.memberRepository = memberRepository;  
+    }  
+    @Override  
+    public void register(Member member) {  
+        memberRepository.save(member);  
+    }  
+  
+    @Override  
+    public Member findMemberById(int id) {  
+        return memberRepository.findMember(id);  
+    }  
+}
+```
+마찬가지로 @Service애노테이션을 통해 Spring 빈으로 등록한다.
+MemberService는 다이어그램에서 보면 알 수있듯 MemberRepository에 의존적인데 
+이를 <span style="color:rgb(255, 128, 128)">@Autowired를 이용핸 생성자 주입을 통해서 주입해준다.</span>
+이것이 Dependency Injection이다!
 
 
 
