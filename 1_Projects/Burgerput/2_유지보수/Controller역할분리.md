@@ -1,6 +1,6 @@
 ---
 created: 2024-09-03T13:27:00
-updated: 2024-09-16T20:36
+updated: 2024-09-16T20:39
 tags:
   - burgerput
 Progress:
@@ -86,6 +86,8 @@ APITestController
 [[CheatController분리하기]]
 [[EnterFoodController분리]]
 
+
+그 외의 컨트롤러도 모두 같은 방식으로 리팩토링 해줬다.
 
 ---
 # REVIEW:
