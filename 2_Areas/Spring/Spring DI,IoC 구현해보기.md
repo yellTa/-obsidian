@@ -1,6 +1,6 @@
 ---
 created: 2024-09-16 23:23
-updated: 2024-09-17T00:08
+updated: 2024-09-17T00:15
 tags:
   - Spring
   - java
@@ -53,7 +53,7 @@ public class Member {
     }  
 }
 ```
-여기에 추가로 getter랑 setter까지
+여기에 추가로 getter랑 setter까지 넣어주면 된다.
 
 ### 회원 클래스 다이어그램을 기반으로  코드짜기
 #### MemberService interface생성
@@ -88,11 +88,9 @@ DB에서 수행되는 내용은
 
 이 기능은 MemberService의 역할과는 다르다.
 회원을 가입하는 기능을 제공하는 거고 위의 MemberRepository는 회원을 DB에 저장하는 행위를 의미한다.
-
-
 #### MemoryMemberRepository (MemberRepository 상속)
 ``` java
-@Service
+@Repository
 public class MemoryMemberRepository implements MemberRepository{  
     Map<Integer, Member> store = new HashMap<>();  
     @Override  
@@ -121,7 +119,7 @@ import org.springframework.stereotype.Service;
 public class MemberServiceImpl implements MemberService{  
 //AutoWired를 사용한 생성자 주입  
   
-    @Autowired  
+    @Autowired  //생성자가 한 개일 때는 생략 가능
     final MemberRepository memberRepository;  
   
     public MemberServiceImpl(MemberRepository memberRepository) {  
@@ -175,10 +173,30 @@ class MemberServiceImplTest {
 ```
 
 성공!!
-# 결론
+
 ## IoC
 위의 코드를 작성하면서 나는 IoC에 대한 설명을 따로 하지 않았다. 그 이유는 
 바로 @Service나 @Repository처럼 Sprign bean으로 등록하는 행위가 객체의 관리를 Spring에게 전가? 한다는 의미이다.
+
+기존의 순수 자바 코드에서는 AppConfig를 만들고 거기서 객체를 사용자가 갈아끼워줬는데 이제는 더 간편하게 애노테이션 하나로 Spring bean으로 등록하는 것이다. 
+이 과정에 대해서는 조금 더 자세하게 알아보자
+
+### MemberServiceImpl은 MemberRepository에 의존한다. 근데 구현체에 의존을 안하는데 어떻게 MemoryMemberRepository의 기능을 하는 걸까?
+
+그 이유는 Spring Container에 있다.
+
+
+
+
+
+## DI
+
+
+
+
+# 결론
+
+
 
 
 
