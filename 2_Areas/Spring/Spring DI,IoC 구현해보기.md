@@ -1,6 +1,6 @@
 ---
 created: 2024-09-16 23:23
-updated: 2024-09-16T23:58
+updated: 2024-09-17T00:00
 tags:
   - Spring
   - java
@@ -147,6 +147,9 @@ public class MemberServiceImpl implements MemberService{
 MemberService는 다이어그램에서 보면 알 수있듯 MemberRepository에 의존적인데 
 이를 <span style="color:rgb(255, 128, 128)">@Autowired를 이용핸 생성자 주입을 통해서 주입해준다.</span>
 이것이 Dependency Injection이다!
+
+## 회원가입 테스트해보기
+이제 회원 가입을 설계한 도메인대로 작성을 완료했다. 한번 테스트해보자!
 
 
 
