@@ -1,6 +1,6 @@
 ---
 created: 2024-09-16 23:23
-updated: 2024-09-16T23:42
+updated: 2024-09-16T23:49
 tags:
   - Spring
   - java
@@ -71,9 +71,33 @@ public interface MemberService {
 }
 ```
 회원이 어떤 기능을 하는지 기억해보자
-1. 회원 가입
-2. 회원 조회이다.
+1. 회원 가입을 수행하는 기능
+2. 회원 조회를 수행하는 기능
 이를 인터페이스 구현체로 지정해준다.
+
+
+#### MemeberRepository interface생성
+``` java
+package hello.core.useSpring.member;  
+  
+public interface MemberRepository {  
+    public void save(Member member);  
+    public Member findMember(int id);  
+}
+
+```
+저장소 역할의 DB를 만든다. 
+DB에서 수행되는 내용은
+1. 회원 저장하기
+2. DB에 저장된 회원 찾아서 조회하기
+
+이 기능은 MemberService의 역할과는 다르다.
+
+
+
+
+
+
 # 결론
 
 # REVIEW
