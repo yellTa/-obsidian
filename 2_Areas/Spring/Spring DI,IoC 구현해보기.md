@@ -1,6 +1,6 @@
 ---
 created: 2024-09-16 23:23
-updated: 2024-09-16T23:38
+updated: 2024-09-16T23:42
 tags:
   - Spring
   - java
@@ -32,9 +32,48 @@ tags:
 
 ## 위 그림을 배경으로 코드를 짜보자!
 ### 회원객체 만들기
+#### Grade(enum)
+``` java
+public enum Grade {  
+    VIP,  
+    FRIEND  
+}
+```
 
+#### Member
+``` java
+package hello.core.useSpring;  
+  
+import hello.core.pureJava.member.Grade;  
+  
+public class Member {  
+    private int id;  
+    private String name;  
+    private Grade grade;  
+  
+    public Member(int id, String name, Grade grade) {  
+        this.id = id;  
+        this.name = name;  
+        this.grade = grade;  
+    }  
+}
+```
+여기에 추가로 getter랑 setter까지
 
-
+### 회원 클래스 다이어그램을 기반으로  코드짜기
+#### MemberService interface생성
+``` java
+package hello.core.useSpring;  
+  
+public interface MemberService {  
+    public void register();  
+    public Member findMemberById(int id);  
+}
+```
+회원이 어떤 기능을 하는지 기억해보자
+1. 회원 가입
+2. 회원 조회이다.
+이를 인터페이스 구현체로 지정해준다.
 # 결론
 
 # REVIEW
