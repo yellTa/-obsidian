@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5110321044922,
-    "collapsed": true
+    "width": 276.5110321044922
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -131,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2_Areas/Docs/Service Locator -design pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2_Areas/Docs/Service Locator -design pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2_Areas/Docs/Service Locator -design pattern.md"
+              }
             }
           }
         ]
@@ -192,8 +195,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2caed6827f1efab6",
+  "active": "b92144a7751d4afe",
   "lastOpenFiles": [
+    "2_Areas/Docs/Docs.md",
+    "2_Areas/Spring/Spring.md",
+    "2_Areas/Java/Java.md",
     "2_Areas/Docs/Service Locator -design pattern.md",
     "HOW TO.md",
     "1_Projects/Burgerput/0_회의록/버거풋 회의 - 9월 17일.md",
@@ -209,7 +215,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사랑 자소서 조사.md",
     "2_Areas/Docs/Spring Maven과 Gradle의차이.md",
     "resources/Pasted image 20240917160213.png",
-    "2_Areas/Docs/Docs.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/질문집 모음/질문집 모음.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/실전프로젝트.md",
     "1_Projects/Burgerput/0_회의록/9월 6일.md",
@@ -229,8 +234,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/설계문서",
     "1_Projects/Burgerput/2_유지보수/EnterFoodController분리.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/9월 16일 근나님께 전달할 API내용.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/Docs.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/9월 16일 18시까지 근나님께 전달할 내용.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서",
     "2_Areas/Docs",
     "2_Areas/Spring",
