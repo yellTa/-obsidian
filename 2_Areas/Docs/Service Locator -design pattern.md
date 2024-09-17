@@ -1,6 +1,6 @@
 ---
 created: 2024-09-17 23:24
-updated: 2024-09-18T00:49
+updated: 2024-09-18T00:58
 tags: 
 출처: 
 ---
@@ -168,3 +168,5 @@ DI는 Spring Container에서 객체의 의존성을 주입해 클래스는 자�
 https://blog.ploeh.dk/2010/02/03/ServiceLocatorisanAnti-Pattern/
 https://blog.ploeh.dk/2014/05/15/service-locator-violates-solid/
 
+## 깃헙링크
+[깃헙링크](https://github.com/yellTa/SOLIDStudy/commit/991971d9d831a6d42cc0bddd00b1bdac3ffbb119)

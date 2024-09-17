@@ -45,9 +45,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ce504f482b965377",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "34c70a62ed80b617",
@@ -114,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5110321044922,
-    "collapsed": true
+    "width": 276.5110321044922
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -131,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Areas/Docs/Service Locator -design pattern.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Areas/Docs/Service Locator -design pattern.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Areas/Docs/Service Locator -design pattern.md"
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md"
               }
             }
           }
@@ -196,20 +207,20 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "b92144a7751d4afe",
+  "active": "ce504f482b965377",
   "lastOpenFiles": [
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/멘토링.md",
+    "2_Areas/Docs/Service Locator -design pattern.md",
     "2_Areas/Docs/Docs.md",
     "2_Areas/Spring/Spring.md",
     "2_Areas/Java/Java.md",
-    "2_Areas/Docs/Service Locator -design pattern.md",
     "HOW TO.md",
     "1_Projects/Burgerput/0_회의록/버거풋 회의 - 9월 17일.md",
     "7_TIL/20240917의 TIL.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
     "2_Areas/cs/OSI 7계층.md",
     "resources/Pasted image 20240917220935.png",
     "resources/Pasted image 20240917213630.png",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월13일 멘토링.md",
     "resources/Pasted image 20240917203033.png",
     "resources/Pasted image 20240917203024.png",
