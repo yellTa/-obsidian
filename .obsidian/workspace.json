@@ -6,7 +6,7 @@
       {
         "id": "f2c09484126a8fb8",
         "type": "tabs",
-        "dimension": 75.0457038391225,
+        "dimension": 54.27769985974755,
         "children": [
           {
             "id": "60da0eaa85a214d1",
@@ -33,26 +33,14 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1c338efba5cc7587",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "34c70a62ed80b617",
         "type": "tabs",
-        "dimension": 24.954296160877515,
+        "dimension": 45.72230014025245,
         "children": [
           {
             "id": "2caed6827f1efab6",
@@ -131,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
+                "file": "1_Projects/Burgerput/Burgerput.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
+                "file": "1_Projects/Burgerput/Burgerput.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md"
+                "file": "1_Projects/Burgerput/Burgerput.md"
               }
             }
           }
@@ -196,12 +184,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "1c338efba5cc7587",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
+    "1_Projects/Burgerput/0_회의록/버거풋 회의 - 9월 17일.md",
+    "7_TIL/20240917의 TIL.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
     "2_Areas/cs/OSI 7계층.md",
     "resources/Pasted image 20240917220935.png",
     "resources/Pasted image 20240917213630.png",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월13일 멘토링.md",
     "resources/Pasted image 20240917203033.png",
@@ -212,11 +202,9 @@
     "2_Areas/Docs/Docs.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/질문집 모음/질문집 모음.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/실전프로젝트.md",
-    "1_Projects/Burgerput/0_회의록/9월 17일.md",
     "1_Projects/Burgerput/0_회의록/9월 6일.md",
     "1_Projects/Burgerput/0_회의록/0_회의록.md",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
-    "7_TIL/20240917.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/hourplace 순서도.md",
     "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
     "2_Areas/Spring/Spring DI,IoC 구현해보기.md",
