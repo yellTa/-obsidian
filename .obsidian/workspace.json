@@ -6,7 +6,7 @@
       {
         "id": "f2c09484126a8fb8",
         "type": "tabs",
-        "dimension": 80.11049723756905,
+        "dimension": 78.72928176795581,
         "children": [
           {
             "id": "60da0eaa85a214d1",
@@ -64,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7_TIL/20240917+ 오늘의 TIL.md",
+                "file": "2_Areas/cs/OSI 7계층.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,7 +76,7 @@
       {
         "id": "34c70a62ed80b617",
         "type": "tabs",
-        "dimension": 19.88950276243094,
+        "dimension": 21.2707182320442,
         "children": [
           {
             "id": "2caed6827f1efab6",
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7_TIL/20240917+ 오늘의 TIL.md",
+                "file": "2_Areas/cs/OSI 7계층.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7_TIL/20240917+ 오늘의 TIL.md",
+                "file": "2_Areas/cs/OSI 7계층.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7_TIL/20240917+ 오늘의 TIL.md"
+                "file": "2_Areas/cs/OSI 7계층.md"
               }
             }
           }
@@ -221,8 +221,8 @@
   },
   "active": "f729303d5892e038",
   "lastOpenFiles": [
-    "7_TIL/20240917+ 오늘의 TIL.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
+    "7_TIL/20240917+ 오늘의 TIL.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/멘토링.md",
     "2_Areas/Docs/Service Locator -design pattern.md",
     "2_Areas/Docs/Docs.md",
