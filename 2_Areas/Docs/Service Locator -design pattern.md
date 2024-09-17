@@ -1,6 +1,6 @@
 ---
 created: 2024-09-17 23:24
-updated: 2024-09-18T00:45
+updated: 2024-09-18T00:47
 tags: 
 출처: 
 ---
@@ -136,6 +136,64 @@ OrderApp을 실행하면 에러가난다.
 필요한 서비스를 Locator에 등록했기 때문이다!
 
 ## 무한 메소드
+``` java
+public class Main {
+    public static void main(String[] args) {
+        Locator serviceLocator = new Locator();
+
+        // 서비스 등록
+        serviceLocator.register(IFoo.class, Foo::new);
+        serviceLocator.register(IBar.class, Bar::new);
+        serviceLocator.register(IBaz.class, Baz::new);
+
+        // 서비스 생성 및 사용
+        IFoo foo = serviceLocator.resolve(IFoo.class);
+        IBar bar = serviceLocator.resolve(IBar.class);
+        IBaz baz = serviceLocator.resolve(IBaz.class);
+
+        foo.doSomething();
+        bar.doSomethingElse();
+        baz.performAction();
+    }
+}
+
+// 예시 인터페이스 및 클래스들
+interface IFoo {
+    void doSomething();
+}
+
+class Foo implements IFoo {
+    public void doSomething() {
+        System.out.println("Foo is doing something");
+    }
+}
+
+interface IBar {
+    void doSomethingElse();
+}
+
+class Bar implements IBar {
+    public void doSomethingElse() {
+        System.out.println("Bar is doing something else");
+    }
+}
+
+interface IBaz {
+    void performAction();
+}
+
+class Baz implements IBaz {
+    public void performAction() {
+        System.out.println("Baz is performing an action");
+    }
+}
+
+```
+
+예제 코드를 보자
+
+
+
 
 
 ## Service Locator의 문제점
