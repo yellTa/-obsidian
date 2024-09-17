@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
+                "file": "2_Areas/cs/OSI 7계층.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5110321044922
+    "width": 276.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
+                "file": "2_Areas/cs/OSI 7계층.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
+                "file": "2_Areas/cs/OSI 7계층.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md"
+                "file": "2_Areas/cs/OSI 7계층.md"
               }
             }
           }
@@ -185,6 +186,7 @@
   },
   "active": "9fa0353ec2e23ff3",
   "lastOpenFiles": [
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
     "resources/Pasted image 20240917203033.png",
     "resources/Pasted image 20240917203024.png",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/멘토링.md",
@@ -210,7 +212,6 @@
     "resources/Pasted image 20240916233630.png",
     "resources/Pasted image 20240916233615.png",
     "resources/Pasted image 20240916233552 1.png",
-    "resources/Pasted image 20240916233552.png",
     "2_Areas/Spring/기능을 설계할 때 생각해야할 다이어그램!.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/설계문서/설계문서.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/개발문서.md",
