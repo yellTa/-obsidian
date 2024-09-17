@@ -1,6 +1,6 @@
 ---
 created: 2024-09-17 23:24
-updated: 2024-09-18T00:27
+updated: 2024-09-18T00:31
 tags: 
 출처: 
 ---
@@ -149,5 +149,7 @@ OrderApp을 실행하면 에러가난다.
 
 ---
 # 참고
+https://blog.ploeh.dk/2010/02/03/ServiceLocatorisanAnti-Pattern/
+
 
 # 연결문서
