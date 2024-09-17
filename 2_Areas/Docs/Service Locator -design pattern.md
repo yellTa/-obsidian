@@ -1,6 +1,6 @@
 ---
 created: 2024-09-17 23:24
-updated: 2024-09-18T00:47
+updated: 2024-09-18T00:49
 tags: 
 출처: 
 ---
@@ -134,70 +134,8 @@ OrderApp을 실행하면 에러가난다.
 
 주석을 해제하면? 에러가 나지 않는다.
 필요한 서비스를 Locator에 등록했기 때문이다!
-
-## 무한 메소드
-``` java
-public class Main {
-    public static void main(String[] args) {
-        Locator serviceLocator = new Locator();
-
-        // 서비스 등록
-        serviceLocator.register(IFoo.class, Foo::new);
-        serviceLocator.register(IBar.class, Bar::new);
-        serviceLocator.register(IBaz.class, Baz::new);
-
-        // 서비스 생성 및 사용
-        IFoo foo = serviceLocator.resolve(IFoo.class);
-        IBar bar = serviceLocator.resolve(IBar.class);
-        IBaz baz = serviceLocator.resolve(IBaz.class);
-
-        foo.doSomething();
-        bar.doSomethingElse();
-        baz.performAction();
-    }
-}
-
-// 예시 인터페이스 및 클래스들
-interface IFoo {
-    void doSomething();
-}
-
-class Foo implements IFoo {
-    public void doSomething() {
-        System.out.println("Foo is doing something");
-    }
-}
-
-interface IBar {
-    void doSomethingElse();
-}
-
-class Bar implements IBar {
-    public void doSomethingElse() {
-        System.out.println("Bar is doing something else");
-    }
-}
-
-interface IBaz {
-    void performAction();
-}
-
-class Baz implements IBaz {
-    public void performAction() {
-        System.out.println("Baz is performing an action");
-    }
-}
-
-```
-
-예제 코드를 보자
-
-
-
-
-
 ## Service Locator의 문제점
-### 캡슐화 위반
+### DI위반
 클래스 내부에서 필요한 서비스나 의존성을 동적으로 조회하여 사용한다. 이를 위해 Locator.resolve()를 사용해 필요한 객체를 얻었다.
 
 코드가 특정 위치에서 Locator를 사용해 의존성을 해결하기 때문에, 의존성이 명시적으로 드러나지 않고 코드 내에서 숨김 쳐리된다.
@@ -230,4 +168,3 @@ DI는 Spring Container에서 객체의 의존성을 주입해 클래스는 자�
 https://blog.ploeh.dk/2010/02/03/ServiceLocatorisanAnti-Pattern/
 https://blog.ploeh.dk/2014/05/15/service-locator-violates-solid/
 
-# 연결문서
