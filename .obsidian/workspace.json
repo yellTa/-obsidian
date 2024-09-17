@@ -6,7 +6,7 @@
       {
         "id": "f2c09484126a8fb8",
         "type": "tabs",
-        "dimension": 54.27769985974755,
+        "dimension": 80.41085840058693,
         "children": [
           {
             "id": "60da0eaa85a214d1",
@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Areas/cs/OSI 7계층.md",
+                "file": "2_Areas/Docs/Service Locator -design pattern.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,7 +40,7 @@
       {
         "id": "34c70a62ed80b617",
         "type": "tabs",
-        "dimension": 45.72230014025245,
+        "dimension": 19.58914159941306,
         "children": [
           {
             "id": "2caed6827f1efab6",
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/Burgerput/Burgerput.md",
+                "file": "2_Areas/Docs/Service Locator -design pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/Burgerput/Burgerput.md",
+                "file": "2_Areas/Docs/Service Locator -design pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/Burgerput/Burgerput.md"
+                "file": "2_Areas/Docs/Service Locator -design pattern.md"
               }
             }
           }
@@ -184,8 +184,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2caed6827f1efab6",
+  "active": "9fa0353ec2e23ff3",
   "lastOpenFiles": [
+    "2_Areas/Docs/Service Locator -design pattern.md",
     "1_Projects/Burgerput/0_회의록/버거풋 회의 - 9월 17일.md",
     "7_TIL/20240917의 TIL.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
