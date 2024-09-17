@@ -1,6 +1,6 @@
 ---
 created: 2024-09-17 23:24
-updated: 2024-09-18T00:37
+updated: 2024-09-18T00:43
 tags: 
 출처: 
 ---
@@ -137,21 +137,36 @@ OrderApp을 실행하면 에러가난다.
 
 ## Service Locator의 문제점
 ### 캡슐화 위반
-클래스 내부
+클래스 내부에서 필요한 서비스나 의존성을 동적으로 조회하여 사용한다. 이를 위해 Locator.resolve()를 사용해 필요한 객체를 얻었다.
 
+코드가 특정 위치에서 Locator를 사용해 의존성을 해결하기 때문에, 의존성이 명시적으로 드러나지 않고 코드 내에서 숨김 쳐리된다.
+```java 
+IOrderValidator validator = Locator.resolve(IOrderValidator.class);  
+//위는 특정 위치에서 의존성을 Locator로 주입받고 있다. 여기서 IOrderValidator는 추상클래스라고 가정한다.
+  
+if (validator.validate(order)) { 
+  
+    IOrderShipper shipper = Locator.resolve(IOrderShipper.class);  
+    shipper.ship(order);  
+}
+```
 
+의존성이 생성자나 필드에서  명확하게 나타나지 않아 유지보수가 어려워진다.
+즉 해당 추상클래스에 대해서 어떤 객체를 리턴해야하는지 개발자가 정확히 알 수가 없다는 의미이다. 
 
-
-
-
+이는 DI 의존성을 외부에서 주입받는 것 과는 반대이다. 
+DI는 Spring Container에서 객체의 의존성을 주입해 클래스는 자신의 의존성에 대해 알지 않고, 오직 인터페이스나 추상화에만 의존한다.
 # 결론
-
+서비스 Locator는 DI를 지키지 못하는 안티패턴이다.
+- 추상클래스가 가르키는 객체를 명확하게 개발자가 알 수 없다.
+- 의존성을 특정 위치에서 주입받기 때문에 유지보수가 힘들다
 # REVIEW
+하나하나 뜯어보는게 생각보다 재미가 있었네요
 
 
 ---
 # 참고
 https://blog.ploeh.dk/2010/02/03/ServiceLocatorisanAnti-Pattern/
-
+https://blog.ploeh.dk/2014/05/15/service-locator-violates-solid/
 
 # 연결문서
