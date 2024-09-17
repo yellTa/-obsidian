@@ -6,7 +6,7 @@
       {
         "id": "f2c09484126a8fb8",
         "type": "tabs",
-        "dimension": 79.46096654275094,
+        "dimension": 75.0457038391225,
         "children": [
           {
             "id": "60da0eaa85a214d1",
@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Areas/Docs/Spring Maven과 Gradle의차이.md",
+                "file": "1_Projects/Burgerput/0_회의록/9월 17일.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,7 +52,7 @@
       {
         "id": "34c70a62ed80b617",
         "type": "tabs",
-        "dimension": 20.53903345724907,
+        "dimension": 24.954296160877515,
         "children": [
           {
             "id": "2caed6827f1efab6",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Areas/Docs/Spring Maven과 Gradle의차이.md",
+                "file": "1_Projects/Burgerput/0_회의록/9월 17일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Areas/Docs/Spring Maven과 Gradle의차이.md",
+                "file": "1_Projects/Burgerput/0_회의록/9월 17일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Areas/Docs/Spring Maven과 Gradle의차이.md"
+                "file": "1_Projects/Burgerput/0_회의록/9월 17일.md"
               }
             }
           }
@@ -197,8 +197,13 @@
   },
   "active": "1a8585a65f6bed4a",
   "lastOpenFiles": [
-    "7_TIL/20240917.md",
+    "1_Projects/Burgerput/0_회의록/9월 6일.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월13일 멘토링.md",
+    "1_Projects/Burgerput/0_회의록/9월 17일.md",
+    "1_Projects/Burgerput/0_회의록/0_회의록.md",
+    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "2_Areas/Docs/Spring Maven과 Gradle의차이.md",
+    "7_TIL/20240917.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/hourplace 순서도.md",
     "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
     "2_Areas/Spring/Spring DI,IoC 구현해보기.md",
@@ -216,12 +221,10 @@
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/설계문서/설계문서.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/개발문서.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/설계문서",
-    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/2_유지보수/EnterFoodController분리.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/9월 16일 근나님께 전달할 API내용.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/Docs.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/9월 16일 18시까지 근나님께 전달할 내용.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월13일 멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/QA, 기획관련 자료 공유.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/9월 16일 12시 범석님이랑 짧은 회의.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서",
@@ -231,10 +234,7 @@
     "Untitled 1.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/회의록모음.md",
     "2_Areas/Java/SOLID원칙 따라서  java코드로 제작해보기.md",
-    "1_Projects/Burgerput/0_회의록/9월 6일.md",
-    "1_Projects/Burgerput/0_회의록/0_회의록.md",
     "1_Projects/Burgerput/2_유지보수/LoadingController분리.md",
-    "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
     "2_Areas/Docs",
     "2_Areas/Spring",
     "resources/~$실전프로젝트_요구사항명세.xlsx",
