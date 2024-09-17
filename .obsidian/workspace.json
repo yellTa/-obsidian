@@ -33,9 +33,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1c338efba5cc7587",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "34c70a62ed80b617",
@@ -102,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5110321044922,
-    "collapsed": true
+    "width": 276.5110321044922
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -119,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Areas/cs/OSI 7계층.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Areas/cs/OSI 7계층.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Areas/cs/OSI 7계층.md"
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md"
               }
             }
           }
@@ -184,14 +195,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "9fa0353ec2e23ff3",
+  "active": "1c338efba5cc7587",
   "lastOpenFiles": [
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/멘토링.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월13일 멘토링.md",
+    "2_Areas/cs/OSI 7계층.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
     "resources/Pasted image 20240917203033.png",
     "resources/Pasted image 20240917203024.png",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사랑 자소서 조사.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월13일 멘토링.md",
     "2_Areas/Docs/Spring Maven과 Gradle의차이.md",
     "resources/Pasted image 20240917160213.png",
     "2_Areas/Docs/Docs.md",
@@ -223,7 +235,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/QA, 기획관련 자료 공유.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/9월 16일 12시 범석님이랑 짧은 회의.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서",
-    "7_TIL/20240916의 TIL.md",
     "2_Areas/Docs",
     "2_Areas/Spring",
     "resources/~$실전프로젝트_요구사항명세.xlsx",
