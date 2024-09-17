@@ -131,7 +131,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Areas/Docs/Service Locator -design pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Areas/Docs/Service Locator -design pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,9 +168,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2_Areas/Docs/Service Locator -design pattern.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -196,10 +192,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "b92144a7751d4afe",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
-    "HOW TO.md",
     "2_Areas/Docs/Service Locator -design pattern.md",
+    "HOW TO.md",
     "1_Projects/Burgerput/0_회의록/버거풋 회의 - 9월 17일.md",
     "7_TIL/20240917의 TIL.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
