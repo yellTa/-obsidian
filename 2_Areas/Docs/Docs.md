@@ -1,7 +1,8 @@
 ---
 created: 2024-09-15T15:31
-updated: 2024-09-15T15:32
+updated: 2024-09-17T15:58
 ---
+# Docs
 ```dataviewjs
 //3,4 라인의 폴더 이름만 바꿔주면 된다.
 const pages = dv.pages('"2_Areas/Docs"')
