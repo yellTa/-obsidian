@@ -131,7 +131,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Areas/Spring/h2 DB를 이용해서 Transcation이해해보기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Areas/Spring/h2 DB를 이용해서 Transcation이해해보기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,9 +168,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2_Areas/Spring/h2 DB를 이용해서 Transcation이해해보기.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -196,17 +192,19 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "f729303d5892e038",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
+    "2_Areas/Spring/h2 DB를 이용해서 Transcation이해해보기.md",
+    "resources/Pasted image 20240919015555.png",
+    "resources/Pasted image 20240919015241.png",
+    "resources/Pasted image 20240919015142.png",
+    "resources/Pasted image 20240919015106.png",
     "resources/Pasted image 20240919014642.png",
     "resources/Pasted image 20240919014340.png",
     "resources/Pasted image 20240919014314.png",
     "resources/Pasted image 20240919014211.png",
     "resources/Pasted image 20240919014120.png",
     "resources/Pasted image 20240919013940.png",
-    "2_Areas/Spring/h2 DB를 이용해서 Transcation이해해보기.md",
-    "resources/Pasted image 20240919013700.png",
-    "resources/Pasted image 20240919004211.png",
     "2_Areas/Spring/Spring.md",
     "2_Areas/Docs/Docs.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/멘토링.md",
@@ -231,9 +229,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/9월 16일 12시 범석님이랑 짧은 회의.md",
     "2_Areas/cs/OSI 7계층.md",
     "7_TIL/20240917+ 오늘의 TIL.md",
-    "resources/Pasted image 20240917220935.png",
-    "resources/Pasted image 20240917213630.png",
-    "resources/Pasted image 20240917203033.png",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/설계문서",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서",
     "2_Areas/Docs",

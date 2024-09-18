@@ -1,11 +1,12 @@
 ---
 created: 2024-09-19 00:26
-updated: 2024-09-19T01:46
+updated: 2024-09-19T01:58
 tags:
   - develop
   - study
   - transaction
   - database
+  - backend
 Progress:
   - ongoing
 ---
@@ -85,46 +86,60 @@ Transaction을 적용하면(commit) DB에 완전 적용이 되어 다른 세션�
 
 data2가 data1에게 돈을 보내려고 한다.
 
-![[Pasted image 20240919014642.png]]
-그렇다면 ? SQL 쿼리는
+![[Pasted image 20240919015106.png]]
 
+전송할 SQL쿼리는
 
+```sql
+set autocommit false;
+update member set money=10000+ 2000  where member_id = 'date1';
+update member set money=10000 -2000  where member_id = 'date2';
 
+select * from member
 
-
-# ANALYSIS:
-
-# CONCLUSION:
-
-## 원인 :
-
-## 작업 :
-
-## 결과 :
-
-## 부제목
-
-<aside> 🔽 code file name
-
-</aside>
-
-```bash
-# codes
 ```
 
-### 결론
+![[Pasted image 20240919015142.png]]
+쿼리를 실행한 두 번째 세션에서는 data2가 data1에서 2000원을 송금한 것을 알 수 있다.
 
-> _**아 이렇게 이렇게 이렇게 하면 되는 구나**_
+그런데?!!!!
 
+만약 AutoCommit True상태였다면?...
 
+``` sql
+update member set money=10000+ 2000  where member_id = 'date1';
+update member set money=10000 -2000  where member_id = 'date2';
+```
+두 번째 구문을 수행할때 에러가 났다고 해보자 그러면 10000원에서 2000뺀 값이 아닌 원래 값인 10000원이 되어야 한다.
+
+그래서 date2의 값이 10000원으로 돌아갔다고 하자 
+
+그렇다면 data1의 돈은?... 
+data2가 이체 수행중 오류가 발생해서 10000원의 값 그대로 가지고 있는데 data1는 출처가 어딘지 모른 2000원이 생기게 된 것이다!!!
+
+이를 방지하기 위해서 
+``` sql
+set autocommit false;
+update member set money=10000+ 2000  where member_id = 'date1';
+update member set money=10000 -2000  where member_id = 'date2';
+
+select * from member
+```
+set autocommit (Transaction을 시작)을 false로 두는 것이다. 
+
+그렇다면 data2의 금액에서 2000원이 빠지는  작업에서 에러가 발생하면 발생하기 전으로 돌려주면 된다.
+
+바로 rollback이다.
+
+![[Pasted image 20240919015555.png]]
+위의 사진은 rollback을 수행한 후의 사진이다. (rollback하고 찍는걸 까먹음)
+
+이렇게 문제없이 되돌릴 수 있따!
+
+# REVIEW
+오늘은 간단하게 H2 DB를 통해서 트랜잭션의 개념에 대해서 알아보았따! 
 
 ---
-# REVIEW:
+# 참고:
+[스프링 DB 1편 데이터 접근 핵심 원리](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-db-1/dashboard)
 
-내가 이 문제를 통해서 깨닫고 배운 것들
-
-원초적인 내용일 수록 좋다.(이론적인 내용들 기본지식들)
-
-# References
-
-# 연결문서
