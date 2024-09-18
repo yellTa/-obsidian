@@ -1,6 +1,6 @@
 ---
 created: 2024-09-19 00:26
-updated: 2024-09-19T00:42
+updated: 2024-09-19T01:34
 tags:
   - develop
   - study
@@ -29,7 +29,18 @@ H2 DB를 켜줍니다. ~~초기 세팅법은 다른 곳에서 찾아서 하면 �
 해당 조건을 가지게 되면 두 개의 세션이 시작된 경우 입니다.
 즉 트랜잭션이 2개라는 의미가 됩니다.
 
+``` sql
+drop table member if exists;
+create table member(
+member_id varchar(10),
+money integer not null default 0,
+primary key(member_id)
+);
+```
 
+member테이블이 있따면 삭제해주고 member_id와 moeny속성을 갖는 간단한 member테이블을 만들어줍시다!
+
+### 
 
 
 # ANALYSIS:
