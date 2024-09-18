@@ -1,6 +1,6 @@
 ---
 created: 2024-09-19 00:26
-updated: 2024-09-19T01:34
+updated: 2024-09-19T01:35
 tags:
   - develop
   - study
@@ -38,9 +38,21 @@ primary key(member_id)
 );
 ```
 
-member테이블이 있따면 삭제해주고 member_id와 moeny속성을 갖는 간단한 member테이블을 만들어줍시다!
+member테이블이 있따면 삭제해주고 member_id와 moeny속성을 갖는 간단한 member테이블을 만들어주자!!
 
-### 
+###  자동 커밋과 수동 커밋
+자동 커밋과 수동 커밋에 대해서 알아보자
+#### 자동 커밋
+커밋을 날리게되면 바로 SQL문 수행
+
+#### 수동 커밋
+커밋을 날리게 되면 기다렸다가 commit메세지를 마지막에 보내고 나서야 DB에 적용이 됨
+
+수동 커밋이 Transaction이다. 확실하게 Transaction이라고 할 순 없지만 수동 커밋을 하게 된 순간 Transaction을 시작한다고 보면된다.
+
+
+우선 자동 커밋으로 1번 세션에(첫 번째 H2 DB창) 값을 넣어주자
+
 
 
 # ANALYSIS:
