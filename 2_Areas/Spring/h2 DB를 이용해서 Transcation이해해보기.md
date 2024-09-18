@@ -1,6 +1,6 @@
 ---
 created: 2024-09-19 00:26
-updated: 2024-09-19T01:45
+updated: 2024-09-19T01:46
 tags:
   - develop
   - study
@@ -81,6 +81,14 @@ insert into member(member_id, money) values ('data3',10000); insert into member(
 Transaction을 적용하면(commit) DB에 완전 적용이 되어 다른 세션에서도 값을 확인할 수 있다.
 
 ## Rollback을 하는 경우
+계좌이체를 하는 경우를 생각해보자
+
+data2가 data1에게 돈을 보내려고 한다.
+
+![[Pasted image 20240919014642.png]]
+그렇다면 ? SQL 쿼리는
+
+
 
 
 
