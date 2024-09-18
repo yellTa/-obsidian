@@ -1,6 +1,6 @@
 ---
 created: 2024-09-19 00:26
-updated: 2024-09-19T01:39
+updated: 2024-09-19T01:45
 tags:
   - develop
   - study
@@ -62,9 +62,26 @@ set autocommit false; //수동커밋으로 바꿔주기
 insert into member(member_id, money) values ('data3',10000); insert into member(member_id, money) values ('data4',10000);
 ```
 해당 명렁어를 수행하면 
-![[Pasted image 20240919013940.png]]
 
-이런 결과가 나오게 된다. 수동 커밋으로 변경하고, commit을 하지 않았기 때문이다. 
+![[Pasted image 20240919014120.png]]
+첫번 째 세션 창의 결과이다. 
+그렇다면 두 번째 DB창에서 확인하면 어떻게 될까?
+
+![[Pasted image 20240919014211.png]]
+두 번째 창에서는 저장 저장이 되지 않았다. 이는 수동 커밋으로 전환하고(Transaction이 시작되고) commit이 되지 않았기 때문이다.
+
+첫 번째 창에서 commit을 입력해주고
+![[Pasted image 20240919014314.png]]
+두 번째 창에서 다시 조회를 수행하면
+![[Pasted image 20240919014340.png]]
+이런 그림이 나오게된다.
+
+
+즉 Transaction이 시작되고 commit이 되지 않은 상태에서는 DB에 완전 적용하지 않은 임시데이터이기 때문에 변경 사항이 적용되지 않은 것이다.
+Transaction을 적용하면(commit) DB에 완전 적용이 되어 다른 세션에서도 값을 확인할 수 있다.
+
+## Rollback을 하는 경우
+
 
 
 # ANALYSIS:
