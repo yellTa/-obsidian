@@ -114,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5110321044922
+    "width": 276.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -197,6 +198,7 @@
   },
   "active": "f729303d5892e038",
   "lastOpenFiles": [
+    "resources/Pasted image 20240919004211.png",
     "2_Areas/Spring/Spring.md",
     "2_Areas/Docs/Docs.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/멘토링.md",
@@ -222,7 +224,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/9월 16일 12시 범석님이랑 짧은 회의.md",
     "2_Areas/cs/OSI 7계층.md",
     "7_TIL/20240917+ 오늘의 TIL.md",
-    "2_Areas/Java/Java.md",
     "resources/Pasted image 20240917220935.png",
     "resources/Pasted image 20240917213630.png",
     "resources/Pasted image 20240917203033.png",
