@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Areas/Spring/Spring @Transactional뜯어보기.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5110321044922,
-    "collapsed": true
+    "width": 276.5110321044922
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Areas/Spring/Spring @Transactional뜯어보기.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Areas/Spring/Spring @Transactional뜯어보기.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Areas/Spring/Spring @Transactional뜯어보기.md"
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md"
               }
             }
           }
@@ -198,32 +197,32 @@
   },
   "active": "f729303d5892e038",
   "lastOpenFiles": [
-    "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/회의 발표자료.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/멘토링.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링.md",
+    "2_Areas/Spring/h2 DB를 이용해서 Transcation이해해보기.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/개발문서.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/Docs.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/실전프로젝트.md",
     "2_Areas/Spring/Spring @Transactional뜯어보기.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/회의 발표자료.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/취업스터디.md",
     "1_Projects/제로베이스 대기업 취업 특별반/이력서첨삭/이력서첨삭.md",
     "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서버전들.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/Docs.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/설계문서/설계문서.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/회의록모음.md",
     "2_Areas/Docs/Service Locator -design pattern.md",
     "2_Areas/Docs/Docs.md",
     "2_Areas/Docs/SOLID원칙.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/실전프로젝트.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/질문집 모음/실전프로젝트 주제.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/질문집 모음/Spring MVC파일 구조 여쭤보기.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/질문집 모음/질문집 모음.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/hourplace 순서도.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/9월 16일 12시 범석님이랑 짧은 회의.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/개발문서.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
     "2_Areas/cs/OSI 7계층.md",
     "7_TIL/20240917+ 오늘의 TIL.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/멘토링.md",
     "2_Areas/Spring/Spring.md",
     "2_Areas/Java/Java.md",
-    "HOW TO.md",
-    "1_Projects/Burgerput/0_회의록/버거풋 회의 - 9월 17일.md",
     "resources/Pasted image 20240917220935.png",
     "resources/Pasted image 20240917213630.png",
     "resources/Pasted image 20240917203033.png",
