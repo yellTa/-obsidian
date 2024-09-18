@@ -131,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2_Areas/Spring/h2 DB를 이용해서 Transcation이해해보기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2_Areas/Spring/h2 DB를 이용해서 Transcation이해해보기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2_Areas/Spring/h2 DB를 이용해서 Transcation이해해보기.md"
+              }
             }
           }
         ]
@@ -192,8 +196,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2caed6827f1efab6",
+  "active": "f729303d5892e038",
   "lastOpenFiles": [
+    "resources/Pasted image 20240919013700.png",
     "2_Areas/Spring/h2 DB를 이용해서 Transcation이해해보기.md",
     "resources/Pasted image 20240919004211.png",
     "2_Areas/Spring/Spring.md",
