@@ -1,12 +1,14 @@
 ---
 created: 2024-09-18 17:49
-updated: 2024-09-18T17:54
+updated: 2024-09-18T18:09
 tags:
   - develop
 Progress:
   - ongoing
 ---
-# Spring @Transactional을 뜯어봅시다
+# Spring @Transactional을 뜯어봅시다 -
+### 뜯어보기 전에 Spring의 Transaction와 AOP에 대해서 알아오기
+
 스프링의 트랜잭션을 관리하는 @Transactional
 코드를 뜯어서 확인해봅시다
 
