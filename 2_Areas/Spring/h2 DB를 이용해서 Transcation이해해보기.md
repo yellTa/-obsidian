@@ -1,6 +1,6 @@
 ---
 created: 2024-09-19 00:26
-updated: 2024-09-19T01:37
+updated: 2024-09-19T01:39
 tags:
   - develop
   - study
@@ -56,6 +56,15 @@ member테이블이 있따면 삭제해주고 member_id와 moeny속성을 갖는 
 ![[Pasted image 20240919013700.png]]
 
 이런 데이터를 넣어줬다. 그렇다면 수동커밋으로 바꿔보자
+
+```sql
+set autocommit false; //수동커밋으로 바꿔주기
+insert into member(member_id, money) values ('data3',10000); insert into member(member_id, money) values ('data4',10000);
+```
+해당 명렁어를 수행하면 
+![[Pasted image 20240919013940.png]]
+
+이런 결과가 나오게 된다. 수동 커밋으로 변경하고, commit을 하지 않았기 때문이다. 
 
 
 # ANALYSIS:
