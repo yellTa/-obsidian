@@ -1,6 +1,6 @@
 ---
 created: 2024-09-19 19:14
-updated: 2024-09-19T21:48
+updated: 2024-09-19T22:26
 tags:
   - transaction
   - lock
@@ -28,7 +28,15 @@ data2 사용자는 에러가 발생하기 직전에 data1에게 계좌이체를 
 
 대충 lock이 뭔지 알게되었으니 h2 DB로 함께 확인해보자!
 
+## H2 DB로 실습해보기
+![[Pasted image 20240919222451.png]]
 
+Autocommit을 false로 두고 위의 명령어를 실행하자 
+참고로 Commit 명령어를 치지 않으면 계속 데이터를 점유하고 있는 상태가 된다.
+
+![[Pasted image 20240919222614.png]]
+
+두 번째
 
 
 
