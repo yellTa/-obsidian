@@ -6,7 +6,7 @@
       {
         "id": "f2c09484126a8fb8",
         "type": "tabs",
-        "dimension": 83.75174337517434,
+        "dimension": 78.35051546391753,
         "children": [
           {
             "id": "ce504f482b965377",
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 19일 실전프로젝트 멘토링 회의.md",
+                "file": "2_Areas/Spring/H2 DB이용해서 Lock 이해해보기.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
       {
         "id": "34c70a62ed80b617",
         "type": "tabs",
-        "dimension": 16.248256624825665,
+        "dimension": 21.649484536082475,
         "children": [
           {
             "id": "2caed6827f1efab6",
@@ -100,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5110321044922
+    "width": 269.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -116,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 19일 실전프로젝트 멘토링 회의.md",
+                "file": "2_Areas/Spring/H2 DB이용해서 Lock 이해해보기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 19일 실전프로젝트 멘토링 회의.md",
+                "file": "2_Areas/Spring/H2 DB이용해서 Lock 이해해보기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 19일 실전프로젝트 멘토링 회의.md"
+                "file": "2_Areas/Spring/H2 DB이용해서 Lock 이해해보기.md"
               }
             }
           }
