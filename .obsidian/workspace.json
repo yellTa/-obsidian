@@ -6,29 +6,15 @@
       {
         "id": "f2c09484126a8fb8",
         "type": "tabs",
-        "dimension": 67.20386784850928,
+        "dimension": 50.60679611650486,
         "children": [
-          {
-            "id": "60da0eaa85a214d1",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Projects/Burgerput/Burgerput.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
           {
             "id": "ce504f482b965377",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 19일 취업스터디.md",
                 "mode": "source",
                 "source": false
               }
@@ -46,13 +32,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "34c70a62ed80b617",
         "type": "tabs",
-        "dimension": 32.79613215149073,
+        "dimension": 49.39320388349515,
         "children": [
           {
             "id": "2caed6827f1efab6",
@@ -114,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5110321044922,
-    "collapsed": true
+    "width": 276.5110321044922
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -131,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 19일 취업스터디.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 19일 취업스터디.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md"
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 19일 취업스터디.md"
               }
             }
           }
@@ -198,6 +182,11 @@
   },
   "active": "ce504f482b965377",
   "lastOpenFiles": [
+    "1_Projects/Burgerput/Burgerput.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 19일 취업스터디.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/회의.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/취업스터디.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
     "2_Areas/Spring/h2 DB를 이용해서 Transcation이해해보기.md",
     "resources/Pasted image 20240919015555.png",
     "resources/Pasted image 20240919015241.png",
@@ -212,14 +201,12 @@
     "2_Areas/Spring/Spring.md",
     "2_Areas/Docs/Docs.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/멘토링.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/개발문서.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/Docs.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/실전프로젝트.md",
     "2_Areas/Spring/Spring @Transactional뜯어보기.md",
     "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/회의 발표자료.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/취업스터디.md",
     "1_Projects/제로베이스 대기업 취업 특별반/이력서첨삭/이력서첨삭.md",
     "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서버전들.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/설계문서/설계문서.md",
@@ -231,8 +218,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/질문집 모음/질문집 모음.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/hourplace 순서도.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/9월 16일 12시 범석님이랑 짧은 회의.md",
-    "2_Areas/cs/OSI 7계층.md",
-    "7_TIL/20240917+ 오늘의 TIL.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/설계문서",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서",
     "2_Areas/Docs",
