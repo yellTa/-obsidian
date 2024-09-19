@@ -6,7 +6,7 @@
       {
         "id": "f2c09484126a8fb8",
         "type": "tabs",
-        "dimension": 78.35051546391753,
+        "dimension": 78.31010452961672,
         "children": [
           {
             "id": "ce504f482b965377",
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Areas/Spring/H2 DB이용해서 Lock 이해해보기.md",
+                "file": "2_Areas/cs/OSI 7계층.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
       {
         "id": "34c70a62ed80b617",
         "type": "tabs",
-        "dimension": 21.649484536082475,
+        "dimension": 21.689895470383274,
         "children": [
           {
             "id": "2caed6827f1efab6",
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Areas/Spring/H2 DB이용해서 Lock 이해해보기.md",
+                "file": "2_Areas/cs/OSI 7계층.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Areas/Spring/H2 DB이용해서 Lock 이해해보기.md",
+                "file": "2_Areas/cs/OSI 7계층.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Areas/Spring/H2 DB이용해서 Lock 이해해보기.md"
+                "file": "2_Areas/cs/OSI 7계층.md"
               }
             }
           }
@@ -184,6 +184,10 @@
   },
   "active": "f729303d5892e038",
   "lastOpenFiles": [
+    "2_Areas/Docs/SOLID원칙.md",
+    "2_Areas/Spring/h2 DB를 이용해서 Transcation이해해보기.md",
+    "2_Areas/Spring/Spring.md",
+    "2_Areas/Spring/H2 DB이용해서 Lock 이해해보기.md",
     "resources/Pasted image 20240919223040.png",
     "resources/Pasted image 20240919223016.png",
     "resources/Pasted image 20240919222819.png",
@@ -194,15 +198,11 @@
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 19일 실전프로젝트 멘토링 회의.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/실전프로젝트.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/취업스터디.md",
-    "2_Areas/Spring/H2 DB이용해서 Lock 이해해보기.md",
-    "2_Areas/Spring/h2 DB를 이용해서 Transcation이해해보기.md",
     "2_Areas/Spring/타임어택으로 명함 관리 프로그램만들기.md",
     "resources/Pasted image 20240919170024.png",
     "resources/Pasted image 20240919165601.png",
     "resources/Pasted image 20240919165356.png",
     "resources/Pasted image 20240919165315.png",
-    "resources/Pasted image 20240919165131.png",
-    "2_Areas/Spring/Spring.md",
     "2_Areas/Docs/Docs.md",
     "2_Areas/Docs/Untitled.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
@@ -219,7 +219,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/이력서버전들/이력서버전들.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/설계문서/설계문서.md",
     "2_Areas/Docs/Service Locator -design pattern.md",
-    "2_Areas/Docs/SOLID원칙.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/설계문서",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서",
     "2_Areas/Docs",

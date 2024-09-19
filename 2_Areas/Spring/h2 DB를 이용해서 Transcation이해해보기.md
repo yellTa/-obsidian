@@ -1,6 +1,6 @@
 ---
 created: 2024-09-19 00:26
-updated: 2024-09-19T01:58
+updated: 2024-09-19T22:34
 tags:
   - develop
   - study
@@ -8,7 +8,7 @@ tags:
   - database
   - backend
 Progress:
-  - ongoing
+  - end
 ---
 # h2 DB를 이용해서 트랜잭션을 이해해보자
 트랜잭션을 h2 DB를 이용해서 이해해보자 
