@@ -6,7 +6,7 @@
       {
         "id": "f2c09484126a8fb8",
         "type": "tabs",
-        "dimension": 50.60679611650486,
+        "dimension": 83.75174337517434,
         "children": [
           {
             "id": "ce504f482b965377",
@@ -37,7 +37,7 @@
       {
         "id": "34c70a62ed80b617",
         "type": "tabs",
-        "dimension": 49.39320388349515,
+        "dimension": 16.248256624825665,
         "children": [
           {
             "id": "2caed6827f1efab6",
@@ -99,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5110321044922
+    "width": 276.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -182,7 +183,10 @@
   },
   "active": "ce504f482b965377",
   "lastOpenFiles": [
+    "resources/Pasted image 20240919165356.png",
+    "resources/Pasted image 20240919165315.png",
     "2_Areas/Spring/타임어택으로 명함 관리 프로그램만들기.md",
+    "resources/Pasted image 20240919165131.png",
     "resources/Pasted image 20240919142651.png",
     "2_Areas/Spring/Spring.md",
     "2_Areas/Docs/Docs.md",
@@ -201,8 +205,6 @@
     "resources/Pasted image 20240919014642.png",
     "resources/Pasted image 20240919014340.png",
     "resources/Pasted image 20240919014314.png",
-    "resources/Pasted image 20240919014211.png",
-    "resources/Pasted image 20240919014120.png",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/개발문서.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/Docs.md",
