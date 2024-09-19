@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 19일 취업스터디.md",
+                "file": "2_Areas/Spring/타임어택으로 명함 관리 프로그램만들기.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 19일 취업스터디.md",
+                "file": "2_Areas/Spring/타임어택으로 명함 관리 프로그램만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 19일 취업스터디.md",
+                "file": "2_Areas/Spring/타임어택으로 명함 관리 프로그램만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 19일 취업스터디.md"
+                "file": "2_Areas/Spring/타임어택으로 명함 관리 프로그램만들기.md"
               }
             }
           }
@@ -182,11 +182,17 @@
   },
   "active": "ce504f482b965377",
   "lastOpenFiles": [
-    "1_Projects/Burgerput/Burgerput.md",
+    "2_Areas/Spring/타임어택으로 명함 관리 프로그램만들기.md",
+    "resources/Pasted image 20240919142651.png",
+    "2_Areas/Spring/Spring.md",
+    "2_Areas/Docs/Docs.md",
+    "2_Areas/Docs/Untitled.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 19일 취업스터디.md",
+    "1_Projects/Burgerput/Burgerput.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/회의.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/취업스터디.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
     "2_Areas/Spring/h2 DB를 이용해서 Transcation이해해보기.md",
     "resources/Pasted image 20240919015555.png",
     "resources/Pasted image 20240919015241.png",
@@ -197,11 +203,7 @@
     "resources/Pasted image 20240919014314.png",
     "resources/Pasted image 20240919014211.png",
     "resources/Pasted image 20240919014120.png",
-    "resources/Pasted image 20240919013940.png",
-    "2_Areas/Spring/Spring.md",
-    "2_Areas/Docs/Docs.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/멘토링.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/개발문서.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/Docs.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/실전프로젝트.md",
@@ -215,9 +217,6 @@
     "2_Areas/Docs/SOLID원칙.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/질문집 모음/실전프로젝트 주제.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/질문집 모음/Spring MVC파일 구조 여쭤보기.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/질문집 모음/질문집 모음.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/hourplace 순서도.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/9월 16일 12시 범석님이랑 짧은 회의.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/설계문서",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서",
     "2_Areas/Docs",
