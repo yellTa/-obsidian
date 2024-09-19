@@ -117,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2_Areas/Spring/타임어택으로 명함 관리 프로그램만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2_Areas/Spring/타임어택으로 명함 관리 프로그램만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2_Areas/Spring/타임어택으로 명함 관리 프로그램만들기.md"
+              }
             }
           }
         ]
