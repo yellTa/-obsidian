@@ -26,14 +26,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월20일 정기미팅.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월20일 정기미팅.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "690498f32e064d07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/개발문서.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "34c70a62ed80b617",
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월20일 정기미팅.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/개발문서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월20일 정기미팅.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/개발문서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월20일 정기미팅.md"
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/개발문서.md"
               }
             }
           }
@@ -181,9 +193,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "f729303d5892e038",
+  "active": "690498f32e064d07",
   "lastOpenFiles": [
-    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월20일 정기미팅.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/hourplace 순서도.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/개발문서.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월20일 정기미팅.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/hourplace 예약 확인목록.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/취업스터디.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
@@ -214,11 +228,9 @@
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 19일 취업스터디.md",
     "1_Projects/Burgerput/Burgerput.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/회의.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/개발문서.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/Docs.md",
     "2_Areas/Spring/Spring @Transactional뜯어보기.md",
     "1_Projects/제로베이스 대기업 취업 특별반/회의 발표자료/회의 발표자료.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/이력서첨삭/이력서첨삭.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/설계문서",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서",
     "2_Areas/Docs",

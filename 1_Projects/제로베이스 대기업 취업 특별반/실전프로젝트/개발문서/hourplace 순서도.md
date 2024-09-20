@@ -1,12 +1,13 @@
 ---
 created: 2024-09-16 15:42
-updated: 2024-09-16T16:05
+updated: 2024-09-20T19:37
 tags:
   - 실전서비스런칭프로젝트
 회의: false
 Progress:
   - ongoing
 ---
+해보니까 쉬워서 순서도 안그려도 될듯
 
 
 >[!important]
