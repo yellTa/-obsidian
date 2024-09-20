@@ -1,6 +1,6 @@
 ---
 created: 2024-09-20 21:54
-updated: 2024-09-20T21:58
+updated: 2024-09-20T22:21
 tags:
   - 실전서비스런칭프로젝트
 출처: 
@@ -11,7 +11,9 @@ tags:
 ### 1.클라이언트(프론트) 에서 로그인 요청
 스프링 Security로 지정한 http://localhost:8080/oauth2/authorization/kakao 이 링크로 리다이렉션 됨
 
-Spring Seuciryt는 Application.properties에 있다.
+Spring Seuciryt는 Application.properties에 있다. 
+redirect-uri를 설정하고 그 uri에 맞는 셋업이 되어있어야됨
+
 
 ### 2. Spring Security에서 처리하기 
 요청을 받으면 Spring Security가 카카오 인증서버에 다시 리디렉션 함. 카카오 로그인 페이지가 사용자에게 표시됨 
