@@ -9,7 +9,7 @@
   "enableExperimentalHash": false,
   "fileHashMap": {
     "1_Projects/Burgerput/Burgerput.md": "f6b55f42ed7d07d8e8b5458c4aa9089a40504456f08ac8fa1679b73d2d972368",
-    "Templates/Memo.md": "f22c8d5e694a1a4650d923683ca78ff2708209d37d943ce57333443c74bd83ca",
+    "Templates/Memo.md": "624a0d85d699b052df5ce728cd03e6f37e22dbc9f7881da3de33cac745f969e2",
     "Templates/devlop.md": "86095de08f22d0f7e15072efbad262d59441193f6e19865e7f43aeccbfc8ba9d",
     "HOW TO.md": "7f2c1617c7d81f1ec101ed159131c8eb8bb3e8b6987efc07d1dc6af79302fa42",
     "2_Areas/취업준비/2025년 취업 다 개패버리기/2025년 취업 다 개패버리기.md": "42e0ffbe3152cee9c343bbcfaea8a10a62c3510c3e3c64f7760a24364d40734b",
@@ -354,6 +354,7 @@
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/hourplace 예약 확인목록.md": "3f71b085e842f16fa1632584af9dde52c46a34b48a049f7f1d6c5e5fc845fe97",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월20일 정기미팅.md": "8474cdc770faddfa1999d4e5ca8b8bf2e3773dc89af95cf87dd12ff6fc873836",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/OAuth로 로그인하고 세션유지하기.md": "77a0b8b1a26a6c4cbb10f675e3fc8794af673ab46ab0da8cde0f263ceec1dec6",
-    "2_Areas/Docs/Git FLOW.md": "b0e5d1bb44b224281255fa5d9a6a7c947aa07433dc6e35109dc00ee9a5f67dc6"
+    "2_Areas/Docs/Git FLOW.md": "b0e5d1bb44b224281255fa5d9a6a7c947aa07433dc6e35109dc00ee9a5f67dc6",
+    "5_Memo/github그룹 프로젝트하는 방법 + branch 전략 충돌해결 코드리뷰.md": "1e1225f62725fdf7a66095f89d7182b548623758a41daa7f0d1549da7996c302"
   }
 }

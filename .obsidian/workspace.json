@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Areas/Docs/Git FLOW.md",
+                "file": "5_Memo/github그룹 프로젝트하는 방법 + branch 전략 충돌해결 코드리뷰.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5110321044922,
-    "collapsed": true
+    "width": 269.5110321044922
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Areas/Docs/Git FLOW.md",
+                "file": "5_Memo/github그룹 프로젝트하는 방법 + branch 전략 충돌해결 코드리뷰.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Areas/Docs/Git FLOW.md",
+                "file": "5_Memo/github그룹 프로젝트하는 방법 + branch 전략 충돌해결 코드리뷰.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Areas/Docs/Git FLOW.md"
+                "file": "5_Memo/github그룹 프로젝트하는 방법 + branch 전략 충돌해결 코드리뷰.md"
               }
             }
           }
@@ -196,13 +195,15 @@
   },
   "active": "f729303d5892e038",
   "lastOpenFiles": [
+    "Templates/Memo.md",
+    "5_Memo/github그룹 프로젝트하는 방법 + branch 전략 충돌해결 코드리뷰.md",
+    "2_Areas/Docs/Git FLOW.md",
     "resources/Pasted image 20240921151510.png",
     "resources/Pasted image 20240921151427.png",
     "resources/Pasted image 20240921151318.png",
     "resources/Pasted image 20240921151251.png",
     "resources/Pasted image 20240921151222.png",
     "resources/Pasted image 20240921150958.png",
-    "2_Areas/Docs/Git FLOW.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/OAuth로 로그인하고 세션유지하기.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/회의.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
@@ -223,7 +224,6 @@
     "resources/Pasted image 20240919223016.png",
     "resources/Pasted image 20240919222819.png",
     "resources/Pasted image 20240919222714.png",
-    "resources/Pasted image 20240919222614.png",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/회의록모음.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 19일 실전프로젝트 멘토링 회의.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/실전프로젝트.md",
@@ -231,7 +231,6 @@
     "2_Areas/Docs/Docs.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 19일 취업스터디.md",
     "1_Projects/Burgerput/Burgerput.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/Docs.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/설계문서",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서",
     "2_Areas/Docs",
