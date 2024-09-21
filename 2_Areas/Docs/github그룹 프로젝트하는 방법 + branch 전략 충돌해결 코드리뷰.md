@@ -1,6 +1,6 @@
 ---
 created: 2024-09-21 16:25
-updated: 2024-09-21T16:30
+updated: 2024-09-21T16:32
 tags: 
 출처: 
 ---
@@ -13,8 +13,9 @@ readmd.md추가
 ## 2. develop 브랜치 만들기
 Master는 유저가 쓰는거임 건드리면 안됨
 
-## 3.Master branch 보호하기
-Settings - > protect branch
+## 3.Main branch 보호하기
+근데 main브랜치는 default 브랜치로 protection rule이 이미 적용되어 있음
+다른 브랜치를 보호하고 싶다면 사용함
 
 
 
