@@ -1,6 +1,6 @@
 ---
 created: 2024-09-21 16:25
-updated: 2024-09-21T16:42
+updated: 2024-09-21T16:47
 tags: 
 출처: 
 ---
@@ -34,9 +34,27 @@ feature에서 내감 ㅏㄴ들고 develop에 추가하고 develop이 안정적�
 
 팀원이라면 project에 들어가서 issue에 들어가서 확인한 다음에 branch 따서 만든 다음에 그대로 프로젝트 시작하면 되는 거임
 
+## 5. feature에서 수정하고 push하기
+코드를 수정하고 push한다.
 
 
+``` java
+C:\Users\bbubb\Desktop\Spring공부\demo>git add *
 
+C:\Users\bbubb\Desktop\Spring공부\demo>git commit -m "feature A"
+[feature/login 361679e] feature A
+ 2 files changed, 11 insertions(+)
+ create mode 100644 src/main/java/OAuth/practice/demo/web/Sample.java
+
+C:\Users\bbubb\Desktop\Spring공부\demo>git push
+
+```
+
+이때 branch에서 git push 하게되면 자기가 작업하는 branch에서 push함
+## 6. pullrequest하기! master 말고 develop으로
+![[Pasted image 20240921164655.png]]
+
+main이 아니라 develop으로 보내야한다. 
 
 
 # 설명
