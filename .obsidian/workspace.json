@@ -112,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5110321044922
+    "width": 269.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -195,6 +196,11 @@
   },
   "active": "f729303d5892e038",
   "lastOpenFiles": [
+    "resources/Pasted image 20240921151510.png",
+    "resources/Pasted image 20240921151427.png",
+    "resources/Pasted image 20240921151318.png",
+    "resources/Pasted image 20240921151251.png",
+    "resources/Pasted image 20240921151222.png",
     "resources/Pasted image 20240921150958.png",
     "2_Areas/Docs/Git FLOW.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/OAuth로 로그인하고 세션유지하기.md",
@@ -218,15 +224,10 @@
     "resources/Pasted image 20240919222819.png",
     "resources/Pasted image 20240919222714.png",
     "resources/Pasted image 20240919222614.png",
-    "resources/Pasted image 20240919222451.png",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/회의록모음.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 19일 실전프로젝트 멘토링 회의.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/실전프로젝트.md",
     "2_Areas/Spring/타임어택으로 명함 관리 프로그램만들기.md",
-    "resources/Pasted image 20240919170024.png",
-    "resources/Pasted image 20240919165601.png",
-    "resources/Pasted image 20240919165356.png",
-    "resources/Pasted image 20240919165315.png",
     "2_Areas/Docs/Docs.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 19일 취업스터디.md",
     "1_Projects/Burgerput/Burgerput.md",
