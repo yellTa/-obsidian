@@ -1,6 +1,6 @@
 ---
 created: 2024-09-22 00:45
-updated: 2024-09-22T01:26
+updated: 2024-09-22T01:31
 tags:
   - burgerput
   - ssl
@@ -18,6 +18,11 @@ tags:
 
 ![[Pasted image 20240922012604.png]]
 어쩌다가 chrome driver 6개 동시에 띄워봄 
+
+
+![[Pasted image 20240922013131.png]]
+
+
 
 
 # 결론
