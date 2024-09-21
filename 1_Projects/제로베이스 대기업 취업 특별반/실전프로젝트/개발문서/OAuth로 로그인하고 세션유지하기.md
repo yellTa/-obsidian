@@ -1,6 +1,6 @@
 ---
 created: 2024-09-20 21:54
-updated: 2024-09-21T09:46
+updated: 2024-09-21T09:59
 tags:
   - 실전서비스런칭프로젝트
 출처: 
@@ -14,14 +14,17 @@ tags:
 4. 상품 구성페이지는 무조건 로그인해야 가능하다.
 
 
-
-5. kakao Developter Center설정
-6. Spring boot 프로젝트 설정
-7. 페이지 구성
+1. kakao Developter Center설정
+2. Spring boot 프로젝트 설정
+3. 페이지 구성
    메인페이지
    로그인페이지
    상품등록페이지
    로그아웃페이지
+
+Spring Filter가 자동으로 생성돼 인증된 사용자인지 확인하고 확인되지 않았으면 /?continue로 리다이렉트하고 있다.
+따라서 우리가 필요한 Filter를 적용해야한다.
+   
 
 
 
