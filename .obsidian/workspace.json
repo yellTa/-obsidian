@@ -6,7 +6,7 @@
       {
         "id": "f2c09484126a8fb8",
         "type": "tabs",
-        "dimension": 75.95573440643864,
+        "dimension": 73.635806253832,
         "children": [
           {
             "id": "ce504f482b965377",
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Areas/Docs/github그룹 프로젝트하는 방법 + branch 전략 충돌해결 코드리뷰.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/개발문서.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +50,7 @@
       {
         "id": "34c70a62ed80b617",
         "type": "tabs",
-        "dimension": 24.044265593561367,
+        "dimension": 26.364193746167995,
         "children": [
           {
             "id": "2caed6827f1efab6",
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Areas/Docs/github그룹 프로젝트하는 방법 + branch 전략 충돌해결 코드리뷰.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/개발문서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Areas/Docs/github그룹 프로젝트하는 방법 + branch 전략 충돌해결 코드리뷰.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/개발문서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Areas/Docs/github그룹 프로젝트하는 방법 + branch 전략 충돌해결 코드리뷰.md"
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/개발문서.md"
               }
             }
           }
@@ -196,8 +196,8 @@
   },
   "active": "f729303d5892e038",
   "lastOpenFiles": [
-    "resources/Pasted image 20240921165042.png",
     "2_Areas/Docs/github그룹 프로젝트하는 방법 + branch 전략 충돌해결 코드리뷰.md",
+    "resources/Pasted image 20240921165042.png",
     "resources/Pasted image 20240921164802.png",
     "resources/Pasted image 20240921164655.png",
     "resources/Pasted image 20240921163918.png",
@@ -210,7 +210,6 @@
     "resources/Pasted image 20240921151318.png",
     "resources/Pasted image 20240921151251.png",
     "resources/Pasted image 20240921151222.png",
-    "resources/Pasted image 20240921150958.png",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/OAuth로 로그인하고 세션유지하기.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/회의.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
