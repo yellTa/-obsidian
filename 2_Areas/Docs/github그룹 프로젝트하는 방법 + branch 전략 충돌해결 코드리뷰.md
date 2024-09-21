@@ -1,6 +1,6 @@
 ---
 created: 2024-09-21 16:25
-updated: 2024-09-21T16:37
+updated: 2024-09-21T16:39
 tags: 
 출처: 
 ---
@@ -19,6 +19,16 @@ Master는 유저가 쓰는거임 건드리면 안됨
 
 ## 4. github 프로젝트
 프로젝트 만들어서 이슈 만들기 그리고 issue로부터 브랜치 따기
+
+![[Pasted image 20240921163827.png]]
+해야하는 일을 task로 등록하고 issue로 올린다음에 create a branch를 통해서 만들 수 있음
+
+![[Pasted image 20240921163918.png]]
+develop에서 만든다. 
+왜냐?
+
+feature에서 내감 ㅏㄴ들고 develop에 추가하고 develop이 안정적이면 그때 main에 넣는거니까
+
 
 # 설명
 
