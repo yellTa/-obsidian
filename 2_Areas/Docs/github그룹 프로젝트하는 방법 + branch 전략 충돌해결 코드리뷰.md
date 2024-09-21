@@ -1,6 +1,6 @@
 ---
 created: 2024-09-21 16:25
-updated: 2024-09-21T16:57
+updated: 2024-09-21T17:00
 tags: 
 출처: 
 ---
@@ -72,6 +72,7 @@ main이 아니라 develop으로 보내야한다.
 # 설명
 
 # 출처/참고
-https://www.youtube.com/watch?v=tkkbYCajCjM
+[깃허브로 그룹 프로젝트하는법 | 브랜치 전략, 충돌해결, 코드리뷰](https://www.youtube.com/watch?v=tkkbYCajCjM)
+
 # 연결 문서
 
