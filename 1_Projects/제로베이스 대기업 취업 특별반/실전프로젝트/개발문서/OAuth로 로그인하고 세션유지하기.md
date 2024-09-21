@@ -1,6 +1,6 @@
 ---
 created: 2024-09-20 21:54
-updated: 2024-09-21T10:19
+updated: 2024-09-21T12:10
 tags:
   - 실전서비스런칭프로젝트
 출처: 
@@ -30,7 +30,8 @@ Spring Filter가 customFilter보다 우선순위를 가지므로 Spring Filter�
 
 1. 로그인 페이지, 메인페이지는 인증에서 제외한다.
 
-4. 이제 redirect-uri로 들어오는 정보 처리하기 
+4. 이제 redirect-uri로 들어오는 정보 처리하기 - SpringSecurity에서 기본으로 제공하는 링크를 사용했기때문에 따로 처리하지 않았다.
+
    
 
 
