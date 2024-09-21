@@ -1,6 +1,6 @@
 ---
 created: 2024-09-22 00:45
-updated: 2024-09-22T00:47
+updated: 2024-09-22T01:26
 tags:
   - burgerput
   - ssl
@@ -16,6 +16,8 @@ tags:
 
 병신
 
+![[Pasted image 20240922012604.png]]
+어쩌다가 chrome driver 6개 동시에 띄워봄 
 
 
 # 결론
