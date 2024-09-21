@@ -1,6 +1,6 @@
 ---
 created: 2024-09-21 16:25
-updated: 2024-09-21T16:28
+updated: 2024-09-21T16:30
 tags: 
 출처: 
 ---
@@ -13,9 +13,11 @@ readmd.md추가
 ## 2. develop 브랜치 만들기
 Master는 유저가 쓰는거임 건드리면 안됨
 
-
 ## 3.Master branch 보호하기
-3. 
+Settings - > protect branch
+
+
+
 # 설명
 
 # 출처/참고
