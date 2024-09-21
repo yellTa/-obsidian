@@ -1,6 +1,6 @@
 ---
 created: 2024-09-20 21:54
-updated: 2024-09-21T09:59
+updated: 2024-09-21T10:12
 tags:
   - 실전서비스런칭프로젝트
 출처: 
@@ -23,7 +23,9 @@ tags:
    로그아웃페이지
 
 Spring Filter가 자동으로 생성돼 인증된 사용자인지 확인하고 확인되지 않았으면 /?continue로 리다이렉트하고 있다.
+
 따라서 우리가 필요한 Filter를 적용해야한다.
+Spring Filter가 customFilter보다 우선순위를 가지므로 Spring Filter를 체크해야한다.
    
 
 
