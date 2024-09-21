@@ -1,6 +1,6 @@
 ---
 created: 2024-09-20 21:54
-updated: 2024-09-21T10:12
+updated: 2024-09-21T10:19
 tags:
   - 실전서비스런칭프로젝트
 출처: 
@@ -22,10 +22,15 @@ tags:
    상품등록페이지
    로그아웃페이지
 
+4. Spring SecurityFilter 설정하기
 Spring Filter가 자동으로 생성돼 인증된 사용자인지 확인하고 확인되지 않았으면 /?continue로 리다이렉트하고 있다.
 
 따라서 우리가 필요한 Filter를 적용해야한다.
 Spring Filter가 customFilter보다 우선순위를 가지므로 Spring Filter를 체크해야한다.
+
+1. 로그인 페이지, 메인페이지는 인증에서 제외한다.
+
+4. 이제 redirect-uri로 들어오는 정보 처리하기 
    
 
 
