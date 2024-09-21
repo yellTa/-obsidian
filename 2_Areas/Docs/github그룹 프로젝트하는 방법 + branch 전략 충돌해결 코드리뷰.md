@@ -1,6 +1,6 @@
 ---
 created: 2024-09-21 16:25
-updated: 2024-09-21T16:47
+updated: 2024-09-21T16:49
 tags: 
 출처: 
 ---
@@ -55,6 +55,11 @@ C:\Users\bbubb\Desktop\Spring공부\demo>git push
 ![[Pasted image 20240921164655.png]]
 
 main이 아니라 develop으로 보내야한다. 
+
+![[Pasted image 20240921164802.png]]
+코드를 리뷰하고 하는것
+
+
 
 
 # 설명
