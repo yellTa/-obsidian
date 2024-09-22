@@ -10,7 +10,7 @@
   "fileHashMap": {
     "1_Projects/Burgerput/Burgerput.md": "f6b55f42ed7d07d8e8b5458c4aa9089a40504456f08ac8fa1679b73d2d972368",
     "Templates/Memo.md": "624a0d85d699b052df5ce728cd03e6f37e22dbc9f7881da3de33cac745f969e2",
-    "Templates/devlop.md": "86095de08f22d0f7e15072efbad262d59441193f6e19865e7f43aeccbfc8ba9d",
+    "Templates/devlop.md": "415b78feee9b7605daca718f0e931464512fab07c757e688ebf5d6ef02ec28ca",
     "HOW TO.md": "7f2c1617c7d81f1ec101ed159131c8eb8bb3e8b6987efc07d1dc6af79302fa42",
     "2_Areas/취업준비/2025년 취업 다 개패버리기/2025년 취업 다 개패버리기.md": "42e0ffbe3152cee9c343bbcfaea8a10a62c3510c3e3c64f7760a24364d40734b",
     "5_Memo/10분의 중요성.md": "38342acdd66bcb3877532ff224786203436fa5718dfc9b0dea0cf0a92956c9d2",
@@ -358,6 +358,7 @@
     "2_Areas/Docs/github그룹 프로젝트하는 방법 + branch 전략 충돌해결 코드리뷰.md": "85b53c7874504dc98f78f889809a8047e66156761232b350d08247defdd0d86f",
     "1_Projects/Burgerput/2_유지보수/또 SSL 연장까먹음.md": "3d1e733f5f3d7685b96b58863039da2a399edd32d0b9ea3435302f165e9dc53c",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 26일 멘토링.md": "ef6a19b5e9d6aa266933ee500fd8dc40de8248346f47f398e3bed71eded69241",
-    "2_Areas/웹 프로그래밍(풀스택)/웹 프로그래밍(풀스택).md": "ef74c06e8d8c54b7d542ae5b89adeb20dced4fad5b308055f6b51dadbab8c5e9"
+    "2_Areas/웹 프로그래밍(풀스택)/웹 프로그래밍(풀스택).md": "ef74c06e8d8c54b7d542ae5b89adeb20dced4fad5b308055f6b51dadbab8c5e9",
+    "2_Areas/웹 프로그래밍(풀스택)/웹 프로그래밍을 위한 프로그램 언어들.md": "786e97253b422131b13d7d8a42ce074863035baa482191c8b4e689c5dd06825b"
   }
 }

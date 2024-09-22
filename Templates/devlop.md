@@ -1,6 +1,6 @@
 ---
 created: "{{date}} {{time}}"
-updated: 2024-09-15T13:13
+updated: 2024-09-22T20:18
 tags:
   - develop
 Progress:
@@ -18,28 +18,13 @@ Progress:
 
 ## 결과 :
 
-## 부제목
+# 결론
 
-<aside> 🔽 code file name
-
-</aside>
-
-```bash
-# codes
-```
-
-### 결론
-
-> _**아 이렇게 이렇게 이렇게 하면 되는 구나**_
-
+# REVIEW:
 
 
 ---
-# REVIEW:
 
-내가 이 문제를 통해서 깨닫고 배운 것들
-
-원초적인 내용일 수록 좋다.(이론적인 내용들 기본지식들)
 
 # References
 
