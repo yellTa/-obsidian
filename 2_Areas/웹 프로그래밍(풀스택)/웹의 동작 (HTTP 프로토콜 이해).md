@@ -1,14 +1,18 @@
 ---
 created: 2024-09-22 20:35
-updated: 2024-09-22T20:36
+updated: 2024-09-22T20:39
 tags:
   - study
   - 부스트코스
 Progress:
   - ongoing
 ---
-# OBJECT/SUBJECT:
-
+# 핵심개념
+- HTTP
+- Request 형식
+- Request Method
+- Response 형식
+- 응답 코드
 # ANALYSIS:
 
 # CONCLUSION:
