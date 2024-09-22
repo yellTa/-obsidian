@@ -1,10 +1,12 @@
 ---
 created: 2024-09-22 00:45
-updated: 2024-09-22T01:31
+updated: 2024-09-22T09:39
 tags:
   - burgerput
   - ssl
 출처: 
+progress:
+  - end
 ---
 # 또 SSL 연장 까먹음
 ![[Pasted image 20240922004556.png]]
@@ -23,12 +25,8 @@ tags:
 ![[Pasted image 20240922013131.png]]
 
 
-
-
-# 결론
-
 # REVIEW
-
+대시보드를 만들어서 제발 잘 확인하자^^
 
 ---
 # 참고
