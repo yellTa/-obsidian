@@ -43,9 +43,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4ab492327799cfa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7_TIL/9월 22일 TIL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "34c70a62ed80b617",
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Areas/웹 프로그래밍(풀스택)/웹의 동작 (HTTP 프로토콜 이해).md",
+                "file": "7_TIL/9월 22일 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Areas/웹 프로그래밍(풀스택)/웹의 동작 (HTTP 프로토콜 이해).md",
+                "file": "7_TIL/9월 22일 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Areas/웹 프로그래밍(풀스택)/웹의 동작 (HTTP 프로토콜 이해).md"
+                "file": "7_TIL/9월 22일 TIL.md"
               }
             }
           }
@@ -193,10 +205,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "690498f32e064d07",
+  "active": "4ab492327799cfa2",
   "lastOpenFiles": [
-    "2_Areas/웹 프로그래밍(풀스택)/웹 프로그래밍을 위한 프로그램 언어들.md",
     "2_Areas/웹 프로그래밍(풀스택)/웹의 동작 (HTTP 프로토콜 이해).md",
+    "7_TIL/9월 22일 TIL.md",
+    "2_Areas/웹 프로그래밍(풀스택)/웹 프로그래밍을 위한 프로그램 언어들.md",
     "Templates/devlop.md",
     "2_Areas/웹 프로그래밍(풀스택)/웹 프로그래밍(풀스택).md",
     "2_Areas/Java/Java.md",
@@ -231,7 +244,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/회의.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/hourplace 순서도.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/hourplace 예약 확인목록.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/설계문서",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서",
     "2_Areas/Docs",
