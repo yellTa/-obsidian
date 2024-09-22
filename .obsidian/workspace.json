@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Areas/웹 프로그래밍(풀스택)/웹 프로그래밍을 위한 프로그램 언어들.md",
+                "file": "2_Areas/웹 프로그래밍(풀스택)/웹의 동작 (HTTP 프로토콜 이해).md",
                 "mode": "source",
                 "source": false
               }
@@ -112,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5110321044922,
-    "collapsed": true
+    "width": 269.5110321044922
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Areas/웹 프로그래밍(풀스택)/웹 프로그래밍을 위한 프로그램 언어들.md",
+                "file": "2_Areas/웹 프로그래밍(풀스택)/웹의 동작 (HTTP 프로토콜 이해).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Areas/웹 프로그래밍(풀스택)/웹 프로그래밍을 위한 프로그램 언어들.md",
+                "file": "2_Areas/웹 프로그래밍(풀스택)/웹의 동작 (HTTP 프로토콜 이해).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Areas/웹 프로그래밍(풀스택)/웹 프로그래밍을 위한 프로그램 언어들.md"
+                "file": "2_Areas/웹 프로그래밍(풀스택)/웹의 동작 (HTTP 프로토콜 이해).md"
               }
             }
           }
@@ -196,8 +195,9 @@
   },
   "active": "690498f32e064d07",
   "lastOpenFiles": [
-    "Templates/devlop.md",
     "2_Areas/웹 프로그래밍(풀스택)/웹 프로그래밍을 위한 프로그램 언어들.md",
+    "2_Areas/웹 프로그래밍(풀스택)/웹의 동작 (HTTP 프로토콜 이해).md",
+    "Templates/devlop.md",
     "2_Areas/웹 프로그래밍(풀스택)/웹 프로그래밍(풀스택).md",
     "2_Areas/Java/Java.md",
     "2_Areas/Spring/Spring.md",
@@ -232,7 +232,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/hourplace 순서도.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/hourplace 예약 확인목록.md",
-    "2_Areas/cs/OSI 7계층.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/설계문서",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서",
     "2_Areas/Docs",
