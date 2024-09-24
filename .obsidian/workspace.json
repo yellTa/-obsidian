@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/취업스터디.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월24일 정기미팅.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Areas/Spring/타임어택으로 명함 관리 프로그램만들기.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월24일 정기미팅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Areas/Spring/타임어택으로 명함 관리 프로그램만들기.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월24일 정기미팅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Areas/Spring/타임어택으로 명함 관리 프로그램만들기.md"
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월24일 정기미팅.md"
               }
             }
           }
@@ -205,8 +205,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2caed6827f1efab6",
+  "active": "4ab492327799cfa2",
   "lastOpenFiles": [
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/회의록모음.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월24일 정기미팅.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/실전프로젝트.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/취업스터디.md",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/2_유지보수/수상한 GET 요청.md",
@@ -216,7 +219,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/MySQL 셋업하기.md",
     "resources/Pasted image 20240923161511.png",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/개발문서.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/실전프로젝트.md",
     "2_Areas/웹 프로그래밍(풀스택)/웹 프로그래밍(풀스택).md",
     "7_TIL/9월 22일 TIL.md",
     "2_Areas/웹 프로그래밍(풀스택)/웹의 동작 (HTTP 프로토콜 이해).md",
@@ -236,8 +238,6 @@
     "resources/Pasted image 20240922013131.png",
     "resources/Pasted image 20240922012604.png",
     "resources/Pasted image 20240922004556.png",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/회의록모음.md",
-    "2_Areas/Docs/github그룹 프로젝트하는 방법 + branch 전략 충돌해결 코드리뷰.md",
     "resources/Pasted image 20240921165042.png",
     "resources/Pasted image 20240921164802.png",
     "resources/Pasted image 20240921164655.png",
