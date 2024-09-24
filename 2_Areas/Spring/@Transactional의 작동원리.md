@@ -1,6 +1,6 @@
 ---
 created: 2024-09-24 23:57
-updated: 2024-09-24T23:58
+updated: 2024-09-24T23:59
 tags:
   - Spring
   - study
@@ -8,8 +8,8 @@ tags:
 출처: 
 ---
 # Spring @Transactional의 작동원리
-Spring은 AOP를 사용해 트랜잭션을 처리한다.
-이는 프록시를 통해서 처리한다는 뜻이다. 
+스프링의 Transaction AOP는 이 @Transactional 애노테이션을 인식해 트랜잭션 프록시를 적용한다.
+
 
 
 
