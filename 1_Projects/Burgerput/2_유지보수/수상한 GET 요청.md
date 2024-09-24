@@ -6,7 +6,7 @@ Progress:
   - end
 업로드할까?: false
 created: 2024-08-02T14:37:00
-updated: 2024-09-09T00:35
+updated: 2024-09-24T00:52
 ---
 # OBJECT/SUBJECT:
 
@@ -35,7 +35,6 @@ zgrab은 공격이라고 함 (알아보기)
 /loading  
 2024-07-26T08:34:49.413+09:00 INFO 754425 --- [nio-8080-exec-4] b.project.zenput.intercepter.CORSFilter : User-Agent : curl/7.81.0  
 
-  
 
 curl버전이 다름
 
@@ -57,7 +56,6 @@ Go-http-client/1.1
 
 ## 의도하지 않은 GET요청이 들어오는 이유
 
-  
 
 ### 1. 검색 엔진 크롤러
 
