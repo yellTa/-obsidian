@@ -6,7 +6,7 @@ Progress:
 on Naver: false
 업로드할까?: false
 created: 2024-03-06T14:37:00
-updated: 2024-08-27T17:57
+updated: 2024-09-25T17:47
 ---
 # Set-up free SSL for my Project
 
@@ -78,9 +78,6 @@ Certificate is saved at: /etc/letsencrypt/live/[=======]/fullchain.pem
 Key is saved at:         /etc/letsencrypt/live/[=======]/privkey.pem
 ```
 
-  
-
-  
 
 # 2. Apply SSL to Spring Boot
 
@@ -99,10 +96,6 @@ password:putBu13@9*
 
 Copy the keystore.p12 file for SSL setup
 
-  
-
-  
-
 ## 2-2. [application.properties](http://application.properties) file
 
 ```Shell
@@ -112,10 +105,6 @@ server.ssl.key-store-password=[Your password]
 ```
 
 Add this line to [application.properties](http://application.properties) in the Spring boot for applying SSL
-
-  
-
-  
 
 # 3. auto renew the SSL
 
