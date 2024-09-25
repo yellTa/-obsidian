@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/3rd 테스트서버 셋업 1/3rd 테스트서버 셋업 1.md",
+                "file": "1_Projects/Burgerput/2_유지보수/3rd 테스트서버 셋업 1/swap 메모리 설정/swap 메모리 설정.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1_Projects/Burgerput/2_유지보수/3rd 테스트서버 셋업 1/swap 메모리 설정/swap 메모리 설정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,6 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1_Projects/Burgerput/2_유지보수/3rd 테스트서버 셋업 1/swap 메모리 설정/swap 메모리 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +179,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1_Projects/Burgerput/2_유지보수/3rd 테스트서버 셋업 1/swap 메모리 설정/swap 메모리 설정.md"
+              }
             }
           }
         ]
@@ -201,10 +205,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2caed6827f1efab6",
+  "active": "268fd47cca0c8a62",
   "lastOpenFiles": [
-    "1_Projects/Burgerput/2_유지보수/3rd 테스트서버 셋업 1/3rd 테스트서버 셋업 1.md",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
+    "1_Projects/Burgerput/2_유지보수/3rd 테스트서버 셋업 1/3rd 테스트서버 셋업 1.md",
     "1_Projects/Burgerput/1_개발문서/linux mysql setup/MySQL 8 대소문자 구분/MySQL 8 대소문자 구분.md",
     "1_Projects/Burgerput/1_개발문서/AWS Domain Set-up/AWS Domain Set-up.md",
     "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
