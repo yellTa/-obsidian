@@ -1,12 +1,8 @@
 ---
 created: 2024-08-03T14:37
-updated: 2024-08-04T22:42
+updated: 2024-09-25T17:57
 ---
 MySQL Database는 기본적으로는 대소문자를 구분하도록 되어있다.(Linux / Unix)
-
-  
-
-  
 
 my.cnf파일에
 
@@ -16,8 +12,6 @@ lower_case_table_names = 1
 ```
 
 로 지정하면 되지만 에러가 나는 경우가 있다.
-
-  
 
 # 데이터 베이스 초기화 후 세팅
 
@@ -149,14 +143,6 @@ mysql> show variables like 'lower%';
 ### chmod - 파일 권한
 
 ![[Untitled 3 14.png|Untitled 3 14.png]]
-
-  
-
-  
-
-  
-
-  
 
 ---
 

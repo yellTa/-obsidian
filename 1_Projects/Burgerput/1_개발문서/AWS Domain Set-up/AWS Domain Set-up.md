@@ -6,7 +6,7 @@ Progress:
 on Naver: false
 업로드할까?: false
 created: 2024-03-07T14:37:00
-updated: 2024-08-27T17:56
+updated: 2024-09-25T17:55
 ---
 # Domain for EC2
 
@@ -60,22 +60,12 @@ highlight yellow addresses are connection addresses with nameServer( in my case 
 
 
 # 3. 가비아 setup
-
 ## 1-1. 가비아 name server 설정
-
 ![[Untitled 4 5.png|Untitled 4 5.png]]
-
-  
-
-  
 
 ![[Untitled 5 5.png|Untitled 5 5.png]]
 
 Enter the AWS Addresses
-
-  
-
-  
 
 ---
 
