@@ -21,6 +21,18 @@
             }
           },
           {
+            "id": "268fd47cca0c8a62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5_Memo/intellij jsp설정하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f729303d5892e038",
             "type": "leaf",
             "state": {
@@ -44,7 +56,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "34c70a62ed80b617",
@@ -111,8 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5110321044922,
-    "collapsed": true
+    "width": 269.5110321044922
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월25일 스크럼회의.md",
+                "file": "5_Memo/intellij jsp설정하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월25일 스크럼회의.md",
+                "file": "5_Memo/intellij jsp설정하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월25일 스크럼회의.md"
+                "file": "5_Memo/intellij jsp설정하기.md"
               }
             }
           }
@@ -193,9 +205,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "ce504f482b965377",
+  "active": "268fd47cca0c8a62",
   "lastOpenFiles": [
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월25일 스크럼회의.md",
+    "5_Memo/intellij jsp설정하기.md",
     "2_Areas/Spring/타임어택으로 명함 관리 프로그램만들기.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월24일 정기미팅.md",
     "resources/Pasted image 20240925001846.png",
@@ -223,7 +236,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 26일 멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사랑 자소서 조사.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
     "resources/Pasted image 20240922013131.png",
     "resources/Pasted image 20240922012604.png",
     "resources/Pasted image 20240922004556.png",
