@@ -1,6 +1,6 @@
 ---
 created: 2024-08-03T14:37
-updated: 2024-09-25T17:57
+updated: 2024-09-25T17:58
 ---
 MySQL Database는 기본적으로는 대소문자를 구분하도록 되어있다.(Linux / Unix)
 
@@ -43,13 +43,7 @@ sudo apt-get remove --purge mysql*
 # E version Check
 > mysql --version
 ```
-
-  
-
 참고로 초기 root 비밀번호는 root이다.
-
-  
-
 ### Login to Mysql
 
 ```JavaScript
