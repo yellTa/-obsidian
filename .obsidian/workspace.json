@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 26일 멘툉.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 26일 멘토링.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5110321044922,
-    "collapsed": true
+    "width": 286.5110321044922
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 26일 멘툉.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 26일 멘토링.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 26일 멘툉.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 26일 멘토링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 26일 멘툉.md"
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 26일 멘토링.md"
               }
             }
           }
@@ -196,7 +195,8 @@
   },
   "active": "268fd47cca0c8a62",
   "lastOpenFiles": [
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 26일 멘툉.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 27일 스크럼 회의.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 26일 멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/회의록모음.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 26일 멘토링.md",
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
@@ -221,7 +221,6 @@
     "1_Projects/Burgerput/1_개발문서/AWS Domain Set-up/AWS Domain Set-up.md",
     "1_Projects/Burgerput/1_개발문서/SSL Set-up/SSL Set-up.md",
     "5_Memo/intellij jsp설정하기.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월25일 스크럼회의.md",
     "resources/Pasted image 20240925001846.png",
     "resources/Pasted image 20240923161511.png",
     "2_Areas/웹 프로그래밍(풀스택)",
