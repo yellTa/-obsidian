@@ -57,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "34c70a62ed80b617",
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/CheatController분리하기.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 26일 멘토링.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/CheatController분리하기.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 26일 멘토링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/CheatController분리하기.md"
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 26일 멘토링.md"
               }
             }
           }
@@ -205,8 +205,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "268fd47cca0c8a62",
+  "active": "f729303d5892e038",
   "lastOpenFiles": [
+    "1_Projects/Burgerput/2_유지보수/CheatController분리하기.md",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/2_유지보수/LoadingController 정리하기.md",
     "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
@@ -233,7 +234,6 @@
     "1_Projects/Burgerput/2_유지보수/수상한 GET 요청.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/9월 23일 회의.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/회의.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/MySQL 셋업하기.md",
     "resources/Pasted image 20240923161511.png",
     "2_Areas/웹 프로그래밍(풀스택)",
     "resources/Pasted image 20240922013131.png",
