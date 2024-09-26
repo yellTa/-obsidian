@@ -141,7 +141,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 26일 멘툉.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +157,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 26일 멘툉.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,9 +178,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 26일 멘툉.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -206,7 +202,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "f729303d5892e038",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 26일 멘툉.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/회의록모음.md",
