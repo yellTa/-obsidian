@@ -1,6 +1,6 @@
 ---
 created: 2024-08-03T14:37
-updated: 2024-09-26T21:36
+updated: 2024-09-26T21:51
 ---
 MySQL Database는 기본적으로는 대소문자를 구분하도록 되어있다.(Linux / Unix)
 
@@ -64,16 +64,9 @@ mysql> show variables like 'lower%';
 ### 대소문자 옵션 확인
 
 ![[Untitled 1 25.png|Untitled 1 25.png]]
-
 Check mysql lower_case option
-
-  
-
 ## 대소문자 구분 설정 넣기
-
 > Set up lower_case_table_names value after mysql installation or re-initializing Mysql
-
-  
 
 ```Shell
 \#Delete the MySQL data directory
