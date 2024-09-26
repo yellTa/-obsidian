@@ -1,6 +1,6 @@
 ---
 created: 2024-08-03T14:37
-updated: 2024-09-25T17:58
+updated: 2024-09-26T21:36
 ---
 MySQL Database는 기본적으로는 대소문자를 구분하도록 되어있다.(Linux / Unix)
 
@@ -77,7 +77,7 @@ Check mysql lower_case option
 
 ```Shell
 \#Delete the MySQL data directory
-sudo rm-rf  /var/lib/mysql
+sudo rm -rf  /var/lib/mysql
 
 # recreate the Mysql Data directory
 sudo mkdir /var/lib/mysql    
