@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 26일 멘토링.md",
+                "file": "1_Projects/Burgerput/2_유지보수/CheatController분리하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5110321044922
+    "width": 200.5110321044922
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 26일 멘토링.md",
+                "file": "1_Projects/Burgerput/2_유지보수/CheatController분리하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 26일 멘토링.md",
+                "file": "1_Projects/Burgerput/2_유지보수/CheatController분리하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 26일 멘토링.md"
+                "file": "1_Projects/Burgerput/2_유지보수/CheatController분리하기.md"
               }
             }
           }
@@ -207,15 +207,19 @@
   },
   "active": "268fd47cca0c8a62",
   "lastOpenFiles": [
+    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
+    "1_Projects/Burgerput/2_유지보수/LoadingController 정리하기.md",
+    "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
+    "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
+    "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 26일 멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/Untitled.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링.md",
     "1_Projects/Burgerput/2_유지보수/3rd 테스트서버 셋업 1/swap 메모리 설정/swap 메모리 설정.md",
-    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/2_유지보수/3rd 테스트서버 셋업 1/3rd 테스트서버 셋업 1.md",
     "1_Projects/Burgerput/1_개발문서/linux mysql setup/MySQL 8 대소문자 구분/MySQL 8 대소문자 구분.md",
     "1_Projects/Burgerput/1_개발문서/AWS Domain Set-up/AWS Domain Set-up.md",
-    "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
     "1_Projects/Burgerput/1_개발문서/SSL Set-up/SSL Set-up.md",
     "5_Memo/intellij jsp설정하기.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월25일 스크럼회의.md",
@@ -231,10 +235,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/회의.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/MySQL 셋업하기.md",
     "resources/Pasted image 20240923161511.png",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/개발문서.md",
-    "2_Areas/웹 프로그래밍(풀스택)/웹 프로그래밍(풀스택).md",
-    "7_TIL/9월 22일 TIL.md",
-    "2_Areas/웹 프로그래밍(풀스택)/웹의 동작 (HTTP 프로토콜 이해).md",
     "2_Areas/웹 프로그래밍(풀스택)",
     "resources/Pasted image 20240922013131.png",
     "resources/Pasted image 20240922012604.png",

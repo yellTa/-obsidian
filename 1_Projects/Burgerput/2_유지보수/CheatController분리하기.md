@@ -1,6 +1,6 @@
 ---
 created: 2024-09-03 17:56
-updated: 2024-09-15T23:22
+updated: 2024-09-26T12:45
 tags:
   - develop
 Progress:
@@ -24,7 +24,7 @@ public class CheatController {
 ```
 현재 Controller에서 @Transational을 사용하고 있다.
 
-### SOC위반
+### SRP위반
 Controller단은 HTTP요청을 처리하거나 응답하는데 사용되어야 한다. 따라서 @Transactional같은 비지니스단에서 처리되어야 하는 요소는 필요가 없다. 
 
 ### 트랜잭션 관리
