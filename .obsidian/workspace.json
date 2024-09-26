@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 26일 멘토링.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 26일 멘툉.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 26일 멘토링.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 26일 멘토링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +165,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 26일 멘토링.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -193,8 +189,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "268fd47cca0c8a62",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 26일 멘툉.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/회의록모음.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 26일 멘토링.md",
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
@@ -206,9 +205,6 @@
     "1_Projects/Burgerput/1_개발문서/Aws Files/aws생성하기/aws생성하기.md",
     "1_Projects/Burgerput/2_유지보수/3rd 테스트서버 셋업 1/3rd 테스트서버 셋업 1.md",
     "1_Projects/Burgerput/0_회의록/0_회의록.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 26일 멘툉.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/회의록모음.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 26일 멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사랑 자소서 조사.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/질문집 모음/질문집 모음.md",
     "1_Projects/Burgerput/2_유지보수/LoadingController 정리하기.md",
