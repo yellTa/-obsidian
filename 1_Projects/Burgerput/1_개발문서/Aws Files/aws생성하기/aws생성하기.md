@@ -1,6 +1,6 @@
 ---
 created: 2023-01-03T14:37:00
-updated: 2024-08-27T18:19
+updated: 2024-09-26T20:53
 ---
 AWS
 
@@ -14,8 +14,6 @@ AWS
 
   
 
-  
-
 ![[Untitled 1 21.png|Untitled 1 21.png]]
 
 t2.micro 선택
@@ -24,7 +22,7 @@ t2.micro 선택
 
 ![[Untitled 2 12.png|Untitled 2 12.png]]
 
-새 키페어 섡택 혹은 이전에 만든 키 페어를 선택한다. 나 같은 경우는 테스트하면서 새로 만든 키페어를 선택함
+새 키페어 선택 혹은 이전에 만든 키 페어를 선택한다. 나 같은 경우는 테스트하면서 새로 만든 키페어를 선택함
 
 ![[ytelltaAws 2.pem|ytelltaAws 2.pem]]
 
