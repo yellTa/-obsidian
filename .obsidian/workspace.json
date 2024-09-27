@@ -31,9 +31,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cceb28030fc8d7a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7_TIL/240926의 TIL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "34c70a62ed80b617",
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 26일 멘토링.md",
+                "file": "7_TIL/240926의 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 26일 멘토링.md",
+                "file": "7_TIL/240926의 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 26일 멘토링.md"
+                "file": "7_TIL/240926의 TIL.md"
               }
             }
           }
@@ -181,10 +193,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "268fd47cca0c8a62",
+  "active": "cceb28030fc8d7a5",
   "lastOpenFiles": [
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 27일 스크럼 회의.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 26일 멘토링.md",
+    "7_TIL/240926의 TIL.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월 27일 스크럼 회의.md",
     "2_Areas/웹 프로그래밍(풀스택)/웹의 동작 (HTTP 프로토콜 이해).md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/회의록모음.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 26일 멘토링.md",
@@ -208,7 +221,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링.md",
     "1_Projects/Burgerput/2_유지보수/3rd 테스트서버 셋업 1/swap 메모리 설정/swap 메모리 설정.md",
     "1_Projects/Burgerput/1_개발문서/AWS Domain Set-up/AWS Domain Set-up.md",
-    "1_Projects/Burgerput/1_개발문서/SSL Set-up/SSL Set-up.md",
     "resources/Pasted image 20240925001846.png",
     "resources/Pasted image 20240923161511.png",
     "2_Areas/웹 프로그래밍(풀스택)",
