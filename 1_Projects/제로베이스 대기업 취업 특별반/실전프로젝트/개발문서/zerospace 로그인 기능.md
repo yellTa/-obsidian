@@ -1,6 +1,6 @@
 ---
 created: 2024-09-28 17:54
-updated: 2024-09-28T21:48
+updated: 2024-09-28T22:47
 tags:
   - 실전서비스런칭프로젝트
 회의: false
@@ -65,4 +65,48 @@ DB에 사용자 이메일 있나 check하기
 
 JWT토큰 생성하기
 
+## Spring Security(로그인 성공시 핸들러 진입)
+Spring Security Filter설정
+1. /oauth2/authorization/kakao 경로로 로그인 시도
+2. 로그인 성공시 successHandler로 진입
+
+OAuthSuccessHandler
+로그인 성공시 카카오 로그인 성공 정보 추출
+
+<파일에 추가해야 하는 기능>
+[ ] DB에 저장된 사용자인지 확인하는 기능
+[ ] JWT토큰 만들어서 통신에 추가하는 기능
+
+OAuthTest.java
+파일 만들어서 mock데이터로 OAuth로그인 여부 확인하려 했으나
+test로는 확인 불가
+
+  
+commit e92cf896b3b116435d0e9f86e0b8cc60fb71b7c3
+
+## DB에 저장된 사용자인지 확인하는 기능 추가
+
+Member
+Member 객체 생성
+pk userId(랜덤생성키) 보안을 위해
+Secure random을 사용해서 보안이 강화된 문자열 생성
+
+MemberRepository
+-> Member를 Email로 찾는 메소드 쿼리 생성
+
+MemberService
+-> 가져야하는 기능 정의
+-회원가입(join)
+-DB에 저장된 멤버인지 확인(hasMember)
+- 회원 조회(findMember);
+
+MemberServiceImpl
+MemberService의 구현체
+
+OauthSuccessHandler
+MemberService의존성 추가
+DB에 Member가 있으면 true없으면 false반환
+false인경우는 새롭게 userId 생성후 DB에 저장해야 됨
+  
+commit 5d40dbfcfa259677e2e7e2f2b889db7149341b23
 
