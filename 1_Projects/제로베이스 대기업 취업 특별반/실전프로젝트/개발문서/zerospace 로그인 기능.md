@@ -1,6 +1,6 @@
 ---
 created: 2024-09-28 17:54
-updated: 2024-09-28T18:42
+updated: 2024-09-28T18:49
 tags:
   - 실전서비스런칭프로젝트
 회의: false
@@ -43,8 +43,7 @@ refreshToken은 HTTPOnly Cookie에 담아서 보낼 것
 4. 로그인이 완료되면 JWT토큰 생성하기(accessToken은 헤더에, refreshToken은 HTTPonly쿠키에)
 
 
-## 환경설정 셋업하기
+## 환경설정 셋업하기 -함
 - Spring Security 의존성넣기
-- Selenium의존성 넣기
-- Database의존성 넣기
+- Database 의존성 넣기 8.0.39임
 - 
