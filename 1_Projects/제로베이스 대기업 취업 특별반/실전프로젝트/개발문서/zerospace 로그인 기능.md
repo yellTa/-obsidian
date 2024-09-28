@@ -1,6 +1,6 @@
 ---
 created: 2024-09-28 17:54
-updated: 2024-09-28T18:03
+updated: 2024-09-28T18:06
 tags:
   - 실전서비스런칭프로젝트
 회의: false
@@ -35,4 +35,12 @@ refreshToken은 HTTPOnly Cookie에 담아서 보낼 것
 #### JWT토큰이 유효하지 않은 경우(인증되지 않은 사용자)
 403에러를 줄 것
 이때 뒤에 message등록(인증되지 않은 사용자 - Unauthorized user)
+
+---
+# 요구사항을 토대로 만들 기능 쪼개보기
+
+1. 환경설정 셋업하기
+2. Spring Security Filter OAuth 수행하기(카카오 로그인) - 이메일 닉네임 가져오기
+3. JWT토큰 발급, 생성 관리 객체 만들기
+4. 
 
