@@ -1,6 +1,6 @@
 ---
 created: 2024-09-28 17:54
-updated: 2024-09-28T22:47
+updated: 2024-09-29T00:37
 tags:
   - 실전서비스런칭프로젝트
 회의: false
@@ -65,6 +65,10 @@ DB에 사용자 이메일 있나 check하기
 
 JWT토큰 생성하기
 
+---
+# 코드짜기(Github 커밋 코드 보면 됨)
+# branch feat/login
+
 ## Spring Security(로그인 성공시 핸들러 진입)
 Spring Security Filter설정
 1. /oauth2/authorization/kakao 경로로 로그인 시도
@@ -110,3 +114,40 @@ false인경우는 새롭게 userId 생성후 DB에 저장해야 됨
   
 commit 5d40dbfcfa259677e2e7e2f2b889db7149341b23
 
+## join시 userId로 파라미터 받아 저장하기
+refact: join시 userId도 파라미터로 받아 저장하기
+
+join시 parameter로 userId, email, nickName받아서 저장하는 방식으로 지정
+
+userId를 create하는 부분은 OAuthSucessHandler의 private method로 지정-> userId create는 회원 가입시에만 이루어지기 떄문
+그리고 회원 가입은 OAuthSuccessHandler에만 이루어진다.
+
+
+commit cd956b12c15a276037613e17969dbf9e950c8e39
+
+## JWT토큰 발급 기능 (로그인 성공 시)
+JWT토큰을 발급 기능 구현
+
+Const.java
+토큰 발급을 위한 상수
+accessTokend의 상수
+RefreshToken의 상수
+SecretKey의 정보가 담겨있다
+
+JWTTokenService.java
+JWT토큰 발급 및 검증 로직
+검증로직은 아직 구현하지 않음
+
+MemberService.java
+Member를 userId로 찾는 메소드쿼리 추가
+
+MemberServiceImp
+findMember를 통해서 멤버를 찾고 UserId를 가져온다.
+
+OAuthSuccessHandler
+결과를 담아 JSON 파일 형식으로 리턴한다.
+AcessToken은 헤더에
+RefreshToken은 HTTPonly쿠키에 담겨있다
+
+  
+commit 55e21acbced9a278ac1060b44357f560aef01523
