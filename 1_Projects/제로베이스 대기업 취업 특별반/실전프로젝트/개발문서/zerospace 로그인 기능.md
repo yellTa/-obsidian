@@ -1,6 +1,6 @@
 ---
 created: 2024-09-28 17:54
-updated: 2024-09-28T18:49
+updated: 2024-09-28T19:15
 tags:
   - 실전서비스런칭프로젝트
 회의: false
@@ -46,4 +46,7 @@ refreshToken은 HTTPOnly Cookie에 담아서 보낼 것
 ## 환경설정 셋업하기 -함
 - Spring Security 의존성넣기
 - Database 의존성 넣기 8.0.39임
-- 
+- 테스트 Sl4fj넣기
+
+## 카카오 로그인 설정하기
+OAuth Filter지정 
