@@ -1,6 +1,6 @@
 ---
 created: 2024-09-28 17:54
-updated: 2024-09-28T19:21
+updated: 2024-09-28T19:25
 tags:
   - 실전서비스런칭프로젝트
 회의: false
@@ -52,3 +52,5 @@ refreshToken은 HTTPOnly Cookie에 담아서 보낼 것
 OAuth Filter지정 
 카카오 로그인 성공 후 JWT토큰 발급하기
 카카오 로그인 실패시 에러메시지 + 403응답 코드 보내기
+
+성공시 핸들러 만들어서 처리하기
