@@ -1,6 +1,6 @@
 ---
 created: "{{date}} {{time}}"
-updated: 2024-09-22T20:18
+updated: 2024-09-30T00:00
 tags:
   - develop
 Progress:
@@ -24,8 +24,6 @@ Progress:
 
 
 ---
-
-
 # References
 
 # 연결문서
