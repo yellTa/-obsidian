@@ -1,6 +1,6 @@
 ---
 created: 2024-09-28 17:54
-updated: 2024-09-29T15:54
+updated: 2024-09-29T16:30
 tags:
   - 실전서비스런칭프로젝트
 회의: false
@@ -167,3 +167,5 @@ Invalid accessToken token
 refreshToken expired
 Invalid refreshToken token signature
 Invalid refreshToken token
+
+no tokens -> 토큰이 없는 경우
