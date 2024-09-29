@@ -1,6 +1,6 @@
 ---
 created: 2024-08-08T16:55:00
-updated: 2024-09-29T21:50
+updated: 2024-09-29T21:59
 tags:
   - develop
 Progress:
@@ -128,18 +128,7 @@ delMachine();  // 트랜잭션 3
 
 
 위 문제를 해결하기 위해 
-SaveData, PrintData에 모두 DB와 관련된 서비스 로직을 넣어놓는 수 밖에 없다.
-즉, SaveData, PrintData이 외에는 Repository를 의존하지 않도록 전부 변경할 예정이다. 
-# CONCLUSION:
-
-## 원인 :
-
-## 작업 :
-
-## 결과 :
-
-## 부제목
-
+비지니스 로직에 Transactional을 부여해야한다!!!
 
 ---
 # 추가로... 현 Controller 및 Transactional의 문제점
