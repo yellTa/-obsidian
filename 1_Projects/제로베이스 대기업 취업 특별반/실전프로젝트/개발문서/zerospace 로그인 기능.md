@@ -1,6 +1,6 @@
 ---
 created: 2024-09-28 17:54
-updated: 2024-09-29T00:37
+updated: 2024-09-29T15:54
 tags:
   - 실전서비스런칭프로젝트
 회의: false
@@ -151,3 +151,19 @@ RefreshToken은 HTTPonly쿠키에 담겨있다
 
   
 commit 55e21acbced9a278ac1060b44357f560aef01523
+
+## JWT토큰 검사기능
+
+### return message
+403에러 메세지와 함께 return할 것  body에 넣어서 보내기
+그리고 accessToken expired되면 다시 재발급 해줘야함
+ 
+accessToken expired
+ Invalid accessToken token signature
+Invalid accessToken token
+
+---
+
+refreshToken expired
+Invalid refreshToken token signature
+Invalid refreshToken token
