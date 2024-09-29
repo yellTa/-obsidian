@@ -1,6 +1,6 @@
 ---
 created: 2024-09-03T13:27:00
-updated: 2024-09-16T20:39
+updated: 2024-09-29T23:35
 tags:
   - burgerput
 Progress:
@@ -9,7 +9,7 @@ post할까?: false
 post됨: false
 ---
 # OBJECT/SUBJECT:
-프로젝트에서 Controller에 DB를 사용한다던가 하는 있다. 
+프로젝트에서 Controller에 DB를 사용하고 있었다. 
 이는 단일책임 원칙을 지키지 않은 형태로 유지보수를 위해 변경해줄 필요가 있다.
 # ANALYSIS:
 시스템의 흐름을 파악하고 단일책임 원칙이 지켜지지 않은 부분을 찾아내자
