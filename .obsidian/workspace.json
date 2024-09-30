@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/Burgerput/3_TroubleDocs/🟣Loading이 3번씩 도는 이유…/🟣Loading이 3번씩 도는 이유….md",
+                "file": "1_Projects/Burgerput/1_개발문서/linux mysql setup/Add min max column for custom_ tables/Add min max column for custom_ tables.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/Burgerput/3_TroubleDocs/🟣Loading이 3번씩 도는 이유…/🟣Loading이 3번씩 도는 이유….md",
+                "file": "1_Projects/Burgerput/1_개발문서/linux mysql setup/Add min max column for custom_ tables/Add min max column for custom_ tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/Burgerput/3_TroubleDocs/🟣Loading이 3번씩 도는 이유…/🟣Loading이 3번씩 도는 이유….md",
+                "file": "1_Projects/Burgerput/1_개발문서/linux mysql setup/Add min max column for custom_ tables/Add min max column for custom_ tables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/Burgerput/3_TroubleDocs/🟣Loading이 3번씩 도는 이유…/🟣Loading이 3번씩 도는 이유….md"
+                "file": "1_Projects/Burgerput/1_개발문서/linux mysql setup/Add min max column for custom_ tables/Add min max column for custom_ tables.md"
               }
             }
           }
@@ -207,6 +207,8 @@
   },
   "active": "a3d210b390379dd3",
   "lastOpenFiles": [
+    "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
+    "1_Projects/Burgerput/3_TroubleDocs/🟣Loading이 3번씩 도는 이유…/🟣Loading이 3번씩 도는 이유….md",
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
     "1_Projects/Burgerput/Burgerput.md",
     "1_Projects/Burgerput/3_TroubleDocs/nginx포트포워딩 에러.md",
@@ -214,7 +216,6 @@
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md",
     "Templates/devlop.md",
-    "1_Projects/Burgerput/3_TroubleDocs/🟣Loading이 3번씩 도는 이유…/🟣Loading이 3번씩 도는 이유….md",
     "1_Projects/Burgerput/3_TroubleDocs/의미없는 url요청 체크해보기.md",
     "1_Projects/Burgerput/3_TroubleDocs/아침로딩 실패 3.md",
     "1_Projects/Burgerput/3_TroubleDocs/front-end단에서 JSON데이터를 보낼때 Spring에서 받는 법.md",
@@ -222,7 +223,6 @@
     "1_Projects/Burgerput/3_TroubleDocs/로딩실패하면 no만 저장되는 경우.md",
     "1_Projects/Burgerput/1_개발문서/Zenput Cheat기능 개발/Zenput Cheat기능 개발.md",
     "1_Projects/Burgerput/1_개발문서/Zenput식품 에러 수정사항/Zenput식품 에러 수정사항.md",
-    "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
     "1_Projects/Burgerput/3_TroubleDocs/accounts 테이블 저장이슈.md",
     "1_Projects/Burgerput/3_TroubleDocs/아침로딩 실패2….md",
     "1_Projects/Burgerput/2_유지보수/Loading결과값 반환 API/Loading결과값 반환 API.md",
