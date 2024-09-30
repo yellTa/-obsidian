@@ -1,6 +1,6 @@
 ---
 created: 2024-09-30 22:28
-updated: 2024-09-30T23:47
+updated: 2024-09-30T23:51
 tags:
   - develop
 Progress:
@@ -30,7 +30,8 @@ DB에 데이터가 저장되는 순서를 의미한다.
 즉 우리는 출력할 때 저 번호 순서로 순서롤 조장할 필요가 있다. 
 
 ## 로직 확인해보기
-
+### Controller
+- EnterFood 
 
 
 
