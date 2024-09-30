@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/Burgerput/1_개발문서/linux mysql setup/Add min max column for custom_ tables/Add min max column for custom_ tables.md",
+                "file": "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/Burgerput/1_개발문서/linux mysql setup/Add min max column for custom_ tables/Add min max column for custom_ tables.md",
+                "file": "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/Burgerput/1_개발문서/linux mysql setup/Add min max column for custom_ tables/Add min max column for custom_ tables.md",
+                "file": "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/Burgerput/1_개발문서/linux mysql setup/Add min max column for custom_ tables/Add min max column for custom_ tables.md"
+                "file": "1_Projects/Burgerput/1_개발문서/1_개발문서.md"
               }
             }
           }
@@ -207,13 +207,16 @@
   },
   "active": "a3d210b390379dd3",
   "lastOpenFiles": [
+    "1_Projects/Burgerput/1_개발문서/linux mysql setup/MySQL 8 대소문자 구분/MySQL 8 대소문자 구분.md",
     "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
-    "1_Projects/Burgerput/3_TroubleDocs/🟣Loading이 3번씩 도는 이유…/🟣Loading이 3번씩 도는 이유….md",
+    "1_Projects/Burgerput/1_개발문서/Aws Files/Aws Files.md",
+    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
+    "1_Projects/Burgerput/1_개발문서/linux mysql setup/Add min max column for custom_ tables/Add min max column for custom_ tables.md",
+    "1_Projects/Burgerput/3_TroubleDocs/🟣Loading이 3번씩 도는 이유…/🟣Loading이 3번씩 도는 이유….md",
     "1_Projects/Burgerput/Burgerput.md",
     "1_Projects/Burgerput/3_TroubleDocs/nginx포트포워딩 에러.md",
     "1_Projects/Burgerput/2_유지보수/수상한 GET 요청.md",
-    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md",
     "Templates/devlop.md",
     "1_Projects/Burgerput/3_TroubleDocs/의미없는 url요청 체크해보기.md",
@@ -230,9 +233,6 @@
     "1_Projects/Burgerput/2_유지보수/Controller역할분리.md",
     "1_Projects/Burgerput/2_유지보수/3번째 서버 분평점 curl명령어 셋업.md",
     "1_Projects/Burgerput/2_유지보수/SSL certbot 자동 업데이트 설정.md",
-    "1_Projects/Burgerput/2_유지보수/🟣Spring frame work에서 JWT토큰 사용하기.md",
-    "1_Projects/Burgerput/2_유지보수/토큰유효하지 않으면 refresh-token 쿠키 삭제.md",
-    "1_Projects/Burgerput/2_유지보수/LoadingController 정리하기.md",
     "resources/Pasted image 20240925001846.png",
     "resources/Pasted image 20240923161511.png",
     "2_Areas/웹 프로그래밍(풀스택)",
