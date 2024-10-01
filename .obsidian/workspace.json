@@ -50,7 +50,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/devlop.md",
+                "file": "1_Projects/Burgerput/0_회의록/10월1일 회의록.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4b8f753c7162932",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Projects/Burgerput/0_회의록/버거풋 회의 - 9월 17일.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +136,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5110321044922
+    "width": 286.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -140,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/devlop.md",
+                "file": "1_Projects/Burgerput/0_회의록/10월1일 회의록.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/devlop.md",
+                "file": "1_Projects/Burgerput/0_회의록/10월1일 회의록.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/devlop.md"
+                "file": "1_Projects/Burgerput/0_회의록/10월1일 회의록.md"
               }
             }
           }
@@ -207,10 +220,13 @@
   },
   "active": "a3d210b390379dd3",
   "lastOpenFiles": [
+    "1_Projects/Burgerput/0_회의록/버거풋 회의 - 9월 17일.md",
+    "1_Projects/Burgerput/0_회의록/0_회의록.md",
+    "1_Projects/Burgerput/0_회의록/10월1일 회의록.md",
+    "Templates/devlop.md",
     "1_Projects/Burgerput/2_유지보수/기기, 식품 update후 맨 밑으로 가는거 해결하기....md",
     "resources/Pasted image 20241001121656.png",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
-    "Templates/devlop.md",
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
     "resources/Pasted image 20241001111927.png",
     "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md",
@@ -236,8 +252,6 @@
     "1_Projects/Burgerput/3_TroubleDocs/로딩실패하면 no만 저장되는 경우.md",
     "1_Projects/Burgerput/1_개발문서/Zenput식품 에러 수정사항/Zenput식품 에러 수정사항.md",
     "1_Projects/Burgerput/3_TroubleDocs/accounts 테이블 저장이슈.md",
-    "1_Projects/Burgerput/3_TroubleDocs/아침로딩 실패2….md",
-    "1_Projects/Burgerput/2_유지보수/Loading결과값 반환 API/Loading결과값 반환 API.md",
     "resources/Pasted image 20240925001846.png",
     "resources/Pasted image 20240923161511.png",
     "2_Areas/웹 프로그래밍(풀스택)",
