@@ -6,7 +6,7 @@
       {
         "id": "f2c09484126a8fb8",
         "type": "tabs",
-        "dimension": 84.31221020092735,
+        "dimension": 73.4159779614325,
         "children": [
           {
             "id": "a3d210b390379dd3",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/Burgerput/0_회의록/10월1일 회의록.md",
+                "file": "1_Projects/Burgerput/2_유지보수/기기, 식품 update후 맨 밑으로 가는거 해결하기....md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
       {
         "id": "34c70a62ed80b617",
         "type": "tabs",
-        "dimension": 15.687789799072641,
+        "dimension": 26.584022038567497,
         "children": [
           {
             "id": "2caed6827f1efab6",
@@ -99,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5110321044922,
-    "collapsed": true
+    "width": 286.5110321044922
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/Burgerput/0_회의록/10월1일 회의록.md",
+                "file": "1_Projects/Burgerput/2_유지보수/기기, 식품 update후 맨 밑으로 가는거 해결하기....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/Burgerput/0_회의록/10월1일 회의록.md",
+                "file": "1_Projects/Burgerput/2_유지보수/기기, 식품 update후 맨 밑으로 가는거 해결하기....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/Burgerput/0_회의록/10월1일 회의록.md"
+                "file": "1_Projects/Burgerput/2_유지보수/기기, 식품 update후 맨 밑으로 가는거 해결하기....md"
               }
             }
           }
@@ -181,18 +180,24 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2caed6827f1efab6",
+  "active": "a3d210b390379dd3",
   "lastOpenFiles": [
+    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
+    "1_Projects/Burgerput/2_유지보수/기기, 식품 update후 맨 밑으로 가는거 해결하기....md",
+    "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
+    "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
+    "1_Projects/Burgerput/1_개발문서/Spring JPA  update가 아닌 insert/Spring JPA  update가 아닌 insert.md",
+    "1_Projects/Burgerput/2_유지보수/JWT토큰이란/JWT토큰이란.md",
+    "1_Projects/Burgerput/2_유지보수/Machine과 Food 로딩결과 통합, JSON 데이터 저장, LoadingRefactoring/Machine과 Food 로딩결과 통합, JSON 데이터 저장, LoadingRefactoring.md",
+    "1_Projects/Burgerput/2_유지보수/SpringMock MVC를 통한 Get테스트/SpringMock MVC를 통한 Get테스트.md",
+    "1_Projects/Burgerput/2_유지보수/모든 API요청을 Interceptor를 거쳐서 JWT토큰 수행하기/모든 API요청을 Interceptor를 거쳐서 JWT토큰 수행하기.md",
     "1_Projects/Burgerput/0_회의록/10월1일 회의록.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/zerospace 로그인 기능.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월25일 스크럼회의.md",
     "1_Projects/Burgerput/0_회의록/버거풋 회의 - 9월 17일.md",
     "1_Projects/Burgerput/0_회의록/0_회의록.md",
     "Templates/devlop.md",
-    "1_Projects/Burgerput/2_유지보수/기기, 식품 update후 맨 밑으로 가는거 해결하기....md",
     "resources/Pasted image 20241001121656.png",
-    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
-    "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
     "resources/Pasted image 20241001111927.png",
     "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md",
     "1_Projects/Burgerput/3_TroubleDocs/nginx포트포워딩 에러.md",
@@ -200,10 +205,8 @@
     "resources/Pasted image 20240930223328.png",
     "resources/Pasted image 20240930223326.png",
     "resources/Pasted image 20240930223157.png",
-    "1_Projects/Burgerput/1_개발문서/Spring JPA  update가 아닌 insert/Spring JPA  update가 아닌 insert.md",
     "1_Projects/Burgerput/1_개발문서/Project Architectrue structrue/Project Architectrue structrue.md",
     "1_Projects/Burgerput/1_개발문서/Zenput Cheat기능 개발/Zenput Cheat기능 개발.md",
-    "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
     "1_Projects/Burgerput/1_개발문서/linux mysql setup/MySQL 8 대소문자 구분/MySQL 8 대소문자 구분.md",
     "1_Projects/Burgerput/1_개발문서/Aws Files/Aws Files.md",
     "1_Projects/Burgerput/1_개발문서/linux mysql setup/Add min max column for custom_ tables/Add min max column for custom_ tables.md",
@@ -211,10 +214,6 @@
     "1_Projects/Burgerput/Burgerput.md",
     "1_Projects/Burgerput/2_유지보수/수상한 GET 요청.md",
     "1_Projects/Burgerput/3_TroubleDocs/의미없는 url요청 체크해보기.md",
-    "1_Projects/Burgerput/3_TroubleDocs/아침로딩 실패 3.md",
-    "1_Projects/Burgerput/3_TroubleDocs/front-end단에서 JSON데이터를 보낼때 Spring에서 받는 법.md",
-    "1_Projects/Burgerput/3_TroubleDocs/crontab…시간적용.md",
-    "1_Projects/Burgerput/3_TroubleDocs/로딩실패하면 no만 저장되는 경우.md",
     "resources/Pasted image 20240925001846.png",
     "resources/Pasted image 20240923161511.png",
     "2_Areas/웹 프로그래밍(풀스택)",
