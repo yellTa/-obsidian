@@ -1,6 +1,6 @@
 ---
 created: "{{date}} {{time}}"
-updated: 2024-09-30T00:00
+updated: 2024-10-01T11:04
 tags:
   - develop
 Progress:
@@ -9,6 +9,24 @@ Progress:
 # OBJECT/SUBJECT:
 
 # ANALYSIS:
+## 원인 파악하기
+
+
+
+
+---
+
+## 가설 세우기
+
+
+
+---
+
+## 수행하기
+
+
+---
+
 
 # CONCLUSION:
 
@@ -18,7 +36,7 @@ Progress:
 
 ## 결과 :
 
-# 결론
+# 결론:
 
 # REVIEW:
 
