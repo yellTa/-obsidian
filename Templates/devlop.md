@@ -1,14 +1,16 @@
 ---
 created: "{{date}} {{time}}"
-updated: 2024-10-01T11:27
+updated: 2024-10-01T12:19
 tags:
   - develop
 Progress:
   - ongoing
 ---
 # OBJECT/SUBJECT:
+## branch = feat/customIndex
 
 # ANALYSIS:
+
 ## 원인 파악하기
 
 

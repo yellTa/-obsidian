@@ -1,12 +1,14 @@
 ---
 created: 2024-09-30 22:28
-updated: 2024-10-01T11:54
+updated: 2024-10-01T12:18
 tags:
   - develop
 Progress:
   - ongoing
 ---
 # OBJECT/SUBJECT:
+## branch = feat/customIndex
+
 ![[Pasted image 20240930223157.png]]
 
 리치인 쿨러를 기기선택에서 추가하고 오전 기기로 들어갔을 때 보이는 창이다.
@@ -84,7 +86,121 @@ customTable에 index의 값도 들어갔고 이제는 뽑을 때 index를 기준
 
 ---
 ## index열 추가하기
+### Custom_food 테이블 외 4개(앞쪽에 적혀있다)
+``` java
+package burgerput.project.zenput.domain;  
+  
+import com.fasterxml.jackson.annotation.JsonIgnore;  
+import jakarta.persistence.*;  
+import lombok.Data;  
+  
+//parent entity  
+@Entity(name="Custom_food")  
+@Data  
+public class CustomFood {  
+    //pk  
+    @JsonIgnore  
+    @GeneratedValue(strategy = GenerationType.IDENTITY)//생성을 Db에 위임  
+    private Long num;  
+  
+    @Id  
+    private int id;  
+  
+    private int min;  
+    private int max;  
+    //열추가해주기 참고로 이름은 index로 하면 예약어라서 다르게 설정해줘야한다.
+    private int indexValue;  
+  
+}
+```
 
+처음에는 index라는 예약어를 사용해서 에러가 났었다. 그러니까 예약어인 index말고 다른 언어로 고쳐주자 
+
+
+### Repository에 index별로 정렬하는거 추가하기
+``` java
+public interface MachineRepository extends JpaRepository<Machine, Integer> {  
+    @Modifying(clearAutomatically = true)  
+    @Query(value = "truncate table Machine", nativeQuery = true)  
+    public void deleteAllMIne();  
+  
+    @Query(value = "select * from Machine where id = :id ", nativeQuery = true)  
+    public Machine findMachineById(@Param("id") String id);  
+  
+    List<Machine> findAllByOrderByIndexValueAsc();  
+}
+```
+지금은 잠깐 테스트라서 MachineRepository로 선택했다! 참고로 CustomMachine에 
+`   List<Machine> findAllByOrderByIndexValueAsc();  `이 메소드 쿼리를 넣어주면 된다.
+
+### 테스트수행하기
+``` java 
+@SpringBootTest  
+@Slf4j  
+  
+public class Addindex {  
+  
+    @Autowired  
+    private MachineRepository machineRepository;  
+    @Test  
+    @Transactional    public void addIndexTest(){  
+        Machine machine1 = new Machine();  
+        machine1.setIndexValue(1);  
+        machine1.setId(1000);  
+        machine1.setName("A");  
+  
+        Machine machine2 = new Machine();  
+        machine2.setIndexValue(2);  
+        machine2.setId(2000);  
+        machine2.setName("B");  
+  
+        Machine machine3 = new Machine();  
+        machine3.setIndexValue(3);  
+        machine3.setId(3000);  
+        machine3.setName("C");  
+  
+        Machine machine4 = new Machine();  
+        machine4.setIndexValue(4);  
+        machine4.setId(4000);  
+        machine4.setName("D");  
+  
+        Machine machine5 = new Machine();  
+        machine5.setIndexValue(5);  
+        machine5.setId(5000);  
+        machine5.setName("E");  
+  
+  
+        //1 5 3 4 2 순으로 뽑음 이제 이걸 index순으로 정ㄹ려해서 다시 가져와보자  
+        machineRepository.save(machine1);  
+        machineRepository.save(machine5);  
+        machineRepository.save(machine3);  
+        machineRepository.save(machine4);  
+        machineRepository.save(machine2);  
+  
+        //index순으로 정렬해서 다시 가져와보기  
+  
+        List<Machine> foundMachines = machineRepository.findAllByOrderByIndexValueAsc();  
+        for(Machine machine : foundMachines){  
+            log.info(machine.getName());  
+        }  
+  
+  
+    }  
+  
+  
+}
+```
+
+임의로 Machine의 객체를 추가하고 수행해봤다. 그렇다면 결과를 확인해보자!!!
+
+![[Pasted image 20241001121656.png]]
+뒤죽박죽으로 ABCDE를 입력했지만 index별로 정렬이 되어서 나오는 것을 확인할 수 있다!!!
+
+
+그렇다면 Test를 위해 사용했던 MachineRepository의 메소드 쿼리를 지우자(customMachine에 넣어야했다!)
+
+그리고 Test폴더도 지우고 
+열을 추가하는 index를 설정했다고 커밋을 날리자!
 
 
 
