@@ -1,6 +1,6 @@
 ---
 created: "{{date}} {{time}}"
-updated: 2024-10-01T11:04
+updated: 2024-10-01T11:27
 tags:
   - develop
 Progress:
@@ -23,7 +23,9 @@ Progress:
 ---
 
 ## 수행하기
+### 설계 
 
+### 수행할 작업 단위
 
 ---
 

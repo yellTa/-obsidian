@@ -140,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1_Projects/Burgerput/2_유지보수/기기, 식품 update후 맨 밑으로 가는거 해결하기....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,6 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1_Projects/Burgerput/2_유지보수/기기, 식품 update후 맨 밑으로 가는거 해결하기....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +179,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1_Projects/Burgerput/2_유지보수/기기, 식품 update후 맨 밑으로 가는거 해결하기....md"
+              }
             }
           }
         ]
@@ -201,13 +205,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2caed6827f1efab6",
+  "active": "a3d210b390379dd3",
   "lastOpenFiles": [
-    "1_Projects/Burgerput/2_유지보수/기기, 식품 update후 맨 밑으로 가는거 해결하기....md",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "Templates/devlop.md",
-    "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md",
+    "1_Projects/Burgerput/2_유지보수/기기, 식품 update후 맨 밑으로 가는거 해결하기....md",
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
+    "resources/Pasted image 20241001111927.png",
+    "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md",
     "1_Projects/Burgerput/3_TroubleDocs/nginx포트포워딩 에러.md",
     "resources/Pasted image 20240930224456.png",
     "resources/Pasted image 20240930223328.png",
@@ -238,7 +243,6 @@
     "resources/Pasted image 20240922013131.png",
     "resources/Pasted image 20240922012604.png",
     "resources/Pasted image 20240922004556.png",
-    "resources/Pasted image 20240921165042.png",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/설계문서",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서",
     "2_Areas/Docs",
