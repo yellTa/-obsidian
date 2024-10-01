@@ -1,6 +1,6 @@
 ---
 created: 2024-09-30 22:28
-updated: 2024-10-01T11:51
+updated: 2024-10-01T11:54
 tags:
   - develop
 Progress:
@@ -66,7 +66,7 @@ Machine과 CustomMachine에는 num이라는 자동증가 열이 있다.
 그래 DB에 값을 가져올 때 index가 없었던 경우네느 ACDFB의 순서로 가져왔던 것이다.
 이제 index 열을 추가하고 숫자를 부여한 다음 index를 기준으로 오름차순으로 정렬하면 문제를 해결할 수 있다.
 ### 수행할 작업 단위
-#### 1. index 열 추가하기
+#### 1. index 열 추가하기 [[#index열 추가하기]]
 - Custom Food
 - CustomMachine
 - Food
@@ -83,7 +83,7 @@ Machine,Food에 데이터가 추가될 때 index의 값도 추가하자!
 customTable에 index의 값도 들어갔고 이제는 뽑을 때 index를 기준으로 오름차순을 진행하자!!
 
 ---
-
+## index열 추가하기
 
 
 
