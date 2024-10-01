@@ -1,6 +1,6 @@
 ---
 created: 2024-09-30 22:28
-updated: 2024-10-01T11:29
+updated: 2024-10-01T11:51
 tags:
   - develop
 Progress:
@@ -71,7 +71,7 @@ Machine과 CustomMachine에는 num이라는 자동증가 열이 있다.
 - CustomMachine
 - Food
 - Machine
-위의 데이틀에 index열을 추가하도록 하자
+위의 테이블에 index열을 추가하도록 하자
 
 #### 2. Loading되고 Machine, Food에 데이터가 추가될 때 index의 값도 저장하기
 Machine,Food에 데이터가 추가될 때 index의 값도 추가하자!
