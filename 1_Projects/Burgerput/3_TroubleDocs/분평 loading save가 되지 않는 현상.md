@@ -1,6 +1,6 @@
 ---
 created: 2024-08-08T16:55:00
-updated: 2024-10-02T15:38
+updated: 2024-10-02T18:32
 tags:
   - develop
 Progress:
@@ -95,6 +95,7 @@ Hibernate: select m1_0.id,m1_0.max,m1_0.min,m1_0.name,m1_0.num from machine m1_0
 ![[Pasted image 20240826003411.png]]
 
 1. LoadingController에서 데이터를 로딩하고 로딩의 값을 AlertLoading.MachineJsonMakerandDbSet(로딩 데이터)로 보낸다. (이름에서 알 수 있다싶이 여러 역할을 가지고 있는 메소드...ㅂㄷㅂㄷ)
+
 2. AlertLoading의 MachineJsonMakerandDBSet에서 사용하는 Repository는 다음과 같다.
    addMachine -> findAll()
    editMachine -> findAll(), findById()
@@ -161,7 +162,7 @@ public void saveZenputAccounts(@RequestBody  Map<String,String>  param) {
 ```
 
 Controller에서 direct로 save를 진행하고 있는 끔찍한 모습이다.
-이떄 ZenputAccountRepository에는 @Transactional이 붙어있지 않았고 Controller에도 붙어있지않다. 하지만 CURD가 정상적으로 수행되는 것을 확인할 수 있었는데
+ZenputAccountRepository에는 @Transactional이 붙어있지 않았고 Controller에도 붙어있지않다. 하지만 CURD가 정상적으로 수행되는 것을 확인할 수 있었는데
 
 그 이유는
 
@@ -178,8 +179,9 @@ Controller에서 direct로 save를 진행하고 있는 끔찍한 모습이다.
 
 ---
 # REVIEW:
-구현에 급급해서 코드를 짜니 시한폭탄이 되어 버렸어요... 코드를 짠게 아니라 쌌다가 맞는 표현일듯 하다. 
-
+구현에 급급해 코드를 개발할 당시에는 몰랐는데 지금 보니 문제가 너무나도 많아요... 고칠것도 너무나도 많고
+ git commit도 엉망을 보낸게 많아서 슬픕니다...
+ 앞으로는 잘 사용해보기로 합시다!
 # References
 
 # 연결문서
