@@ -1,6 +1,6 @@
 ---
 created: 2024-08-08T16:55:00
-updated: 2024-10-02T18:32
+updated: 2024-10-02T18:41
 tags:
   - develop
 Progress:
@@ -85,9 +85,6 @@ Hibernate: select m1_0.id,m1_0.max,m1_0.min,m1_0.name,m1_0.num from machine m1_0
 - 복잡한 트랜잭션 관리 문제
   여러 Repository호출이 하나의 비즈니스 로직 안에서 이루어 진다면 <span style="color:rgb(255, 128, 128)">각 Repository에 트랜잭션이 있으면 서로 독립적인 트랜잭션으로 처리</span>된다. 이는 <span style="color:rgb(255, 128, 128)">부분적으로 처리된 트랙잭션이 발생할 가능성을 높힌다.</span>
   서비스 계층에서 트랜잭션을 관리하면 여러 Repsitory 호출을 하나의 트랜잭션으로 묶어 원자성을 보장할 수 있다.
-
-
-
 
 현재 Repository에 Transactional이 적용되어 있다. 이를 메소드 단으로 전부 변경해 줄 예정이다.
 
