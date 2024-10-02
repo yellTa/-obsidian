@@ -1,6 +1,6 @@
 ---
 created: "{{date}} {{time}}"
-updated: 2024-10-02T15:29
+updated: 2024-10-02T15:32
 tags:
   - develop
 Progress:
@@ -16,7 +16,6 @@ Progress:
 
 
 ---
-
 ## 가설 세우기
 
 
