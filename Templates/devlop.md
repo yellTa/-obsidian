@@ -1,6 +1,6 @@
 ---
 created: "{{date}} {{time}}"
-updated: 2024-10-02T15:32
+updated: 2024-10-02T15:38
 tags:
   - develop
 Progress:
@@ -39,6 +39,8 @@ Progress:
 ## 결과 :
 
 # 결론:
+>[!important]
+
 
 # REVIEW:
 

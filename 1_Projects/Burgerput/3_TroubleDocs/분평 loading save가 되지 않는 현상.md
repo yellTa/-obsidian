@@ -1,10 +1,10 @@
 ---
 created: 2024-08-08T16:55:00
-updated: 2024-09-30T09:08
+updated: 2024-10-02T15:38
 tags:
   - develop
 Progress:
-  - ongoing
+  - end
 post할까?: false
 post됨: false
 ---
@@ -169,6 +169,11 @@ Controller에서 direct로 save를 진행하고 있는 끔찍한 모습이다.
 복잡한 쿼리는 @Transactional을 사용해야하지만 간단한 것은 생략할 수 있다는 이야기
 
 나중에 해야될 리팩토링 항목에 추가된 친구들...
+# 결론
+>[!important]
+>트랜잭션은 메소드 단위에만 주자 
+>**10월 2일 추가사항**
+>트랜잭션에서 클래스 이름에 주지말고 메서드 단에 주자 참고로 Get을 쓸때는 트랜잭션을 부여하지 않아도 괜찮다.
 
 
 ---
