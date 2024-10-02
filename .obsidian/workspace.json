@@ -31,8 +31,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "551c62133a2629f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월 3일 긴급회의.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "34c70a62ed80b617",
@@ -115,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/zerospace 로그인 기능.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월 3일 긴급회의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/zerospace 로그인 기능.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월 3일 긴급회의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/zerospace 로그인 기능.md"
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월 3일 긴급회의.md"
               }
             }
           }
@@ -180,10 +193,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a3d210b390379dd3",
+  "active": "551c62133a2629f8",
   "lastOpenFiles": [
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/개발문서.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/회의록모음.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/zerospace 로그인 기능.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/개발문서.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월 3일 긴급회의.md",
     "resources/Pasted image 20241003003116.png",
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
@@ -202,7 +216,6 @@
     "1_Projects/Burgerput/2_유지보수/SpringMock MVC를 통한 Get테스트/SpringMock MVC를 통한 Get테스트.md",
     "1_Projects/Burgerput/2_유지보수/모든 API요청을 Interceptor를 거쳐서 JWT토큰 수행하기/모든 API요청을 Interceptor를 거쳐서 JWT토큰 수행하기.md",
     "1_Projects/Burgerput/0_회의록/10월1일 회의록.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/zerospace 로그인 기능.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월25일 스크럼회의.md",
     "1_Projects/Burgerput/0_회의록/버거풋 회의 - 9월 17일.md",
     "1_Projects/Burgerput/0_회의록/0_회의록.md",
