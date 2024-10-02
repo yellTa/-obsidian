@@ -7,7 +7,7 @@ Review여부: true
 post됨: false
 post할까?: false
 created: 2024-06-24T14:37:00
-updated: 2024-10-02T18:44
+updated: 2024-10-02T18:51
 ---
 # SUBJECT:
 
@@ -33,80 +33,9 @@ Hibernate: select a1_0.num,a1_0.rbi_id,a1_0.rbi_pw,a1_0.zenput_id from accounts 
 2024-06-24T08:34:14.067+09:00  WARN 540230 --- [io-8080-exec-10] i.g.bonigarcia.wdm.WebDriverManager      : There was an error managing chromedriver (latest version) (For input string: "public") ... trying again using latest driver stored in cache
 2024-06-24T08:34:14.069+09:00  INFO 540230 --- [io-8080-exec-10] i.g.bonigarcia.wdm.WebDriverManager      : Using chromedriver public (resolved driver for Chrome 122)
 2024-06-24T08:34:14.071+09:00 ERROR 540230 --- [io-8080-exec-10] i.g.bonigarcia.wdm.WebDriverManager      : There was an error managing chromedriver public (For input string: "public")
-
-java.lang.NumberFormatException: For input string: "public"
-        at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67) ~[na:na]
-        at java.base/java.lang.Integer.parseInt(Integer.java:668) ~[na:na]
-        at java.base/java.lang.Integer.parseInt(Integer.java:786) ~[na:na]
-        at io.github.bonigarcia.wdm.managers.ChromeDriverManager.buildUrl(ChromeDriverManager.java:178) ~[webdrivermanager-5.6.2.jar!/:na]
-        at io.github.bonigarcia.wdm.managers.ChromeDriverManager.buildUrl(ChromeDriverManager.java:155) ~[webdrivermanager-5.6.2.jar!/:na]
-        at io.github.bonigarcia.wdm.WebDriverManager.download(WebDriverManager.java:1272) ~[webdrivermanager-5.6.2.jar!/:na]
-        at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1189) ~[webdrivermanager-5.6.2.jar!/:na]
-        at io.github.bonigarcia.wdm.WebDriverManager.fallback(WebDriverManager.java:1451) ~[webdrivermanager-5.6.2.jar!/:na]
-        at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:1432) ~[webdrivermanager-5.6.2.jar!/:na]
-        at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1195) ~[webdrivermanager-5.6.2.jar!/:na]
-        at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:1425) ~[webdrivermanager-5.6.2.jar!/:na]
-        at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1195) ~[webdrivermanager-5.6.2.jar!/:na]
-        at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:427) ~[webdrivermanager-5.6.2.jar!/:na]
-        at burgerput.project.zenput.Services.movePage.MovePageServiceV1.gotoListWithLogin(MovePageServiceV1.java:137) ~[classes!/:0.0.2-SNAPSHOT]
-        at burgerput.project.zenput.Services.movePage.MovePageServiceV1.getListClick(MovePageServiceV1.java:301) ~[classes!/:0.0.2-SNAPSHOT]
-        at burgerput.project.zenput.Services.movePage.MovePageServiceV1.clickAmMachine(MovePageServiceV1.java:285) ~[classes!/:0.0.2-SNAPSHOT]
-        at burgerput.project.zenput.Services.loadData.zenputLoading.MachineLoadingAndEnterZenputV2.getInfo(MachineLoadingAndEnterZenputV2.java:49) ~[classes!/:0.0.2-SNAPSHOT]
-        at burgerput.project.zenput.web.altPages.LoadingController.loadingV2(LoadingController.java:63) ~[classes!/:0.0.2-SNAPSHOT]
-        at jdk.internal.reflect.GeneratedMethodAccessor37.invoke(Unknown Source) ~[na:na]
-        at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
-        at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
-        at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:207) ~[spring-web-6.0.9.jar!/:6.0.9]
-        at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:152) ~[spring-web-6.0.9.jar!/:6.0.9]
-        at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
-        at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:884) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
-        at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
-        at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
-        at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1081) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
-        at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:974) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
-        at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1011) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
-        at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
-        at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[tomcat-embed-core-10.1.8.jar!/:na]
-        at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.0.9.jar!/:6.0.9]
-        at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[tomcat-embed-core-10.1.8.jar!/:na]
-        at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205) ~[tomcat-embed-core-10.1.8.jar!/:na]
-        at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149) ~[tomcat-embed-core-10.1.8.jar!/:na]
-        at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-10.1.8.jar!/:na]
-        at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174) ~[tomcat-embed-core-10.1.8.jar!/:na]
-        at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149) ~[tomcat-embed-core-10.1.8.jar!/:na]
-        at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.0.9.jar!/:6.0.9]
-        at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.0.9.jar!/:6.0.9]
-        at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174) ~[tomcat-embed-core-10.1.8.jar!/:na]
-        at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149) ~[tomcat-embed-core-10.1.8.jar!/:na]
-        at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.0.9.jar!/:6.0.9]
-        at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.0.9.jar!/:6.0.9]
-        at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174) ~[tomcat-embed-core-10.1.8.jar!/:na]
-        at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149) ~[tomcat-embed-core-10.1.8.jar!/:na]
-        at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.0.9.jar!/:6.0.9]
-        at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.0.9.jar!/:6.0.9]
-        at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174) ~[tomcat-embed-core-10.1.8.jar!/:na]
-        at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149) ~[tomcat-embed-core-10.1.8.jar!/:na]
-        at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:166) ~[tomcat-embed-core-10.1.8.jar!/:na]
-        at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.8.jar!/:na]
-        at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482) ~[tomcat-embed-core-10.1.8.jar!/:na]
-        at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.8.jar!/:na]
-        at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.8.jar!/:na]
-        at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.8.jar!/:na]
-        at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341) ~[tomcat-embed-core-10.1.8.jar!/:na]
-        at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390) ~[tomcat-embed-core-10.1.8.jar!/:na]
-        at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.8.jar!/:na]
-        at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:894) ~[tomcat-embed-core-10.1.8.jar!/:na]
-        at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.8.jar!/:na]
-        at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.8.jar!/:na]
-        at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-embed-core-10.1.8.jar!/:na]
-        at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.8.jar!/:na]
-        at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-10.1.8.jar!/:na]
-        at java.base/java.lang.Thread.run(Thread.java:840) ~[na:na]
-
+...
 ```
-
-  
-
+에러 코드에서보면 "public"문자열이 입력되고 그걸 처리하는데 문제가 생긴것 같다. 
 ## 해당 에러의 원인
 
 > [!important]  
@@ -140,31 +69,13 @@ WebDrivermanager.chromeDriver().setup() 으로 크롬드라이버를 가져온�
 
 기본적으로 최신 버전의 ChromeDriver를 자동으로 설정하도록 되어있지만 public이라는 문자열이 어디선가 잘못된 값으로 전달되어 발생하는 것 같다.
 
-  
-
-### 1. 잘못된 값으로 전달되어 발생하는 경우
-
-![[Untitled 44.png|Untitled 44.png]]
-
-코드를 모두 확인해보았다. 이때 MovePageServiceV1을 제외하고는 모두 테스트를 수행하는 페이지이다.
-
-movePageService(gotoListWithLogin)에서 처음으로 webDriver를 불러오는 것을 확인했다.
-
-  
-
-위의 이유로 어디서 public이 라는 단어가 들어가서 들어가는지는 찾지 못했다.
-
-  
+내가 짠 코드에서 아무리 찾아봐도 public이라는 문자를 사용하는 곳이 없었기 때문에 버전 충돌 문제라는 생각이 들었다.
 
 ### 디버그 레벨 설정하기
 
 왜 에러가 나는지 정확하게 체크하기 위해서 DEBUG기능을 사용하기로 했다.
 
-  
-
-### 1. Add Logback Dependency
-
-  
+#### 1. Add Logback Dependency
 
 ```Java
     // SLF4J and Logback for logging
@@ -174,7 +85,7 @@ movePageService(gotoListWithLogin)에서 처음으로 webDriver를 불러오는 
 
   
 
-### 2. Application.properties지정
+#### 2. Application.properties지정
 
 ```Java
 # Root logging level
@@ -208,7 +119,7 @@ logging.file.name=application.log
 
   
 
-### 3. webDriverManager DEBUG레벨 단에서 체크
+#### 3. webDriverManager DEBUG레벨 단에서 체크
 
 ```Java
 
@@ -221,7 +132,7 @@ WebDriverManager.chromedriver().setup()
 
   
 
-### 4. 호환문제를 위해 WebDriverManager 업그레이드  
+#### 4. 호환문제를 위해 WebDriverManager 업그레이드  
   
 
 > [!important]  
@@ -251,7 +162,6 @@ WebDriverManager.chromedriver().setup()
 
 버전을 업그레이드하는 것으로 버그의 꽤 많은 것을 고칠 수 있다.
 
-  
 
 현재 버전 : 5.6.2 → 업그레이드 할 최신 버전 5.8.0
 
@@ -261,19 +171,13 @@ WebDriverManager.chromedriver().setup()
 
 ### 5.6.2 에서 5.8.0으로 변하면서 바뀐 점 - 간단하게
 
-### 1. Driver 관리 향상
-
-### 2. Dependency 업데이트
-
-### 3. 버그 수정
-
-### 4. 신기능
-
-### 5. 설정변경
-
-### 6. 보안 업데이트
-
-  
+- Driver 관리 향상
+- Dependncy 업데이트
+- 버그수정
+- 신기능
+- 설정변경
+- 보안 업데이트
+-
 
 해당 사안은 GitHub사이트와 Maven Central사이트를 참고해서 비교한 자료이다.
 
@@ -305,12 +209,10 @@ Upgrading to version 5.8.0 should provide better compatibility with the latest b
   
 
 ### 3. 캐시를 지우고 수행하기
+이미 서버에 캐시 메모리에 지정된 드라이버를 사용하는 과정에서 문제가 발생할 수 있다.
 
-캐시된 드라이버를 사용하는 과정에서 문제가 발생할 수 있는 경우이다.
-
-### 캐시를 지우고 수행하는 방법의 장 단점 - pros/cons
-
-### pros:
+#### 캐시를 지우고 수행하는 방법의 장 단점 - pros/cons
+##### pros:
 
 **충돌이슈 해결** : 캐시를 지워 새로운 파일을 다운받아서 수행하기 때문에 기존 driver가 가지고 있는문제를 해결할 수 있다.
 
@@ -318,45 +220,32 @@ Upgrading to version 5.8.0 should provide better compatibility with the latest b
 
 **최신버전 사용 유지**: 캐시를 지우므로 WebDrivermanager가 최신을 사용할 수 있도록 유지한다. 최신버전을 사용하면 업데이트, 버그 fix가 된 기능을 사용할 수 있게 된다.
 
-  
 
-### cons
+##### cons
 
 **느린 초기화 :** 캐시를 지우고 새로 파일을 매번 받아야하기 때문에 속도가 저하될 수 있다.
 
 네트워크에 의존적: 네트워크가 수행되는 상황에서만 가능하다.(파일을 새로 받아야하기 때문 )
 
-  
-
 # HOW TO:
 
 ## 1. 1번과 2번의 방법을 채택(WebDriver버전 올리기, 디버그레벨에서 확인하기)
 
-  
-
 ### 1. 디버그 레벨 확인하기
 
-이 방법은 문제를 해결하기 위한 방법은 아니고 원인을 파악하기 위한 방법이다. 문제의 정확한 원인을 파악하기 위해 넣었다.
-
-  
+이 방법은 문제를 해결하기 위한 방법은 아니고 원인을 파악하기 위한 방법이다. 문제의 정확한 원인을 파악하기 위해 넣었다.  
 
 ### 2. 웹 드라이버의 버전 올리기
 
-디버그 레벨을 확인하기위해 필연적으로 웹 드라이버의 버전을 올렸다. 이제 DEBUG로그를 통해서 webDriverManger.setup()이 일어날때 정확히 어떤일이 일어나는지 확인하게 되었다. 아마도 웹 드라
+디버그 레벨을 확인하기위해 필연적으로 웹 드라이버의 버전을 올렸다. 이제 DEBUG로그를 통해서 webDriverManger.setup()이 일어날때 정확히 어떤일이 일어나는지 확인하게 되었다.
 
-  
-
-위의 방법을 수행해서 작업을 하고 만약 성공한다면 문제는 Chrome WebDriver의 버전 때문에 문제가 일어난 것으로 판단이 된다.
-
-  
+위의 방법을 수행하고 만약 성공한다면 문제는 Chrome WebDriver의 버전 때문에 문제가 일어난 것으로 판단이 된다.
 
 ---
 
 위의 과정을 통해서 빌드를 다시 수행하고 일단 Selenium이 서버에서 구동이 되는 것을 확인했다.
 
 이때 build과정에서 충돌이 일어나서 애를 먹고 다시 logBack 의존성을 삭제했다.
-
-  
 
 ```Java
 dependencies {
@@ -392,9 +281,7 @@ dependencies {
 
 현재 사용하는 Dependencies의 목록이다.
 
-Spring boot starter는 기본적으로 Srping-boot-starter-logging을 포함하기 때문에 별도의 Logback을 추가하지 않아도 된다.
-
-  
+Spring boot starter는 기본적으로 Srping-boot-starter-logging을 포함하기 때문에 별도의 Logback을 추가하지 않아도 된다.  
 
 ```Java
 logging.pattern.console=%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n
@@ -406,75 +293,6 @@ logging.pattern.console=%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} -
 
 위와 같은 구문을 가지게 된다.
 
-  
-
-> [!important]  
-> Application.properties  
-
-```Java
-
-spring.profiles.active=burgerput
-
-# Root logging level
-logging.level.root=INFO
-
-# Package-specific logging levels
-logging.level.org.springframework.web=DEBUG
-logging.level.io.github.bonigarcia.wdm=DEBUG
-
-# Logging pattern for console output
-logging.pattern.console=%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n
-
-# 콘솔에 뿌려질 로깅 패턴 지정
-
-# Logging pattern for file output
-\#logging.pattern.file=%d{yyyy-MM-dd HH:mm:ss} - %msg%n
-# 콘솔에 뿌려진 파일 지정
-
-# Path to store the log files
-\#logging.file.path=logs
-# log 파일이 어디에 저장되는지
-
-# Name of the log file
-\#logging.file.name=application.log
-#로그파일의 이름을 지정
-
-\#Datasource
-spring.jpa.defer-datasource-initialization=true
-
-# MySQL
-spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
-# DB Source URL jdbc:mysql://[ip]:3306(mysql 포트 번호)/[DB이름]
-spring.datasource.url=jdbc:mysql://localhost:3306/burgerputproto
-# DB username
-spring.datasource.username=burgerput
-# DB password
-spring.datasource.password=burgerput123
-
-# mysql 사용
-spring.jpa.database=mysql
-
-
-spring.jpa.show-sql=true
-spring.jpa.hibernate.ddl-auto=update
-
-\#spring.jpa.show-sql=true
-\#spring.jpa.hibernate.ddl-auto=update
-
-\#spring.jpa.properties.hibernate.format_sql=true
-
-
-#\#Test SSL Settings
-\#server.port:8043
-
-server.ssl.key-store:file:/home/ubuntu/burgerput/cicd/deploy/keystore.p12
-server.ssl.key-store-type=PKCS12
-server.ssl.key-store-password=putBu13@9*
-
-#
-```
-
-  
 
 # CONCLUSION:
 
