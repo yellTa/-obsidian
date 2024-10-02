@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md",
+                "file": "1_Projects/Burgerput/2_유지보수/기기, 식품 update후 맨 밑으로 가는거 해결하기....md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md",
+                "file": "1_Projects/Burgerput/2_유지보수/기기, 식품 update후 맨 밑으로 가는거 해결하기....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md",
+                "file": "1_Projects/Burgerput/2_유지보수/기기, 식품 update후 맨 밑으로 가는거 해결하기....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md"
+                "file": "1_Projects/Burgerput/2_유지보수/기기, 식품 update후 맨 밑으로 가는거 해결하기....md"
               }
             }
           }
@@ -182,14 +182,14 @@
   },
   "active": "a3d210b390379dd3",
   "lastOpenFiles": [
-    "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
-    "Templates/devlop.md",
+    "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
+    "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
     "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md",
+    "Templates/devlop.md",
     "1_Projects/Burgerput/2_유지보수/기기, 식품 update후 맨 밑으로 가는거 해결하기....md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월2일 스크럼회의.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/회의록모음.md",
-    "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
     "1_Projects/Burgerput/1_개발문서/Spring JPA  update가 아닌 insert/Spring JPA  update가 아닌 insert.md",
     "1_Projects/Burgerput/2_유지보수/JWT토큰이란/JWT토큰이란.md",
     "1_Projects/Burgerput/2_유지보수/Machine과 Food 로딩결과 통합, JSON 데이터 저장, LoadingRefactoring/Machine과 Food 로딩결과 통합, JSON 데이터 저장, LoadingRefactoring.md",
