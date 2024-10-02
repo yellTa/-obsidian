@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/Burgerput/3_TroubleDocs/Chrome Driver 사용 에러/Chrome Driver 사용 에러.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월 3일 긴급회의 ㅠㅠ.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/Burgerput/3_TroubleDocs/Chrome Driver 사용 에러/Chrome Driver 사용 에러.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월 3일 긴급회의 ㅠㅠ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/Burgerput/3_TroubleDocs/Chrome Driver 사용 에러/Chrome Driver 사용 에러.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월 3일 긴급회의 ㅠㅠ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/Burgerput/3_TroubleDocs/Chrome Driver 사용 에러/Chrome Driver 사용 에러.md"
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월 3일 긴급회의 ㅠㅠ.md"
               }
             }
           }
@@ -182,14 +182,18 @@
   },
   "active": "a3d210b390379dd3",
   "lastOpenFiles": [
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/회의록모음.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월 3일 긴급회의 ㅠㅠ.md",
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
+    "1_Projects/Burgerput/3_TroubleDocs/제출에러 수정하기/제출에러 수정하기.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/멘토링.md",
+    "1_Projects/Burgerput/3_TroubleDocs/Chrome Driver 사용 에러/Chrome Driver 사용 에러.md",
     "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md",
     "1_Projects/Burgerput/2_유지보수/기기, 식품 update후 맨 밑으로 가는거 해결하기....md",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
     "Templates/devlop.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월2일 스크럼회의.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/회의록모음.md",
     "1_Projects/Burgerput/1_개발문서/Spring JPA  update가 아닌 insert/Spring JPA  update가 아닌 insert.md",
     "1_Projects/Burgerput/2_유지보수/JWT토큰이란/JWT토큰이란.md",
     "1_Projects/Burgerput/2_유지보수/Machine과 Food 로딩결과 통합, JSON 데이터 저장, LoadingRefactoring/Machine과 Food 로딩결과 통합, JSON 데이터 저장, LoadingRefactoring.md",
@@ -210,10 +214,6 @@
     "1_Projects/Burgerput/1_개발문서/Project Architectrue structrue/Project Architectrue structrue.md",
     "1_Projects/Burgerput/1_개발문서/Zenput Cheat기능 개발/Zenput Cheat기능 개발.md",
     "1_Projects/Burgerput/1_개발문서/linux mysql setup/MySQL 8 대소문자 구분/MySQL 8 대소문자 구분.md",
-    "1_Projects/Burgerput/1_개발문서/Aws Files/Aws Files.md",
-    "1_Projects/Burgerput/1_개발문서/linux mysql setup/Add min max column for custom_ tables/Add min max column for custom_ tables.md",
-    "1_Projects/Burgerput/3_TroubleDocs/🟣Loading이 3번씩 도는 이유…/🟣Loading이 3번씩 도는 이유….md",
-    "1_Projects/Burgerput/Burgerput.md",
     "resources/Pasted image 20240925001846.png",
     "resources/Pasted image 20240923161511.png",
     "2_Areas/웹 프로그래밍(풀스택)",
