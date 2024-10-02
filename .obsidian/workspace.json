@@ -43,9 +43,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8812004871f119b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7_TIL/241002 오늘의 TIL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "34c70a62ed80b617",
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월 3일 긴급회의.md",
+                "file": "7_TIL/241002 오늘의 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월 3일 긴급회의.md",
+                "file": "7_TIL/241002 오늘의 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월 3일 긴급회의.md"
+                "file": "7_TIL/241002 오늘의 TIL.md"
               }
             }
           }
@@ -193,12 +205,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "551c62133a2629f8",
+  "active": "8812004871f119b3",
   "lastOpenFiles": [
+    "7_TIL/241002 오늘의 TIL.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월 3일 긴급회의.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/회의록모음.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/zerospace 로그인 기능.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/개발문서.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월 3일 긴급회의.md",
     "resources/Pasted image 20241003003116.png",
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
     "1_Projects/Burgerput/3_TroubleDocs/제출에러 수정하기/제출에러 수정하기.md",
@@ -227,7 +240,6 @@
     "resources/Pasted image 20240930223326.png",
     "resources/Pasted image 20240930223157.png",
     "1_Projects/Burgerput/1_개발문서/Project Architectrue structrue/Project Architectrue structrue.md",
-    "1_Projects/Burgerput/1_개발문서/Zenput Cheat기능 개발/Zenput Cheat기능 개발.md",
     "resources/Pasted image 20240925001846.png",
     "resources/Pasted image 20240923161511.png",
     "2_Areas/웹 프로그래밍(풀스택)",
