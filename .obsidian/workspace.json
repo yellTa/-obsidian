@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/기기, 식품 update후 맨 밑으로 가는거 해결하기....md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월2일 스크럼회의.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/기기, 식품 update후 맨 밑으로 가는거 해결하기....md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월2일 스크럼회의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/기기, 식품 update후 맨 밑으로 가는거 해결하기....md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월2일 스크럼회의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/기기, 식품 update후 맨 밑으로 가는거 해결하기....md"
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월2일 스크럼회의.md"
               }
             }
           }
@@ -182,8 +182,10 @@
   },
   "active": "a3d210b390379dd3",
   "lastOpenFiles": [
-    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/회의록모음.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월2일 스크럼회의.md",
     "1_Projects/Burgerput/2_유지보수/기기, 식품 update후 맨 밑으로 가는거 해결하기....md",
+    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
     "1_Projects/Burgerput/1_개발문서/Spring JPA  update가 아닌 insert/Spring JPA  update가 아닌 insert.md",
@@ -212,8 +214,6 @@
     "1_Projects/Burgerput/1_개발문서/linux mysql setup/Add min max column for custom_ tables/Add min max column for custom_ tables.md",
     "1_Projects/Burgerput/3_TroubleDocs/🟣Loading이 3번씩 도는 이유…/🟣Loading이 3번씩 도는 이유….md",
     "1_Projects/Burgerput/Burgerput.md",
-    "1_Projects/Burgerput/2_유지보수/수상한 GET 요청.md",
-    "1_Projects/Burgerput/3_TroubleDocs/의미없는 url요청 체크해보기.md",
     "resources/Pasted image 20240925001846.png",
     "resources/Pasted image 20240923161511.png",
     "2_Areas/웹 프로그래밍(풀스택)",
