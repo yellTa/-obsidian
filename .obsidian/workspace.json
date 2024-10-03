@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/devlop.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/10월 3일 멘토링.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/devlop.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/10월 3일 멘토링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/devlop.md"
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/10월 3일 멘토링.md"
               }
             }
           }
@@ -224,7 +224,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Templates/devlop.md",
+                    "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/10월 3일 멘토링.md",
                     "mode": "source",
                     "source": false
                   }
@@ -246,12 +246,12 @@
   },
   "active": "6f200a3d32bf68cb",
   "lastOpenFiles": [
+    "1_Projects/Burgerput/3_TroubleDocs/🟣Loading이 3번씩 도는 이유…/🟣Loading이 3번씩 도는 이유….md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/10월 3일 멘토링.md",
-    "resources/Pasted image 20241003112959.png",
-    "resources/백엔드_유예지_241002.pdf",
     "1_Projects/Burgerput/2_유지보수/기기, 식품 update후 맨 밑으로 가는거 해결하기....md",
     "Templates/devlop.md",
-    "1_Projects/Burgerput/3_TroubleDocs/🟣Loading이 3번씩 도는 이유…/🟣Loading이 3번씩 도는 이유….md",
+    "resources/Pasted image 20241003112959.png",
+    "resources/백엔드_유예지_241002.pdf",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "Templates/Folder(Develop).md",
     "resources/Pasted image 20241003103932.png",
