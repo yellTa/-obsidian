@@ -26,26 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/Burgerput/0_회의록/버거풋 회의 - 9월 17일.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "551c62133a2629f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/10월 2일 멘토링.md",
+                "file": "1_Projects/Burgerput/2_유지보수/기기, 식품 update후 맨 밑으로 가는거 해결하기....md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "34c70a62ed80b617",
@@ -128,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/10월 2일 멘토링.md",
+                "file": "Templates/devlop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/10월 2일 멘토링.md",
+                "file": "Templates/devlop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,16 +156,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/10월 2일 멘토링.md"
+                "file": "Templates/devlop.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,10 +181,51 @@
       "obsidian-importer:Open Importer": false
     }
   },
+  "floating": {
+    "id": "31c4e794f4815a95",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3a1fe0e9c258e0d9",
+        "type": "window",
+        "children": [
+          {
+            "id": "c772e58004650206",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "551c62133a2629f8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Templates/devlop.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1082,
+        "y": 0,
+        "width": 697,
+        "height": 1080,
+        "maximize": false,
+        "zoom": -1
+      }
+    ]
+  },
   "active": "551c62133a2629f8",
   "lastOpenFiles": [
-    "resources/Pasted image 20241003103932.png",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/10월 2일 멘토링.md",
+    "1_Projects/Burgerput/2_유지보수/기기, 식품 update후 맨 밑으로 가는거 해결하기....md",
+    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
+    "Templates/devlop.md",
+    "Templates/Folder(Develop).md",
+    "resources/Pasted image 20241003103932.png",
     "resources/Pasted image 20241003103923.png",
     "resources/Pasted image 20241003103826.png",
     "resources/Pasted image 20241003103701.png",
@@ -215,10 +244,7 @@
     "1_Projects/Burgerput/3_TroubleDocs/제출에러 수정하기/제출에러 수정하기.md",
     "1_Projects/Burgerput/3_TroubleDocs/Chrome Driver 사용 에러/Chrome Driver 사용 에러.md",
     "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md",
-    "1_Projects/Burgerput/2_유지보수/기기, 식품 update후 맨 밑으로 가는거 해결하기....md",
-    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
-    "Templates/devlop.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월2일 스크럼회의.md",
     "1_Projects/Burgerput/1_개발문서/Spring JPA  update가 아닌 insert/Spring JPA  update가 아닌 insert.md",
     "1_Projects/Burgerput/2_유지보수/JWT토큰이란/JWT토큰이란.md",
@@ -230,7 +256,6 @@
     "resources/Pasted image 20241001111927.png",
     "resources/Pasted image 20240930224456.png",
     "resources/Pasted image 20240930223328.png",
-    "resources/Pasted image 20240930223326.png",
     "2_Areas/웹 프로그래밍(풀스택)",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/설계문서",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서",

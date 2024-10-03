@@ -1,6 +1,6 @@
 ---
 created: 2024-09-30 22:28
-updated: 2024-10-02T18:36
+updated: 2024-10-03T11:00
 tags:
   - develop
 Progress:
@@ -67,26 +67,9 @@ Machine과 CustomMachine에는 num이라는 자동증가 열이 있다.
 
 그래 DB에 값을 가져올 때 index가 없었던 경우네느 ACDFB의 순서로 가져왔던 것이다.
 이제 index 열을 추가하고 숫자를 부여한 다음 index를 기준으로 오름차순으로 정렬하면 문제를 해결할 수 있다.
-### 수행할 작업 단위
-#### 1. index 열 추가하기 [[#index열 추가하기]]
-- Custom Food
-- CustomMachine
-- Food
-- Machine
-위의 테이블에 index열을 추가하도록 하자
 
-#### 2. Loading되고 Machine, Food에 데이터가 추가될 때 index의 값도 저장하기
-Machine,Food에 데이터가 추가될 때 index의 값도 추가하자!
-
-#### 3.Custom Table에 값을 넣을 때 index도 함께 넣도록 설정하기
-저장하는 비지니스 로직에서 customTable에 값을 저장할 때 index도 함께 넣도록 설정하자
-
-#### 4. CustomTable에 값을 출력할 때 index를 기준으로 오름차순하고 결과를 front에 return하기
-customTable에 index의 값도 들어갔고 이제는 뽑을 때 index를 기준으로 오름차순을 진행하자!!
-
----
-## index열 추가하기
-### Custom_food 테이블 외 4개(앞쪽에 적혀있다)
+### index열을 추가하고 정렬이 되는지 간단하게 확인해보기
+#### Custom_food 테이블 외 4개(앞쪽에 적혀있다)
 ``` java
 package burgerput.project.zenput.domain;  
   
@@ -117,7 +100,7 @@ public class CustomFood {
 처음에는 index라는 예약어를 사용해서 에러가 났었다. 그러니까 예약어인 index말고 다른 언어로 고쳐주자 
 
 
-### Repository에 index별로 정렬하는거 추가하기
+#### Repository에 index별로 정렬하는거 추가하기
 ``` java
 public interface MachineRepository extends JpaRepository<Machine, Integer> {  
     @Modifying(clearAutomatically = true)  
@@ -133,7 +116,7 @@ public interface MachineRepository extends JpaRepository<Machine, Integer> {
 지금은 잠깐 테스트라서 MachineRepository로 선택했다! 참고로 CustomMachine에 
 `   List<Machine> findAllByOrderByIndexValueAsc();  `이 메소드 쿼리를 넣어주면 된다.
 
-### 테스트수행하기
+#### 테스트수행하기
 ``` java 
 @SpringBootTest  
 @Slf4j  
@@ -201,6 +184,30 @@ public class Addindex {
 
 그리고 Test폴더도 지우고 
 열을 추가하는 index를 설정했다고 커밋을 날리자!
+
+---
+### 수행할 작업 단위
+#### 1. index 열 추가하기 [[#index열 추가하기]]
+- Custom Food
+- CustomMachine
+- Food
+- Machine
+위의 테이블에 index열을 추가하도록 하자
+
+#### 2. Loading되고 Machine, Food에 데이터가 추가될 때 index의 값도 저장하기
+Machine,Food에 데이터가 추가될 때 index의 값도 추가하자!
+
+#### 3.Custom Table에 값을 넣을 때 index도 함께 넣도록 설정하기
+저장하는 비지니스 로직에서 customTable에 값을 저장할 때 index도 함께 넣도록 설정하자
+
+#### 4. CustomTable에 값을 출력할 때 index를 기준으로 오름차순하고 결과를 front에 return하기
+customTable에 index의 값도 들어갔고 이제는 뽑을 때 index를 기준으로 오름차순을 진행하자!!
+
+---
+
+
+---
+## 구현하기
 
 
 # CONCLUSION:

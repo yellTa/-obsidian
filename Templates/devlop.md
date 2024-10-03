@@ -1,6 +1,6 @@
 ---
 created: "{{date}} {{time}}"
-updated: 2024-10-02T15:38
+updated: 2024-10-03T11:01
 tags:
   - develop
 Progress:
@@ -24,6 +24,8 @@ Progress:
 
 ## 수행하기
 ### 설계 
+
+### 실험해보기 (설계가 제대로 작동하는지)
 
 ### 수행할 작업 단위
 
