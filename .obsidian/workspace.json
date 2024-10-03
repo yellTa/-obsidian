@@ -43,21 +43,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8812004871f119b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7_TIL/241002 오늘의 TIL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "34c70a62ed80b617",
@@ -140,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7_TIL/241002 오늘의 TIL.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월 3일 긴급회의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7_TIL/241002 오늘의 TIL.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월 3일 긴급회의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7_TIL/241002 오늘의 TIL.md"
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월 3일 긴급회의.md"
               }
             }
           }
@@ -205,7 +193,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "8812004871f119b3",
+  "active": "551c62133a2629f8",
   "lastOpenFiles": [
     "7_TIL/241002 오늘의 TIL.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월 3일 긴급회의.md",
