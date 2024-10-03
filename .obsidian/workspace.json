@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/devlop.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/10월 3일 멘토링.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/devlop.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/10월 3일 멘토링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/devlop.md"
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/10월 3일 멘토링.md"
               }
             }
           }
@@ -165,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,26 +205,53 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "3000e59fe5894602",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1_Projects/Burgerput/3_TroubleDocs/🟣Loading이 3번씩 도는 이유…/🟣Loading이 3번씩 도는 이유….md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "6f200a3d32bf68cb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/10월 3일 멘토링.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
-        "x": 1082,
-        "y": 0,
-        "width": 697,
+        "x": 744,
+        "y": 35,
+        "width": 960,
         "height": 1080,
         "maximize": false,
         "zoom": -1
       }
     ]
   },
-  "active": "551c62133a2629f8",
+  "active": "6f200a3d32bf68cb",
   "lastOpenFiles": [
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/10월 2일 멘토링.md",
+    "resources/백엔드_유예지_241002.pdf",
     "1_Projects/Burgerput/2_유지보수/기기, 식품 update후 맨 밑으로 가는거 해결하기....md",
-    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/10월 3일 멘토링.md",
     "Templates/devlop.md",
+    "1_Projects/Burgerput/3_TroubleDocs/🟣Loading이 3번씩 도는 이유…/🟣Loading이 3번씩 도는 이유….md",
+    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "Templates/Folder(Develop).md",
     "resources/Pasted image 20241003103932.png",
     "resources/Pasted image 20241003103923.png",
@@ -250,8 +278,6 @@
     "1_Projects/Burgerput/2_유지보수/JWT토큰이란/JWT토큰이란.md",
     "1_Projects/Burgerput/2_유지보수/Machine과 Food 로딩결과 통합, JSON 데이터 저장, LoadingRefactoring/Machine과 Food 로딩결과 통합, JSON 데이터 저장, LoadingRefactoring.md",
     "1_Projects/Burgerput/2_유지보수/SpringMock MVC를 통한 Get테스트/SpringMock MVC를 통한 Get테스트.md",
-    "1_Projects/Burgerput/2_유지보수/모든 API요청을 Interceptor를 거쳐서 JWT토큰 수행하기/모든 API요청을 Interceptor를 거쳐서 JWT토큰 수행하기.md",
-    "1_Projects/Burgerput/0_회의록/10월1일 회의록.md",
     "resources/Pasted image 20241001121656.png",
     "resources/Pasted image 20241001111927.png",
     "resources/Pasted image 20240930224456.png",
