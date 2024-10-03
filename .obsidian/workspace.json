@@ -26,7 +26,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/docs/자소서 공유.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/10월 3일 멘토링.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d78eef58d253783",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7_TIL/241003의 TIL.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "34c70a62ed80b617",
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/docs/자소서 공유.md",
+                "file": "7_TIL/241003의 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/docs/자소서 공유.md",
+                "file": "7_TIL/241003의 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/docs/자소서 공유.md"
+                "file": "7_TIL/241003의 TIL.md"
               }
             }
           }
@@ -194,8 +206,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "d4b8f753c7162932",
+  "active": "5d78eef58d253783",
   "lastOpenFiles": [
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/10월 3일 멘토링.md",
+    "7_TIL/241003의 TIL.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/docs/자소서 공유.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/docs/docs.md",
     "Templates/Folder(Develop).md",
@@ -203,7 +218,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/docs",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/회의.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/공지내용정리-9월조장/공지내용정리-9월조장.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/10월 3일 멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월3일 멘토님 회의.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월3일 23시 회의.md",
     "1_Projects/Burgerput/3_TroubleDocs/🟣Loading이 3번씩 도는 이유…/🟣Loading이 3번씩 도는 이유….md",
@@ -218,7 +232,6 @@
     "resources/Pasted image 20241003103826.png",
     "resources/Pasted image 20241003103701.png",
     "resources/Pasted image 20241003103459.png",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 26일 멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사랑 자소서 조사.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링.md",
@@ -230,7 +243,6 @@
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
     "1_Projects/Burgerput/3_TroubleDocs/제출에러 수정하기/제출에러 수정하기.md",
     "1_Projects/Burgerput/3_TroubleDocs/Chrome Driver 사용 에러/Chrome Driver 사용 에러.md",
-    "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md",
     "resources/Pasted image 20241001121656.png",
     "resources/Pasted image 20241001111927.png",
     "resources/Pasted image 20240930224456.png",
