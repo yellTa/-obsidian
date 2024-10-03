@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/10월 3일 멘토링.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/docs/자소서 공유.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/zerospace 로그인 기능.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/docs/자소서 공유.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/zerospace 로그인 기능.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/docs/자소서 공유.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/zerospace 로그인 기능.md"
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/docs/자소서 공유.md"
               }
             }
           }
@@ -194,8 +194,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2caed6827f1efab6",
+  "active": "d4b8f753c7162932",
   "lastOpenFiles": [
+    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/docs/자소서 공유.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/docs/docs.md",
+    "Templates/Folder(Develop).md",
+    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/취업스터디.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/docs",
+    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/회의.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/공지내용정리-9월조장/공지내용정리-9월조장.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/10월 3일 멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월3일 멘토님 회의.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월3일 23시 회의.md",
@@ -206,7 +213,6 @@
     "1_Projects/Burgerput/2_유지보수/기기, 식품 update후 맨 밑으로 가는거 해결하기....md",
     "resources/Pasted image 20241003112959.png",
     "resources/백엔드_유예지_241002.pdf",
-    "Templates/Folder(Develop).md",
     "resources/Pasted image 20241003103932.png",
     "resources/Pasted image 20241003103923.png",
     "resources/Pasted image 20241003103826.png",
@@ -225,11 +231,6 @@
     "1_Projects/Burgerput/3_TroubleDocs/제출에러 수정하기/제출에러 수정하기.md",
     "1_Projects/Burgerput/3_TroubleDocs/Chrome Driver 사용 에러/Chrome Driver 사용 에러.md",
     "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md",
-    "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월2일 스크럼회의.md",
-    "1_Projects/Burgerput/1_개발문서/Spring JPA  update가 아닌 insert/Spring JPA  update가 아닌 insert.md",
-    "1_Projects/Burgerput/2_유지보수/JWT토큰이란/JWT토큰이란.md",
-    "1_Projects/Burgerput/2_유지보수/Machine과 Food 로딩결과 통합, JSON 데이터 저장, LoadingRefactoring/Machine과 Food 로딩결과 통합, JSON 데이터 저장, LoadingRefactoring.md",
     "resources/Pasted image 20241001121656.png",
     "resources/Pasted image 20241001111927.png",
     "resources/Pasted image 20240930224456.png",
@@ -241,7 +242,6 @@
     "resources/~$실전프로젝트_요구사항명세.xlsx",
     "resources/실전프로젝트_요구사항명세.xlsx",
     "resources/~$20240501_요구사항명세_v2.1 .xlsx",
-    "resources/20240501_요구사항명세_v2.1 .xlsx",
     "1_Projects/Burgerput/Burgerput Controller역할.canvas",
     "Untitled 7.canvas",
     "Untitled 6.canvas",
