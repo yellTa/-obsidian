@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월 3일 긴급회의.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/10월 2일 멘토링.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월 3일 긴급회의.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/10월 2일 멘토링.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월 3일 긴급회의.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/10월 2일 멘토링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월 3일 긴급회의.md"
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/10월 2일 멘토링.md"
               }
             }
           }
@@ -195,15 +195,19 @@
   },
   "active": "551c62133a2629f8",
   "lastOpenFiles": [
-    "7_TIL/241002 오늘의 TIL.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/멘토링.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 26일 멘토링.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/10월 2일 멘토링.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사랑 자소서 조사.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월 3일 긴급회의.md",
+    "7_TIL/241002 오늘의 TIL.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/회의록모음.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/zerospace 로그인 기능.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/개발문서.md",
     "resources/Pasted image 20241003003116.png",
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
     "1_Projects/Burgerput/3_TroubleDocs/제출에러 수정하기/제출에러 수정하기.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/멘토링.md",
     "1_Projects/Burgerput/3_TroubleDocs/Chrome Driver 사용 에러/Chrome Driver 사용 에러.md",
     "1_Projects/Burgerput/3_TroubleDocs/분평 loading save가 되지 않는 현상.md",
     "1_Projects/Burgerput/2_유지보수/기기, 식품 update후 맨 밑으로 가는거 해결하기....md",
@@ -218,16 +222,12 @@
     "1_Projects/Burgerput/2_유지보수/모든 API요청을 Interceptor를 거쳐서 JWT토큰 수행하기/모든 API요청을 Interceptor를 거쳐서 JWT토큰 수행하기.md",
     "1_Projects/Burgerput/0_회의록/10월1일 회의록.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/9월25일 스크럼회의.md",
-    "1_Projects/Burgerput/0_회의록/버거풋 회의 - 9월 17일.md",
-    "1_Projects/Burgerput/0_회의록/0_회의록.md",
     "resources/Pasted image 20241001121656.png",
     "resources/Pasted image 20241001111927.png",
-    "1_Projects/Burgerput/3_TroubleDocs/nginx포트포워딩 에러.md",
     "resources/Pasted image 20240930224456.png",
     "resources/Pasted image 20240930223328.png",
     "resources/Pasted image 20240930223326.png",
     "resources/Pasted image 20240930223157.png",
-    "1_Projects/Burgerput/1_개발문서/Project Architectrue structrue/Project Architectrue structrue.md",
     "resources/Pasted image 20240925001846.png",
     "resources/Pasted image 20240923161511.png",
     "2_Areas/웹 프로그래밍(풀스택)",
