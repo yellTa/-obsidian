@@ -1,16 +1,18 @@
 ---
 created: 2024-10-04 17:50
-updated: 2024-10-04T17:50
+updated: 2024-10-04T18:21
 tags:
   - develop
 Progress:
   - ongoing
 ---
-# OBJECT/SUBJECT:
-## branch = feat/customIndex
+# OBJECT/SUBJECT
+작성한 기술명세와 API 문서를 보고 먼저 만들자
+일단 더미데이터를 생성하고 view를 먼저 구성할 예정이다.
 
+그 다음 backend와 결합시키도록 구성하자
 # ANALYSIS:
-## 원인 파악하기
+
 
 
 
