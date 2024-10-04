@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04 17:50
-updated: 2024-10-04T20:59
+updated: 2024-10-04T21:14
 tags:
   - develop
 Progress:
@@ -27,15 +27,14 @@ tomcat + maven 프로젝트로 구성한 backend
 DB 스키마 정의
 ### 수행할 작업 단위
 
-#### DTO, DAO 만들기
+#### DTO, DAO, Servlet만들기
 데이터 베이스 스키마에 맞춰서 DTO 생성하기
 
 ##### DAO에 들어가야하는 기능
 -> tasks 데이터 저장
 -> tasks 데이터 읽기
 
-##### 데이터 저장 
-1. 
+
 
 
 ## 수행하기 - front 부분
