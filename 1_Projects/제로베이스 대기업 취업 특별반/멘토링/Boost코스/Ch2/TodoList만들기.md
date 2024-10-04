@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04 17:50
-updated: 2024-10-04T20:50
+updated: 2024-10-04T20:53
 tags:
   - develop
 Progress:
@@ -31,7 +31,9 @@ DB 스키마 정의
 데이터 베이스 스키마에 맞춰서 DTO 생성하기
 
 ##### DAO에 들어가야하는 기능
--> 
+-> tasks 데이터 저장
+-> tasks 데이터 읽기
+
 
 
 ## 수행하기 - front 부분
