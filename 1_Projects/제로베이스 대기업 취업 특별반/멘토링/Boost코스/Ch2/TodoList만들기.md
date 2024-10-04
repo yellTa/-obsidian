@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04 17:50
-updated: 2024-10-04T19:47
+updated: 2024-10-04T19:51
 tags:
   - develop
 Progress:
@@ -16,18 +16,19 @@ html + javascript 로 구성된 front
 tomcat + maven 프로젝트로 구성한 backend
 로 프로젝트를 구성하자
 
-
-
-
+![[Pasted image 20241004195014.png]]
 
 ---
 
-## 수행하기
+## 수행하기 - backend 부분
 ### 설계 
-
-### 실험해보기 (설계가 제대로 작동하는지)
+1. Backend 먼서 구성해보자! API를 return하는 WebProject를 시작하자!
 
 ### 수행할 작업 단위
+
+## 수행하기 - front 부분
+
+
 
 ---
 
