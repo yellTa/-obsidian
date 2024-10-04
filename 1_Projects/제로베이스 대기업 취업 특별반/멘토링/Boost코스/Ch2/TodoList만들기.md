@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04 17:50
-updated: 2024-10-04T18:24
+updated: 2024-10-04T18:27
 tags:
   - develop
 Progress:
@@ -12,7 +12,7 @@ Progress:
 
 그 다음 backend와 결합시키도록 구성하자
 # ANALYSIS:
-main페이지 만들기
+
 
 
 
