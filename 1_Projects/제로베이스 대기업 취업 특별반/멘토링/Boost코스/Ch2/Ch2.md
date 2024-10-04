@@ -1,11 +1,11 @@
 ---
 created: 2024-10-04 17:49
-updated: 2024-10-04T17:49
+updated: 2024-10-05T01:49
 ---
 # Ch2 과제
 ```dataviewjs
 //3,4 라인의 폴더 이름만 바꿔주면 된다.
-const pages = dv.pages('"1_projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2"')
+const pages = dv.pages('"1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2"')
   .where(p => p.file.name !== "Ch2")
 .sort(p => p.created, 'asc'); // created 태그 기준으로 오름차순 정렬
 
