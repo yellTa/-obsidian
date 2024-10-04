@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04 17:50
-updated: 2024-10-04T20:53
+updated: 2024-10-04T20:59
 tags:
   - develop
 Progress:
@@ -34,6 +34,8 @@ DB 스키마 정의
 -> tasks 데이터 저장
 -> tasks 데이터 읽기
 
+##### 데이터 저장 
+1. 
 
 
 ## 수행하기 - front 부분
