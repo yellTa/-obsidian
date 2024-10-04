@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04 17:50
-updated: 2024-10-04T18:27
+updated: 2024-10-04T19:45
 tags:
   - develop
 Progress:
@@ -12,6 +12,10 @@ Progress:
 
 그 다음 backend와 결합시키도록 구성하자
 # ANALYSIS:
+html + javascript 로 구성된 front 
+tomcat + maven 프로젝트로 구성한 backend
+로 프로젝트를 구성하자
+
 
 
 
