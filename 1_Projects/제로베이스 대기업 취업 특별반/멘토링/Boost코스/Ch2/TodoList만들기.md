@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04 17:50
-updated: 2024-10-04T19:51
+updated: 2024-10-04T20:08
 tags:
   - develop
 Progress:
@@ -23,7 +23,8 @@ tomcat + maven 프로젝트로 구성한 backend
 ## 수행하기 - backend 부분
 ### 설계 
 1. Backend 먼서 구성해보자! API를 return하는 WebProject를 시작하자!
-
+![[Pasted image 20241004200820.png]]
+DB 스키마 정의
 ### 수행할 작업 단위
 
 ## 수행하기 - front 부분
