@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04 17:50
-updated: 2024-10-04T19:45
+updated: 2024-10-04T19:47
 tags:
   - develop
 Progress:
@@ -17,13 +17,6 @@ tomcat + maven 프로젝트로 구성한 backend
 로 프로젝트를 구성하자
 
 
-
-
-
-
-
----
-## 가설 세우기
 
 
 
