@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04 17:50
-updated: 2024-10-04T21:27
+updated: 2024-10-04T22:24
 tags:
   - develop
 Progress:
@@ -32,12 +32,7 @@ DB 스키마 정의
 
 ##### DAO에 들어가야하는 기능
 ###### 데이터 읽어오기
-1. 드라이버 로드
-2. Conection 객체생성
-3. PreparedStatement 객체 생성
-4. SQL결과를 담을 ResultSet생성
 
-ResultSet에 담긴 결과를 하나씩 읽어서 `List<Tasks>`형태로 반환
 
 ###### 데이터 저장하기
 
