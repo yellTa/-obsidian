@@ -1,6 +1,6 @@
 ---
 created: 2024-10-05 01:50
-updated: 2024-10-05T01:52
+updated: 2024-10-05T02:18
 tags:
   - develop
 Progress:
@@ -16,6 +16,7 @@ Progress:
 
 
 ### 2. TaskDao객체 이용해서 값 저장하기
+Date 객체 사용하기 
 
 
 
