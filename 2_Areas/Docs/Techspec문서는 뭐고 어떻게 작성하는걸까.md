@@ -1,6 +1,6 @@
 ---
 created: 2024-10-05 21:57
-updated: 2024-10-05T23:30
+updated: 2024-10-05T23:37
 tags: 
 출처: 
 ---
@@ -23,9 +23,9 @@ groundwork 즉 구현을 시작하기 전 기반이 되는 작업이다.
 >functional 문서는 소프트웨어 개발에서 얻고싶은 것들을, 
 >Technical 문서는 그걸 어떻게 얻고싶은 것인지 작성한다.
 
-
-
-
+- What do you want your app to do?
+- What problem does it solve for the user?
+- How will your product improve on existing food delivery apps out there?
 
 
 
