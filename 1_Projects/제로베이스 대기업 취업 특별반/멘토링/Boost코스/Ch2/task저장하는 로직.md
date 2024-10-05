@@ -1,6 +1,6 @@
 ---
 created: 2024-10-05 01:50
-updated: 2024-10-05T02:18
+updated: 2024-10-05T10:45
 tags:
   - develop
 Progress:
@@ -12,7 +12,7 @@ Progress:
 # ANALYSIS:
 ## 과정 파악하기
 ### 1. Servlet에서 API 받아오기
-1. 
+
 
 
 ### 2. TaskDao객체 이용해서 값 저장하기
