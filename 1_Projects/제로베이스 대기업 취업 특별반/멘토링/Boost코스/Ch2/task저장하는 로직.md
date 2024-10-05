@@ -1,6 +1,6 @@
 ---
 created: 2024-10-05 01:50
-updated: 2024-10-05T10:45
+updated: 2024-10-05T11:07
 tags:
   - develop
 Progress:
@@ -12,11 +12,11 @@ Progress:
 # ANALYSIS:
 ## 과정 파악하기
 ### 1. Servlet에서 API 받아오기
-
-
+request를 이용해서 API받아오기
 
 ### 2. TaskDao객체 이용해서 값 저장하기
-Date 객체 사용하기 
+Date 객체 사용하기
+Dao에서 sql을 사용해서 데이터 저장하기
 
 
 
