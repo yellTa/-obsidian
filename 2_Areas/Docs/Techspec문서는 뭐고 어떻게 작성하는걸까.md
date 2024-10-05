@@ -1,6 +1,6 @@
 ---
 created: 2024-10-05 21:57
-updated: 2024-10-05T23:49
+updated: 2024-10-05T23:51
 tags: 
 출처: 
 ---
@@ -38,8 +38,9 @@ groundwork 즉 구현을 시작하기 전 기반이 되는 작업이다.
 
 
 
+https://document360.com/blog/technical-specification-document/
 
-
+여기 문서보고 마저 작성하기
 
 
 
@@ -52,4 +53,5 @@ groundwork 즉 구현을 시작하기 전 기반이 되는 작업이다.
 ---
 # 참고
 https://monday.com/blog/rnd/technical-specification/
+https://document360.com/blog/technical-specification-document/
 # 연결문서
