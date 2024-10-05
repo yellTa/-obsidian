@@ -1,6 +1,6 @@
 ---
 created: 2024-10-05 01:50
-updated: 2024-10-05T11:07
+updated: 2024-10-05T11:08
 tags:
   - develop
 Progress:
@@ -11,6 +11,9 @@ Progress:
 
 # ANALYSIS:
 ## 과정 파악하기
+### 사전 작업
+DTO 객체 만들기
+
 ### 1. Servlet에서 API 받아오기
 request를 이용해서 API받아오기
 
