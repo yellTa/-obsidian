@@ -1,6 +1,6 @@
 ---
 created: 2024-10-05 21:57
-updated: 2024-10-05T23:40
+updated: 2024-10-05T23:49
 tags: 
 출처: 
 ---
@@ -29,6 +29,15 @@ groundwork 즉 구현을 시작하기 전 기반이 되는 작업이다.
 - What problem does it solve for the user?
 - How will your product improve on existing food delivery apps out there?
 ## 할 수 없는 것 정의하기
+- payment way through cryptocurrency(에시)
+
+## Technical Specificatino 문서 종류
+### IT technical specification
+- IT인프라 이슈, it team에서 업데이트 되는 문서들 포함
+- hardward, software specficatino, network 요구사항, security protocols, data migratino strategies 포함
+
+
+
 
 
 
