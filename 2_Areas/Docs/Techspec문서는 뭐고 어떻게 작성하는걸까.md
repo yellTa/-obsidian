@@ -1,6 +1,6 @@
 ---
 created: 2024-10-05 21:57
-updated: 2024-10-06T12:58
+updated: 2024-10-06T13:02
 tags: 
 출처: 
 Progress:
@@ -39,10 +39,16 @@ groundwork 즉 구현을 시작하기 전 기반이 되는 작업이다.
 - hardward, software specficatino, network 요구사항, security protocols, data migratino strategies 포함
 
 ## technical specification의 장점
-### 엔지니어
+### for 엔지니어
 - 엔지니어들에게 어떤 작업을 수행해야하는지 가이드를 준다.
 - 요구사항을 정확하게 이해할 수 있도록 한다.
 - 개발 과정에서 불확실성을 제거한다.
+- 실패 확률을 줄인다.
+
+### for 팀
+- 팀에게 같은 목표를 공유하는 도구가 된다.
+
+### for Project
 - 
 
 
