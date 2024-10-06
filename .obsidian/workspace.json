@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/Burgerput/Burgerput.md",
+                "file": "2_Areas/database/데이터베이스에서 락이란.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/Burgerput/Burgerput.md",
+                "file": "2_Areas/database/데이터베이스에서 락이란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/Burgerput/Burgerput.md",
+                "file": "2_Areas/database/데이터베이스에서 락이란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/Burgerput/Burgerput.md"
+                "file": "2_Areas/database/데이터베이스에서 락이란.md"
               }
             }
           }
@@ -208,10 +208,11 @@
   },
   "active": "5ab709b802b00b78",
   "lastOpenFiles": [
-    "2_Areas/database/데이터베이스에서 락이란.md",
     "2_Areas/database/database.md",
-    "2_Areas/Docs/Docs.md",
+    "2_Areas/database/데이터베이스에서 락이란.md",
     "2_Areas/Docs/Techspec문서는 뭐고 어떻게 작성하는걸까.md",
+    "2_Areas/Docs/Docs.md",
+    "1_Projects/Burgerput/Burgerput.md",
     "2_Areas/database",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/회의록모음.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/1006 이룡일 아침 스크럼.md",
@@ -239,7 +240,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/취업스터디.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/docs",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/회의.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/공지내용정리-9월조장/공지내용정리-9월조장.md",
     "resources/Pasted image 20241003112959.png",
     "resources/백엔드_유예지_241002.pdf",
     "resources/Pasted image 20241003103932.png",
