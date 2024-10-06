@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Areas/Docs/Techspec문서는 뭐고 어떻게 작성하는걸까.md",
+                "file": "2_Areas/database/데이터베이스에서 락이란.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,8 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5110321044922,
-    "collapsed": true
+    "width": 286.5110321044922
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -141,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Areas/Docs/Techspec문서는 뭐고 어떻게 작성하는걸까.md",
+                "file": "2_Areas/database/데이터베이스에서 락이란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Areas/Docs/Techspec문서는 뭐고 어떻게 작성하는걸까.md",
+                "file": "2_Areas/database/데이터베이스에서 락이란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Areas/Docs/Techspec문서는 뭐고 어떻게 작성하는걸까.md"
+                "file": "2_Areas/database/데이터베이스에서 락이란.md"
               }
             }
           }
@@ -209,11 +208,14 @@
   },
   "active": "5ab709b802b00b78",
   "lastOpenFiles": [
+    "2_Areas/database/database.md",
+    "2_Areas/database/데이터베이스에서 락이란.md",
     "2_Areas/Docs/Docs.md",
+    "2_Areas/Docs/Techspec문서는 뭐고 어떻게 작성하는걸까.md",
+    "2_Areas/database",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/회의록모음.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/1006 이룡일 아침 스크럼.md",
     "7_TIL/241006의 TIL.md",
-    "2_Areas/Docs/Techspec문서는 뭐고 어떻게 작성하는걸까.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/task저장하는 로직.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Ch2.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/TodoList만들기.md",
@@ -238,8 +240,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/docs",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/회의.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/공지내용정리-9월조장/공지내용정리-9월조장.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월3일 23시 회의.md",
-    "1_Projects/Burgerput/3_TroubleDocs/🟣Loading이 3번씩 도는 이유…/🟣Loading이 3번씩 도는 이유….md",
     "resources/Pasted image 20241003112959.png",
     "resources/백엔드_유예지_241002.pdf",
     "resources/Pasted image 20241003103932.png",
@@ -254,7 +254,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서",
     "2_Areas/Docs",
     "2_Areas/Spring",
-    "resources/~$실전프로젝트_요구사항명세.xlsx",
     "1_Projects/Burgerput/Burgerput Controller역할.canvas",
     "Untitled 7.canvas",
     "Untitled 6.canvas",
