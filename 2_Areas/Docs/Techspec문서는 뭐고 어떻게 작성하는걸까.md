@@ -1,6 +1,6 @@
 ---
 created: 2024-10-05 21:57
-updated: 2024-10-06T15:51
+updated: 2024-10-06T20:12
 tags: 
 출처: 
 Progress:
@@ -64,17 +64,12 @@ groundwork 즉 구현을 시작하기 전 기반이 되는 작업이다.
 3. 업데이트 정보 가져오기 등등
 
 팀원이나 내부에서 사용하는 기능이라면 업무에서 어떤 효과를 줄지
-
 ## on what platforms can the solution be accessible?
 스마트폰? 데스크탑? 혹은 컴퓨터에서 작동하는지
-
 ## deadline이 언제인지?
-
 ## what is your budget for the project?
 프로젝트를 수행하는데 드는 비용을 적어놓기
-
-
-## Technical pecification문서 작성하기
+## Technical specification문서 작성하기
 1. 배경지식 모으기
 2. 프로그램의 기능 명세 확인하기 
 3. 해결안을 내놓기 위해 브레인스톰 진행해보기

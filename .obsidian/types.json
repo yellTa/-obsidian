@@ -22,6 +22,7 @@
     "pick": "checkbox",
     "test": "checkbox",
     "마감일": "date",
-    "회의": "checkbox"
+    "회의": "checkbox",
+    "deadline": "date"
   }
 }
