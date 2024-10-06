@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/Untitled.md",
+                "file": "1_Projects/Burgerput/2_유지보수/Loading되고 Machine,Food에 데이터가 추가될 때 index의 값도 저장하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/Untitled.md",
+                "file": "1_Projects/Burgerput/2_유지보수/Loading되고 Machine,Food에 데이터가 추가될 때 index의 값도 저장하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/Untitled.md",
+                "file": "1_Projects/Burgerput/2_유지보수/Loading되고 Machine,Food에 데이터가 추가될 때 index의 값도 저장하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/Untitled.md"
+                "file": "1_Projects/Burgerput/2_유지보수/Loading되고 Machine,Food에 데이터가 추가될 때 index의 값도 저장하기.md"
               }
             }
           }
@@ -245,9 +245,9 @@
   },
   "active": "075c7dbb1b31e724",
   "lastOpenFiles": [
-    "Templates/devlop.md",
     "1_Projects/Burgerput/2_유지보수/(main)기기, 식품 update후 맨 밑으로 가는거 해결하기....md",
-    "1_Projects/Burgerput/2_유지보수/Untitled.md",
+    "1_Projects/Burgerput/2_유지보수/Loading되고 Machine,Food에 데이터가 추가될 때 index의 값도 저장하기.md",
+    "Templates/devlop.md",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
     "Templates/techspec.md",
