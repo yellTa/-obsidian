@@ -1,6 +1,6 @@
 ---
 created: 2024-09-30 22:28
-updated: 2024-10-03T11:00
+updated: 2024-10-06T20:05
 tags:
   - develop
 Progress:
@@ -187,7 +187,7 @@ public class Addindex {
 
 ---
 ### 수행할 작업 단위
-#### 1. index 열 추가하기 [[#index열 추가하기]]
+#### 1. index 열 추가하기
 - Custom Food
 - CustomMachine
 - Food

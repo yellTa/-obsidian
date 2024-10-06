@@ -6,7 +6,7 @@
       {
         "id": "f2c09484126a8fb8",
         "type": "tabs",
-        "dimension": 85.35871156661786,
+        "dimension": 86.728599867286,
         "children": [
           {
             "id": "a3d210b390379dd3",
@@ -33,36 +33,24 @@
             }
           },
           {
-            "id": "5d78eef58d253783",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_Areas/Docs/Techspec문서는 뭐고 어떻게 작성하는걸까.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5ab709b802b00b78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Areas/database/데이터베이스에서 락이란.md",
+                "file": "Templates/techspec.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "34c70a62ed80b617",
         "type": "tabs",
-        "dimension": 14.641288433382138,
+        "dimension": 13.271400132714001,
         "children": [
           {
             "id": "2caed6827f1efab6",
@@ -140,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Areas/database/데이터베이스에서 락이란.md",
+                "file": "Templates/techspec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Areas/database/데이터베이스에서 락이란.md",
+                "file": "Templates/techspec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Areas/database/데이터베이스에서 락이란.md"
+                "file": "Templates/techspec.md"
               }
             }
           }
@@ -206,13 +194,54 @@
       "obsidian-importer:Open Importer": false
     }
   },
+  "floating": {
+    "id": "236cbb9e82f2952f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "18d15a6feecb9401",
+        "type": "window",
+        "children": [
+          {
+            "id": "7a1741697a830b56",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5d78eef58d253783",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2_Areas/Docs/Techspec문서는 뭐고 어떻게 작성하는걸까.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1152,
+        "y": 58,
+        "width": 999,
+        "height": 1080,
+        "maximize": false,
+        "zoom": -1
+      }
+    ]
+  },
   "active": "5ab709b802b00b78",
   "lastOpenFiles": [
-    "2_Areas/database/database.md",
-    "2_Areas/database/데이터베이스에서 락이란.md",
     "2_Areas/Docs/Techspec문서는 뭐고 어떻게 작성하는걸까.md",
-    "2_Areas/Docs/Docs.md",
+    "Templates/techspec.md",
+    "Templates/devlop.md",
+    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
+    "1_Projects/Burgerput/2_유지보수/(main)기기, 식품 update후 맨 밑으로 가는거 해결하기....md",
     "1_Projects/Burgerput/Burgerput.md",
+    "2_Areas/database/데이터베이스에서 락이란.md",
+    "2_Areas/database/database.md",
+    "2_Areas/Docs/Docs.md",
     "2_Areas/database",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/회의록모음.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/1006 이룡일 아침 스크럼.md",
@@ -222,11 +251,9 @@
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/TodoList만들기.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Boost코스.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링.md",
-    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "resources/Pasted image 20241004200820.png",
     "resources/Pasted image 20241004195014.png",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월3일 멘토님 회의.md",
-    "1_Projects/Burgerput/2_유지보수/기기, 식품 update후 맨 밑으로 가는거 해결하기....md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스",
@@ -237,9 +264,7 @@
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/docs/자소서 공유.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/docs/docs.md",
     "Templates/Folder(Develop).md",
-    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/취업스터디.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/docs",
-    "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/회의/회의.md",
     "resources/Pasted image 20241003112959.png",
     "resources/백엔드_유예지_241002.pdf",
     "resources/Pasted image 20241003103932.png",
