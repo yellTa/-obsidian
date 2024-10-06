@@ -1,6 +1,6 @@
 ---
 created: 2024-10-05 21:57
-updated: 2024-10-06T15:02
+updated: 2024-10-06T15:03
 tags: 
 출처: 
 Progress:
@@ -70,6 +70,8 @@ groundwork 즉 구현을 시작하기 전 기반이 되는 작업이다.
 
 ## deadline이 언제인지?
 
+## what is your budget for the project?
+프로젝트를 수행하는데 드는 비용을 적어놓기
 
 
 
