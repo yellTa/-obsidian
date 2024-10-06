@@ -1,6 +1,6 @@
 ---
 created: 2024-10-06 23:39
-updated: 2024-10-06T23:40
+updated: 2024-10-06T23:48
 tags:
   - develop
 Progress:
@@ -14,6 +14,9 @@ Loading되고 Machine, Food에 데이터가 추가될 때 index의 값도 저장
 ## 설계
 Loading에서 save를 할 때 Machine, Food열에 index도 함께 추가되도록 설정한다. 
 
+``` java
+
+```
 
 
 
