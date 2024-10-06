@@ -45,6 +45,18 @@
             }
           },
           {
+            "id": "5ab709b802b00b78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7_TIL/241006의 TIL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2095ed3a0b76b282",
             "type": "leaf",
             "state": {
@@ -57,7 +69,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "34c70a62ed80b617",
@@ -124,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5110321044922,
-    "collapsed": true
+    "width": 286.5110321044922
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -141,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Areas/Docs/Techspec문서는 뭐고 어떻게 작성하는걸까.md",
+                "file": "7_TIL/241006의 TIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Areas/Docs/Techspec문서는 뭐고 어떻게 작성하는걸까.md",
+                "file": "7_TIL/241006의 TIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Areas/Docs/Techspec문서는 뭐고 어떻게 작성하는걸까.md"
+                "file": "7_TIL/241006의 TIL.md"
               }
             }
           }
@@ -207,10 +218,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "5d78eef58d253783",
+  "active": "5ab709b802b00b78",
   "lastOpenFiles": [
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/task저장하는 로직.md",
     "2_Areas/Docs/Techspec문서는 뭐고 어떻게 작성하는걸까.md",
+    "7_TIL/241006의 TIL.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/task저장하는 로직.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Ch2.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/TodoList만들기.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Boost코스.md",
@@ -246,7 +258,6 @@
     "resources/Pasted image 20241003103701.png",
     "resources/Pasted image 20241003103459.png",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/회사랑 자소서 조사/회사랑 자소서 조사.md",
-    "7_TIL/241002 오늘의 TIL.md",
     "resources/Pasted image 20241003003116.png",
     "resources/Pasted image 20241001121656.png",
     "2_Areas/웹 프로그래밍(풀스택)",
