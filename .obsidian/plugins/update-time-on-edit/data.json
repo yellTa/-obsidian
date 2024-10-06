@@ -384,9 +384,9 @@
     "2_Areas/Docs/Techspec문서는 뭐고 어떻게 작성하는걸까.md": "ff9f06e2ce6f712fe0b9d980c0f9a99cfd9221f3462ca8bdc637f54f934e0d71",
     "7_TIL/241006의 TIL.md": "bf833d2300ed090674045b0cb621659b40ee7671b8f9c1bb3fb4c6c29ca02a65",
     "2_Areas/database/database.md": "40d0f479cd6cac9d5291627faf0153daa3d080f789a7a8e2a248f712f24d3a1a",
-    "2_Areas/database/데이터베이스에서 락이란.md": "5182b18a1f5eacc403f8f0d45e14d0249bec082a6cfefec67bd0cea8603a167c",
     "Templates/techspec.md": "f4e58393dc2fe62f2199d0fff2c24e69eff903344295e5f17e3914bcc266ff77",
     "1_Projects/Burgerput/2_유지보수/🌳기기, 식품 update후 맨 밑으로 가는거 해결하기....md": "0961311395e0d1880d020ee5758ef1027cf54aba5ea0a2254939db6b830cb963",
-    "1_Projects/Burgerput/2_유지보수/🍒Loading되고 Machine,Food에 데이터가 추가될 때 index의 값도 저장하기.md": "8b2e7aeb4bf95bf50c1f25d4343444a22028778a36ba9e3d1ac6d6d32a42868e"
+    "1_Projects/Burgerput/2_유지보수/🍒Loading되고 Machine,Food에 데이터가 추가될 때 index의 값도 저장하기.md": "8b2e7aeb4bf95bf50c1f25d4343444a22028778a36ba9e3d1ac6d6d32a42868e",
+    "2_Areas/database/데이터베이스에서 락과 교착상태란.md": "5182b18a1f5eacc403f8f0d45e14d0249bec082a6cfefec67bd0cea8603a167c"
   }
 }
