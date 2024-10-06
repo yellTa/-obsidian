@@ -1,11 +1,16 @@
 ---
 created: "{{date}} {{time}}"
-updated: 2024-10-06T20:06
+updated: 2024-10-06T20:08
 tags:
   - develop
 Progress:
   - ongoing
 ---
+# 누구를 위한 기능?
+Burgerput 사용자
+# 어디서 동작하는지?
+Android front와 통신 
+
 # OBJECT/SUBJECT:
 ## branch = feat/customIndex
 
