@@ -1,6 +1,6 @@
 ---
 created: 2024-10-05 21:57
-updated: 2024-10-06T13:05
+updated: 2024-10-06T15:02
 tags: 
 출처: 
 Progress:
@@ -52,6 +52,27 @@ groundwork 즉 구현을 시작하기 전 기반이 되는 작업이다.
 - 기술 요구사항을 요약해서 실패 확률을 줄여준다.
 
 # 나만의 TECH문서에서 작성할 항목들
+## who is the software/app/project for?
+누구를 위한 기능인지?
+1. 고객, 소비자, 유저 혹은 미래의 유저나 고객
+2. 내부에서 필요한 기능인지
+
+## what tasks or problems would the app/software/project solve
+어떤 작업인지 작성하기
+1. 책 서비스 
+2. 상품주문
+3. 업데이트 정보 가져오기 등등
+
+팀원이나 내부에서 사용하는 기능이라면 업무에서 어떤 효과를 줄지
+
+## on what platforms can the solution be accessible?
+스마트폰? 데스크탑? 혹은 컴퓨터에서 작동하는지
+
+## deadline이 언제인지?
+
+
+
+
 
 
 
