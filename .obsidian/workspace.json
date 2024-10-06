@@ -38,6 +38,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Templates/devlop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d38976fc6be7ce19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Templates/techspec.md",
                 "mode": "source",
                 "source": false
@@ -45,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "34c70a62ed80b617",
@@ -129,7 +141,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/techspec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +157,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/techspec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,9 +178,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Templates/techspec.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -223,20 +231,21 @@
           }
         ],
         "direction": "vertical",
-        "x": 975,
+        "x": 1064,
         "y": 58,
-        "width": 999,
+        "width": 910,
         "height": 1080,
         "maximize": false,
         "zoom": -1
       }
     ]
   },
-  "active": "5ab709b802b00b78",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
     "2_Areas/Docs/Techspec문서는 뭐고 어떻게 작성하는걸까.md",
     "Templates/techspec.md",
     "Templates/devlop.md",
+    "Templates/Docs.md",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/2_유지보수/(main)기기, 식품 update후 맨 밑으로 가는거 해결하기....md",
     "1_Projects/Burgerput/Burgerput.md",
@@ -264,7 +273,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/docs/자소서 공유.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/docs/docs.md",
-    "Templates/Folder(Develop).md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/docs",
     "resources/Pasted image 20241003112959.png",
     "resources/백엔드_유예지_241002.pdf",
