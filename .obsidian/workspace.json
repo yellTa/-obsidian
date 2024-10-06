@@ -57,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "34c70a62ed80b617",
@@ -141,6 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/devlop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/devlop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +180,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Templates/devlop.md"
+              }
             }
           }
         ],
@@ -240,11 +244,11 @@
       }
     ]
   },
-  "active": "2caed6827f1efab6",
+  "active": "5ab709b802b00b78",
   "lastOpenFiles": [
-    "2_Areas/Docs/Techspec문서는 뭐고 어떻게 작성하는걸까.md",
     "Templates/techspec.md",
     "Templates/devlop.md",
+    "2_Areas/Docs/Techspec문서는 뭐고 어떻게 작성하는걸까.md",
     "Templates/Docs.md",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/2_유지보수/(main)기기, 식품 update후 맨 밑으로 가는거 해결하기....md",
