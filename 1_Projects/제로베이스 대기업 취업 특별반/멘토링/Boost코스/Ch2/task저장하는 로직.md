@@ -1,6 +1,6 @@
 ---
 created: 2024-10-05 01:50
-updated: 2024-10-07T00:11
+updated: 2024-10-07T00:37
 tags:
   - develop
 Progress:
@@ -104,7 +104,6 @@ protected void doPost(HttpServletRequest request, HttpServletResponse response) 
 ### 2. TaskDao객체 이용해서 값 저장하기
 Date 객체 사용하기
 Dao에서 sql을 사용해서 데이터 저장하기
-
 
 1. driver연결
 2. connection객체 가져오기
