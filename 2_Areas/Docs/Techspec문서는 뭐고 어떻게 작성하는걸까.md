@@ -1,6 +1,6 @@
 ---
 created: 2024-10-05 21:57
-updated: 2024-10-06T12:43
+updated: 2024-10-06T12:49
 tags: 
 출처: 
 Progress:
@@ -40,7 +40,8 @@ groundwork 즉 구현을 시작하기 전 기반이 되는 작업이다.
 
 ## technical specification의 장점
 ### 엔지니어
-- 엔지니어들에게 
+- 엔지니어들에게 어떤 작업을 수행해야하는지 가이드를 준다.
+- 
 
 
 
