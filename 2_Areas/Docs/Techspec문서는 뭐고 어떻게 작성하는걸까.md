@@ -1,6 +1,6 @@
 ---
 created: 2024-10-05 21:57
-updated: 2024-10-06T12:35
+updated: 2024-10-06T12:43
 tags: 
 출처: 
 Progress:
@@ -33,17 +33,14 @@ groundwork 즉 구현을 시작하기 전 기반이 되는 작업이다.
 ## 할 수 없는 것 정의하기
 - payment way through cryptocurrency(에시)
 
-## Technical Specificatino 문서 종류
+## Technical Specification 문서 종류
 ### IT technical specification
 - IT인프라 이슈, it team에서 업데이트 되는 문서들 포함
 - hardward, software specficatino, network 요구사항, security protocols, data migratino strategies 포함
 
-
-
-https://document360.com/blog/technical-specification-document/
-
-여기 문서보고 마저 작성하기
-
+## technical specification의 장점
+### 엔지니어
+- 엔지니어들에게 
 
 
 
