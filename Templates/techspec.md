@@ -1,6 +1,6 @@
 ---
 created: "{{date}} {{time}}"
-updated: 2024-10-06T20:08
+updated: 2024-10-06T20:10
 tags:
   - develop
 Progress:
@@ -9,7 +9,7 @@ Progress:
 # 누구를 위한 기능?
 Burgerput 사용자
 # 어디서 동작하는지?
-Android front와 통신 
+서버에서 통신
 
 # OBJECT/SUBJECT:
 ## branch = feat/customIndex
