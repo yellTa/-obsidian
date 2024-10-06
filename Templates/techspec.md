@@ -1,6 +1,6 @@
 ---
 created: "{{date}} {{time}}"
-updated: 2024-10-06T20:26
+updated: 2024-10-06T20:38
 tags:
   - develop
 deadline: 
@@ -17,9 +17,9 @@ Burgerput 사용자
 
 ## IDEA(brain storming) or 원인 파악하기
 
+## 문제 해결 방안 선택
 ### 실험해보기 (설계가 제대로 작동하는지)
 
-## 문제 해결 방안 선택
 
 ---
 ## 수행하기
