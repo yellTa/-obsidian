@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/devlop.md",
+                "file": "Templates/techspec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/devlop.md",
+                "file": "Templates/techspec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/devlop.md"
+                "file": "Templates/techspec.md"
               }
             }
           }
@@ -199,37 +199,6 @@
     "type": "floating",
     "children": [
       {
-        "id": "18d15a6feecb9401",
-        "type": "window",
-        "children": [
-          {
-            "id": "7a1741697a830b56",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5d78eef58d253783",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2_Areas/Docs/Techspec문서는 뭐고 어떻게 작성하는걸까.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1064,
-        "y": 58,
-        "width": 910,
-        "height": 1080,
-        "maximize": false,
-        "zoom": -1
-      },
-      {
         "id": "61c4e4fd24570dc7",
         "type": "window",
         "children": [
@@ -253,8 +222,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 1008,
-        "y": 8,
+        "x": 1131,
+        "y": 6,
         "width": 723,
         "height": 1080,
         "maximize": false,
@@ -262,10 +231,10 @@
       }
     ]
   },
-  "active": "5ab709b802b00b78",
+  "active": "d38976fc6be7ce19",
   "lastOpenFiles": [
-    "Templates/techspec.md",
     "Templates/devlop.md",
+    "Templates/techspec.md",
     "2_Areas/Docs/Techspec문서는 뭐고 어떻게 작성하는걸까.md",
     "Templates/Docs.md",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
