@@ -1,6 +1,6 @@
 ---
 created: 2024-09-30 22:28
-updated: 2024-10-06T23:59
+updated: 2024-10-07T00:08
 tags:
   - develop
 Progress:
@@ -196,7 +196,7 @@ public class Addindex {
 
 #### 2. Loading되고 Machine, Food에 데이터가 추가될 때 index의 값도 저장하기
 Machine,Food에 데이터가 추가될 때 index의 값도 추가하자!
-[[Loading되고 Machine,Food에 데이터가 추가될 때 index의 값도 저장하기]]
+[[🍒Loading되고 Machine,Food에 데이터가 추가될 때 index의 값도 저장하기]]
 
 
 #### 3.Custom Table에 값을 넣을 때 index도 함께 넣도록 설정하기
