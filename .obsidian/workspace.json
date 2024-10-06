@@ -6,7 +6,7 @@
       {
         "id": "f2c09484126a8fb8",
         "type": "tabs",
-        "dimension": 86.728599867286,
+        "dimension": 82.80512474713419,
         "children": [
           {
             "id": "a3d210b390379dd3",
@@ -62,7 +62,7 @@
       {
         "id": "34c70a62ed80b617",
         "type": "tabs",
-        "dimension": 13.271400132714001,
+        "dimension": 17.194875252865813,
         "children": [
           {
             "id": "2caed6827f1efab6",
@@ -246,8 +246,8 @@
   },
   "active": "5ab709b802b00b78",
   "lastOpenFiles": [
-    "Templates/techspec.md",
     "Templates/devlop.md",
+    "Templates/techspec.md",
     "2_Areas/Docs/Techspec문서는 뭐고 어떻게 작성하는걸까.md",
     "Templates/Docs.md",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",

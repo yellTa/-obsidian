@@ -1,6 +1,6 @@
 ---
 created: "{{date}} {{time}}"
-updated: 2024-10-06T20:24
+updated: 2024-10-06T20:29
 tags:
   - develop
 Progress:
@@ -25,9 +25,9 @@ Progress:
 ## 수행하기
 ### 설계
 
+
+
 ---
-
-
 # CONCLUSION:
 
 ## 원인 :
