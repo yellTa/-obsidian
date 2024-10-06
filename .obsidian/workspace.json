@@ -140,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/task저장하는 로직.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +156,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/task저장하는 로직.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,9 +177,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/task저장하는 로직.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -243,12 +239,12 @@
       }
     ]
   },
-  "active": "075c7dbb1b31e724",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/task저장하는 로직.md",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/2_유지보수/🍒Loading되고 Machine,Food에 데이터가 추가될 때 index의 값도 저장하기.md",
     "1_Projects/Burgerput/2_유지보수/🌳기기, 식품 update후 맨 밑으로 가는거 해결하기....md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/task저장하는 로직.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/10월 3일 멘토링.md",
     "Templates/devlop.md",

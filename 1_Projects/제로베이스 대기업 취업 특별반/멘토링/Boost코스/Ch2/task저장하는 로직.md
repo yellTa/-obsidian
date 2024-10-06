@@ -1,6 +1,6 @@
 ---
 created: 2024-10-05 01:50
-updated: 2024-10-07T00:09
+updated: 2024-10-07T00:11
 tags:
   - develop
 Progress:
@@ -106,7 +106,12 @@ Date 객체 사용하기
 Dao에서 sql을 사용해서 데이터 저장하기
 
 
-1. 
+1. driver연결
+2. connection객체 가져오기
+3. PreparedStatement가져오기
+4. ResultSet(결과를 저장) 생성하기
+
+
 
 
 
