@@ -124,7 +124,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5110321044922
+    "width": 286.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -140,7 +141,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Areas/database/데이터베이스에서 락이란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Areas/database/데이터베이스에서 락이란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,9 +178,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2_Areas/database/데이터베이스에서 락이란.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -206,10 +203,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "5ab709b802b00b78",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
-    "2_Areas/database/database.md",
     "2_Areas/database/데이터베이스에서 락이란.md",
+    "2_Areas/database/database.md",
     "2_Areas/Docs/Docs.md",
     "2_Areas/Docs/Techspec문서는 뭐고 어떻게 작성하는걸까.md",
     "2_Areas/database",
