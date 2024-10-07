@@ -6,7 +6,7 @@
       {
         "id": "f2c09484126a8fb8",
         "type": "tabs",
-        "dimension": 74.53213995117981,
+        "dimension": 82.0294345468629,
         "children": [
           {
             "id": "d4b8f753c7162932",
@@ -43,13 +43,26 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a20e6a7d030c83e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🍒Task 읽어오는 로직.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "34c70a62ed80b617",
         "type": "tabs",
-        "dimension": 25.467860048820178,
+        "dimension": 17.9705654531371,
         "children": [
           {
             "id": "2caed6827f1efab6",
@@ -111,8 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5110321044922,
-    "collapsed": true
+    "width": 286.5110321044922
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/항해자소서스터디/10월 7일 OT내용.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🍒Task 읽어오는 로직.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/항해자소서스터디/10월 7일 OT내용.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🍒Task 읽어오는 로직.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/항해자소서스터디/10월 7일 OT내용.md"
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🍒Task 읽어오는 로직.md"
               }
             }
           }
@@ -194,8 +206,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "d4b8f753c7162932",
+  "active": "a20e6a7d030c83e7",
   "lastOpenFiles": [
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🌳TodoList만들기.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🍒task저장하는 로직.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🍒Task 읽어오는 로직.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Boost코스.md",
+    "1_Projects/항해자소서스터디/10월 7일 OT내용.md",
     "resources/Pasted image 20241007205748.png",
     "resources/Pasted image 20241007205741.png",
     "resources/Pasted image 20241007205734.png",
@@ -206,13 +223,8 @@
     "resources/Pasted image 20241007204634.png",
     "resources/Pasted image 20241007204517.png",
     "resources/Pasted image 20241007204506.png",
-    "resources/Pasted image 20241007204258.png",
-    "1_Projects/항해자소서스터디/10월 7일 OT내용.md",
     "1_Projects/항해자소서스터디/항해자소서스터디.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🌳TodoList만들기.md",
     "1_Projects/항해자소서스터디",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🍒Task 읽어오는 로직.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🍒task저장하는 로직.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/10월 3일 멘토링.md",
     "2_Areas/database/데이터베이스에서 락과 교착상태란.md",
     "Templates/techspec.md",
@@ -228,7 +240,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/실전프로젝트.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/Docs.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Ch2.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Boost코스.md",
     "2_Areas/Java/Java.md",
     "2_Areas/Docs/Docs.md",
     "2_Areas/database/database.md",
