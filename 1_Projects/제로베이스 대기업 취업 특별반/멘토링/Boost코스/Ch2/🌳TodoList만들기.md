@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04 17:50
-updated: 2024-10-07T16:50
+updated: 2024-10-07T17:57
 tags:
   - develop
 Progress:
@@ -29,8 +29,18 @@ DB 스키마 정의
 ## 데이터 저장하기
 feat/saveTask
 
-## 데이터 조회하기
+## 데이터 조회하기 - task에 get요청으로 JSON 데이터 가져오기
 feat/getTasks
+![[Pasted image 20241007175229.png]]
+두 가지 방법이 존재한다. 
+### 1. DB에서 progress마다 가져오기 
+-> Progress별로 가져와서 pick하기 
+### 2. DB에서 전체값 가져오기
+-> DB에서 전체값을 가져오고 java 연산을 통해서 progress별로 따로 json 객체를 만들기
+
+
+
+
 
 ## 수행하기 - front 부분
 

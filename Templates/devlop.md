@@ -1,6 +1,6 @@
 ---
 created: "{{date}} {{time}}"
-updated: 2024-10-07T16:51
+updated: 2024-10-07T17:55
 tags:
   - develop
 Progress:
@@ -16,7 +16,7 @@ index를 추가하는 기능
 # ANALYSIS:
 ## Brain Storming
 
-
+## 고려해야할 사항
 
 
 ---

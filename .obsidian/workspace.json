@@ -9,36 +9,12 @@
         "dimension": 74.53213995117981,
         "children": [
           {
-            "id": "a3d210b390379dd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🍒task저장하는 로직.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d4b8f753c7162932",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/10월 3일 멘토링.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ab709b802b00b78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_Areas/database/데이터베이스에서 락과 교착상태란.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🌳TodoList만들기.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🍒task저장하는 로직.md",
+                "file": "Templates/techspec.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"1_Projects/Burgerput/\" ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -139,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🍒task저장하는 로직.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🌳TodoList만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🍒task저장하는 로직.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🌳TodoList만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🍒task저장하는 로직.md"
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🌳TodoList만들기.md"
               }
             }
           }
@@ -205,36 +181,37 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a3d210b390379dd3",
+  "active": "d4b8f753c7162932",
   "lastOpenFiles": [
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🌳TodoList만들기.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Ch2.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🍒task저장하는 로직.md",
-    "Templates/devlop.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🌳TodoList만들기.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/10월 3일 멘토링.md",
+    "2_Areas/database/데이터베이스에서 락과 교착상태란.md",
     "Templates/techspec.md",
+    "Templates/devlop.md",
+    "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
+    "resources/Pasted image 20241007175229.png",
+    "1_Projects/Burgerput/1_개발문서/AWS selenium Issue - 여기부터 복사하기/ubuntu 서버 설정해보기…/ubuntu 서버 설정해보기….md",
+    "1_Projects/Burgerput/1_개발문서/AWS Domain Set-up/AWS Domain Set-up.md",
+    "1_Projects/Burgerput/1_개발문서/Aws Files/Aws Files.md",
+    "1_Projects/Burgerput/1_개발문서/Aws Files/aws 탄력적 IP and ssh/aws 탄력적 IP and ssh.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/개발문서.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/설계문서/설계문서.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/회의록모음.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/실전프로젝트.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/Docs/Docs.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Ch2.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Boost코스.md",
     "2_Areas/Java/Java.md",
     "2_Areas/Docs/Docs.md",
     "2_Areas/database/database.md",
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
-    "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
     "1_Projects/Burgerput/1_개발문서/SSL Set-up/SSL Set-up.md",
-    "1_Projects/Burgerput/1_개발문서/Aws Files/Aws Files.md",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/2_유지보수/SSL certbot 자동 업데이트 설정.md",
     "1_Projects/Burgerput/2_유지보수/🌳기기, 식품 update후 맨 밑으로 가는거 해결하기....md",
-    "1_Projects/Burgerput/2_유지보수/🍒Loading되고 Machine,Food에 데이터가 추가될 때 index의 값도 저장하기.md",
-    "1_Projects/Burgerput/1_개발문서/Aws Files/aws 탄력적 IP and ssh/aws 탄력적 IP and ssh.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/zerospace 로그인 기능.md",
-    "2_Areas/database/데이터베이스에서 락과 교착상태란.md",
     "resources/데이터베이스 교착 상태 예시 문제.pdf",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/멘토링.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/10월 3일 멘토링.md",
-    "2_Areas/Docs/Techspec문서는 뭐고 어떻게 작성하는걸까.md",
-    "Templates/Docs.md",
-    "1_Projects/Burgerput/Burgerput.md",
     "2_Areas/database",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/회의록모음.md",
     "resources/Pasted image 20241004200820.png",
     "resources/Pasted image 20241004195014.png",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2",
@@ -248,7 +225,6 @@
     "resources/Pasted image 20241003103701.png",
     "resources/Pasted image 20241003103459.png",
     "resources/Pasted image 20241003003116.png",
-    "resources/Pasted image 20241001121656.png",
     "2_Areas/웹 프로그래밍(풀스택)",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/설계문서",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서",

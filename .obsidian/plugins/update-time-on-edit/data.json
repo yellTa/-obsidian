@@ -10,7 +10,7 @@
   "fileHashMap": {
     "1_Projects/Burgerput/Burgerput.md": "f6b55f42ed7d07d8e8b5458c4aa9089a40504456f08ac8fa1679b73d2d972368",
     "Templates/Memo.md": "624a0d85d699b052df5ce728cd03e6f37e22dbc9f7881da3de33cac745f969e2",
-    "Templates/devlop.md": "d26d1905d7eadaa9477c4a7e03572eae3efaf622f50d2302427f7eff135b00ae",
+    "Templates/devlop.md": "2d709607091c7fbe222c063becaeb5cddf7dd0612935d4c4af0efda2f7c8242d",
     "HOW TO.md": "7f2c1617c7d81f1ec101ed159131c8eb8bb3e8b6987efc07d1dc6af79302fa42",
     "2_Areas/취업준비/2025년 취업 다 개패버리기/2025년 취업 다 개패버리기.md": "42e0ffbe3152cee9c343bbcfaea8a10a62c3510c3e3c64f7760a24364d40734b",
     "5_Memo/10분의 중요성.md": "38342acdd66bcb3877532ff224786203436fa5718dfc9b0dea0cf0a92956c9d2",
@@ -382,11 +382,11 @@
     "2_Areas/Docs/Techspec문서는 뭐고 어떻게 작성하는걸까.md": "ff9f06e2ce6f712fe0b9d980c0f9a99cfd9221f3462ca8bdc637f54f934e0d71",
     "7_TIL/241006의 TIL.md": "bf833d2300ed090674045b0cb621659b40ee7671b8f9c1bb3fb4c6c29ca02a65",
     "2_Areas/database/database.md": "40d0f479cd6cac9d5291627faf0153daa3d080f789a7a8e2a248f712f24d3a1a",
-    "Templates/techspec.md": "764445f4034d26b605eea6633930418a04fccee2cf6a163a3d13f0da886ad6b5",
+    "Templates/techspec.md": "5e4b76064b10cfb7f65482356353f8ed062c8bad64c57b1aa7d42bf6fad44bba",
     "1_Projects/Burgerput/2_유지보수/🌳기기, 식품 update후 맨 밑으로 가는거 해결하기....md": "7cab1f334170f27f61a16abee9a0d38cf954377cb40aadca518788d9bcce5c4c",
     "1_Projects/Burgerput/2_유지보수/🍒Loading되고 Machine,Food에 데이터가 추가될 때 index의 값도 저장하기.md": "8b2e7aeb4bf95bf50c1f25d4343444a22028778a36ba9e3d1ac6d6d32a42868e",
     "2_Areas/database/데이터베이스에서 락과 교착상태란.md": "b4674c18db86dc44f4e53428da15489e4b54e7623ea2746f30a46781c9874c2c",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🍒task저장하는 로직.md": "c82d546f117a8fe6a94123119c1c78c67e3570046618deb06a22696ac466cae3",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🌳TodoList만들기.md": "99c5f808a8d112b524b35b9ef8beb309c4427705946f538cdb9fed2502aff2ef"
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🌳TodoList만들기.md": "267d6ac92ba328f6138910eb5e20ce8168a7b74f4fd10200a639e48096d7175a"
   }
 }
