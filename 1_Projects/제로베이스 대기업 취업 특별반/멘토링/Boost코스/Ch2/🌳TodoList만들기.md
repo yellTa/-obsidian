@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04 17:50
-updated: 2024-10-07T18:21
+updated: 2024-10-07T18:30
 tags:
   - develop
 Progress:
@@ -42,7 +42,7 @@ feat/getTasks
 -> DB에서 전체값을 가져오고 java 연산을 통해서 progress별로 따로 json 객체를 만들기
 
 1. DB에서 전체 값 가져오기
-2. List에서 progress가 todo done doing인걸 구분해서 Json 객체로 만들기
+2. List에서 progress가 todo done doing인걸 구분해서 json 객체로 만들기
 
 
 
