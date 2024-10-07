@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04 17:50
-updated: 2024-10-07T18:30
+updated: 2024-10-07T18:53
 tags:
   - develop
 Progress:
@@ -38,15 +38,18 @@ feat/getTasks
 
 1. DB에서 progress마다 객체 가져오기
 2. todo, done, doing progress에 따라서 SQL문을 따로 날려 개별로 JSON객체 담아주기
-### 2. DB에서 전체값 가져오기
+### ✔2. DB에서 전체값 가져오기
 -> DB에서 전체값을 가져오고 java 연산을 통해서 progress별로 따로 json 객체를 만들기
 
 1. DB에서 전체 값 가져오기
 2. List에서 progress가 todo done doing인걸 구분해서 json 객체로 만들기
+[[🍒Task 읽어오는 로직]]
 
 
-
-
+---
+### 2번을 pick한 이유
+DB에서 progress별로 가져오게 된다면 요청 하나에 DB 쿼리를 세 번 날리게 된다. 어찌됐던 날리고 가져오는 과정은 웹 애플리케이션에서 DMBS로 데이터를 요청하는 작업이 필요하다. 
+이미 리스트로 가져오고 내부에서 자체적으로 처리하는 것 보다 위의 방법이 시간이 더 걸릴것이라고 예측했다.
 
 
 
