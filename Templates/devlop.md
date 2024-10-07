@@ -1,6 +1,6 @@
 ---
 created: "{{date}} {{time}}"
-updated: 2024-10-06T23:39
+updated: 2024-10-07T16:51
 tags:
   - develop
 Progress:
@@ -14,7 +14,9 @@ index를 추가하는 기능
 
 전체 기능의 일부를 적는다. 
 # ANALYSIS:
-## 설계
+## Brain Storming
+
+
 
 
 ---
