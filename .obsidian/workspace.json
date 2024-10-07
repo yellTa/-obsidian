@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🌳TodoList만들기.md",
+                "file": "1_Projects/항해자소서스터디/항해자소서스터디.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🌳TodoList만들기.md",
+                "file": "1_Projects/항해자소서스터디/항해자소서스터디.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🌳TodoList만들기.md",
+                "file": "1_Projects/항해자소서스터디/항해자소서스터디.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🌳TodoList만들기.md"
+                "file": "1_Projects/항해자소서스터디/항해자소서스터디.md"
               }
             }
           }
@@ -195,8 +195,10 @@
   },
   "active": "d4b8f753c7162932",
   "lastOpenFiles": [
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🍒Task 읽어오는 로직.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🌳TodoList만들기.md",
+    "1_Projects/항해자소서스터디/항해자소서스터디.md",
+    "1_Projects/항해자소서스터디",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🍒Task 읽어오는 로직.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🍒task저장하는 로직.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/10월 3일 멘토링.md",
     "2_Areas/database/데이터베이스에서 락과 교착상태란.md",
@@ -221,7 +223,6 @@
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
     "1_Projects/Burgerput/1_개발문서/SSL Set-up/SSL Set-up.md",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
-    "1_Projects/Burgerput/2_유지보수/SSL certbot 자동 업데이트 설정.md",
     "resources/데이터베이스 교착 상태 예시 문제.pdf",
     "2_Areas/database",
     "resources/Pasted image 20241004200820.png",
@@ -240,7 +241,6 @@
     "2_Areas/웹 프로그래밍(풀스택)",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/설계문서",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서",
-    "2_Areas/Docs",
     "1_Projects/Burgerput/Burgerput Controller역할.canvas",
     "Untitled 7.canvas",
     "Untitled 6.canvas",
