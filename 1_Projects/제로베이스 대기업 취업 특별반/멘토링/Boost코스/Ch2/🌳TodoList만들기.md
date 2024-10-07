@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04 17:50
-updated: 2024-10-07T18:19
+updated: 2024-10-07T18:21
 tags:
   - develop
 Progress:
@@ -43,6 +43,7 @@ feat/getTasks
 
 1. DB에서 전체 값 가져오기
 2. List에서 progress가 todo done doing인걸 구분해서 Json 객체로 만들기
+
 
 
 
