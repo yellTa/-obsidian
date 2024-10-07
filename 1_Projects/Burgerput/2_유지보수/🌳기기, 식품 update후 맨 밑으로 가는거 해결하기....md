@@ -1,6 +1,6 @@
 ---
 created: 2024-09-30 22:28
-updated: 2024-10-07T00:08
+updated: 2024-10-07T15:43
 tags:
   - develop
 Progress:
@@ -184,6 +184,11 @@ public class Addindex {
 
 그리고 Test폴더도 지우고 
 열을 추가하는 index를 설정했다고 커밋을 날리자!
+
+---
+# 10월 7일 추가
+
+
 
 ---
 ### 수행할 작업 단위

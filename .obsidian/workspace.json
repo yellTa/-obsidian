@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/zerospace 로그인 기능.md",
+                "file": "1_Projects/Burgerput/2_유지보수/🌳기기, 식품 update후 맨 밑으로 가는거 해결하기....md",
                 "mode": "source",
                 "source": false
               }
@@ -56,8 +56,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "34c70a62ed80b617",
@@ -124,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5110321044922,
-    "collapsed": true
+    "width": 286.5110321044922
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -141,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Areas/database/데이터베이스에서 락과 교착상태란.md",
+                "file": "1_Projects/Burgerput/2_유지보수/🌳기기, 식품 update후 맨 밑으로 가는거 해결하기....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Areas/database/데이터베이스에서 락과 교착상태란.md",
+                "file": "1_Projects/Burgerput/2_유지보수/🌳기기, 식품 update후 맨 밑으로 가는거 해결하기....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Areas/database/데이터베이스에서 락과 교착상태란.md"
+                "file": "1_Projects/Burgerput/2_유지보수/🌳기기, 식품 update후 맨 밑으로 가는거 해결하기....md"
               }
             }
           }
@@ -244,21 +242,23 @@
       }
     ]
   },
-  "active": "5ab709b802b00b78",
+  "active": "a3d210b390379dd3",
   "lastOpenFiles": [
+    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
+    "1_Projects/Burgerput/2_유지보수/🍒Loading되고 Machine,Food에 데이터가 추가될 때 index의 값도 저장하기.md",
+    "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
+    "1_Projects/Burgerput/1_개발문서/Aws Files/aws 탄력적 IP and ssh/aws 탄력적 IP and ssh.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/zerospace 로그인 기능.md",
+    "2_Areas/database/데이터베이스에서 락과 교착상태란.md",
     "resources/데이터베이스 교착 상태 예시 문제.pdf",
     "Templates/techspec.md",
-    "2_Areas/database/데이터베이스에서 락과 교착상태란.md",
     "2_Areas/database/database.md",
     "2_Areas/Docs/Docs.md",
     "1_Projects/Burgerput/2_유지보수/🌳기기, 식품 update후 맨 밑으로 가는거 해결하기....md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/task저장하는 로직.md",
-    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
-    "1_Projects/Burgerput/2_유지보수/🍒Loading되고 Machine,Food에 데이터가 추가될 때 index의 값도 저장하기.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/10월 3일 멘토링.md",
     "Templates/devlop.md",
-    "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
     "2_Areas/Docs/Techspec문서는 뭐고 어떻게 작성하는걸까.md",
     "Templates/Docs.md",
     "1_Projects/Burgerput/Burgerput.md",
@@ -276,7 +276,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 19일 멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 26일 멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/docs",
     "resources/Pasted image 20241003112959.png",
     "resources/백엔드_유예지_241002.pdf",
@@ -291,7 +290,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/설계문서",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서",
     "2_Areas/Docs",
-    "2_Areas/Spring",
     "1_Projects/Burgerput/Burgerput Controller역할.canvas",
     "Untitled 7.canvas",
     "Untitled 6.canvas",
