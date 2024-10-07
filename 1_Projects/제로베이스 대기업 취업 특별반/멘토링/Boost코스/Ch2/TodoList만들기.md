@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04 17:50
-updated: 2024-10-07T16:49
+updated: 2024-10-07T16:50
 tags:
   - develop
 Progress:
@@ -35,9 +35,7 @@ feat/getTasks
 ## 수행하기 - front 부분
 
 
-
 ---
-
 
 # CONCLUSION:
 

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/TodoList만들기.md",
+                "file": "Templates/devlop.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/devlop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,6 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/devlop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +178,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Templates/devlop.md"
+              }
             }
           }
         ],
@@ -238,7 +242,7 @@
       }
     ]
   },
-  "active": "2caed6827f1efab6",
+  "active": "a3d210b390379dd3",
   "lastOpenFiles": [
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/TodoList만들기.md",
     "Templates/techspec.md",
