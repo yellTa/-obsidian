@@ -128,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1_Projects/항해자소서스터디/10월 7일 OT내용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1_Projects/항해자소서스터디/10월 7일 OT내용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1_Projects/항해자소서스터디/10월 7일 OT내용.md"
+              }
             }
           }
         ],
@@ -190,8 +194,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2caed6827f1efab6",
+  "active": "d4b8f753c7162932",
   "lastOpenFiles": [
+    "resources/Pasted image 20241007200523.png",
+    "resources/Pasted image 20241007200314.png",
     "1_Projects/항해자소서스터디/10월 7일 OT내용.md",
     "resources/Pasted image 20241007191557.png",
     "resources/Pasted image 20241007191203.png",
@@ -229,7 +235,6 @@
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
     "resources/데이터베이스 교착 상태 예시 문제.pdf",
     "2_Areas/database",
-    "resources/Pasted image 20241004200820.png",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/docs",
