@@ -6,7 +6,7 @@ Progress:
 on Naver: false
 업로드할까?: false
 created: 2024-03-06T14:37:00
-updated: 2024-09-25T17:47
+updated: 2024-10-08T00:01
 ---
 # Set-up free SSL for my Project
 
@@ -93,6 +93,9 @@ EnterPassword: yourPassword
 
 password:putBu13@9*
 ```
+
+
+
 
 Copy the keystore.p12 file for SSL setup
 
