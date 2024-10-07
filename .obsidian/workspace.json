@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/devlop.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🍒task저장하는 로직.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/task저장하는 로직.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🍒task저장하는 로직.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/devlop.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🍒task저장하는 로직.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/devlop.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🍒task저장하는 로직.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/devlop.md"
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🍒task저장하는 로직.md"
               }
             }
           }
@@ -205,46 +205,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "floating": {
-    "id": "236cbb9e82f2952f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "61c4e4fd24570dc7",
-        "type": "window",
-        "children": [
-          {
-            "id": "ef5b5e58427b46d3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d38976fc6be7ce19",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Templates/techspec.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1131,
-        "y": 6,
-        "width": 723,
-        "height": 1080,
-        "maximize": false,
-        "zoom": -1
-      }
-    ]
-  },
   "active": "a3d210b390379dd3",
   "lastOpenFiles": [
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/TodoList만들기.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🌳TodoList만들기.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Ch2.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🍒task저장하는 로직.md",
+    "Templates/devlop.md",
     "Templates/techspec.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Boost코스.md",
     "2_Areas/Java/Java.md",
@@ -262,16 +228,13 @@
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/zerospace 로그인 기능.md",
     "2_Areas/database/데이터베이스에서 락과 교착상태란.md",
     "resources/데이터베이스 교착 상태 예시 문제.pdf",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/task저장하는 로직.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/10월 3일 멘토링.md",
-    "Templates/devlop.md",
     "2_Areas/Docs/Techspec문서는 뭐고 어떻게 작성하는걸까.md",
     "Templates/Docs.md",
     "1_Projects/Burgerput/Burgerput.md",
     "2_Areas/database",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/회의록모음.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/1006 이룡일 아침 스크럼.md",
     "resources/Pasted image 20241004200820.png",
     "resources/Pasted image 20241004195014.png",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2",

@@ -1,6 +1,6 @@
 ---
 created: 2024-10-05 01:50
-updated: 2024-10-07T00:42
+updated: 2024-10-07T16:54
 tags:
   - develop
 Progress:
@@ -110,6 +110,31 @@ Dao에서 sql을 사용해서 데이터 저장하기
 3. PreparedStatement가져오기
 4. ResultSet(결과를 저장) 생성하기
 
+```  java
+@Override  
+protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {  
+    request.setCharacterEncoding("utf-8");  
+  
+    StringBuilder jsonRead = new StringBuilder();  
+  
+    String line;  
+    try (BufferedReader reader = request.getReader()) {  
+        while ((line = reader.readLine()) != null) {  
+            jsonRead.append(line);  
+        }  
+    }  
+  
+    String jsonString = jsonRead.toString();  
+    ObjectMapper objectMapper = new ObjectMapper();  
+    objectMapper.registerModule(new JavaTimeModule());  
+    objectMapper.disable(SerializationFeature.WRITE_DATES_AS_TIMESTAMPS);  
+    Task task = objectMapper.readValue(jsonString, Task.class);  
+  
+    TaskDao dao = new TaskDao();  
+    dao.saveData(task);  
+  
+}
+```
 
 
 ---
