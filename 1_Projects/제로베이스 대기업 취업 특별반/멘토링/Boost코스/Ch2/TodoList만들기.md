@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04 17:50
-updated: 2024-10-05T01:50
+updated: 2024-10-07T16:43
 tags:
   - develop
 Progress:
@@ -28,7 +28,7 @@ DB 스키마 정의
 ### 수행할 작업 단위
 ## 데이터 저장하기
 feat/saveTask
-[[]]
+
 ## 데이터 조회하기
 feat/getTasks
 
