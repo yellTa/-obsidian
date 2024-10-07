@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/항해자소서스터디/항해자소서스터디.md",
+                "file": "1_Projects/항해자소서스터디/10월 7일 OT내용.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5110321044922
+    "width": 286.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -127,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/항해자소서스터디/항해자소서스터디.md",
+                "file": "1_Projects/항해자소서스터디/10월 7일 OT내용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/항해자소서스터디/항해자소서스터디.md",
+                "file": "1_Projects/항해자소서스터디/10월 7일 OT내용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/항해자소서스터디/항해자소서스터디.md"
+                "file": "1_Projects/항해자소서스터디/10월 7일 OT내용.md"
               }
             }
           }
@@ -195,8 +196,9 @@
   },
   "active": "d4b8f753c7162932",
   "lastOpenFiles": [
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🌳TodoList만들기.md",
     "1_Projects/항해자소서스터디/항해자소서스터디.md",
+    "1_Projects/항해자소서스터디/10월 7일 OT내용.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🌳TodoList만들기.md",
     "1_Projects/항해자소서스터디",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🍒Task 읽어오는 로직.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🍒task저장하는 로직.md",
@@ -222,7 +224,6 @@
     "2_Areas/database/database.md",
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
     "1_Projects/Burgerput/1_개발문서/SSL Set-up/SSL Set-up.md",
-    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "resources/데이터베이스 교착 상태 예시 문제.pdf",
     "2_Areas/database",
     "resources/Pasted image 20241004200820.png",
