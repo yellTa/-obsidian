@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04 17:50
-updated: 2024-10-07T17:57
+updated: 2024-10-07T18:19
 tags:
   - develop
 Progress:
@@ -35,8 +35,16 @@ feat/getTasks
 두 가지 방법이 존재한다. 
 ### 1. DB에서 progress마다 가져오기 
 -> Progress별로 가져와서 pick하기 
+
+1. DB에서 progress마다 객체 가져오기
+2. todo, done, doing progress에 따라서 SQL문을 따로 날려 개별로 JSON객체 담아주기
 ### 2. DB에서 전체값 가져오기
 -> DB에서 전체값을 가져오고 java 연산을 통해서 progress별로 따로 json 객체를 만들기
+
+1. DB에서 전체 값 가져오기
+2. List에서 progress가 todo done doing인걸 구분해서 Json 객체로 만들기
+
+
 
 
 
