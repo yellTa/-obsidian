@@ -1,6 +1,6 @@
 ---
 created: 2024-10-04 17:50
-updated: 2024-10-07T16:43
+updated: 2024-10-07T16:49
 tags:
   - develop
 Progress:
@@ -31,7 +31,6 @@ feat/saveTask
 
 ## 데이터 조회하기
 feat/getTasks
-
 
 ## 수행하기 - front 부분
 

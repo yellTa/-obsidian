@@ -6,7 +6,7 @@
       {
         "id": "f2c09484126a8fb8",
         "type": "tabs",
-        "dimension": 82.80512474713419,
+        "dimension": 74.53213995117981,
         "children": [
           {
             "id": "a3d210b390379dd3",
@@ -61,7 +61,7 @@
       {
         "id": "34c70a62ed80b617",
         "type": "tabs",
-        "dimension": 17.194875252865817,
+        "dimension": 25.467860048820178,
         "children": [
           {
             "id": "2caed6827f1efab6",
@@ -139,7 +139,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/TodoList만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/TodoList만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,9 +176,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/TodoList만들기.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -242,8 +238,10 @@
       }
     ]
   },
-  "active": "a3d210b390379dd3",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/TodoList만들기.md",
+    "Templates/techspec.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Boost코스.md",
     "2_Areas/Java/Java.md",
     "2_Areas/Docs/Docs.md",
@@ -260,7 +258,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/zerospace 로그인 기능.md",
     "2_Areas/database/데이터베이스에서 락과 교착상태란.md",
     "resources/데이터베이스 교착 상태 예시 문제.pdf",
-    "Templates/techspec.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/task저장하는 로직.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/10월 3일 멘토링.md",
@@ -271,7 +268,6 @@
     "2_Areas/database",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/회의록모음.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/1006 이룡일 아침 스크럼.md",
-    "7_TIL/241006의 TIL.md",
     "resources/Pasted image 20241004200820.png",
     "resources/Pasted image 20241004195014.png",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2",
