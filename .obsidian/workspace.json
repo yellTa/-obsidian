@@ -124,7 +124,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5110321044922
+    "width": 286.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -140,7 +141,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/항해자소서스터디/10월 7일 OT내용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/항해자소서스터디/10월 7일 OT내용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,9 +178,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1_Projects/항해자소서스터디/10월 7일 OT내용.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -206,8 +203,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a20e6a7d030c83e7",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
+    "1_Projects/항해자소서스터디/10월 7일 OT내용.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/개발문서.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/🌳로그아웃 기능 구현하기.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/실전프로젝트.md",
@@ -219,7 +217,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🌳TodoList만들기.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🍒task저장하는 로직.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Boost코스.md",
-    "1_Projects/항해자소서스터디/10월 7일 OT내용.md",
     "resources/Pasted image 20241007205748.png",
     "resources/Pasted image 20241007205741.png",
     "resources/Pasted image 20241007205734.png",
