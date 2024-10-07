@@ -128,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/항해자소서스터디/10월 7일 OT내용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/항해자소서스터디/10월 7일 OT내용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +165,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1_Projects/항해자소서스터디/10월 7일 OT내용.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -194,7 +190,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "d4b8f753c7162932",
+  "active": "2caed6827f1efab6",
   "lastOpenFiles": [
     "1_Projects/항해자소서스터디/10월 7일 OT내용.md",
     "resources/Pasted image 20241007191557.png",
