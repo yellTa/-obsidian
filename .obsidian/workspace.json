@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/🍒devlop -techspce에서 쪼개진 기능하나 구현하는법 작성하기 and PR문서 쪼갠 단위 구현.md",
+                "file": "Templates/🌳branch docs- commit 의 기능단위를 쪼개는 문서.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/🍒devlop -techspce에서 쪼개진 기능하나 구현하는법 작성하기 and PR문서 쪼갠 단위 구현.md",
+                "file": "Templates/🌳branch docs- commit 의 기능단위를 쪼개는 문서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/🍒devlop -techspce에서 쪼개진 기능하나 구현하는법 작성하기 and PR문서 쪼갠 단위 구현.md",
+                "file": "Templates/🌳branch docs- commit 의 기능단위를 쪼개는 문서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/🍒devlop -techspce에서 쪼개진 기능하나 구현하는법 작성하기 and PR문서 쪼갠 단위 구현.md"
+                "file": "Templates/🌳branch docs- commit 의 기능단위를 쪼개는 문서.md"
               }
             }
           }
@@ -196,6 +196,7 @@
   },
   "active": "4b6051f5607039dc",
   "lastOpenFiles": [
+    "Templates/🍒devlop -techspce에서 쪼개진 기능하나 구현하는법 작성하기 and PR문서 쪼갠 단위 구현.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Impl/🍒task저장하는 로직.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Impl/🍒Task 읽어오는 로직.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/saveTask PR 정리.md",
@@ -214,7 +215,6 @@
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/🌳로그아웃 기능 구현하기.md",
-    "Templates/🍒devlop -techspce에서 쪼개진 기능하나 구현하는법 작성하기 and PR문서 쪼갠 단위 구현.md",
     "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
     "1_Projects/항해자소서스터디/1008 내용.md",
     "resources/Pasted image 20241008191914.png",

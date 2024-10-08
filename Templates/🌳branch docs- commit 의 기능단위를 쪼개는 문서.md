@@ -1,6 +1,6 @@
 ---
 created: "{{date}} {{time}}"
-updated: 2024-10-08T01:48
+updated: 2024-10-08T23:00
 tags:
   - develop
 deadline: 
@@ -46,7 +46,6 @@ Burgerput 사용자
 
 # 결론:
 >[!important]
-
 # REVIEW:
 
 ---
