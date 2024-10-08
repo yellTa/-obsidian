@@ -1,6 +1,6 @@
 ---
 created: 2024-10-08 18:26
-updated: 2024-10-08T18:31
+updated: 2024-10-08T18:57
 tags:
   - develop
 Progress:
@@ -11,11 +11,8 @@ Progress:
 
 # OBJECT/SUBJECT:
 ## branch = feat/saveTask
-# 구현할 기능:
-feat/customIndex에서
-index를 추가하는 기능
-
-전체 기능의 일부를 적는다. 
+# PR내용
+## 1. 
 # ANALYSIS:
 ## Brain Storming
 

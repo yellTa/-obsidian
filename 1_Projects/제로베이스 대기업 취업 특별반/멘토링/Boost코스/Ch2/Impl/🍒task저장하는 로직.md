@@ -1,10 +1,10 @@
 ---
 created: 2024-10-05 01:50
-updated: 2024-10-07T16:54
+updated: 2024-10-08T18:56
 tags:
   - develop
 Progress:
-  - ongoing
+  - end
 ---
 # OBJECT/SUBJECT:
 ## branch = feat/saveTask
@@ -136,38 +136,13 @@ protected void doPost(HttpServletRequest request, HttpServletResponse response) 
 }
 ```
 
-
----
-## 가설 세우기
-
-
-
----
-
-## 수행하기
-### 설계 
-
-### 실험해보기 (설계가 제대로 작동하는지)
-
-### 수행할 작업 단위
-
----
-
-
 # CONCLUSION:
-
-## 원인 :
-
-## 작업 :
-
-## 결과 :
-
-# 결론:
->[!important]
-
-
+1. Servlet에서 httpbody의 값을 읽어온다.
+2. Dao를 이용해서 값을 DB에 저장한다. 이때 DAO는 JDBC를 이용해서 연결하도록 한다.
 # REVIEW:
-
+기능 구현이 어렵지는 않았지만 새로운 템플릿을 적용해보고 기능을 쪼개보는게 어래걸려서 힘들었다. 
+아마도 제대로 된 설계가 필요할 듯 하다. 
+새로 쓰는 문서들에게도 적응할 필요가 있다.
 
 ---
 # References
