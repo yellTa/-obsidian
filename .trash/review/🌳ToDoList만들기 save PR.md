@@ -1,6 +1,6 @@
 ---
 created: 2024-10-08 18:26
-updated: 2024-10-08T19:07
+updated: 2024-10-08T20:50
 tags:
   - develop
 Progress:
@@ -32,6 +32,13 @@ Progress:
 
 ## 6. Thread Safe에 관한 여부
 ![[Pasted image 20241008190447.png]]
+
+# 수정 계획
+1,2,3,4,5 번 항목을 한 꺼번에 고치자
+
+thread safe부분은 체크해봐야할 것 같아서 일단 skip
+
+
 
 
 ---
