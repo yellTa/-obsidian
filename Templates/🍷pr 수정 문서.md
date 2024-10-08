@@ -1,14 +1,18 @@
 ---
-created: 2024-10-08T18:27
-updated: 2024-10-08T18:27
+created: "{{date}} {{time}}"
+updated: 2024-10-08T18:33
+tags:
+  - develop
+Progress:
+  - ongoing
 ---
+# 기능 문서
+[[🍒Task 읽어오는 로직]]
+
 # OBJECT/SUBJECT:
 ## branch = feat/customIndex
-# 구현할 기능:
-feat/customIndex에서
-index를 추가하는 기능
-
-전체 기능의 일부를 적는다. 
+# PR내용
+## 1.
 # ANALYSIS:
 ## Brain Storming
 
