@@ -1,6 +1,6 @@
 ---
 created: "{{date}} {{time}}"
-updated: 2024-10-07T17:56
+updated: 2024-10-08T01:48
 tags:
   - develop
 deadline: 
@@ -25,10 +25,15 @@ Burgerput 사용자
 
 
 ---
-## 수행하기
+## 수행준비하기
 ### 설계
 
 ### 수행할 작업 단위
+
+---
+# 수행하기 
+
+
 
 ---
 # CONCLUSION:
