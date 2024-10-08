@@ -1,6 +1,6 @@
 ---
 created: 2024-10-05 01:50
-updated: 2024-10-08T18:56
+updated: 2024-10-08T22:56
 tags:
   - develop
 Progress:
@@ -139,6 +139,8 @@ protected void doPost(HttpServletRequest request, HttpServletResponse response) 
 # CONCLUSION:
 1. Servlet에서 httpbody의 값을 읽어온다.
 2. Dao를 이용해서 값을 DB에 저장한다. 이때 DAO는 JDBC를 이용해서 연결하도록 한다.
+# PR 문서
+[[]]
 # REVIEW:
 기능 구현이 어렵지는 않았지만 새로운 템플릿을 적용해보고 기능을 쪼개보는게 어래걸려서 힘들었다. 
 아마도 제대로 된 설계가 필요할 듯 하다. 

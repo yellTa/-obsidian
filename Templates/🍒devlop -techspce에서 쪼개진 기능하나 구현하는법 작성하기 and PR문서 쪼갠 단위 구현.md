@@ -1,6 +1,6 @@
 ---
 created: "{{date}} {{time}}"
-updated: 2024-10-07T17:55
+updated: 2024-10-08T22:57
 tags:
   - develop
 Progress:
@@ -31,6 +31,7 @@ index를 추가하는 기능
 # 결론:
 >[!important]
 
+# PR리뷰
 
 # REVIEW:
 
