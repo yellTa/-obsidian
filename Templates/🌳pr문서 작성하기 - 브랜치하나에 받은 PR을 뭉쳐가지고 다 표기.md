@@ -1,6 +1,6 @@
 ---
 created: "{{date}} {{time}}"
-updated: 2024-10-08T18:33
+updated: 2024-10-08T19:12
 tags:
   - develop
 Progress:
@@ -10,15 +10,12 @@ Progress:
 [[🍒Task 읽어오는 로직]]
 
 # OBJECT/SUBJECT:
+## 리뷰어 : jayden 멘토님
+## project : boost2
 ## branch = feat/customIndex
 # PR내용
 ## 1.
-# ANALYSIS:
-## Brain Storming
-
-## 고려해야할 사항
-
-
+## 2. ~~ 싱글톤 패턴으로 구현하기
 ---
 # CONCLUSION:
 

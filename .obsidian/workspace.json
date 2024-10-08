@@ -14,19 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/항해자소서스터디/10월 7일 OT내용.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0614267c40173e67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Projects/Burgerput/0_회의록/10월 8일 회의록.md",
+                "file": "1_Projects/항해자소서스터디/1008 내용.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,14 +38,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/🌳ToDoList만들기 save PR.md",
+                "file": "Templates/🍒devlop -techspce에서 쪼개진 기능하나 구현하는법 작성하기 and PR문서 쪼갠 단위 구현.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01b9b9fee47424b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/🍒devlop -techspce에서 쪼개진 기능하나 구현하는법 작성하기 and PR문서 쪼갠 단위 구현.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "34c70a62ed80b617",
@@ -140,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/🌳ToDoList만들기 save PR.md",
+                "file": "1_Projects/항해자소서스터디/1008 내용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/🌳ToDoList만들기 save PR.md",
+                "file": "1_Projects/항해자소서스터디/1008 내용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/🌳ToDoList만들기 save PR.md"
+                "file": "1_Projects/항해자소서스터디/1008 내용.md"
               }
             }
           }
@@ -206,16 +205,34 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c9124999ff1c05e9",
+  "active": "d4b8f753c7162932",
   "lastOpenFiles": [
+    "resources/Pasted image 20241008191402.png",
+    "Templates/🍒devlop -techspce에서 쪼개진 기능하나 구현하는법 작성하기 and PR문서 쪼갠 단위 구현.md",
+    "Templates/🌳branch docs- commit 의 기능단위를 쪼개는 문서.md",
+    "Templates/🌳pr문서 작성하기 - 브랜치하나에 받은 PR을 뭉쳐가지고 다 표기.md",
+    "1_Projects/항해자소서스터디/1008 내용.md",
+    "resources/Pasted image 20241008191204.png",
+    "resources/Pasted image 20241008191106.png",
+    "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
+    "resources/Pasted image 20241008191002.png",
+    "resources/Pasted image 20241008190905.png",
+    "resources/Pasted image 20241008190855.png",
+    "1_Projects/항해자소서스터디/항해자소서스터디.md",
+    "1_Projects/항해자소서스터디/10월 7일 OT내용.md",
+    "1_Projects/Burgerput/0_회의록/10월 8일 회의록.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/🌳ToDoList만들기 save PR.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Impl/Impl.md",
+    "resources/Pasted image 20241008190608.png",
+    "resources/Pasted image 20241008190555.png",
+    "resources/Pasted image 20241008190447.png",
+    "resources/Pasted image 20241008190418.png",
+    "resources/Pasted image 20241008190348.png",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/review/🌳ToDoList만들기 save PR.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/review/🍷ToDoList만들기 save PR.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/review/review.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/review",
-    "Templates/🍷pr 수정 문서.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/🌳ToDoList만들기 save PR.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Impl/🍒Task 읽어오는 로직.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Impl/Impl.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Impl/🍒task저장하는 로직.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Impl/🌳TodoList만들기.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/Review.md",
@@ -226,28 +243,10 @@
     "Templates/Docs.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Impl",
-    "Templates/devlop.md",
-    "Templates/techspec.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Boost코스.md",
-    "1_Projects/Burgerput/0_회의록/10월 8일 회의록.md",
     "1_Projects/Burgerput/0_회의록/0_회의록.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/10월 3일 멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/멘토링.md",
-    "1_Projects/Burgerput/0_회의록/10월1일 회의록.md",
-    "1_Projects/Burgerput/2_유지보수/🍒Loading되고 Machine,Food에 데이터가 추가될 때 index의 값도 저장하기.md",
-    "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
-    "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/🌳로그아웃 기능 구현하기.md",
-    "resources/Pasted image 20241008013305.png",
-    "resources/Pasted image 20241008012431.png",
-    "resources/Pasted image 20241008003921.png",
-    "resources/Pasted image 20241007205748.png",
-    "resources/Pasted image 20241007205741.png",
-    "resources/Pasted image 20241007205734.png",
-    "resources/Pasted image 20241007204919.png",
-    "resources/Pasted image 20241007204804.png",
-    "resources/Pasted image 20241007204726.png",
-    "resources/Pasted image 20241007204657.png",
     "1_Projects/항해자소서스터디",
     "resources/데이터베이스 교착 상태 예시 문제.pdf",
     "2_Areas/database",

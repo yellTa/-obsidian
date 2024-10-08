@@ -10,7 +10,6 @@
   "fileHashMap": {
     "1_Projects/Burgerput/Burgerput.md": "f6b55f42ed7d07d8e8b5458c4aa9089a40504456f08ac8fa1679b73d2d972368",
     "Templates/Memo.md": "624a0d85d699b052df5ce728cd03e6f37e22dbc9f7881da3de33cac745f969e2",
-    "Templates/devlop.md": "2d709607091c7fbe222c063becaeb5cddf7dd0612935d4c4af0efda2f7c8242d",
     "HOW TO.md": "7f2c1617c7d81f1ec101ed159131c8eb8bb3e8b6987efc07d1dc6af79302fa42",
     "2_Areas/취업준비/2025년 취업 다 개패버리기/2025년 취업 다 개패버리기.md": "42e0ffbe3152cee9c343bbcfaea8a10a62c3510c3e3c64f7760a24364d40734b",
     "5_Memo/10분의 중요성.md": "38342acdd66bcb3877532ff224786203436fa5718dfc9b0dea0cf0a92956c9d2",
@@ -371,7 +370,7 @@
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월2일 스크럼회의.md": "c7ed28a6c1e7f370838335aa94b9e59900ce7e71282f5241f4962aa919bdf977",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월 3일 긴급회의.md": "4f70f52e39dbacc74c5589568306a38f96c70c20295109c13a2915187ae2fbd8",
     "7_TIL/241002 오늘의 TIL.md": "3f183877dd9d186c674893b8586690810e30432af36a3b3b5002843f09e4547c",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/10월 3일 멘토링.md": "25cbe8684855606471bbb36dcbc9404a8704ac5bb248dea03198972c0081279d",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/10월 3일 멘토링.md": "658c6f8e7c0c622c95a5a19210883328a7c0852f82dc8c73971df2bfc18a110d",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/회의록모음/10월3일 멘토님 회의.md": "135e4ff1c9acc70020b5711348b75d5cdb535a9dca67b7ec56a21065b794ac5a",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/docs/docs.md": "ca28a32f2b79c0cbd89824be32105bffaa39fb2bdbfa2b1a13952431ed607ad3",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/docs/자소서 공유.md": "7bf1a4ce9d8372924f2cc4ac148d8177ef047aac9c72c2db5d18564c12c3e40e",
@@ -381,19 +380,22 @@
     "2_Areas/Docs/Techspec문서는 뭐고 어떻게 작성하는걸까.md": "ff9f06e2ce6f712fe0b9d980c0f9a99cfd9221f3462ca8bdc637f54f934e0d71",
     "7_TIL/241006의 TIL.md": "bf833d2300ed090674045b0cb621659b40ee7671b8f9c1bb3fb4c6c29ca02a65",
     "2_Areas/database/database.md": "40d0f479cd6cac9d5291627faf0153daa3d080f789a7a8e2a248f712f24d3a1a",
-    "Templates/techspec.md": "5d3dd05bcdceae931d56de2f011491b5f9029a799b756a9b7ff1c06506bdeb6b",
     "1_Projects/Burgerput/2_유지보수/🌳기기, 식품 update후 맨 밑으로 가는거 해결하기....md": "7cab1f334170f27f61a16abee9a0d38cf954377cb40aadca518788d9bcce5c4c",
     "1_Projects/Burgerput/2_유지보수/🍒Loading되고 Machine,Food에 데이터가 추가될 때 index의 값도 저장하기.md": "8b2e7aeb4bf95bf50c1f25d4343444a22028778a36ba9e3d1ac6d6d32a42868e",
     "2_Areas/database/데이터베이스에서 락과 교착상태란.md": "b4674c18db86dc44f4e53428da15489e4b54e7623ea2746f30a46781c9874c2c",
     "1_Projects/항해자소서스터디/10월 7일 OT내용.md": "06bfce68528781379c06a62601fb97ae75f032d25e85333858527417a2498231",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/🌳로그아웃 기능 구현하기.md": "19934c203507fc11db64b5abd249a837a1e36b5fcb5c396942d34753dc460a68",
     "1_Projects/Burgerput/0_회의록/10월 8일 회의록.md": "8a7f1cef169a50ced53ef1ba913a615259d081a409174670ec45d3962fbf5588",
-    "Templates/🍷pr 수정 문서.md": "431c1fab1355e4ea6057243f9024feb140aead4f017f72e935358e3c82e81683",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Impl/🌳TodoList만들기.md": "8f68e9585cf06363528ab6366ac99614db88e82ecc093528c4c76f701a7df61a",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Impl/🍒task저장하는 로직.md": "3a0aadff3a5f191428601fcffcf30045377cadc195375d9d5cd143fe4012b90e",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Impl/🍒Task 읽어오는 로직.md": "9537b4b60e6f99747a20897b8803421ce75ec1ade83c6c54c9d89da716242b09",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Impl/Impl.md": "9be392766ac186ac9168c6f498df004c245c8a5cd965a7ce022e8e6d4a7fe1e3",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/Review.md": "e78cce321e5c5b2c1a412b05cabb4e3119743ce4cbe625e886e9c15203430649",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/🌳ToDoList만들기 save PR.md": "ab0266471171fc4053bf49babb986fd7a7eb8b74833a8faba409c8d744848b76"
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/🌳ToDoList만들기 save PR.md": "bedcd9abed6d58a9387ad74f0cd91656f1c7a39b39bc9e34ddf899b1580b73e5",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/review/🌳ToDoList만들기 save PR.md": "bedcd9abed6d58a9387ad74f0cd91656f1c7a39b39bc9e34ddf899b1580b73e5",
+    "1_Projects/항해자소서스터디/1008 내용.md": "f0f717a6e793f66ee3e65cd237f36b7ae98b78e7c9951b70906912fad15e68b5",
+    "Templates/🌳pr문서 작성하기 - 브랜치하나에 받은 PR을 뭉쳐가지고 다 표기.md": "92b207b37a25a4c8a0b87b50101f9494a3bf9004001db7eaea01f5119c3f4698",
+    "Templates/🌳branch docs- commit 의 기능단위를 쪼개는 문서.md": "5d3dd05bcdceae931d56de2f011491b5f9029a799b756a9b7ff1c06506bdeb6b",
+    "Templates/🍒devlop -techspce에서 쪼개진 기능하나 구현하는법 작성하기 and PR문서 쪼갠 단위 구현.md": "2d709607091c7fbe222c063becaeb5cddf7dd0612935d4c4af0efda2f7c8242d"
   }
 }
