@@ -9,18 +9,6 @@
         "dimension": 82.0294345468629,
         "children": [
           {
-            "id": "d4b8f753c7162932",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "978abe1815421dcb",
             "type": "leaf",
             "state": {
@@ -33,31 +21,27 @@
             }
           },
           {
-            "id": "c9124999ff1c05e9",
+            "id": "01b9b9fee47424b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/🍒devlop -techspce에서 쪼개진 기능하나 구현하는법 작성하기 and PR문서 쪼갠 단위 구현.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/🌴CORS에러 셋팅하기.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "01b9b9fee47424b8",
+            "id": "4b6051f5607039dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/개발문서.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "34c70a62ed80b617",
@@ -140,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/개발문서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/개발문서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/개발문서.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -206,11 +186,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "01b9b9fee47424b8",
+  "active": "4b6051f5607039dc",
   "lastOpenFiles": [
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/실전프로젝트.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/CORS에러 셋팅하기.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/🌴CORS에러 셋팅하기.md",
+    "resources/Pasted image 20241008223424.png",
+    "resources/Pasted image 20241008223340.png",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/개발문서.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/실전프로젝트.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Impl/Impl.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/Review.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Ch2.md",
@@ -238,15 +220,12 @@
     "1_Projects/항해자소서스터디/10월 7일 OT내용.md",
     "1_Projects/Burgerput/0_회의록/10월 8일 회의록.md",
     "resources/Pasted image 20241008190608.png",
-    "resources/Pasted image 20241008190555.png",
-    "resources/Pasted image 20241008190447.png",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/review/🌳ToDoList만들기 save PR.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/review/🍷ToDoList만들기 save PR.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/review/review.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/review",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Impl/🍒task저장하는 로직.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Impl/🌳TodoList만들기.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 5일 목요일 23시 멘토링 자료 준비.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Impl",
