@@ -12,12 +12,8 @@
             "id": "978abe1815421dcb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/🍷ToDoList만들기 save PR.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -45,7 +41,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "34c70a62ed80b617",
@@ -128,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/🌳branch docs- commit 의 기능단위를 쪼개는 문서.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/🌴CORS에러 셋팅하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/🌳branch docs- commit 의 기능단위를 쪼개는 문서.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/🌴CORS에러 셋팅하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/🌳branch docs- commit 의 기능단위를 쪼개는 문서.md"
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/🌴CORS에러 셋팅하기.md"
               }
             }
           }
@@ -194,8 +190,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "4b6051f5607039dc",
+  "active": "01b9b9fee47424b8",
   "lastOpenFiles": [
+    "Templates/🌳branch docs- commit 의 기능단위를 쪼개는 문서.md",
     "Templates/🍒devlop -techspce에서 쪼개진 기능하나 구현하는법 작성하기 and PR문서 쪼갠 단위 구현.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Impl/🍒task저장하는 로직.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Impl/🍒Task 읽어오는 로직.md",
@@ -219,7 +216,6 @@
     "1_Projects/항해자소서스터디/1008 내용.md",
     "resources/Pasted image 20241008191914.png",
     "resources/Pasted image 20241008191402.png",
-    "Templates/🌳branch docs- commit 의 기능단위를 쪼개는 문서.md",
     "Templates/🌳pr문서 작성하기 - 브랜치하나에 받은 PR을 뭉쳐가지고 다 표기.md",
     "resources/Pasted image 20241008191204.png",
     "resources/Pasted image 20241008191106.png",
