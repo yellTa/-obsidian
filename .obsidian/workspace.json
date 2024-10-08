@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🍷ToDoList만들기 save PR.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/🍷ToDoList만들기 save PR.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Ch2.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Impl/Impl.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5110321044922
+    "width": 305.50418853759766
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Ch2.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Impl/Impl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Ch2.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Impl/Impl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Ch2.md"
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Impl/Impl.md"
               }
             }
           }
@@ -206,16 +206,25 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "15f39cac7766290c",
+  "active": "c9124999ff1c05e9",
   "lastOpenFiles": [
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Untitled",
-    "Templates/🍷pr 수정 문서.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🍷ToDoList만들기 save PR.md",
-    "Templates/devlop.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🍒Task 읽어오는 로직.md",
-    "Templates/techspec.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🌳TodoList만들기.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Impl/🌳TodoList만들기.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Impl/Impl.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/Review.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링/9월 5일 목요일 23시 멘토링 자료 준비.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Impl/🍒task저장하는 로직.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/🍷ToDoList만들기 save PR.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Impl/🍒Task 읽어오는 로직.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Ch2.md",
+    "Templates/Folder(Develop).md",
+    "Templates/Docs.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Impl",
+    "Templates/🍷pr 수정 문서.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/🍷ToDoList만들기 save PR.md",
+    "Templates/devlop.md",
+    "Templates/techspec.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Boost코스.md",
     "1_Projects/Burgerput/0_회의록/10월 8일 회의록.md",
     "1_Projects/Burgerput/0_회의록/0_회의록.md",
@@ -231,12 +240,6 @@
     "resources/Pasted image 20241008003921.png",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/개발문서.md",
     "1_Projects/항해자소서스터디/10월 7일 OT내용.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/실전프로젝트.md",
-    "1_Projects/Burgerput/1_개발문서/SSL Set-up/SSL Set-up.md",
-    "1_Projects/Burgerput/0_회의록/5월 22일 회의록.md",
-    "1_Projects/Burgerput/2_유지보수/3rd 테스트서버 셋업 1/3rd 테스트서버 셋업 1.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/설계문서/설계문서.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/🍒task저장하는 로직.md",
     "resources/Pasted image 20241007205748.png",
     "resources/Pasted image 20241007205741.png",
     "resources/Pasted image 20241007205734.png",
@@ -251,9 +254,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스",
     "1_Projects/제로베이스 대기업 취업 특별반/취업스터디/docs",
     "resources/백엔드_유예지_241002.pdf",
-    "2_Areas/웹 프로그래밍(풀스택)",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/설계문서",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서",
     "1_Projects/Burgerput/Burgerput Controller역할.canvas",
     "Untitled 7.canvas",
     "Untitled 6.canvas",

@@ -1,36 +1,14 @@
 ---
 created: 2024-10-04 17:49
-updated: 2024-10-05T01:49
+updated: 2024-10-08T18:35
 ---
 # Ch2 과제
-```dataviewjs
-//3,4 라인의 폴더 이름만 바꿔주면 된다.
-const pages = dv.pages('"1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2"')
-  .where(p => p.file.name !== "Ch2")
-.sort(p => p.created, 'asc'); // created 태그 기준으로 오름차순 정렬
+ ```dataview 
+table 
+dateformat(file.ctime, "yyyy-MM-dd") as "생성 날짜", 
+dateformat(file.mtime, "yyyy-MM-dd") as "수정 날짜" 
 
-dv.table(
-  ["파일 이름", "생성 날짜", "수정 날짜", "Progress"],
-  pages.map(p => {
-    const progress = p.progress ? String(p.progress) : "";
-    let fileName;
-
-    if (progress.toLowerCase() === "unsolved") {
-      fileName = `<a href="${p.file.path}" class="internal-link unsolved-link">${p.file.name}</a>`;
-    } else if (progress.toLowerCase() === "ongoing") {
-      fileName = `<a href="${p.file.path}" class="internal-link ongoing-link">${p.file.name}</a>`;
-    } else {
-      fileName = `<a href="${p.file.path}" class="internal-link">${p.file.name}</a>`;
-    }
-
-    return [
-      fileName,
-      new Date(p.created).toISOString().split('T')[0], // 생성 날짜
-      new Date(p.updated).toISOString().split('T')[0], // 수정 날짜
-      progress
-    ];
-  })
-);
-
-
+FROM "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2"
+WHERE file.name != "Ch2"
 ```
+
