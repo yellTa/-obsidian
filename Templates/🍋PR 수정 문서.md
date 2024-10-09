@@ -1,6 +1,6 @@
 ---
 created: "{{date}} {{time}}"
-updated: 2024-10-09T11:18
+updated: 2024-10-09T11:30
 tags:
   - develop
 Progress:
@@ -11,7 +11,7 @@ Progress:
 ## branch = feat/customIndex
 # PR내용:
 ## PR 코멘트 링크
-https://github.com/yellTa/boost2/pull/1#discussion_r1790289579
+
 ## 요약 
 # ANALYSIS:
 ## Brain Storming

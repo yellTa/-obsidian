@@ -1,10 +1,9 @@
 ---
 created: 2024-10-09 10:15
-updated: 2024-10-09T11:12
+updated: 2024-10-09T11:30
 tags:
   - develop
-Progress:
-  - end
+Progress: []
 ---
 # 리뷰문서
 [[🌳saveTask PR 정리]]
