@@ -1,6 +1,6 @@
 ---
 created: "{{date}} {{time}}"
-updated: 2024-10-09T10:23
+updated: 2024-10-09T11:18
 tags:
   - develop
 Progress:
@@ -10,10 +10,9 @@ Progress:
 # OBJECT/SUBJECT:
 ## branch = feat/customIndex
 # PR내용:
-feat/customIndex에서
-index를 추가하는 기능
-
-전체 기능의 일부를 적는다. 
+## PR 코멘트 링크
+https://github.com/yellTa/boost2/pull/1#discussion_r1790289579
+## 요약 
 # ANALYSIS:
 ## Brain Storming
 

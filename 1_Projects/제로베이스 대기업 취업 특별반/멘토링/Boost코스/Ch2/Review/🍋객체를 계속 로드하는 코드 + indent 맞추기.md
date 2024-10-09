@@ -1,10 +1,10 @@
 ---
 created: 2024-10-09 10:26
-updated: 2024-10-09T11:06
+updated: 2024-10-09T11:14
 tags:
   - develop
 Progress:
-  - ongoing
+  - end
 ---
 # 리뷰문서
 [[🌳saveTask PR 정리]]
@@ -20,6 +20,7 @@ https://github.com/yellTa/boost2/pull/1#discussion_r1790269371
 
 https://github.com/yellTa/boost2/pull/1#discussion_r1790277507
 indent가 맞지 않던 문제
+
 # ANALYSIS:
 ## Brain Storming
 1. 싱글톤 패턴을 사용해서 객체를 재사용 하도록 변경하자
@@ -118,8 +119,23 @@ public class TaskDao {
 }
 ```
 
+### 3. 객체가 한 번만 만들어지는지 확인하기 
+###### DatabaseManager.class
+``` java
+private DatabaseManager(){  
+    try {  
+        System.out.println("한 범번만 만들어졌어요!");  
+        Class.forName("com.mysql.cj.jdbc.Driver");  
+    } catch (Exception e) {  
+        e.printStackTrace();  
+    }  
+}
+```
 
+로그를 찍어서 확인하고 여러번 POST를 날려보았따!!
+![[Pasted image 20241009110948.png]]
 
+3 번 날렸지만 객체는 단 한 번 수행된 것을 확인할 수 있었다.
 
 
 ---
@@ -174,7 +190,9 @@ static으로 생성된 변수, 메서드는 클래스 수준에서 하나만 존
 이는 Method Area에 저장이되고 이 공간은 JVM이 클래스를 로드할 때 클래스에 대한 메타 데이터를 저장하는 영역이다. 
 
 ## 결과 :
-싱글톤 패턴으로 변경해서 객체를 하나만 불러오게 되었다!!! 
+DatabaseManger의 생성자에 로그를 남겨놓고 수행해보았다.
+객체가 생성된다면 계속 만들어졌겠지만 단 한 번만 만들어진 것을 확인할 수 있었다.
+
 
 
 ## 2. Indent 지정하기 
@@ -187,8 +205,24 @@ static으로 생성된 변수, 메서드는 클래스 수준에서 하나만 존
 code style이 적용되었다!!
 
 # 결론:
+
 >[!important]
+>여러번 재사용되는 객체는 Singleton패턴으로 만들자!
+### static의 역할
+JVM의 Method Area에 저장되며 클래스 단위에서 객체를 생성하지 않고 사용하도록 한다. 
+
+### synchronized의 역할
+메서드에 단 하나의 스레드만 접근가능하게 한다.
+
+
+### indent는 중요하다
+IDE의 코드 스타일링을 잘 활용하도록 하자
 # REVIEW:
+- 싱글톤 패턴에 대해서 알게되었다. 특히 멀티 스레드 환경에서 어떻게 싱글톤 패턴을 지키게 되었는지 알게 되었다.
+- 코드 스타일링은 중요하다... 꼭 잊지 말고 수행하도록 하자!
+
+
+
 
 
 ---

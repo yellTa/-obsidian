@@ -1,6 +1,6 @@
 ---
 created: 2024-10-08 22:55
-updated: 2024-10-09T10:35
+updated: 2024-10-09T11:20
 tags:
   - develop
 Progress:
@@ -30,6 +30,7 @@ Progress:
 ![[Pasted image 20241009093203.png]]
 
 ## 4. 예약어 사용
+[[🍋SQL 예약어 지키기]]
 ![[Pasted image 20241009093220.png]]
 
 ## 5. 올바른 라이브러리 import 

@@ -46,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/🍋객체를 계속 로드하는 코드 + indent 맞추기.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/🍋올바른 라이브러리 import.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.50418853759766,
-    "collapsed": true
+    "width": 305.50418853759766
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -137,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/🍋객체를 계속 로드하는 코드 + indent 맞추기.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/🍋올바른 라이브러리 import.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/🍋객체를 계속 로드하는 코드 + indent 맞추기.md",
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/🍋올바른 라이브러리 import.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/🍋객체를 계속 로드하는 코드 + indent 맞추기.md"
+                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/🍋올바른 라이브러리 import.md"
               }
             }
           }
@@ -231,8 +230,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 74,
-        "y": 250,
+        "x": 8,
+        "y": 371,
         "width": 600,
         "height": 931,
         "maximize": false,
@@ -243,9 +242,13 @@
   "active": "2b1475b4a5dcdd1d",
   "lastOpenFiles": [
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/🌳saveTask PR 정리.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/🍋올바른 라이브러리 import.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/🍋SQL 예약어 지키기.md",
+    "Templates/🍋PR 수정 문서.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/🍋객체를 계속 로드하는 코드 + indent 맞추기.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/🍋git ignore 설정하기.md",
-    "Templates/🍋PR 수정 문서.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/Review.md",
+    "resources/Pasted image 20241009110948.png",
     "Templates/🍒devlop -techspce에서 쪼개진 기능하나 구현하는법 작성하기 and PR문서 쪼갠 단위 구현.md",
     "Templates/🛑트러블 슈팅 문서.md",
     "Templates/🌳branch docs- commit 의 기능단위를 쪼개는 문서.md",
@@ -254,7 +257,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Impl/🌳TodoList만들기.md",
     "1_Projects/Burgerput/Burgerput.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Impl/Impl.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/Review.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/멘토링.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/개발문서.md",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/실전프로젝트.md",
@@ -277,9 +279,6 @@
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/docs",
     "1_Projects/Burgerput/2_유지보수/2_유지보수.md",
     "1_Projects/Burgerput/3_TroubleDocs/3_TroubleDocs.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/🌳로그아웃 기능 구현하기.md",
-    "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
-    "resources/Pasted image 20241008191914.png",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/review",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review",
