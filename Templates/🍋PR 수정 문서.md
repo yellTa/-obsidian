@@ -1,13 +1,12 @@
 ---
 created: "{{date}} {{time}}"
-updated: 2024-10-09T10:15
+updated: 2024-10-09T10:19
 tags:
   - develop
 Progress:
   - ongoing
 ---
 # 리뷰문서
-
 # OBJECT/SUBJECT:
 ## branch = feat/customIndex
 # PR내용:

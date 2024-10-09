@@ -1,6 +1,6 @@
 ---
 created: 2024-10-09 10:15
-updated: 2024-10-09T10:15
+updated: 2024-10-09T10:20
 tags:
   - develop
 Progress:
@@ -9,13 +9,11 @@ Progress:
 # 리뷰문서
 [[🌳saveTask PR 정리]]
 # OBJECT/SUBJECT:
-## branch = feat/customIndex
+## branch = feat/saveTask
 # PR내용:
-feat/customIndex에서
-index를 추가하는 기능
-
-전체 기능의 일부를 적는다. 
+필요없는 내용은 .gitignore파일에 설정하도록 한다.
 # ANALYSIS:
+
 ## Brain Storming
 
 ## 고려해야할 사항
