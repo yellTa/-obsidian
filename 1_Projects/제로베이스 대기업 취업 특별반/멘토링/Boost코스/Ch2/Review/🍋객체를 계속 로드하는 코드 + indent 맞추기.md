@@ -1,6 +1,6 @@
 ---
 created: 2024-10-09 10:26
-updated: 2024-10-09T10:33
+updated: 2024-10-09T10:35
 tags:
   - develop
 Progress:
@@ -28,6 +28,9 @@ indent가 맞지 않던 문제
 ## 고려해야할 사항
 
 # 수행사항 
+
+## 싱글톤 패턴 사용해서 driver 로드하기
+
 ## indent가 맞지 않던 부분 
 ``` java
 try{  
@@ -49,6 +52,9 @@ PreparedStatement ps = conn.prepareStatement(sql)) {
     e.printStackTrace();  
 }
 ```
+
+자세히 보면 catch문의 indent가 맞지 않는 것을 확인할 수 있다. intellij 의 ctrl + alt + j를 눌러서 맞춰주도록 하자 !
+
 
 
 
