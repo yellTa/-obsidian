@@ -1,6 +1,6 @@
 ---
 created: "{{date}} {{time}}"
-updated: 2024-10-08T19:12
+updated: 2024-10-09T09:38
 tags:
   - develop
 Progress:
@@ -16,6 +16,10 @@ Progress:
 # PR내용
 ## 1.
 ## 2. ~~ 싱글톤 패턴으로 구현하기
+
+# 수정 단위 
+
+
 ---
 # CONCLUSION:
 

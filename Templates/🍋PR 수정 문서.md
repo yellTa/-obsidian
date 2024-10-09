@@ -1,6 +1,6 @@
 ---
 created: "{{date}} {{time}}"
-updated: 2024-10-09T09:38
+updated: 2024-10-09T09:40
 tags:
   - develop
 Progress:
@@ -8,7 +8,7 @@ Progress:
 ---
 # OBJECT/SUBJECT:
 ## branch = feat/customIndex
-# 구현할 기능:
+# PR내용:
 feat/customIndex에서
 index를 추가하는 기능
 
@@ -30,9 +30,6 @@ index를 추가하는 기능
 
 # 결론:
 >[!important]
-
-# PR리뷰 :
-
 # REVIEW:
 
 

@@ -1,6 +1,6 @@
 ---
 created: 2024-10-08 22:55
-updated: 2024-10-09T09:33
+updated: 2024-10-09T09:37
 tags:
   - develop
 Progress:
@@ -36,10 +36,6 @@ Progress:
 
 ## 7. thread safe?
 ![[Pasted image 20241009093327.png]]
-
-
-
-
 
 
 ---

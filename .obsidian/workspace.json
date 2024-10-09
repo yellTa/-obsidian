@@ -22,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/🌳saveTask PR 정리.md",
+                "file": "Templates/🍋PR 수정 문서.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,8 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.50418853759766,
-    "collapsed": true
+    "width": 305.50418853759766
   },
   "right": {
     "id": "7615617f2ac2c593",
@@ -125,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/🌳saveTask PR 정리.md",
+                "file": "Templates/🍋PR 수정 문서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/🌳saveTask PR 정리.md",
+                "file": "Templates/🍋PR 수정 문서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/🌳saveTask PR 정리.md"
+                "file": "Templates/🍋PR 수정 문서.md"
               }
             }
           }
@@ -191,8 +190,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "01b9b9fee47424b8",
+  "active": "15f39cac7766290c",
   "lastOpenFiles": [
+    "Templates/🍒devlop -techspce에서 쪼개진 기능하나 구현하는법 작성하기 and PR문서 쪼갠 단위 구현.md",
+    "Templates/🍋PR 수정 문서.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Impl/🍒task저장하는 로직.md",
+    "Templates/🌳pr문서 작성하기 - 브랜치하나에 받은 PR을 뭉쳐가지고 다 표기.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/🌳saveTask PR 정리.md",
     "resources/Pasted image 20241009093327.png",
     "resources/Pasted image 20241009093307.png",
     "resources/Pasted image 20241009093239.png",
@@ -201,11 +205,8 @@
     "resources/Pasted image 20241009093137.png",
     "resources/Pasted image 20241009093117.png",
     "1_Projects/제로베이스 대기업 취업 특별반/실전프로젝트/개발문서/🌴CORS에러 셋팅하기.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/🌳saveTask PR 정리.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/Review.md",
     "Templates/🌳branch docs- commit 의 기능단위를 쪼개는 문서.md",
-    "Templates/🍒devlop -techspce에서 쪼개진 기능하나 구현하는법 작성하기 and PR문서 쪼갠 단위 구현.md",
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Impl/🍒task저장하는 로직.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Impl/🍒Task 읽어오는 로직.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Impl/Impl.md",
     "resources/Pasted image 20241008223424.png",
@@ -223,8 +224,6 @@
     "1_Projects/Burgerput/1_개발문서/1_개발문서.md",
     "1_Projects/항해자소서스터디/1008 내용.md",
     "resources/Pasted image 20241008191914.png",
-    "resources/Pasted image 20241008191402.png",
-    "Templates/🌳pr문서 작성하기 - 브랜치하나에 받은 PR을 뭉쳐가지고 다 표기.md",
     "1_Projects/항해자소서스터디/항해자소서스터디.md",
     "1_Projects/항해자소서스터디/10월 7일 OT내용.md",
     "1_Projects/Burgerput/0_회의록/10월 8일 회의록.md",
