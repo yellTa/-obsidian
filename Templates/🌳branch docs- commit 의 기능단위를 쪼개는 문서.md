@@ -1,6 +1,6 @@
 ---
 created: "{{date}} {{time}}"
-updated: 2024-10-08T23:00
+updated: 2024-10-09T09:46
 tags:
   - develop
 deadline: 
@@ -9,7 +9,7 @@ Progress:
 ---
 # 누구를 위한 기능?
 Burgerput 사용자
-# OBJECT/SUBJECT:
+# Branch:
 ## branch = feat/customIndex
 
 # ANALYSIS:

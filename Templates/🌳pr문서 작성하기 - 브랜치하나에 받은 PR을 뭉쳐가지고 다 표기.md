@@ -1,6 +1,6 @@
 ---
 created: "{{date}} {{time}}"
-updated: 2024-10-09T09:38
+updated: 2024-10-09T09:47
 tags:
   - develop
 Progress:
@@ -9,15 +9,13 @@ Progress:
 # 기능 문서
 [[🍒Task 읽어오는 로직]]
 
-# OBJECT/SUBJECT:
+# Info
 ## 리뷰어 : jayden 멘토님
 ## project : boost2
 ## branch = feat/customIndex
 # PR내용
 ## 1.
 ## 2. ~~ 싱글톤 패턴으로 구현하기
-
-# 수정 단위 
 
 
 ---
