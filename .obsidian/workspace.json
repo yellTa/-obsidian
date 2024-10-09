@@ -231,8 +231,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 82,
-        "y": 640,
+        "x": 47,
+        "y": 521,
         "width": 600,
         "height": 931,
         "maximize": false,
@@ -242,9 +242,9 @@
   },
   "active": "2b1475b4a5dcdd1d",
   "lastOpenFiles": [
-    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/🍋git ignore 설정하기.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/🌳saveTask PR 정리.md",
     "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/🍋객체를 계속 로드하는 코드.md",
+    "1_Projects/제로베이스 대기업 취업 특별반/멘토링/Boost코스/Ch2/Review/🍋git ignore 설정하기.md",
     "Templates/🍋PR 수정 문서.md",
     "Templates/🍒devlop -techspce에서 쪼개진 기능하나 구현하는법 작성하기 and PR문서 쪼갠 단위 구현.md",
     "Templates/🛑트러블 슈팅 문서.md",
