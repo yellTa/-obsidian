@@ -1,6 +1,6 @@
 ---
 created: 2024-10-08 22:55
-updated: 2024-10-09T09:37
+updated: 2024-10-09T10:14
 tags:
   - develop
 Progress:
@@ -16,6 +16,8 @@ Progress:
 # PR내용
 ## 1. git ignore 설정하기
 ![[Pasted image 20241009093117.png]]
+
+
 
 ## 2. 객체를 계속 로드하는 코드
 ![[Pasted image 20241009093137.png]]
